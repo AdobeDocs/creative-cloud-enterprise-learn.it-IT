@@ -1,6 +1,6 @@
 ---
-title: Crea in tempo utile schede animate ispiratrici con Adobe [!DNL Stock]
-description: Creare una scheda di stato per il progetto per il inoltro di informazioni, idee, immagini e tavolozze a colori a team/client
+title: Crea mood board suggestive in un batter d'occhio con Adobe [!DNL Stock]
+description: Crea una scheda di stato d’animo per trasmettere informazioni, idee, elementi visivi e palette di colori ai team/clienti
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crea in breve tempo schede animate ispiratrici con Adobe [!DNL Stock]
+# Crea mood board suggestive in un batter d&#39;occhio con Adobe [!DNL Stock]
 
-Creare una scheda di umore per il progetto per trasmettere informazioni, idee, immagini e tavolozze a colori a team/client.
+Crea una scheda di stato d’animo per trasmettere informazioni, idee, elementi visivi e palette di colori ai team/clienti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

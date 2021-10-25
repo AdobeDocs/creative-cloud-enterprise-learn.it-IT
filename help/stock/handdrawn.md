@@ -1,6 +1,6 @@
 ---
-title: 'Aggiungere un''estetica disegnata a mano alle immagini Adobe [!DNL Stock] '
-description: Aumentare la creatività di marketing con tecniche uniche che aggiungono profondità e dimensione alle immagini utilizzando Photoshop per iPad
+title: Aggiungere un’estetica disegnata a mano all’Adobe [!DNL Stock] immagini
+description: Amplia il tuo marketing creativo con tecniche esclusive che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Aggiungere un&#39;estetica disegnata a mano alle immagini Adobe [!DNL Stock]
+# Aggiungere un’estetica disegnata a mano all’Adobe [!DNL Stock] immagini
 
-Aumentate la vostra creatività di marketing con tecniche uniche che aggiungono profondità e dimensione alle vostre immagini utilizzando Photoshop per iPad.
+Amplia il tuo marketing creativo con tecniche esclusive che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

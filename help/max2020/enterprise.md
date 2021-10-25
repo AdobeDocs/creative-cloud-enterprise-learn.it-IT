@@ -1,6 +1,6 @@
 ---
 title: Amministrazione aziendale
-description: Gestisci diritti e risorse Adobe in tutta l'organizzazione
+description: Gestione delle autorizzazioni e delle risorse degli Adobi nell’intera organizzazione
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -13,11 +13,11 @@ ht-degree: 3%
 
 # Amministrazione aziendale
 
-![Immagine eroe Tutorial](../assets/hero_cce.jpg)
+![Tutorial Hero Image](../assets/hero_cce.jpg)
 
-Gestire i diritti e le risorse Adobe in tutta l&#39;organizzazione.
+Gestisci le autorizzazioni e le risorse degli Adobi nell&#39;intera organizzazione.
 
-## Esplorazione delle esercitazioni di amministrazione Enterprise
+## Sfoglia i Tutorials di amministrazione Enterprise
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ Gestire i diritti e le risorse Adobe in tutta l&#39;organizzazione.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Esplorate le quasi 200 famiglie di Adobe Fonts e la facilità di utilizzo del servizio Adobe Fonts</em>
+    <em>Esplora le circa 200 famiglie in Adobe Fonts e la facilità di utilizzo del servizio Adobe Fonts</em>
     <br>
   </td>
   <td>
@@ -44,25 +44,25 @@ Gestire i diritti e le risorse Adobe in tutta l&#39;organizzazione.
 </tr>
 </table>
 
-## Tipi di carattere Adobe (5:20) {#tutorial1}
+## Adobe Fonts (5:20) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/328226?hidetitle=true)
 
 **Descrizione:**
 
-Esplorate le quasi 200 famiglie di Adobe Fonts e la facilità di utilizzo del servizio Adobe Fonts.
+Esplora le circa 200 famiglie in Adobe Fonts e la facilità di utilizzo del servizio Adobe Fonts.
 
-In questa esercitazione imparerai come:
-* Utilizzare la potente interfaccia di esplorazione per trovare il tipo di carattere più appropriato in modo rapido e semplice
-* Risparmiare tempo e denaro utilizzando le integrazioni native di cloud creativi
-* Gestire tutti i tipi di carattere in un&#39;unica posizione nella console di Adobe Admin
+In questa esercitazione verrà illustrato come:
+* Sfrutta la potente interfaccia di navigazione per trovare il font giusto in modo semplice e veloce
+* Risparmia tempo e denaro utilizzando le integrazioni di Creative Cloud native
+* Gestisci tutti i font in un’unica posizione nella Adobe Admin Console
 
 **Presentato da:**
 
 Todd Burke, Principal Solutions Consultant (Digital Media)
 
-**Risorse di amministrazione aziendale:**
+**Risorse per l&#39;amministrazione aziendale:**
 
-[Guida per l&#39;utente di Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Guida utente di Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Guida per l&#39;amministrazione aziendale](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guida all&#39;amministrazione aziendale](https://helpx.adobe.com/enterprise/admin-guide.html)

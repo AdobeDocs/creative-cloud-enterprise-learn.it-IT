@@ -1,6 +1,6 @@
 ---
-title: 'Creazione di immagini di marca con gradienti e risorse Adobe [!DNL Stock] '
-description: Creare l'unità del marchio con immagini diverse combinando colori e sfumature nella campagna pubblicitaria
+title: Crea immagini di marchio coerenti con splendide sfumature e Adobi [!DNL Stock] risorse
+description: Crea brand unity con immagini diverse combinando colori e sfumature in tutta la tua campagna pubblicitaria
 role: User
 level: Beginner, Intermediate
 thumbnail: 331809.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creazione di immagini di marca con gradienti e risorse Adobe [!DNL Stock]
+# Crea immagini di marchio coerenti con splendide sfumature e Adobi [!DNL Stock] risorse
 
-Riportare l&#39;animazione nella grafica della newsletter con vettori modificabili per Adobe [!DNL Stock].
+Importa animazioni nella tua newsletter con vettori modificabili, ad Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

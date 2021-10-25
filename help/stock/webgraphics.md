@@ -1,6 +1,6 @@
 ---
-title: Creare elementi grafici Web coinvolgenti combinando le immagini Adobe [!DNL Stock] con CSS
-description: Creare l'unità del marchio con immagini diverse combinando colori e sfumature nella campagna pubblicitaria
+title: Creazione di grafica per il web coinvolgente mediante la combinazione di Adobi [!DNL Stock] immagini con CSS
+description: Crea brand unity con immagini diverse combinando colori e sfumature in tutta la tua campagna pubblicitaria
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creare elementi grafici Web coinvolgenti combinando le immagini Adobe [!DNL Stock] con CSS
+# Creazione di grafica per il web coinvolgente mediante la combinazione di Adobi [!DNL Stock] immagini con CSS
 
-Creare l&#39;unità del marchio con immagini diverse combinando colori e sfumature durante la campagna pubblicitaria.
+Crea brand unity con immagini diverse combinando colori e sfumature in tutta la tua campagna pubblicitaria.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

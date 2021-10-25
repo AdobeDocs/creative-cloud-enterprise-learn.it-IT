@@ -1,6 +1,6 @@
 ---
-title: Creare un grafico di confronto delle feature di prodotto utilizzando Adobe [!DNL Stock]
-description: Creare un'immagine che confronti i piani di determinazione dei prezzi dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno a prima vista
+title: Creare un grafico di confronto delle funzionalità di un prodotto utilizzando l'Adobe [!DNL Stock]
+description: Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in un attimo
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creare un grafico di confronto delle feature di prodotto utilizzando Adobe [!DNL Stock]
+# Creare un grafico di confronto delle funzionalità di un prodotto utilizzando l&#39;Adobe [!DNL Stock]
 
-Creare un&#39;immagine che confronti i piani di determinazione dei prezzi dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in un primo momento.
+Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in un attimo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

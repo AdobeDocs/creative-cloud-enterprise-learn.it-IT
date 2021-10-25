@@ -1,6 +1,6 @@
 ---
-title: Librerie CC
-description: Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio
+title: CC Libraries
+description: Mantieni disponibili le tue risorse e i tuoi progetti in linea con il marchio
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -11,34 +11,34 @@ ht-degree: 2%
 
 ---
 
-# Librerie CC
+# CC Libraries
 
-![Immagine eroe Tutorial](../assets/CCLibs.jpg)
+![Tutorial Hero Image](../assets/CCLibs.jpg)
 
-Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio.
+Tieni a portata di mano le tue risorse e i tuoi progetti.
 
-## Esplorazione delle esercitazioni sui prodotti
+## Sfoglia i Tutorials di prodotto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Crea raccolte CC" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Creare CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Crea raccolte CC</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>Creare CC Libraries</strong></a>
     </div>
-    <em>Con le librerie cloud Adobe Creative è possibile gestire, organizzare e accedere a loghi, colori e altro ancora nelle app cloud creative preferite</em>
+    <em>Con Adobe Creative Cloud Libraries puoi gestire, organizzare e accedere a loghi, colori e altre risorse nelle tue app Creative Cloud preferite</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Condividi raccolte CC" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Condividere CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>Condividi raccolte CC</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>Condividere CC Libraries</strong></a>
     </div>
-    <em>Lavorare in modo più efficiente, garantire la coerenza creativa e mantenere la sincronizzazione con il team</em>
+    <em>Lavora in modo più efficiente, garantisci la coerenza creativa e resta facilmente sincronizzato con il tuo team</em>
     <br>
   </td>
   <td>
@@ -49,40 +49,40 @@ Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio.
 </tr>
 </table>
 
-## Crea raccolte CC (4:38) {#tutorial1}
+## Creare CC Libraries (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-****
-DescrizioneCon Adobe Creative Cloud Libraries è possibile gestire, organizzare e accedere a loghi, colori e altro ancora nelle app cloud creative preferite.
+**Descrizione**
+Con Adobe Creative Cloud Libraries puoi gestire, organizzare e accedere ai tuoi loghi, colori e altro nelle tue app Creative Cloud preferite.
 
-In questa esercitazione imparerai come:
-* Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio
+In questa esercitazione verrà illustrato come:
+* Mantieni disponibili le tue risorse e i tuoi progetti in linea con il marchio
 * Nuovo! Integrazione completa con Adobe XD
 
 **Presentato da:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## Condividi raccolte CC (4:14) {#tutorial2}
+## Condividi CC Libraries (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-****
-DescrizioneLavorare in modo più efficiente, garantire la coerenza creativa e mantenere la sincronizzazione con il team.
+**Descrizione**
+Lavora in modo più efficiente, garantisci la coerenza creativa e resta facilmente sincronizzato con il tuo team.
 
-In questa esercitazione imparerai come:
-* Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio
-* Collaborare facilmente ai progetti direttamente dalle tue app preferite
+In questa esercitazione verrà illustrato come:
+* Mantieni disponibili le tue risorse e i tuoi progetti in linea con il marchio
+* Collaborazione semplificata ai progetti direttamente dalle tue app preferite
 
 **Presentato da:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-![Logo di CC Libraries](../assets/cc_appicon_96.png)
+![Logo CC Libraries](../assets/cc_appicon_96.png)
 
-**Risorse raccolte CC**
+**Risorse di CC Libraries**
 
-[Scoprite e ](https://helpx.adobe.com/creative-cloud/help/libraries.html) supportate è il vostro punto di riferimento per ulteriori esercitazioni, Novità e collegamenti ai forum di comunità.
+[Informazioni e supporto](https://helpx.adobe.com/creative-cloud/help/libraries.html) è il punto di riferimento per ulteriori esercitazioni, novità e collegamenti ai forum della community.
 
-**Rilascio ottobre 2020**
+**Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzionalità (e altro ancora!) scaricando l&#39;ultimo aggiornamento dalla tua app Creative Cloud Desktop.
+Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.

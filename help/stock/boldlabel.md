@@ -1,6 +1,6 @@
 ---
-title: Creare un'etichetta in grassetto con modelli Adobe [!DNL Stock] e Photoshop Smart Objects
-description: Progettare e visualizzare i progetti personalizzati con modelli di imballaggio realistici da Adobe [!DNL Stock]
+title: Creare un’etichetta in grassetto con Adobe [!DNL Stock] modelli e Photoshop oggetti avanzati
+description: Progetta e visualizza i tuoi progetti personalizzati con modelli di packaging realistici, presi ad Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creare un&#39;etichetta in grassetto con modelli Adobe [!DNL Stock] e Photoshop Smart Objects
+# Creare un’etichetta in grassetto con Adobe [!DNL Stock] modelli e Photoshop oggetti avanzati
 
-Progettare e visualizzare i progetti personalizzati con modelli di imballaggio realistici da Adobe [!DNL Stock]    .
+Progetta e visualizza i tuoi progetti personalizzati con modelli di packaging realistici, presi ad Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

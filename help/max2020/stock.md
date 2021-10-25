@@ -1,44 +1,44 @@
 ---
 title: '[!DNL Stock]'
-description: Adobe [!DNL Stock] per l'azienda consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D
+description: Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../attivo/[!DNL Stock].jpg)
+!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
 
-I creativi sono sotto pressione per fornire rapidamente nuovi contenuti visivamente convincenti che catturino e catturino l&#39;attenzione. Adobe [!DNL Stock] per l&#39;azienda consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D - tutto dall&#39;interno delle app creative di Adobe che usano ogni giorno.
+I creativi sono sotto pressione per distribuire rapidamente nuovi contenuti accattivanti dal punto di vista visivo che cattureranno e attireranno l&#39;attenzione. Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D, il tutto direttamente dalle app creative di Adobe che utilizzano quotidianamente.
 
-## Esplorazione delle esercitazioni sui prodotti
+## Sfoglia i Tutorials di prodotto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Trova le risorse migliori più rapidamente con Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
+      <img alt="Trova più rapidamente le risorse migliori con Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Trova le risorse migliori più rapidamente con Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong>Trova più rapidamente le risorse migliori con Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Trovate l'immagine perfetta priva di royalty per migliorare il vostro progetto creativo utilizzando risultati di ricerca migliori e più rapidi basati su Adobe Sensei, il nostro motore di intelligenza artificiale</em>
+    <em>Trova la perfetta immagine stock esente da royalty per ottimizzare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati su Adobe Sensei, il nostro motore di intelligenza artificiale</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Ricerca e licenza [!DNL Stock] Asset in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Ricerca e licenza [!DNL Stock] AEM Risorse in &lt;unk&gt;" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Ricerca e licenza [!DNL Stock] Asset in Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong>Ricerca e licenza [!DNL Stock] Risorse in Adobe Experience Manager</strong></a>
     </div>
-    <em>Semplificare il processo di caricamento delle risorse Adobe [!DNL Stock] in licenza nel sistema Digital Asset Management</em>
+    <em>Semplifica la procedura di caricamento dell’Adobe con licenza [!DNL Stock] risorse nel sistema Digital Asset Management</em>
     <br>
   </td>
   <td>
@@ -49,43 +49,43 @@ I creativi sono sotto pressione per fornire rapidamente nuovi contenuti visivame
 </tr>
 </table>
 
-## Trova le risorse migliori più rapidamente con Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Trova più rapidamente le risorse migliori con Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Descrizione**
-Trovare l&#39;immagine perfetta priva di royalty per migliorare il vostro progetto creativo utilizzando risultati di ricerca migliori e più rapidi basati su Adobe Sensei, il nostro motore di intelligenza artificiale.
+Trova la perfetta immagine stock esente da royalty per ottimizzare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati su Adobe Sensei, il nostro motore di intelligenza artificiale.
 
-In questa esercitazione imparerai come:
-* Non perdete tempo e stress dalla ricerca di immagini e video di alta qualità
-* Facile gestione e registrazione delle licenze e dell&#39;utilizzo degli asset in tutta l&#39;azienda
-* Ricerca, anteprima e licenza all&#39;interno delle app di Adobe Creative Cloud
+In questa esercitazione verrà illustrato come:
+* Riducete il tempo e lo stress della ricerca di immagini e video di alta qualità
+* Gestisci e monitora facilmente le licenze e l&#39;utilizzo delle risorse all&#39;interno della tua azienda
+* Ricerca, anteprima e licenza direttamente dalle app Adobe Creative Cloud
 
 **Presentato da:**
 
-Victoria Torres, [!DNL Stock] Consulente soluzioni (Digital Media)
+Victoria Torres, [!DNL Stock] Consulente Soluzioni (Media Digitali)
 
-## Ricerca e licenza [!DNL Stock] Risorse in AEM (6:46) {#tutorial2}
+## Ricerca e licenza [!DNL Stock] AEM Risorse in &lt;unk> (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
-****
-DescrizioneSemplificare il processo di caricamento delle  [!DNL Stock] risorse Adobe in licenza nel sistema Digital Asset Management.
+**Descrizione**
+Semplifica la procedura di caricamento dell’Adobe con licenza [!DNL Stock] nel tuo sistema Digital Asset Management.
 
-In questa esercitazione imparerai come:
-* Eseguire la ricerca di risorse Adobe [!DNL Stock] senza lasciare l&#39;area di lavoro AEM
-* Salva le risorse con licenza direttamente in una cartella AEM al momento della licenza
-* Visualizzare le risorse concesse in licenza da AEM nella cronologia delle licenze [!DNL Stock] sul sito Web [!DNL Stock].
+In questa esercitazione verrà illustrato come:
+* Adobe di esecuzione [!DNL Stock] AEM ricerca di risorse senza uscire dallo spazio di lavoro &lt;unk>
+* AEM Salva le risorse con licenza direttamente in una cartella &lt;unk> al momento della concessione della licenza
+* AEM Visualizza le risorse con licenza &lt;unk> nel [!DNL Stock] cronologia delle licenze [!DNL Stock] sito web.
 
-**Presentata da:**
-Emily Palmer, Solutions Consultant (Digital Media)
+**Presentato da:**
+Emily Palmer, Consulente Soluzioni (Digital Media)
 
 ![[!DNL Stock] Logo](../assets/st_appicon_96.png)
 
-**Adobe  [!DNL Stock] Resources**
+**Adobe [!DNL Stock] Risorse**
 
-[Scoprite e ](https://helpx.adobe.com/support/stock.html) supportate è il vostro punto di riferimento per ulteriori esercitazioni e collegamenti a forum di comunità.
+[Informazioni e supporto](https://helpx.adobe.com/support/stock.html) è il punto di riferimento per ulteriori esercitazioni e collegamenti ai forum della community.
 
-**Rilascio ottobre 2020**
+**Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzionalità (e altro ancora!) scaricando l&#39;ultimo aggiornamento dalla tua app Creative Cloud Desktop.
+Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.

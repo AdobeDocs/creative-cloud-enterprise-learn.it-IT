@@ -1,6 +1,6 @@
 ---
-title: Personalizzare un modello di presentazione Adobe [!DNL Stock] per sembrare professionale ma accattivante
-description: Crea una bellissima presentazione stilizzata in pochi minuti con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali facili da fare
+title: Personalizzare un Adobe [!DNL Stock] un modello per presentazioni professionali e accattivanti
+description: Creazione di una splendida presentazione stilizzata in pochi minuti con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali di facile utilizzo
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personalizzare un modello di presentazione Adobe [!DNL Stock] per sembrare professionale ma accattivante
+# Personalizzare un Adobe [!DNL Stock] un modello per presentazioni professionali e accattivanti
 
-Create una bellissima presentazione stilizzata in pochi minuti con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali facili da fare.
+Creazione di una splendida presentazione stilizzata in pochi minuti con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali di facile utilizzo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

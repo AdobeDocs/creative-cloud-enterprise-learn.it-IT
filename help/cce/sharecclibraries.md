@@ -1,6 +1,6 @@
 ---
-title: Condivisione di risorse di branding con librerie cloud creative per team
-description: Informazioni sulla creazione, l'utilizzo e la condivisione di risorse di branding per il gruppo o il team utilizzando Librerie cloud creative per team
+title: Condivisione di risorse di branding con Creative Cloud Libraries for teams
+description: Scopri come creare, utilizzare e condividere le risorse di branding per il tuo gruppo o team utilizzando Creative Cloud Libraries for teams
 role: User
 level: Beginner, Intermediate
 kt: 8211
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Condivisione delle risorse di branding con le librerie cloud creative per team
+# Condivisione di risorse di branding con Creative Cloud Libraries for teams
 
-In questa esercitazione video imparate a creare, utilizzare e condividere asset di branding per il gruppo o il team utilizzando Creative Cloud Libraries per team. Le risorse nelle librerie cloud creative per i team vengono archiviate in una posizione centrale e non sono associate al singolo account utente. È possibile identificare le raccolte team utilizzando l&#39;icona ![build image](assets/Smock_Building_18_N.png).
+In questa esercitazione video, scopri come creare, utilizzare e condividere le risorse di branding per il tuo gruppo o team utilizzando Creative Cloud Libraries for teams. Le risorse in Creative Cloud Libraries for teams sono memorizzate in una posizione centrale e non sono legate al singolo account utente. Puoi identificare le librerie del team in base al ![immagine edificio](assets/Smock_Building_18_N.png) icona.
 
 >[!TIP]
 >
->Utilizzare le librerie cloud creative per i team in qualsiasi momento in cui l&#39;organizzazione deve mantenere la proprietà di asset creativi. Alcuni esempi sono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
+>Usa Creative Cloud Libraries for teams ogni volta che la tua organizzazione deve mantenere la proprietà delle risorse creative. Alcuni esempi includono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
 
 <br> 
 

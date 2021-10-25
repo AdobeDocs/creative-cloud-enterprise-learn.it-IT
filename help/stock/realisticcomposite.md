@@ -1,6 +1,6 @@
 ---
-title: 'Crea compositi di foto realistici con le immagini Adobe [!DNL Stock] '
-description: Riunisci due grandi foto di Adobe [!DNL Stock] per attirare le persone nei tuoi post sociali
+title: Creazione di composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini
+description: Due grandi Adobi [!DNL Stock] foto per attirare persone nei tuoi post social
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crea compositi di foto realistici con immagini Adobe [!DNL Stock]
+# Creazione di composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini
 
-Riunisci due grandi foto di Adobe [!DNL Stock] per attirare le persone nei tuoi post sociali.
+Due grandi Adobi [!DNL Stock] foto per attirare le persone nei tuoi post social.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

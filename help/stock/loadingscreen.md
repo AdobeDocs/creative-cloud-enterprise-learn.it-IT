@@ -1,6 +1,6 @@
 ---
-title: Personalizzare un'animazione della schermata di caricamento con Adobe [!DNL Stock] e XD
-description: Personalizzare l'arte vettoriale di Adobe [!DNL Stock] per creare un'animazione della schermata di caricamento refrigerante per un'app mobile
+title: Personalizzare un’animazione della schermata di caricamento con Adobe [!DNL Stock] XD e <unk>
+description: Personalizzare la grafica vettoriale da Adobe [!DNL Stock] per creare un'animazione della schermata di caricamento per un'app mobile
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personalizzare un&#39;animazione della schermata di caricamento con Adobe [!DNL Stock] e XD
+# Personalizzare un’animazione della schermata di caricamento con Adobe [!DNL Stock] XD e &lt;unk>
 
-Personalizzare l&#39;arte vettoriale di Adobe [!DNL Stock] per creare un&#39;animazione della schermata di caricamento refrigerante per un&#39;app mobile.
+Personalizzare la grafica vettoriale da Adobe [!DNL Stock] per creare un&#39;animazione della schermata di caricamento agghiacciante per un&#39;app mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

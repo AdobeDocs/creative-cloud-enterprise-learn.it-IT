@@ -1,6 +1,6 @@
 ---
-title: Crea compositi univoci con Adobe [!DNL Stock] e Photoshop per iPad
-description: Portate la potenza di Photoshop a portata di mano. Impara a utilizzare una delle applicazioni cloud creative preferite in un modo completamente nuovo, con un'interfaccia basata su touch-screen riprogettata
+title: Creare composizioni uniche con Adobe [!DNL Stock] e Photoshop per iPad
+description: Porta a portata di mano la potenza di Photoshop. Impara a usare una delle tue applicazioni Creative Cloud preferite in un modo completamente nuovo, con un'interfaccia touch riprogettata
 role: User
 level: Beginner, Intermediate
 exl-id: c2f1440a-5da7-4e04-9c7d-fe595d45a8c2
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Crea compositi univoci con Adobe [!DNL Stock] e Photoshop per iPad
+# Creare composizioni uniche con Adobe [!DNL Stock] e Photoshop per iPad
 
-Portate la potenza di Photoshop a portata di mano. Impara a utilizzare una delle applicazioni cloud creative preferite in un modo completamente nuovo, con un&#39;interfaccia basata sul tocco riprogettata.
+Porta a portata di mano la potenza di Photoshop. Impara a usare una delle tue applicazioni Creative Cloud preferite in modo completamente nuovo, grazie a un&#39;interfaccia touch riprogettata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
 
 <br> 
 
-[**Download Guida rapida di riferimento PDF**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[**Download della guida rapida alla PDF di riferimento**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
 [![Immagine della prima pagina della guida di riferimento rapido](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

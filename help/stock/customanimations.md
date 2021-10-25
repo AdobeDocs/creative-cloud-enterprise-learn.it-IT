@@ -1,6 +1,6 @@
 ---
-title: Crea creatività con animazioni personalizzate di Adobe [!DNL Stock]
-description: Utilizzate le immagini, le trame, i motivi di Adobe [!DNL Stock] per animazioni personalizzate in Photoshop
+title: Dai vita alla tua creatività con animazioni personalizzate di Adobe [!DNL Stock]
+description: Adobe [!DNL Stock] immagini, texture, pattern di animazioni personalizzate in Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crea creatività con animazioni personalizzate di Adobe [!DNL Stock]
+# Dai vita alla tua creatività con animazioni personalizzate di Adobe [!DNL Stock]
 
-Utilizzate le immagini, le trame e i motivi Adobe [!DNL Stock] per animazioni personalizzate in Photoshop.
+Adobe [!DNL Stock] immagini, texture, pattern di animazioni personalizzate in Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Fresco
-description: Adobe Fresco è un'applicazione per piattaforme multiple per la creazione di disegni e dipinti utilizzando metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud
+description: Adobe Fresca è un’app multipiattaforma per la creazione di disegni e dipinti con metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
@@ -13,32 +13,32 @@ ht-degree: 0%
 
 # Fresco
 
-![Immagine eroe Tutorial](../assets/Fresco.jpg)
+![Tutorial Hero Image](../assets/Fresco.jpg)
 
-Adobe Fresco è un&#39;applicazione a più piattaforme per la creazione di disegni e dipinti utilizzando metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud.
+Adobe Fresca è un’app multipiattaforma per la creazione di disegni e dipinti utilizzando metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud.
 
-## Esplorazione delle esercitazioni sui prodotti
+## Sfoglia i Tutorials di prodotto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Introduzione a Disegno con Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Introduzione al disegno con Adobe Fresca" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Introduzione a Disegno con Adobe Fresco</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Introduzione al disegno con Adobe Fresca</strong></a>
     </div>
-    <em>Utilizzate i potenti strumenti di selezione e di editing dei colori in Adobe affresco per modificare in modo straordinario un'immagine in base alle vostre esigenze di branding</em>
+    <em>Usa gli avanzati strumenti di selezione e modifica del colore di Adobe fresco per modificare notevolmente un'immagine in base alle tue esigenze di branding aziendale</em>
     <br>
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="Crea disegno in rilievo - Da Fresco a Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
+      <img alt="Creare un disegno con texture - Fresco in Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Crea disegno in rilievo - Da Fresco a Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Creare un disegno con texture - Fresco in Illustrator</strong></a>
     </div>
-    <em>Disegnare e disegnare texture in Adobe Fresco e impararne l'utilizzo in Illustrator</em>
+    <em>Colorare e disegnare texture in Adobe Fresca e imparare a usarle in Illustrator</em>
     <br>
   </td>
   <td>
@@ -49,43 +49,43 @@ Adobe Fresco è un&#39;applicazione a più piattaforme per la creazione di diseg
 </tr>
 </table>
 
-## Introduzione a Disegno con Adobe Fresco (19:07) {#tutorial1}
+## Introduzione al disegno con Adobe Fresca (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
-****
-DescrizioneScoprite Adobe Fresco per la creazione di disegni e dipinti utilizzando metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud.
+**Descrizione**
+Scopri Adobe Fresca per la creazione di disegni e dipinti con metodi basati su pennelli che combinano flussi di lavoro vettoriali e raster con documenti cloud.
 
-In questa esercitazione imparerai come:
-* Utilizzate pennelli vivi unici che imitano acquerello e pittura ad olio insieme ai pixel preferiti e alle spazzole vettoriali
-* Creazione di effetti testurizzati mediante il layout di pennelli diversi e l&#39;utilizzo di maschere
+In questa esercitazione verrà illustrato come:
+* Usa pennelli dal vivo esclusivi che simulano la pittura ad acquerello e a olio insieme ai tuoi pennelli pixel e vettoriali preferiti
+* Creare effetti con texture creando livelli diversi di pennelli e utilizzando maschere
 * Crea ovunque con la nuova app Fresco per iPhone
-* Esportare il lavoro in vari formati da utilizzare in altre app per PC portatili e desktop
+* Esportare il lavoro in vari formati da utilizzare in altre app per dispositivi mobili e desktop
 
-**Presentata da:**
-Liz Tanonis, Solutions Consultant (Digital Media)
+**Presentato da:**
+Liz Tanonis, Consulente Soluzioni (Digital Media)
 
-## Crea disegno in texture (Create Textured Artwork) - Da Fresco a Illustrator (4:10) {#tutorial2}
+## Creare un disegno con texture - Fresco in Illustrator (4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
 **Descrizione**
-Disegna e disegna texture in Adobe Fresco e impara come utilizzarle in Illustrator.
+Dipingi e disegna texture in Adobe Fresca e scopri come utilizzarle in Illustrator.
 
-In questa esercitazione imparerai come:
-* Crea opere nell&#39;app Adobe Fresco per iPhone ed esportala per utilizzarle in altre app cloud creative
-* Utilizzare lo strumento Traccia immagini in Illustrator per convertire la grafica in vettori
-* Applicare le texture create a mano a un disegno vettoriale in Illustrator
+In questa esercitazione verrà illustrato come:
+* Crea grafica nell’app Adobe Fresca per iPhone ed esportala per usarla in altre app Creative Cloud
+* Utilizzo dello strumento Ricalco immagine in Illustrator per convertire la grafica in vettori
+* Applicare texture personalizzate alla grafica vettoriale in Illustrator
 
-**Presentata da:**
-Liz Tanonis, Solutions Consultant (Digital Media)
+**Presentato da:**
+Liz Tanonis, Consulente Soluzioni (Digital Media)
 
 ![Logo Fresco](../assets/fr_appicon_96.png)
 
 **Risorse Fresco**
 
-[Scoprite e ](https://helpx.adobe.com/support/adobe-fresco.html) supportate è il vostro punto di riferimento per ulteriori tutorial,  [Novità](https://helpx.adobe.com/fresco/using/whats-new.html) e link a forum di comunità.
+[Informazioni e supporto](https://helpx.adobe.com/support/adobe-fresco.html) è il punto di riferimento per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/fresco/using/whats-new.html)e collegamenti ai forum della community.
 
-**Rilascio ottobre 2020**
+**Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzionalità (e altro ancora!) scaricando l&#39;ultimo aggiornamento dalla tua app Creative Cloud Desktop.
+Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.

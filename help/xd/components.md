@@ -1,6 +1,6 @@
 ---
-title: Comodità con [!UICONTROL Componenti] in Adobe XD
-description: Informazioni sull'utilizzo di [!UICONTROL Componenti] per offrire una flessibilità senza precedenti per applicare velocità e coerenza al flusso di lavoro di progettazione
+title: Comodità [!UICONTROL Componenti] in Adobe XD
+description: Scopri come utilizzare [!UICONTROL Componenti] per garantire una flessibilità senza precedenti nell'applicazione di velocità e coerenza al flusso di lavoro di progettazione
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Comodità con [!UICONTROL Componenti] in Adobe XD
+# Comodità [!UICONTROL Componenti] in Adobe XD
 
-Informazioni sull&#39;utilizzo di [!UICONTROL Componenti] per offrire una flessibilità senza precedenti per applicare velocità e coerenza al flusso di lavoro di progettazione.
+Scopri come utilizzare [!UICONTROL Componenti] per offrirti una flessibilità impareggiabile che ti consente di applicare velocità e coerenza al tuo flusso di lavoro di progettazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-Fare clic sull&#39;icona del file PDF per scaricare un PDF dell&#39;esercitazione.
+Fai clic sull’icona del file PDF per scaricare un PDF di questa esercitazione.
 
 [![Icona file PDF](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

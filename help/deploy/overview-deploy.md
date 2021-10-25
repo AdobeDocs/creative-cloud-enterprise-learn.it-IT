@@ -1,6 +1,6 @@
 ---
-title: Cloud creativo per l'installazione aziendale
-description: Informazioni su come distribuire e gestire il cloud creativo per le app aziendali
+title: Video sulla distribuzione di Creative Cloud for enterprise
+description: Scopri come distribuire e gestire le app Creative Cloud for enterprise
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Cloud creativo per l&#39;implementazione e la gestione di argomenti aziendali
+# Argomenti di distribuzione e gestione di Creative Cloud for enterprise
 
-![Immagine creativa Cloud Hero](../assets/CCEbanner.png)
+![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Il cloud creativo per l&#39;azienda supporta implementazioni personalizzate e versioni di licenza flessibili e funziona con altre offerte di Adobe enterprise.
+Creative Cloud for enterprise supporta distribuzioni personalizzate e conguagli flessibili delle licenze e funziona con altre offerte aziendali di Adobe.
 
-* [Informazioni sul cloud creativo per l&#39;organizzazione e sulla ](cceserial.md)
-scadenza del numero di serie di AcrobatInformazioni sulla scadenza del numero di serie per Creative Cloud per l&#39;azienda e Acrobat.
+* [Nozioni di base sulla scadenza del numero di serie Creative Cloud for enterprise e Acrobat](cceserial.md)
+Scopri l’esperienza di scadenza del numero di serie per Creative Cloud for enterprise e Acrobat.
 
-* [Numero di serie in scadenza? Perché è il momento di assegnare licenze utente con nome](nameduserlicensing.md)
-Informazioni su come concedere licenze ai prodotti Adobe tramite Named User Licensing (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti Adobe utilizzando Admin Console e fornisce agli utenti finali l&#39;accesso alle app creative e di produttività di livello mondiale e ai servizi Adobe Cloud, anche se l&#39;intera forza lavoro è remota.
+* [Numeri di serie in scadenza? Perché è il momento delle licenze nominative](nameduserlicensing.md)
+Scopri come l’acquisto di licenze per prodotti di Adobe tramite le licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l’Admin Console e offre agli utenti finali l’accesso alle app creative e ad alta produttività e ai servizi di Adobe Cloud, anche se l’intera forza lavoro è remota.

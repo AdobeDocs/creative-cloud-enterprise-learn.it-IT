@@ -1,6 +1,6 @@
 ---
 title: Esercitazioni
-description: Benvenuti nel cloud creativo per Enterprise Learning Hub
+description: Benvenuto nell’hub Creative Cloud for enterprise Learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -11,11 +11,11 @@ ht-degree: 10%
 
 ---
 
-# Cloud creativo per esercitazioni aziendali
+# Creative Cloud per Tutorials enterprise
 
-![Immagine creativa Cloud Hero](assets/hero_cce.jpg)
+![Creative Cloud Hero Image](assets/hero_cce.jpg)
 
-Benvenuti nel cloud creativo per Enterprise Learning Hub. Troverete un&#39;ampia gamma di esperienze di apprendimento incentrate su &quot;Creative Cloud for Enterprise&quot;. Le nostre tutorial, webinar e case di utilizzo sono progettate per portare rapidamente sia principianti che amministratori su un cloud creativo per prodotti aziendali.
+Benvenuto nell’hub Creative Cloud for enterprise Learning. Troverai un&#39;ampia gamma di esperienze di apprendimento incentrate sulla Creative Cloud per le aziende. I nostri tutorial, webinar e esempi di utilizzo sono progettati per portare rapidamente i principianti e gli amministratori al passo con la Creative Cloud dei prodotti enterprise.
 
 ## Sfoglia argomenti
 
@@ -28,7 +28,7 @@ Benvenuti nel cloud creativo per Enterprise Learning Hub. Troverete un&#39;ampia
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud for enterprise</strong></a>
     </div>
-    <em>Scoprite le nuove funzionalità nell'ultima versione di Creative Cloud, dal punto di vista aziendale</em>
+    <em>Scopri le nuove funzioni dell’ultima versione di Creative Cloud, dal punto di vista aziendale</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Benvenuti nel cloud creativo per Enterprise Learning Hub. Troverete un&#39;ampia
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>Immagini digitali di alta qualità, video, audio, modelli e altro ancora</em>
+    <em>Immagini digitali, illustrazioni, video, audio, modelli e altro ancora di alta qualità</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Benvenuti nel cloud creativo per Enterprise Learning Hub. Troverete un&#39;ampia
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>Progettazione, prototipo e condivisione di esperienze utente</em>
+    <em>Progettazione, prototipazione e condivisione di esperienze utente</em>
     <br>
   </td>
 </tr>
@@ -60,27 +60,27 @@ Benvenuti nel cloud creativo per Enterprise Learning Hub. Troverete un&#39;ampia
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe 3D e VR</strong></a>
     </div>
-    <em>Creazione di immagini 3D di qualità fotografica per il branding, le immagini dei prodotti e il design dei pacchetti</em>
+    <em>Creazione di immagini 3D fotorealistiche per progetti di branding, immagini di prodotti e packaging</em>
     <br>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
+      <img alt="Adobe video" src="assets/CCEbanner-DVA.png" />
     </a>
     <div>
-   <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
+   <a href="dva/overview-dva.md"><strong>Adobe video</strong></a>
     </div>
-    <em>Dà vita alle tue idee con il software e le app Adobe per l'editing video, la grafica in movimento, gli effetti visivi, l'animazione e altro ancora</em>
+    <em>Dai vita alle tue idee con app e software di Adobe per l'editing video, l'animazione, gli effetti speciali, l'animazione e non solo</em>
     <br>
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — le sessioni dell'organizzazione" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 - sessioni aziendali" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — le sessioni dell'organizzazione</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 - sessioni aziendali</strong></a>
     </div>
-    <em>Informazioni su MAX 2020 Enterprise Sessions</em>
+    <em>Sessioni aziendali per MAX 2020</em>
     <br>
   </td>
 </tr>

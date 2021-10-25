@@ -1,6 +1,6 @@
 ---
-title: 'Personalizzare i colori in un''illustrazione vettoriale di Adobe [!DNL Stock] '
-description: Aggiungere lucidatura a qualsiasi progetto con un'illustrazione di grande aspetto. Trovate il vettore perfetto in Adobe [!DNL Stock], quindi confrontate i colori con la tavolozza del progetto utilizzando Adobe Illustrator
+title: Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale
+description: Aggiungete un tocco raffinato a qualsiasi progetto con un'illustrazione di grande impatto. Trova il vettore perfetto in Adobe [!DNL Stock], quindi abbinare i colori alla tavolozza del progetto utilizzando Adobe Illustrator
 role: User
 level: Beginner, Intermediate
 thumbnail: 331826.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personalizzare i colori in un&#39;illustrazione vettoriale di Adobe [!DNL Stock]
+# Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale
 
-Aggiungere lucidatura a qualsiasi progetto con un&#39;illustrazione di grande aspetto. Trovate il vettore perfetto in Adobe [!DNL Stock], quindi confrontate i colori con la tavolozza del progetto utilizzando Adobe Illustrator.
+Aggiungete un tocco raffinato a qualsiasi progetto con un&#39;illustrazione di grande impatto. Trova il vettore perfetto in Adobe [!DNL Stock], quindi abbinare i colori alla tavolozza del progetto utilizzando Adobe Illustrator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

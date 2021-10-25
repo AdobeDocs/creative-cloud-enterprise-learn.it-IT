@@ -1,6 +1,6 @@
 ---
-title: Aggiungi flair alla tipografia con maschere e animazioni
-description: Dare vita al testo con gli elementi di Adobe [!DNL Stock] e gli stili di animazione di After Effects
+title: Aggiunta di un tocco tipografico con maschere e animazioni
+description: Dai vita al tuo testo con elementi di Adobe [!DNL Stock] e stili di animazione da After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Aggiungi flair alla tipografia con maschere e animazioni
+# Aggiunta di un tocco tipografico con maschere e animazioni
 
-Dare vita al testo con gli elementi di Adobe [!DNL Stock] e gli stili di animazione di After Effects.
+Dai vita al tuo testo con elementi di Adobe [!DNL Stock] e stili di animazione da After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

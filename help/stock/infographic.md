@@ -1,6 +1,6 @@
 ---
-title: Creare informazioni sulle linee guida aziendali con Adobe [!DNL Stock]
-description: Combinate una serie di risorse di Adobe [!DNL Stock] per comunicare le linee guida sotto forma di informazioni visivamente convincenti
+title: Creare un’infografica con le linee guida aziendali con Adobe [!DNL Stock]
+description: Combinazione di varie risorse da Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente accattivanti
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creare un&#39;infografica delle linee guida aziendali con Adobe [!DNL Stock]
+# Creare un’infografica con le linee guida aziendali con Adobe [!DNL Stock]
 
-Combinate una serie di risorse di Adobe [!DNL Stock] per comunicare le linee guida sotto forma di informazioni visivamente convincenti.
+Combinazione di varie risorse da Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente accattivanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

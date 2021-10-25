@@ -1,6 +1,6 @@
 ---
-title: Crea animazioni per la posta elettronica con Adobe [!DNL Stock] e Photoshop
-description: Incentivare le e-mail con l'animazione Stop-Action con Adobe [!DNL Stock] e Photoshop
+title: Creare animazioni per l’e-mail con Adobe [!DNL Stock] e Photoshop
+description: Possibilità di abilitare le e-mail con l’animazione stop-action con Adobi [!DNL Stock] e Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crea animazioni per la posta elettronica con Adobe [!DNL Stock] e Photoshop
+# Creare animazioni per l’e-mail con Adobe [!DNL Stock] e Photoshop
 
-Accendete le e-mail con l&#39;animazione Stop-Action con Adobe [!DNL Stock] e Photoshop.
+Possibilità di abilitare le e-mail con l’animazione stop-action con Adobi [!DNL Stock] e Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

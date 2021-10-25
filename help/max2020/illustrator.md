@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: Creare logo, icone, illustrazioni e qualsiasi altro progetto che si possa immaginare per il Web, il cellulare o la stampa
+description: Crea loghi, icone, illustrazioni e qualsiasi altro progetto che ti suggerisca l'immaginazione per il web, i dispositivi mobili o la stampa
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -11,34 +11,34 @@ ht-degree: 0%
 
 ---
 
-# Illustratore
+# Illustrator
 
-![Immagine eroe Tutorial](../assets/Illustrator.jpg)
+![Tutorial Hero Image](../assets/Illustrator.jpg)
 
-L&#39;app moderna per illustrazioni e grafici. Creare logo, icone, illustrazioni e qualsiasi altro design immaginabile per il Web, il cellulare o la stampa.
+L&#39;app moderna per illustrazioni e grafica. Crea loghi, icone, illustrazioni e qualsiasi altro progetto immaginabile per il web, i dispositivi mobili o la stampa.
 
-## Esplorazione delle esercitazioni sui prodotti
+## Sfoglia i Tutorials di prodotto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="Utilizzare simboli per aggiornare più istanze icona" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="Usa simboli per aggiornare più istanze di icone" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Utilizzare simboli per aggiornare più istanze icona</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Usa simboli per aggiornare più istanze di icone</strong></a>
     </div>
-    <em>Ridurre il lavoro manuale e la coerenza con i simboli</em>
+    <em>Riduci il lavoro manuale e garantisci la coerenza con i simboli</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Allinea testo e immagini con la funzione Glyph Snapping" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="Allineare testo e immagini con Aggancio glifo" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Allinea testo e immagini con la funzione Glyph Snapping</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Allineare testo e immagini con Aggancio glifo</strong></a>
     </div>
-    <em>Aggancia rapidamente i glifi in aree importanti del documento</em>
+    <em>Aggancia rapidamente i glifi alle aree importanti del documento</em>
     <br>
   </td>
   <td>
@@ -49,38 +49,38 @@ L&#39;app moderna per illustrazioni e grafici. Creare logo, icone, illustrazioni
 </tr>
 </table>
 
-## Utilizza simboli per aggiornare più istanze icona (5:08) {#tutorial1}
+## Usa simboli per aggiornare più istanze di icone (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-****
-DescrizioneRidurre il lavoro manuale e mantenere la coerenza con i simboli.
+**Descrizione**
+Riduci il lavoro manuale e garantisci la coerenza con i simboli.
 
-In questa esercitazione imparerai come:
-* Ridurre il lavoro manuale e la coerenza con i simboli
+In questa esercitazione verrà illustrato come:
+* Riduci il lavoro manuale e garantisci la coerenza con i simboli
 
-**Presentata da:**
+**Presentato da:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
-## Allinea testo e immagini con ClipArt (6:48) {#tutorial2}
+## Allineare testo e immagini con Aggancio glifo (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Descrizione**
-Consente di eseguire rapidamente lo snap di glifi in aree importanti del documento.
+Aggancia rapidamente i glifi alle aree importanti del documento.
 
-In questa esercitazione imparerai come:
-* Aggancia rapidamente i glifi in aree importanti del documento
+In questa esercitazione verrà illustrato come:
+* Aggancia rapidamente i glifi alle aree importanti del documento
 
-**Presentata da:**
+**Presentato da:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![Logo Illustrator](../assets/ai_appicon_96.png)
 
 **Risorse Illustrator**
 
-[Scoprite e ](https://helpx.adobe.com/support/illustrator.html) supportate è il vostro punto di riferimento per ulteriori esercitazioni e collegamenti a forum di comunità.
+[Informazioni e supporto](https://helpx.adobe.com/support/illustrator.html) è il punto di riferimento per ulteriori esercitazioni e collegamenti ai forum della community.
 
-**Rilascio ottobre 2020**
+**Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzionalità (e altro ancora!) scaricando l&#39;ultimo aggiornamento dalla tua app Creative Cloud Desktop.
+Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.

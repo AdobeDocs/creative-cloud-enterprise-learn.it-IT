@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Dimension]'
-description: '[!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotto, design di imballaggio e altre attività creative'
+description: '[!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotti, progetti di packaging e altri progetti creativi'
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # [!DNL Dimension]
 
-![Immagine eroe Tutorial](../assets/Dimenio.jpg)
+![Tutorial Hero Image](../assets/Dimenio.jpg)
 
-Creare contenuti accattivanti in 3D più rapidamente con modelli, materiali e illuminazione di alta qualità. [!DNL Dimension] consente di creare facilmente visualizzazioni del marchio, illustrazioni, modelli di prodotto, progetti di imballaggio e altre attività creative.
+Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e luci di alta qualità. [!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotti, progetti di packaging e altri progetti creativi.
 
-## Esplorazione delle esercitazioni sui prodotti
+## Sfoglia i Tutorials di prodotto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="dimension.md#tutorial1">
-      <img alt="Applica materiali di sostanza ai modelli 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
+      <img alt="Applicare materiali Substance ai modelli 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Applica materiali di sostanza ai modelli 3D</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Applicare materiali Substance ai modelli 3D</strong></a>
     </div>
-    <em>I materiali di base supportano migliaia di variazioni di pattern e design in un unico materiale</em>
+    <em>I materiali di Substance supportano migliaia di varianti di pattern e design in un unico materiale</em>
     <br>
   </td>
   <td>
@@ -44,25 +44,25 @@ Creare contenuti accattivanti in 3D più rapidamente con modelli, materiali e il
 </tr>
 </table>
 
-## Applicare materiali di sostanza ai modelli 3D (11:42) {#tutorial1}
+## Applicare materiali Substance ai modelli 3D (11:42) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
-****
-DescrizioneI materiali di sostanza supportano migliaia di variazioni di pattern e design in un unico materiale.
+**Descrizione**
+I materiali di Substance supportano migliaia di varianti di pattern e design in un unico materiale.
 
-In questa esercitazione imparerai come:
-* Creazione di contenuti coinvolgenti in 3D più rapida, con modelli, materiali e illuminazione di alta qualità
+In questa esercitazione verrà illustrato come:
+* Creazione di contenuti coinvolgenti in 3D più rapida con modelli, materiali e luci di alta qualità
 
 **Presentato da:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)
 
-![Logo dimensione](../assets/dn_appicon_96.png)
+![Logo Dimension](../assets/dn_appicon_96.png)
 
-**Risorse dimensione**
+**Risorse Dimension**
 
-[Scoprite e ](https://helpx.adobe.com/support/dimension.html) supportate è il vostro punto di riferimento per ulteriori tutorial,  [Novità](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) e link a forum di comunità.
+[Informazioni e supporto](https://helpx.adobe.com/support/dimension.html) è il punto di riferimento per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e collegamenti ai forum della community.
 
-**Rilascio ottobre 2020**
+**Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzionalità (e altro ancora!) scaricando l&#39;ultimo aggiornamento dalla tua app Creative Cloud Desktop.
+Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.

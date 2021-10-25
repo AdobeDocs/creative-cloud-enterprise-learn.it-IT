@@ -1,6 +1,6 @@
 ---
-title: Decodifica dell'anzuppa di alphabet dei formati grafici
-description: I file JPG, PNG, SVG, GIF ed EPS sono tutti comunemente utilizzati nel design, alcuni per pagine Web, altri per presentazioni, pubblicazioni e progetti creativi. Ma cosa intendono e quale scegliere?
+title: Decodifica della minestra di caratteri Alfabeti dei formati grafici
+description: I file JPG, PNG, SVG, GIF e EPS vengono comunemente utilizzati nel design, alcuni per pagine web, altri per presentazioni, pubblicazioni e progetti creativi. Ma cosa significano, e quale scegliere?
 role: User
 level: Beginner, Intermediate
 kt: 8038
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Decodifica della minestra di formati grafici per l&#39;alfabeto
+# Decodifica della minestra di alfabeti dei formati grafici
 
-I file JPG, PNG, SVG, GIF ed EPS sono tutti comunemente utilizzati nel design, alcuni per pagine Web, altri per presentazioni, pubblicazioni e progetti creativi. Ma cosa intendono e quale scegliere? Scoprite in questo workshop di 15 minuti. Impara rapidamente come applicare gli effetti di trasparenza in Photoshop che possono portare le tue abilità di presentazione a un nuovo livello mentre esplora diverse impostazioni di esportazione e ottimizzazione grafica. Seguire con il designer/sviluppatore Chris Converse per creare un&#39;animazione convincente in PowerPoint utilizzando immagini personalizzate esportate da Photoshop.
+I file JPG, PNG, SVG, GIF e EPS vengono comunemente utilizzati nel design, alcuni per pagine web, altri per presentazioni, pubblicazioni e progetti creativi. Ma che cosa intendono e quale dovrebbe scegliere? Scoprite questo workshop pratico della durata di 15 minuti. Impara rapidamente ad applicare effetti di trasparenza in Photoshop che possono portare le tue competenze di presentazione a un nuovo livello esplorando diverse impostazioni di esportazione e ottimizzazione degli elementi grafici. Segui le istruzioni del designer/sviluppatore Chris Converse per creare un’animazione accattivante in PowerPoint utilizzando grafica personalizzata esportata da Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
 <br> 
 
-[**Download Guida rapida di riferimento PDF**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**Download della guida rapida alla PDF di riferimento**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
 [![Immagine della prima pagina della guida di riferimento rapido](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

@@ -1,6 +1,6 @@
 ---
-title: 'Creare un collage 3D per un poster utilizzando le immagini Adobe [!DNL Stock] '
-description: Progettare un collage in Adobe Illustrator che presenta un effetto 3D accattivante dalle immagini in Adobe [!DNL Stock]
+title: Creare un collage 3D per un poster utilizzando Adobe [!DNL Stock] immagini
+description: Progetta un collage in Adobe Illustrator che presenta un effetto 3D accattivante dalle immagini in Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Creare un collage 3D per un poster utilizzando le immagini Adobe [!DNL Stock]
+# Creare un collage 3D per un poster utilizzando Adobe [!DNL Stock] immagini
 
-Creare poster che attirino l&#39;attenzione. Trovate le immagini rilevanti in Adobe [!DNL Stock] e progettate un collage in Adobe Illustrator con un effetto 3D accattivante.
+Crea poster che attirano l&#39;attenzione. Trova immagini pertinenti nell’Adobe [!DNL Stock] e progetta un collage in Adobe Illustrator che presenta un effetto 3D accattivante.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

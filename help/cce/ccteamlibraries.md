@@ -1,6 +1,6 @@
 ---
-title: Creazione di librerie cloud creative per team
-description: Informazioni su come condividere le risorse all'interno di un gruppo o di un team utilizzando Librerie cloud creative per team
+title: Creazione di librerie Creative Cloud per i team
+description: Scopri come condividere le risorse all’interno di un gruppo o di un team utilizzando Creative Cloud Libraries for teams
 role: User
 level: Beginner, Intermediate
 kt: 8209
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Creazione di librerie cloud creative per team
+# Creazione di librerie Creative Cloud per i team
 
-In questa esercitazione video imparate a condividere le risorse all&#39;interno di un gruppo o di un team utilizzando Creative Cloud Libraries per team. Questi tipi di librerie non sono associati a un singolo account utente, ma la libreria appartiene al team. È possibile identificare le raccolte team utilizzando l&#39;icona ![build image](assets/Smock_Building_18_N.png).
+In questa esercitazione video, scopri come condividere le risorse all’interno di un gruppo o di un team utilizzando Creative Cloud Libraries for teams. Questi tipi di librerie non sono collegati a un singolo account utente, ma la libreria appartiene al team. Puoi identificare le librerie del team in base al ![immagine edificio](assets/Smock_Building_18_N.png) icona.
 
 >[!TIP]
 >
->Utilizzare le librerie cloud creative per i team in qualsiasi momento in cui l&#39;organizzazione deve mantenere la proprietà di asset creativi. Alcuni esempi sono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
+>Usa Creative Cloud Libraries for teams ogni volta che la tua organizzazione deve mantenere la proprietà delle risorse creative. Alcuni esempi includono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
 
 <br> 
 

@@ -1,6 +1,6 @@
 ---
-title: Create un composito semi-surreale con Adobe [!DNL Stock]
-description: Creare un'immagine editoriale memorabile combinando più immagini con colori, movimenti ed effetti di mascheramento
+title: Creare una composizione semi-surreale con Adobe [!DNL Stock]
+description: Creare un'immagine editoriale memorabile combinando più immagini con effetti di colore, movimento e mascheratura
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Create un composito semi-surreale con Adobe [!DNL Stock]
+# Creare una composizione semi-surreale con Adobe [!DNL Stock]
 
-Creare un&#39;immagine editoriale memorabile combinando più immagini con colori, movimenti ed effetti di mascheramento.
+Create un&#39;immagine editoriale memorabile combinando più immagini con effetti di colore, movimento e mascheratura.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

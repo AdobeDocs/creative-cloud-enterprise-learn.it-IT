@@ -1,6 +1,6 @@
 ---
-title: Creare un modello semi-surreale con Adobe [!DNL Stock]
-description: Creare un bellissimo modello perfetto basato su immagini surreali di Adobe [!DNL Stock]
+title: Creare un pattern semi-surreale con Adobe [!DNL Stock]
+description: Crea uno splendido pattern uniforme basato su immagini surreali di Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Create un modello semi-surreale con Adobe [!DNL Stock]
+# Creare un pattern semi-surreale con Adobe [!DNL Stock]
 
-Create un meraviglioso modello senza interruzioni basato su immagini surreali di Adobe [!DNL Stock].
+Crea uno splendido pattern uniforme basato su immagini surreali di Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)
