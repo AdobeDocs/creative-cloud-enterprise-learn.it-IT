@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Stock]'
+title: '"[!DNL Stock]"'
 description: Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
