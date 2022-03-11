@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ![Tutorial Hero Image](../assets/AEM.jpg)
 
-Adobe Experience Manager è la soluzione leader di settore per la gestione delle esperienze digitali per aziende e organizzazioni di medie dimensioni. Offre una base moderna e scalabile per distribuire esperienze accattivanti che promuovono il coinvolgimento del brand, stimolano la domanda e aumentano la fidelizzazione dei clienti. Experience Manager include un kit completo di strumenti per creare, gestire e distribuire esperienze digitali su tutti i canali.
+Adobe Experience Manager è la soluzione leader di settore per la gestione delle esperienze digitali per aziende e organizzazioni di medie dimensioni. Offre una base moderna e scalabile per distribuire esperienze accattivanti che promuovono l&#39;engagement del brand, stimolano la domanda e aumentano la fidelizzazione dei clienti. Experience Manager include un kit completo di strumenti per creare, gestire e distribuire esperienze digitali su tutti i canali.
 
 ## Sfoglia i Tutorials di prodotto
 

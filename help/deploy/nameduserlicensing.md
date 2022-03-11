@@ -39,7 +39,7 @@ Se la tua organizzazione non utilizza il numero di serie e continua a utilizzare
 
 * Sperimenta processi più veloci, anche da remoto.
 
-   Non solo ci viene chiesto di lavorare in modo più rapido ed efficiente, ma anche da remoto. La trasformazione digitale non deve essere difficile e le funzionalità e le integrazioni NUL con i servizi Adobe PDF consentono alle aziende di trasformare i processi basati su carta in funzionalità digitali complete. Ciò significa anche che i dipendenti possono mantenere facilmente la continuità aziendale ovunque, anche se lavorano da casa.
+   Non solo ci viene chiesto di lavorare in modo più rapido ed efficiente: ci viene chiesto di farlo da remoto. La trasformazione digitale non deve essere difficile e le funzionalità e le integrazioni NUL con i servizi Adobe PDF consentono alle aziende di trasformare i processi basati su carta in funzionalità digitali complete. Ciò significa anche che i dipendenti possono mantenere facilmente la continuità aziendale ovunque, anche se lavorano da casa.
 
 * I migliori strumenti per la produttività e la collaborazione.
 

@@ -57,7 +57,7 @@ Le luci ambiente sono immagini equirettangolari (sferiche), che vengono avvolte 
 
 Quando create una nuova scena in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), viene creata una luce ambiente predefinita. Ecco perché si è immediatamente in grado di vedere qualunque cosa nella scena. Adobe [!DNL Dimension] Le risorse iniziali includono un certo numero di luci ambiente, che puoi provare immediatamente. Inoltre, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) offre un&#39;ampia selezione di luci ambiente.
 
-Le luci ambiente producono risultati altamente realistici e possono farti risparmiare molto tempo. Per ottenere manualmente qualcosa di simile, è necessario creare l&#39;intero ambiente in 3D (comprese varie sorgenti luminose), che è una quantità significativa di lavoro.
+Le luci ambiente producono risultati altamente realistici e possono farti risparmiare molto tempo. Per ottenere manualmente qualcosa di simile, è necessario creare l&#39;intero ambiente in 3D (comprese varie sorgenti di luce), che è una quantità significativa di lavoro.
 
 ![Esempio di una scena in cui l’intero set (comprese le luci) è stato assemblato in 3D, per ottenere risultati da studio](assets/Mastering3dlighting_6.jpg)
 

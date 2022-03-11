@@ -79,7 +79,7 @@ Posizionate la videocamera a 360° nel centro generale dell’area su cui vi con
 
 ![Immagine panoramica HDR a 360 gradi di uno spazio ufficio con un grafico a colori in primo piano](assets/Photorealistic_11.png)
 
-Mantenere il colore tra la telecamera usata per riprendere l&#39;ambiente e quella usata per riprendere lo sfondo è molto importante poiché le immagini verranno utilizzate insieme. Qui la temperatura del colore di entrambe le telecamere è stata impostata su 5000k e abbiamo fotografato un grafico a colori con entrambe le telecamere per l&#39;ulteriore allineamento in fase di post-produzione.
+Mantenere il colore tra la telecamera usata per riprendere l&#39;ambiente e quella usata per riprendere lo sfondo è molto importante poiché le immagini verranno utilizzate insieme. Qui la temperatura del colore di entrambe le telecamere è impostata su 5000k e abbiamo fotografato un grafico a colori con entrambe le telecamere per l&#39;ulteriore allineamento in fase di post-produzione.
 
 ### Valori di esposizione tra parentesi quadre
 

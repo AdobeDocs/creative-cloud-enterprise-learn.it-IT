@@ -354,10 +354,10 @@ I creativi sono sotto pressione per distribuire rapidamente nuovi contenuti acca
   </td>
    <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf">
-         <img alt="Scoprire dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
+         <img alt="Scopri dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf"><strong>Scoprire dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile (PDF)</strong></a>
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf"><strong>Scopri dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile (PDF)</strong></a>
       </div>
       <em>Scopri le potenzialità di Lightroom sul tuo dispositivo mobile per valorizzare al meglio le tue immagini</em>
       <br>

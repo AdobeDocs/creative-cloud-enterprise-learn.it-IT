@@ -17,7 +17,7 @@ Storicamente, Adobe ha assegnato numeri di serie con le nostre app (ad es. Creat
 
 ## Verifica dei numeri di serie per la data di scadenza
 
-### Trovare i numeri di serie
+### Trova i numeri di serie
 
 Le licenze con numero di serie associate al contratto di ETLA sono disponibili tramite [Adobe sito Web delle licenze](https://licensing.adobe.com/) (LWS). Segui queste istruzioni per visualizzare e scaricare:
 
