@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Illuminazione 3D, 600 MSV globali
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ Ciò significa che ci sarà molta interazione complessa con il ray tracing, poic
 
 Spero che questa panoramica illustri l&#39;importanza di controllare le luci 3D in varie situazioni. Dovresti essere pronto per iniziare a produrre risultati più convincenti.
 
-Buona illuminazione! Scarica il [ultima versione](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) del Dimension.
+Buona illuminazione! Scarica il [ultima versione](https://creativecloud.adobe.com/apps/download/Dimension) del Dimension oggi.

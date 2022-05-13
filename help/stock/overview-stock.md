@@ -4,16 +4,16 @@ description: Tutorials che ti aiuteranno a familiarizzare con l'Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] esercitazioni
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero Image](../assets/Stock.jpg)
 
 I creativi sono sotto pressione per distribuire rapidamente nuovi contenuti accattivanti dal punto di vista visivo che catturano e attirano l&#39;attenzione. Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D, il tutto direttamente dalle app creative di Adobe che utilizzano quotidianamente.
 
