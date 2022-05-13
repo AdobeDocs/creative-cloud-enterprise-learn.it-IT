@@ -4,9 +4,9 @@ description: Tutorials che ti aiutano a familiarizzare con i prodotti DVA Adobi
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ Dai vita alle tue idee con app e software di Adobe per l&#39;editing video, l&#3
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Combinazione fluida di musica e dialoghi o commenti con attenuamento automatico in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Combinazione fluida di musica e dialoghi o commenti con attenuamento automatico in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Combinazione fluida di musica e dialoghi o commenti con attenuamento automatico in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Combinazione fluida di musica e dialoghi o commenti con attenuamento automatico in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] offre funzionalità di editing video avanzate in un'app intuitiva, in modo che chiunque possa creare un video di qualità professionale in pochi minuti</em>
     <br>
