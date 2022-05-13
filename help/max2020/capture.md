@@ -4,10 +4,10 @@ description: Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno s
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per 
     <div>
    <a href="capture.md#tutorial1"><strong>Cattura l'ispirazione dal mondo che ti circonda</strong></a>
     </div>
-    <em>Utilizzate gli avanzati strumenti di selezione e modifica del colore nell'acquisizione di Adobi per modificare radicalmente un'immagine in base alle vostre esigenze di branding aziendale</em>
+    <em>Utilizzate gli avanzati strumenti di selezione e modifica del colore di Adobe Capture per modificare notevolmente un'immagine in base alle vostre esigenze di branding aziendale</em>
     <br>
   </td>
   <td>
