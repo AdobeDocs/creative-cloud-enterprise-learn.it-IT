@@ -4,9 +4,9 @@ description: La licenza dei prodotti di Adobe tramite le licenze nominative (NUL
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Nel clima attuale, la gestione IT ha dovuto adattarsi rapidamente a un&#39;esper
 
 La licenza dei prodotti di Adobe tramite le licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l&#39;Admin Console e consente agli utenti finali di accedere alle app creative e ad alta produttività e ai servizi di Adobe Cloud, anche se l&#39;intera forza lavoro è remota.
 
-Se la tua organizzazione non utilizza il numero di serie e continua a utilizzare la distribuzione serializzata per prodotti di Adobe, i numeri di serie potrebbero scadere a breve. Per evitare interruzioni nel servizio, è importante pianificare la migrazione all&#39;NUL prima della [i numeri di serie scadono](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Se la tua organizzazione non utilizza il numero di serie e continua a utilizzare la distribuzione serializzata per prodotti di Adobe, i numeri di serie potrebbero scadere a breve. Per evitare interruzioni del servizio, è importante pianificare la migrazione a NUL prima della scadenza dei numeri di serie.
 
 ## Informazioni sulle licenze nominative
 
