@@ -4,10 +4,10 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat per creatori di contenuti (PDF)</strong></a>
     </div>
     <em>Scopri gli strumenti di Acrobat che semplificano i flussi di lavoro creativi</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Aggiunta di una presentazione al vostro Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Express offre alcuni componenti di layout straordinari e facili da usare che danno vita alle tue storie web</em>
+    <em>Adobe Spark offre alcuni componenti di layout straordinari e facili da usare che danno vita alle tue storie web</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creazione del marchio in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>L'Adobe Express semplifica la definizione del marchio</em>
+    <em>Adobe Spark semplifica la definizione del marchio</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Scopri Il Tuo Nuovo Artista Di Produzione: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Express impara da te durante la creazione di layout, la definizione dei colori, l’importazione di grafica e la disposizione degli elementi all’interno delle composizioni</em>
+    <em>Adobe Spark impara da te come creare layout, definire colori, importare grafica e disporre elementi all’interno delle tue composizioni</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="Decodifica della minestra di alfabeti dei formati grafici" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>In questa esercitazione video passo passo di workshop potete creare una foto vivente combinando i video degli Adobi [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Aggiunta di luci straordinarie a una foto con Photoshop e After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     </div>
     <em>Scoprite come utilizzare l’effetto Esplosione di luce in Adobe After Effects per migliorare notevolmente una foto</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Creazione immediata di immagini cinematografiche con Photoshop e Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Ricerca di video in ciclo continuo senza soluzione di continuità nell’Adobe [!DNL Stock] per assemblare rapidamente immagini cinematografiche accattivanti in Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Creazione di una fotografia vivente con Photoshop - Parte 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Adobe Photoshop ti consente di trasformare rapidamente i tuoi brevi video in fotografie dinamiche che coinvolgono il pubblico su qualsiasi piattaforma social</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Creazione di una fotografia vivente con Photoshop - Parte 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>In questo laboratorio pratico passo passo, combinate Photoshop con After Effects per creare immagini ed effetti da usare su qualsiasi supporto</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Personalizzare rapidamente le foto di Instagram con le azioni di Adobe Photoshop" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Lavora in modo più intelligente, non più difficile, con Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Le modifiche apportate a Photoshop possono richiedere molto tempo, ma non è necessario</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Tutti possono essere creativi con Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Schermo verde non solo per video (PDF)</strong></a>
     </div>
     <em>Potete usare lo schermo verde in uno studio fotografico e usare After Effects per preparare le foto da usare in Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Condividere i tuoi progetti migliori con Adobe Portfolio è un modo efficace per condividere il tuo successo e attirare nuovi talenti creativi</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Connessione di Lightroom e Bēhance all’Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Mostra i tuoi progetti migliori con Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Adobe Portfolio ti consente di caricare, organizzare e condividere il tuo lavoro con potenziali dipendenti e clienti in tutto il mondo</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Creative Cloud Libraries offre un sistema di brand integrato che consente ai designer di condividere le risorse del marchio tra i team creativi</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Condivisione di stili di testo da Illustrator con Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Condividere stili di testo da Illustrator con Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Lavora in modo più intelligente, non più difficile, in Illustrator</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Il formato di OpenType consente a un font di contenere fino a 65.536 glifi</em>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Sapevi che puoi sfruttare le potenzialità di InDesign per generare HTML e grafica per il Web?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="PDF interattivo: Segnalibri e sommari collegati da InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Scoprite come utilizzare la funzione Sommario in InDesign per generare sia segnalibri che collegamenti ipertestuali che consentono ai lettori di trovare rapidamente le informazioni nei file PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="PDF interattivo: Collegamenti ipertestuali grafici e pagine mastro nidificate in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>PDF interattivo: Collegamenti ipertestuali grafici e pagine mastro nidificate in InDesign (PDF)</strong></a>
     </div>
     <em>L’applicazione di collegamenti ipertestuali con pagine mastro consente di gestire rapidamente un sistema di navigazione in tutte le pagine</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Illustrator offre un supporto impareggiabile per il formato SVG, inclusa la possibilità di creare simboli, gruppi, ID e definizioni vettoriali precise della grafica</em>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualizzazione del prodotto in un ambiente realistico (PDF)</strong></a>
     </div>
     <em>Se vuoi vedere come appaiono i tuoi prodotti nel mondo reale, Adobe [!DNL Dimension] è la tua app di riferimento</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
