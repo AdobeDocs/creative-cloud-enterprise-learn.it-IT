@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Elimina la noia e risparmia tonnellate di tempo utilizzando le azioni in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Lavora in modo più intelligente, non più difficile, con Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Schermo verde non solo per video (PDF)</strong></a>
     </div>
     <em>Potete usare lo schermo verde in uno studio fotografico e usare After Effects per preparare le foto da usare in Photoshop</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
+    </div>
+    <em>Scopri come accedere e utilizzare oltre 20.000 font professionali in Creative Cloud</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Creazione di splendidi effetti tipografici con Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Il formato di OpenType consente a un font di contenere fino a 65.536 glifi</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
