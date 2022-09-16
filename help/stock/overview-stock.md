@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con l'Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-I creativi sono sotto pressione per distribuire rapidamente nuovi contenuti accattivanti dal punto di vista visivo che catturano e attirano l&#39;attenzione. Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D, il tutto direttamente dalle app creative di Adobe che utilizzano quotidianamente.
-
+I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coinvolgenti. Adobe Stock consente ai team creativi di accedere a più di 300 milioni di immagini, video, file audio, modelli, illustrazioni e risorse 3D esenti da royalty, all&#39;interno delle app di Creative Cloud che utilizzano quotidianamente. Accedi alle risorse standard di Adobe Stock senza limiti con Creative Cloud Pro Edition. Scopri le ultime raccolte su stock.adobe.com
 
 ## Fare clic per visualizzare un Adobe [!DNL Stock] tutorial
 
@@ -88,10 +87,10 @@ I creativi sono sotto pressione per distribuire rapidamente nuovi contenuti acca
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Modificare un Adobe [!DNL Stock] colori dell’immagine in base alla storia" src="assets/changecolors.jpg" />
+         <img alt="Modificare un Adobe [!DNL Stock] colori dell'immagine in base alla storia" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Modificare un Adobe [!DNL Stock] colori dell’immagine in base alla storia</strong></a>
+      <a href="changecolors.md"><strong>Modificare un Adobe [!DNL Stock] colori dell'immagine in base alla storia</strong></a>
       </div>
       <em>Trovare una foto unica nell’Adobe [!DNL Stock] e quindi regolare il colore in Adobe Photoshop in base alle tue esigenze</em>
       <br>
