@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,39 @@ ht-degree: 0%
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Queste guide di riferimento rapido consentono di apprendere le nuove funzioni della Creative Cloud.
 
 
-## Fai clic per scaricare un PDF della guida di riferimento rapido
+## Fare clic per scaricare un PDF della guida di riferimento rapido (prodotti elencati in ordine alfabetico)
+
+### Adobe Express (già Adobe Spark)
+
+<table>
+<tr>
+ <td>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf">
+      <img alt="Creare, modificare e condividere una pagina Web con Spark" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Creare, modificare e condividere una pagina Web con Spark (PDF)</strong></a>
+    </div>
+    <em>Create una griglia fotografica interattiva, reattiva e con opzioni per la creazione di scatole luminose per la vostra pagina web utilizzando strumenti semplici e intuitivi in Adobe Spark e splendide immagini di Adobe [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud for enterprise
 
@@ -54,7 +86,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Esplora le straordinarie funzionalità di Lightroom sul tuo dispositivo mobile per valorizzare al meglio le tue immagini</em>
     <br>
   </td>
-</tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
       <img alt="Schizzo, composizione e finalizzazione di un layout di brochure con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -65,32 +96,95 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Esplora rapidamente le idee di layout per la stampa, il web, i dispositivi mobili o i social con Adobe Comp</em>
     <br>
   </td>
+</tr>
+</table>
+
+### Font
+
+<table>
+<tr>
   <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
+      <img alt="Creazione di splendidi effetti tipografici con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Adobe Fonts illimitato a portata di mano (PDF)</strong></a>
+    </div>
+    <em>[!DNL Capture] font interessanti nel mondo reale con Adobe [!DNL Capture] sul tuo dispositivo mobile, quindi identifica e attiva e salva font simili utilizzando Adobe Fonts e le librerie di Creative Cloud</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-
-### Adobe Express (già Adobe Spark)
+### Fresco
 
 <table>
 <tr>
  <td>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="Creare, modificare e condividere una pagina Web con Spark" src="../assets/acrobat_PDF_96.png" />
+   <a href="Frescoworkshop.pdf">
+      <img alt="Prova il Fresco su iPad (e iPhone)" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Creare, modificare e condividere una pagina Web con Spark (PDF)</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>Prova il Fresco su iPad (e iPhone) (PDF)</strong></a>
     </div>
-    <em>Create una griglia fotografica interattiva, reattiva e con opzioni per la creazione di scatole luminose per la vostra pagina web utilizzando strumenti semplici e intuitivi in Adobe Spark e splendide immagini di Adobe [!DNL Stock]</em>
+    <em>Scopri un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresca in questo workshop pratico di 15 minuti</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
+      <img alt="Creare una composizione utilizzando immagini e forme con Illustrator per iPad" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Creare una composizione utilizzando immagini e forme con Illustrator per iPad (PDF)</strong></a>
+    </div>
+    <em>Illustrator consente di applicare uno stile alla grafica in modo analogo a come si disegna il testo</em>
+    <br>
+  </td>
+   <td>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
+      <img alt="Responsive e Animated SVG XD con &lt;unk&gt;, Illustrator e CSS" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsive e Animated SVG XD con &lt;unk&gt;, Illustrator e CSS (PDF)</strong></a>
+    </div>
+    <em>Aggiungete animazioni ai file SVG con poche righe di CSS</em>
     <br>
   </td>
   <td>
@@ -140,8 +234,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Creare una foto vivente combinando i video di un Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop. Dai vita alle tue immagini con il movimento e un punto di loop strategico</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Crea grafica a movimento brusco con Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -152,6 +244,8 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Utilizzate una tecnica video comune, in After Effects, per rimuovere rapidamente un colore di sfondo in una foto al fine di creare una composizione fotografica unica per i progetti di progettazione</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="Scopri Photoshop su iPad" src="../assets/acrobat_PDF_96.png" />
@@ -167,93 +261,17 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="Frescoworkshop.pdf">
-      <img alt="Prova il Fresco su iPad (e iPhone)" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="Frescoworkshop.pdf"><strong>Prova il Fresco su iPad (e iPhone) (PDF)</strong></a>
-    </div>
-    <em>Scopri un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresca in questo workshop pratico di 15 minuti</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### XD
-
-<table>
-<tr>
-   <td>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD: Prototipazione vocale avanzata" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Prototipazione vocale avanzata (PDF)</strong></a>
-    </div>
-    <em>Crea un prototipo interattivo in grado di rispondere agli input di clic, tocco e audio degli utenti</em>
-    <br>
-  </td>
-   <td>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="Modifica in comproprietà: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Modifica in comproprietà: Real-Time Design Collaboration Using Adobe XD (PDF)</strong></a>
-    </div>
-    <em>Impara a collaborare su un prototipo interattivo con i tuoi colleghi, clienti e sviluppatori grazie agli esclusivi strumenti di condivisione incorporati in Adobe XD e Creative Cloud</em>
-    <br>
-  </td>
-  <td>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
-      <img alt="Progettazione e prototipazione di progetti interattivi con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Progettazione e prototipazione di progetti interattivi con Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Crea un'esperienza utente completamente interattiva e animata in pochi minuti combinando Adobe XD con un'ampia gamma di risorse uniche e versatili in Adobe [!DNL Stock]</em>
-    <br>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="XD Let’s &lt;unk&gt; - Scopri come progettare, prototipare e distribuire ai team" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>XD Let’s &lt;unk&gt; - Scopri come progettare, prototipare e distribuire ai team (PDF)</strong></a>
-    </div>
-    <em>I componenti offrono una flessibilità senza precedenti per applicare velocità e coerenza al flusso di lavoro di progettazione</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### [!DNL Stock]
@@ -290,8 +308,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>[!DNL Capture] l'attenzione del pubblico, su qualsiasi schermo, combinando la fotografia con il video dell'Adobe [!DNL Stock]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
       <img alt="Presentazione dei dati con Adobe [!DNL Stock] Modelli di grafica animata" src="../assets/acrobat_PDF_96.png" />
@@ -302,6 +318,8 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Rappresentazione dei dati in modo più efficace aggiungendo movimento e progettazione con un modello di grafica animata di Adobe [!DNL Stock]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
       <img alt="Mostra il tuo lavoro di progettazione nel mondo reale" src="../assets/acrobat_PDF_96.png" />
@@ -319,61 +337,12 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Suggerimenti per la creazione di animazioni tramite e-mail con Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combina immagini statiche e video in Photoshop per creare un GIF animato accattivante per la tua campagna, adatto a un’ampia gamma di applicazioni e-mail per i clienti</em>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Font
-
-<table>
-<tr>
-  <td>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="Creazione di splendidi effetti tipografici con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Adobe Fonts illimitato a portata di mano (PDF)</strong></a>
-    </div>
-    <em>[!DNL Capture] font interessanti nel mondo reale con Adobe [!DNL Capture] sul tuo dispositivo mobile, quindi identifica e attiva e salva font simili utilizzando Adobe Fonts e le librerie di Creative Cloud</em>
-    <br>
-  </td>
-   <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
+    <em>Combina immagini statiche e video in Photoshop per creare un GIF animato accattivante per la tua campagna, adatto a un'ampia gamma di applicazioni e-mail per i clienti</em>
     <br>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table>
-<tr>
-   <td>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="Creare una composizione utilizzando immagini e forme con Illustrator per iPad" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Creare una composizione utilizzando immagini e forme con Illustrator per iPad (PDF)</strong></a>
-    </div>
-    <em>Illustrator consente di applicare uno stile alla grafica in modo analogo a come si disegna il testo</em>
-    <br>
-  </td>
-   <td>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="Responsive e Animated SVG XD con &lt;unk&gt;, Illustrator e CSS" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsive e Animated SVG XD con &lt;unk&gt;, Illustrator e CSS (PDF)</strong></a>
-    </div>
-    <em>Aggiungete animazioni ai file SVG con poche righe di CSS</em>
     <br>
   </td>
   <td>
@@ -406,6 +375,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="SkiptheShootGettheShot.pdf"><strong>Ignora la ripresa - Scatta la foto (PDF)</strong></a>
     </div>
     <em>Personalizza e personalizza un modello 3D in [!DNL Dimension] utilizzo di materiali, proprietà ambientali, illuminazione e fotografia per creare immagini fotorealistiche per qualsiasi progetto di design</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -450,7 +424,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Racconta una storia avvincente sui social media combinando video e grafica nella Premiere Pro</em>
     <br>
   </td>
-<tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
       <img alt="Riprendere, modificare, pubblicare le foto con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -461,15 +434,52 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <em>Combina video e grafica animata per raccontare una storia avvincente per i social media con strumenti di editing intuitivi e modelli di grafica animata in Premiere [!DNL Rush]</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
+</table>
+
+### XD
+
+<table>
+<tr>
+   <td>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
+      <img alt="Adobe XD: Prototipazione vocale avanzata" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Prototipazione vocale avanzata (PDF)</strong></a>
+    </div>
+    <em>Crea un prototipo interattivo in grado di rispondere agli input di clic, tocco e audio degli utenti</em>
+    <br>
+  </td>
+   <td>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
+      <img alt="Modifica in comproprietà: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Modifica in comproprietà: Real-Time Design Collaboration Using Adobe XD (PDF)</strong></a>
+    </div>
+    <em>Impara a collaborare su un prototipo interattivo con i tuoi colleghi, clienti e sviluppatori grazie agli esclusivi strumenti di condivisione incorporati in Adobe XD e Creative Cloud</em>
+    <br>
+  </td>
+  <td>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
+      <img alt="Progettazione e prototipazione di progetti interattivi con Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Progettazione e prototipazione di progetti interattivi con Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Crea un'esperienza utente completamente interattiva e animata in pochi minuti combinando Adobe XD con un'ampia gamma di risorse uniche e versatili in Adobe [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
+      <img alt="XD &lt;unk&gt; - Scopri come progettare, prototipare e distribuire ai team" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>XD &lt;unk&gt; - Scopri come progettare, prototipare e consegnare i progetti ai team (PDF)</strong></a>
+    </div>
+    <em>I componenti offrono una flessibilità senza precedenti per applicare velocità e coerenza al flusso di lavoro di progettazione</em>
+    <br>
+  </td>
+ </tr>
 </table>
