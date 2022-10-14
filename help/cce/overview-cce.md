@@ -4,7 +4,7 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -142,7 +142,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Migliorare i flussi di lavoro CC con CC Libraries" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="Migliorare i flussi di lavoro CC con CC Libraries" src="assets/Improveccworkflowswithcclibraries.jpg" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>Migliorare i flussi di lavoro CC con CC Libraries</strong></a>
