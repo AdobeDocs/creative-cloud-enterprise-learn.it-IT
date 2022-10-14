@@ -4,7 +4,7 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
     </div>
     <em>Scopri come accedere e utilizzare oltre 20.000 font professionali in Creative Cloud</em>
     <br>
