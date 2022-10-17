@@ -4,7 +4,7 @@ description: Tutorials che ti aiutano a familiarizzare con i prodotti DVA Adobi
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
-Dai vita alle tue idee con app e software di Adobe per l&#39;editing video, l&#39;animazione, gli effetti speciali, l&#39;animazione e non solo.
-
-## Fate clic per visualizzare un’esercitazione video di Adobe
+Dai vita alle tue idee con app e software di Adobe per l&#39;editing video, l&#39;animazione, gli effetti speciali, l&#39;animazione e non solo. Selezionate un’immagine per visualizzare un’esercitazione.
 
 <table>
 <tr>
