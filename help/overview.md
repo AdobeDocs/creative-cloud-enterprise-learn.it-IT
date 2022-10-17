@@ -1,21 +1,21 @@
 ---
-title: Esercitazioni
-description: Benvenuto nell’hub Creative Cloud for enterprise Learning
+title: Creative Cloud per Tutorials Enterprise
+description: Benvenuto nell'hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud per Tutorials enterprise
+# Tutorial su Creative Cloud for enterprise
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)
 
-Benvenuto nell’hub Creative Cloud for enterprise Learning. Troverai un&#39;ampia gamma di esperienze di apprendimento incentrate sulla Creative Cloud per le aziende. I nostri tutorial, webinar e esempi di utilizzo sono progettati per portare rapidamente i principianti e gli amministratori al passo con la Creative Cloud dei prodotti enterprise.
+Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare un’ampia gamma di esperienze di apprendimento incentrate sulla Creative Cloud per le aziende. I nostri tutorial, webinar e esempi di utilizzo sono progettati per portare rapidamente i principianti e gli amministratori al passo con la Creative Cloud dei prodotti enterprise.
 
 ## Sfoglia argomenti
 
@@ -42,18 +42,6 @@ Benvenuto nell’hub Creative Cloud for enterprise Learning. Troverai un&#39;amp
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Progettazione, prototipazione e condivisione di esperienze utente</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D e VR" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ Benvenuto nell’hub Creative Cloud for enterprise Learning. Troverai un&#39;amp
     <em>Creazione di immagini 3D fotorealistiche per progetti di branding, immagini di prodotti e packaging</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe video" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ Benvenuto nell’hub Creative Cloud for enterprise Learning. Troverai un&#39;amp
    <a href="dva/overview-dva.md"><strong>Adobe video</strong></a>
     </div>
     <em>Dai vita alle tue idee con app e software di Adobe per l'editing video, l'animazione, gli effetti speciali, l'animazione e non solo</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Progettazione, prototipazione e condivisione di esperienze utente</em>
     <br>
   </td>
   <td>

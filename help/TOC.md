@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Tutorial su Creative Cloud for enterprise {#cce-learning-hub}
 
 + [Panoramica](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
    + [Panoramica](cce/overview-cce.md)
    + Esercitazioni {#ccetutorials}
       + [Acrobat per creatori di contenuti](cce/acrobat-content-creators.md)
       + [Migliorare i flussi di lavoro CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
-      + [Ansia da addomesticare](cce/Taming-font-anxiety.md)
+      + [Ansia da addomesticare](cce/taming-type-anxiety.md)
       + [Creazione di librerie Creative Cloud per i team](cce/ccteamlibraries.md)
       + [Condivisione di risorse di branding con Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Creare composizioni uniche con Adobe [!DNL Stock] e Photoshop per iPad](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [Decodifica della minestra di alfabeti dei formati grafici](cce/alphabetsoup.md)
       + [Prova il Fresco su iPad e iPhone](cce/frescoworkshop.md)
    + Guide di riferimento rapide {#ccerefguides}
-   + [Elenco dei prodotti](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [guide CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [Panoramica](stock/overview-stock.md)
    + Esercitazioni {#stocktutorials}
       + [Adobe di ricerca [!DNL Stock] cronologia licenze](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [Personalizzare un’animazione della schermata di caricamento con Adobe [!DNL Stock] XD e &lt;unk>](stock/loadingscreen.md)
       + [Personalizzare un Adobe [!DNL Stock] modello di presentazione per sembrare professionale](stock/presentationtemplate.md)
       + [Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale](stock/customizecolors.md)
-+ 3D e VR {#3doverview}
++ Adobe 3D e VR {#3doverview}
    + [Panoramica](3di/overview-3di.md)
    + Esercitazioni {#3dtutorials}
       + [Suggerimenti e tecniche per la masterizzazione dell’illuminazione 3D in CGI](3di/mastering3dlighting.md)
       + [Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D](3di/photorealistic.md)
       + [Personalizza e marca un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Video {#videooverview}
++ Adobe video {#videooverview}
    + [Panoramica](dva/overview-dva.md)
    + Esercitazioni {#videotutorials}
       + [Recensione video con Frame.io](dva/video-review-frame-io.md)
-   + Guide di riferimento rapide {#stockrefguides}
-      + [Guide Stock](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + Guide di riferimento rapide {#videorefguides}
+      + [Guide video](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [Panoramica](xd/overview-xd.md)
    + Esercitazioni {#xdtutorials}
    + [Comodità [!UICONTROL Componenti] in Adobe XD](xd/components.md)

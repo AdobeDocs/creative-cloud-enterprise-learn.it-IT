@@ -4,7 +4,7 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Queste esercitazioni consentono di apprendere le nuove funzioni della Creative Cloud, dal punto di vista aziendale.
-
 
 ## Fai clic per visualizzare un’esercitazione di prodotto (in ordine alfabetico)
 
@@ -316,11 +315,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
     </div>
     <em>Scopri come accedere e utilizzare oltre 20.000 font professionali in Creative Cloud</em>
     <br>
