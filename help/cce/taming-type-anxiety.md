@@ -4,9 +4,9 @@ description: Scopri come accedere e utilizzare oltre 20.000 font professionali i
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Tra i numerosi vantaggi di un abbonamento a Adobe Creative Cloud c&#39;è l&#39;accesso gratuito a più di 20.000 font professionali progettati e selezionati da Adobe Fonts. Originariamente noto come Typekit, Adobe Fonts è disponibile tramite un unico contratto di licenza che offre ai designer un utilizzo creativo illimitato per progetti personali o commerciali.
 
-**Seleziona l&#39;immagine seguente per scaricare l&#39;Ansia da addomesticamento (PDF).**
+Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
-[![Immagine dell’esercitazione sul testo](assets/TamingTypeAnxiety_400.jpg)](assets/TamingTypeAnxiety.pdf)
+[![Immagine della prima pagina dell’esercitazione](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
