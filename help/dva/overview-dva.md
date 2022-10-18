@@ -4,7 +4,7 @@ description: Tutorials che ti aiutano a familiarizzare con i prodotti DVA Adobi
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Dai vita alle tue idee con app e software di Adobe per l&#39;editing video, l&#3
 <tr>
  <td>
    <a href="video-review-frame-io.md">
-      <img alt="Recensione video con Frame-io" src="assets/Videoreviewwithframe.jpg" />
+      <img alt="Recensione video con Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
    <a href="video-review-frame-io.md"><strong>Recensione video con Frame.io (PDF)</strong></a>

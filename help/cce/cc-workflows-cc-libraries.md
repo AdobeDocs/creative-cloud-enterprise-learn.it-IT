@@ -4,9 +4,9 @@ description: Scoprite come Creative Cloud Libraries mantiene uniti gli elementi 
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Scoprite come le Creative Cloud Libraries mantengono uniti gli elementi di proge
 
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
-[![Immagine della prima pagina dell’esercitazione](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![Immagine della prima pagina dell’esercitazione](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}

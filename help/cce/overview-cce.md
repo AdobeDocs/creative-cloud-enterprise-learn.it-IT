@@ -4,7 +4,7 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -141,7 +141,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Migliorare i flussi di lavoro CC con CC Libraries" src="assets/Improveccworkflowswithcclibraries.jpg" />
+      <img alt="Migliorare i flussi di lavoro CC con CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>Migliorare i flussi di lavoro CC con CC Libraries</strong></a>
@@ -316,7 +316,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.jpg" />
+      <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Ansia di tipo addomesticato (PDF)</strong></a>

@@ -4,7 +4,7 @@ description: Scopri come accedere e utilizzare oltre 20.000 font professionali i
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Tra i numerosi vantaggi di un abbonamento a Adobe Creative Cloud c&#39;è l&#39;
 
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
-[![Immagine della prima pagina dell’esercitazione](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
+[![Immagine della prima pagina dell’esercitazione](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
