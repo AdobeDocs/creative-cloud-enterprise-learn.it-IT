@@ -4,7 +4,7 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
  <td>
    <a href="acrobat-content-creators.md">
-      <img alt="Acrobat per creatori di contenuti" src="assets/AcrobatforContentCreators.jpg" />
+      <img alt="Acrobat per creatori di contenuti" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
    <a href="acrobat-content-creators.md"><strong>Acrobat per creatori di contenuti (PDF)</strong></a>
