@@ -4,9 +4,9 @@ description: Informazioni sugli strumenti principali di Adobe Acrobat che sempli
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In qualità di creatore di contenuti, è probabile che si generino PDF e quindi visualizzino di routine tali file PDF in Acrobat. Tuttavia, Acrobat include anche molti strumenti che consentono di semplificare i flussi di lavoro creativi tipici.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
