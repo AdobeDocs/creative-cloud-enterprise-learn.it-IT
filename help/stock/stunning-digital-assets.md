@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Scoprite come integrare Adobe Stock con CC Libraries per creare risultati di progettazione uniformi e professionali per la stampa e lo schermo in questo tutorial pratico.
 
->[!NOTE]
->
->Le risorse Adobe Stock salvate in CC Libraries possono essere aggiunte direttamente in Microsoft PowerPoint e Word. Istruzioni su come scaricare e installare il componente aggiuntivo Adobe Creative Cloud [qui](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html) o nell&#39;App Store Microsoft. La procedura è semplice per entrambe le app, in particolare per coloro che utilizzano Adobe Stock in Illustrator, InDesign o Photoshop. Per ulteriori informazioni, visitare il sito [Esplora i plug-in integrati di Adobe Stock in Microsoft Office 365](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html).
-
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
 [![Immagine della prima pagina dell’esercitazione](assets/Stunningdigitalassets.png){&quot;width=680&quot;}](assets/Stunning-Digital-Assets.pdf){target=&quot;blank&quot;}
+
+>[!NOTE]
+>
+>Le risorse Adobe Stock salvate in CC Libraries possono essere aggiunte direttamente in Microsoft PowerPoint e Word. Istruzioni su come scaricare e installare il componente aggiuntivo Adobe Creative Cloud [qui](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html) o nell&#39;App Store Microsoft. La procedura è semplice per entrambe le app, in particolare per coloro che utilizzano Adobe Stock in Illustrator, InDesign o Photoshop. Per ulteriori informazioni, visitare il sito [Esplora i plug-in integrati di Adobe Stock in Microsoft Office 365](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html).
