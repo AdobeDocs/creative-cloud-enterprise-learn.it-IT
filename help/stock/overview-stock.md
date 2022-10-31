@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con l'Adobe [!DNL Stoc
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coi
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Risorse digitali straordinarie" src="assets/Stunningdigitalassets.png" />
+         <img alt="Straordinarie risorse digitali (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Risorse digitali straordinarie</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Straordinarie risorse digitali (PDF)</strong></a>
       </div>
       <em>Scopri come integrare Adobe Stock con CC Libraries per creare risultati di progettazione uniformi e professionali per la stampa e lo schermo in questo tutorial pratico</em>
       <br>
