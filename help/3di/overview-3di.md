@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con il 3D Adobe e la r
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e luci
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="Progettazione e rendering 3D" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>Progettazione e rendering 3D</strong></a>
+    </div>
+    <em>Importa contenuti, organizza la scena, applica materiali e texture, regola l’illuminazione fisica e basata su immagini, salva le fotocamere con risoluzioni diverse e renderizza le immagini fotorealistiche</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="Creazione di simulazioni 3D realistiche con Adobe [!DNL Stock] e [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e luci
     <em>Se vuoi vedere come appariranno i tuoi prodotti nel mondo reale, Adobe [!DNL Dimension] è la tua app di riferimento</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="Suggerimenti e tecniche per la masterizzazione dell’illuminazione 3D in CGI" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e luci
     <em>Informazioni sull’illuminazione 3D e su come creare diverse condizioni di luce che possono alterare completamente una scena generata dal computer e l’aspetto degli oggetti</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e luci
    <a href="3ddimensionstock.md"><strong>Personalizza e marca un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Personalizza e personalizza un modello 3D in [!DNL Dimension] utilizzo di materiali, proprietà ambientali, illuminazione e fotografia per creare immagini fotorealistiche per qualsiasi progetto di design</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>

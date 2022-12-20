@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D e VR {#3doverview}
    + [Panoramica](3di/overview-3di.md)
    + Esercitazioni {#3dtutorials}
+      + [Progettazione e rendering 3D](3di/substance-3d-stager.md)
       + [Suggerimenti e tecniche per la masterizzazione dell’illuminazione 3D in CGI](3di/mastering3dlighting.md)
       + [Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D](3di/photorealistic.md)
       + [Personalizza e marca un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe video {#videooverview}
    + [Panoramica](dva/overview-dva.md)
    + Esercitazioni {#videotutorials}
+      + [Modelli professionali di grafica animata](dva/motion-graphics-templates.md)
       + [Recensione video con Frame.io](dva/video-review-frame-io.md)
    + Guide di riferimento rapide {#videorefguides}
       + [Guide video](dva/overview-dva-ref.md)

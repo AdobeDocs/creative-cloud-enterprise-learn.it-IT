@@ -4,9 +4,9 @@ description: Tutorials che ti aiuteranno a familiarizzare con i prodotti Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Migliorare i flussi di lavoro CC con CC Libraries (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="Migliorare i flussi di lavoro CC con CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>Migliorare i flussi di lavoro CC con CC Libraries (PDF)</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>Migliorare i flussi di lavoro CC con CC Libraries</strong></a>
     </div>
     <em>Scoprite come Creative Cloud Libraries mantiene uniti gli elementi di progettazione, garantendo la coerenza dei progetti per designer e team</em>
     <br>
@@ -331,10 +331,10 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Ansia di tipo addomesticato (PDF)" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Ansia Da Domazione" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Ansia di tipo addomesticato (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Ansia Da Domazione</strong></a>
     </div>
     <em>Scopri come accedere e utilizzare oltre 20.000 font professionali in Creative Cloud</em>
     <br>
