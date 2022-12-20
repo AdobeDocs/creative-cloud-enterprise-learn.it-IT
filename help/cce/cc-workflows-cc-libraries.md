@@ -4,7 +4,8 @@ description: Scoprite come Creative Cloud Libraries mantiene uniti gli elementi 
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
+source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Migliorare i flussi di lavoro CC con CC Libraries
 
-Scoprite come le Creative Cloud Libraries mantengono uniti gli elementi di progettazione, garantendo la coerenza dei progetti per designer e team in queste esercitazioni pratiche.
+Scoprite come le Creative Cloud Libraries mantengono uniti gli elementi di progettazione, garantendo la coerenza dei progetti per designer e team in questi tutorial pratici.
 
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 

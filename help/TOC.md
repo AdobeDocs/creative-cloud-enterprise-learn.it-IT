@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '407'
+ht-degree: 9%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 0%
       + [Acrobat per creatori di contenuti](cce/acrobat-content-creators.md)
       + [Migliorare i flussi di lavoro CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Ansia da addomesticare](cce/taming-type-anxiety.md)
+      + [Adobe Express: Contenuti che spiccano](cce/adobe-express-content-that-stands-out.md)
+      + [Collaborazione: Il futuro della creatività](cce/collaboration-the-future-of-creativity.md)
       + [Creazione di librerie Creative Cloud per i team](cce/ccteamlibraries.md)
       + [Condivisione di risorse di branding con Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Creare composizioni uniche con Adobe [!DNL Stock] e Photoshop per iPad](cce/compositepsipad.md)
