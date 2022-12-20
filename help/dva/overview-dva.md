@@ -4,9 +4,9 @@ description: Tutorials che ti aiutano a familiarizzare con i prodotti DVA Adobi
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Dai vita alle tue idee con app e software di Adobe per l&#39;editing video, l&#3
       <img alt="Recensione video con Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Recensione video con Frame.io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Recensione video con Frame.io</strong></a>
     </div>
     <em>Scopri come l’estensione Frame.io per Adobe Premiere Pro consente di centralizzare e condividere le risorse, ricevere commenti in tempo reale, monitorare le revisioni e ottenere approvazioni più rapide, il tutto senza uscire dalla timeline</em>
     <br>
