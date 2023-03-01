@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [guide CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Panoramica](stock/overview-stock.md)
-   + Esercitazioni {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Risorse digitali straordinarie](stock/stunning-digital-assets.md)
       + [Adobe di ricerca [!DNL Stock] cronologia licenze](stock/searchstock.md)
       + [Aggiungere un’estetica disegnata a mano all’Adobe [!DNL Stock] immagini](stock/handdrawn.md)
@@ -60,21 +60,21 @@ ht-degree: 9%
       + [Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale](stock/customizecolors.md)
 + Adobe 3D e VR {#3doverview}
    + [Panoramica](3di/overview-3di.md)
-   + Esercitazioni {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [Progettazione e rendering 3D](3di/substance-3d-stager.md)
       + [Suggerimenti e tecniche per la masterizzazione dell’illuminazione 3D in CGI](3di/mastering3dlighting.md)
       + [Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D](3di/photorealistic.md)
       + [Personalizza e marca un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe video {#videooverview}
    + [Panoramica](dva/overview-dva.md)
-   + Esercitazioni {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Modelli professionali di grafica animata](dva/motion-graphics-templates.md)
       + [Recensione video con Frame.io](dva/video-review-frame-io.md)
    + Guide di riferimento rapide {#videorefguides}
       + [Guide video](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Panoramica](xd/overview-xd.md)
-   + Esercitazioni {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Comodità [!UICONTROL Componenti] in Adobe XD](xd/components.md)
 + Distribuzione e gestione {#deploy}
    + [Panoramica](deploy/overview-deploy.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
    + [Licenze nominative](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [Panoramica](max2020/overview-max.md)
-   + Esercitazioni {#tutorials}
+   + Tutorials {#tutorials}
       + [Panoramica](max2020/maxtutorials.md)
       + Prodotti desktop {#desktop-products}
          + [Acrobat e firma](max2020/acrobat-sign.md)
@@ -95,8 +95,8 @@ ht-degree: 9%
       + App mobile {#mobile-apps}
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
-         + [Illustrator su iPad](max2020/illustratoripad.md)
-         + [Photoshop su iPad](max2020/photoshopipad.md)
+         + [Illustrator per iPad](max2020/illustratoripad.md)
+         + [Photoshop per iPad](max2020/photoshopipad.md)
       + Integrazioni {#integrations}
          + [AEM &lt;unk>](max2020/aem.md)
          + [App desktop Creative Cloud](max2020/creativeclouddesktopapp.md)
