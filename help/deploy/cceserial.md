@@ -4,9 +4,9 @@ description: Esperienza di scadenza del numero di serie per Creative Cloud for e
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Sia Acrobat che Creative Cloud for enterprise inizieranno a visualizzare messagg
 
 ### Creative Cloud per l’esperienza enterprise
 
-Le informazioni seguenti descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video che mostra l’esperienza dell’utente finale.
+Le informazioni seguenti descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video che mostra l&#39;esperienza dell&#39;utente finale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -65,7 +65,7 @@ Per tutti i tentativi successivi di avviare le app, all&#39;utente finale verrà
 
 ### Acrobat
 
-Le informazioni seguenti descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video che mostra l’esperienza dell’utente finale.
+Le informazioni seguenti descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video che mostra l&#39;esperienza dell&#39;utente finale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -84,13 +84,13 @@ Una volta scaduto il numero di serie, gli utenti non avranno più accesso ad Acr
 
 Per tutti i tentativi successivi di avviare Acrobat, all&#39;utente finale verrà richiesto di **Accedi** seguito dall&#39;opzione per creare il proprio Adobe ID e passare alla modalità di prova. Tuttavia, qualsiasi nuova Adobe ID creata dall&#39;utente finale non sarà associata alle licenze dell&#39;organizzazione e causerà ulteriore confusione per gli utenti.
 
-![Finestra di dialogo di accesso di Acrobat 1](assets/acrobatsignin1.png)
+![Acrobat Sign nella finestra di dialogo 1](assets/acrobatsignin1.png)
 
-![Finestra di dialogo di accesso di Acrobat 2](assets/acrobatsignin2.png)
+![Acrobat Sign nella finestra di dialogo 2](assets/acrobatsignin2.png)
 
 ## Contattaci se hai bisogno di aiuto
 
 In caso di domande sull&#39;uso del metodo [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o se hai bisogno di aiuto durante la migrazione dalla distribuzione del numero di serie a un utente non anonimo, hai alcune opzioni:
 * Invia un messaggio e-mail al team di registrazione aziendale Adobe: **entonb@adobe.com**
 * Apri un ticket di supporto in [Admin Console](https://adminconsole.adobe.com/support)
-* Contatta il tuo Account Manager di Adobe o il Customer Success Manager
+* Contatta il team dell’account Adobe
