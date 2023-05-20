@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 25%
 
 ---
 
@@ -80,7 +80,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Creazione e condivisione di video online ovunque</em>
+    <em>Crea e condividi video online ovunque ti trovi</em>
     <br>
   </td>
 </tr>
@@ -129,15 +129,15 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Riscopri la gioia di disegnare e dipingere ovunque</em>
+    <em>Riscopri il piacere di disegnare e dipingere ovunque</em>
     <br>
   </td>
   <td>
     <a href="illustratoripad.md">
-      <img alt="Illustrator su iPad" src="../assets/AIoniPad.jpg" />
+      <img alt="Illustrator per iPad" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>Illustrator su iPad</strong></a>
+    <a href="illustratoripad.md"><strong>Illustrator per iPad</strong></a>
     </div>
     <em>Grafica vettoriale e illustrazione</em>
     <br>
@@ -146,12 +146,12 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="Photoshop su iPad" src="../assets/PSoniPad.jpg" />
+      <img alt="Photoshop per iPad" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop su iPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop per iPad</strong></a>
     </div>
-    <em>Elabora, componi e crea immagini, grafica e progetti artistici su desktop e iPad</em>
+    <em>Elabora, crea e modifica immagini, grafiche e progetti artistici su desktop e iPad</em>
     <br>
   </td>
   <td>

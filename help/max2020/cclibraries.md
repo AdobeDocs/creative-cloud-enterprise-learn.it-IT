@@ -7,7 +7,7 @@ exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ Con Adobe Creative Cloud Libraries puoi gestire, organizzare e accedere ai tuoi 
 
 In questa esercitazione verrà illustrato come:
 * Mantieni disponibili le tue risorse e i tuoi progetti in linea con il marchio
-* Nuovo! Integrazione completa con Adobe XD
+* Novità! Integrazione completa con Adobe XD
 
 **Presentato da:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)

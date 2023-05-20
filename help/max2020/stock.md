@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] for enterprise consente ai team creativi di accedere a oltre 200 milioni di immagini, video, modelli, illustrazioni, file audio e risorse 3D
 role: User
 level: Beginner, Intermediate

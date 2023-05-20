@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Dimension]"'
-description: '"[!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotti, packaging e altri progetti creativi"'
+title: "[!DNL Dimension]"
+description: "[!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotti, packaging e altri progetti creativi"
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b

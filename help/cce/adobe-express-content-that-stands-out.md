@@ -4,9 +4,10 @@ description: Creazione di splendide grafiche, pagine web e racconti video in poc
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Create splendidi elementi grafici, pagine web e racconti video in pochi minuti c
 
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
-[![Immagine della prima pagina dell’esercitazione](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target=&quot;blank&quot;}
+[![Immagine della prima pagina dell’esercitazione](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

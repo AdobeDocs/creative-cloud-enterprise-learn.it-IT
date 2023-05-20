@@ -2,15 +2,15 @@
 source-git-commit: f40eae6df76b779be9d338243ca4f19e0ab957db
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 # Licenza MIT
 
-© Copyright 2021 Adobe. Tutti i diritti riservati.
+© Copyright Adobe 2021. All rights reserved.
 
-È concessa gratuitamente l&#39;autorizzazione a chiunque ottenga una copia di questo software e dei relativi file di documentazione (il &quot;Software&quot;), a trattare nel Software senza restrizioni, compresi, a titolo esemplificativo, i diritti di utilizzo, copia, modifica, fusione, pubblicazione, distribuzione, sublicenza e/o vendita di copie del Software, e a consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
+Con la presente si concede l&#39;autorizzazione, a titolo gratuito, a chiunque ottenga una copia di questo software e dei relativi file di documentazione (il &quot;Software&quot;), a trattare il Software senza restrizioni, inclusi, senza limitazioni, i diritti di utilizzo, copia, modifica, unione, pubblicazione, distribuzione, sublicenza e/o vendita di copie del Software, e a consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
 
-L&#39;avviso di copyright di cui sopra e l&#39;avviso di autorizzazione sono inclusi in tutte le copie o parti sostanziali del Software.
+L&#39;avviso di copyright sopra riportato e l&#39;avviso di autorizzazione sono inclusi in tutte le copie o porzioni sostanziali del Software.
 
-IL SOFTWARE VIENE FORNITO &quot;COME È&quot;, SENZA GARANZIA DI ALCUN TIPO, ESPRESSA O IMPLICATA, COMPRESE, MA NON LIMITATE, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO E NON INFRAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL DIRITTO D&#39;AUTORE SONO RESPONSABILI DI QUALSIASI RICHIESTA, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN&#39;AZIONE DI CONTRATTO, DI TRATTAMENTO O DI ALTRO TIPO, DERIVANTE DAL SOFTWARE, DALL&#39;UTILIZZO O DA ALTRE OPERAZIONI NEL SOFTWARE.
+IL SOFTWARE VIENE FORNITO &quot;COSÌ COME È&quot;, SENZA GARANZIA DI ALCUN TIPO, ESPLICITA O IMPLICITA, COMPRESE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEI DIRITTI D&#39;AUTORE SONO RESPONSABILI PER QUALSIASI RIVENDICAZIONE, RISARCIMENTO DANNI O ALTRE RESPONSABILITÀ, SIA IN CASO DI REATO CONTRATTUALE, ILLECITO O DI ALTRO TIPO, DERIVANTE DAL SOFTWARE O COLLEGATO ALL&#39;USO O AD ALTRE OPERAZIONI NEL SOFTWARE.

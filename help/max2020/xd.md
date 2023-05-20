@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# XD &lt;unk>
+# XD
 
 ![Tutorial Hero Image](../assets/XD.jpg)
 

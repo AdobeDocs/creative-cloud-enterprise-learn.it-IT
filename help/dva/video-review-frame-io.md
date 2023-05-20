@@ -4,9 +4,10 @@ description: Scopri come l’estensione Frame.io per Adobe Premiere Pro consente
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+exl-id: 7a3e55f0-5208-4d4f-9427-108a468a1f56
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Collabora dove crei. Scopri come l’estensione Frame.io per Adobe Premiere Pro 
 
 Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
 
-[![Immagine della prima pagina dell’esercitazione](assets/Videoreviewwithframe.png){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
+[![Immagine della prima pagina dell’esercitazione](assets/Videoreviewwithframe.png){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target="blank"}

@@ -49,7 +49,7 @@ Un altro trucco utile è creare una sfera con un materiale metallico luccicante 
 
 ## Tipi di luci in Adobe [!DNL Dimension]
 
-### Luci ambiente
+### Luci ambientali
 
 Le luci ambiente sono immagini equirettangolari (sferiche), che vengono avvolte intorno all&#39;intera scena. Come suggerisce il nome, queste luci servono a emulare l&#39;intero ambiente, comprese le sorgenti di luce, che sono immagazzinate in esse.
 
@@ -81,7 +81,7 @@ Con questi metodi hai acquisito tutte le luci, i riflessi e i dettagli necessari
 
 ### Luci direzionali
 
-Oltre alle luci ambiente, che emettono luce a 360 gradi, ci sono anche luci direzionali, che emettono luce da una sola direzione. Sono usati per emulare torce elettriche e altri tipi di luci provenienti da un emettitore ben definito e possono essere a forma di cerchio o quadrato.
+Oltre alle luci ambiente, che emettono luce a 360 gradi, ci sono anche luci direzionali, che emettono luce da una sola direzione. Sono usati per emulare torce elettriche e altri tipi di luci provenienti da un emettitore ben definito, e possono essere a forma di cerchio o quadrato.
 
 L’uso delle luci direzionali offre un controllo completo sulla configurazione dell’illuminazione. L’illuminazione della scena con queste luci è eseguita nello stesso modo della fotografia tradizionale, in cui ogni luce può essere controllata in modo indipendente, consentendo di creare la propria illuminazione fotografica virtuale. Una delle impostazioni di illuminazione più comunemente utilizzate è il sistema di illuminazione a 3 punti.
 
