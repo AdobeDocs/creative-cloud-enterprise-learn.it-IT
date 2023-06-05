@@ -4,9 +4,9 @@ description: Benvenuto nell'hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 9%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare un’ampia gamma di esperienze di apprendimento incentrate sulla Creative Cloud per le aziende. I nostri tutorial, webinar e esempi di utilizzo sono progettati per portare rapidamente i principianti e gli amministratori al passo con la Creative Cloud dei prodotti enterprise.
 
-## Sfoglia argomenti
+## Sfoglia gli argomenti
 
 <table style="table-layout:fixed">
 <tr>
@@ -32,6 +32,26 @@ Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare 
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Uno strumento creativo intuitivo, senza bisogno di alcuna esperienza</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Firefly Adobe" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Firefly Adobe</strong></a>
+    </div>
+    <em>La nuova famiglia di modelli creativi generativi di IA in arrivo sui prodotti Adobi</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare 
     <em>Immagini digitali, illustrazioni, video, audio, modelli e altro ancora di alta qualità</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D e VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare 
     <em>Creazione di immagini 3D fotorealistiche per progetti di branding, immagini di prodotti e packaging</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe video" src="assets/CCEbanner-DVA.png" />
