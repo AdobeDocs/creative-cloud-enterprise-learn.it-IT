@@ -3,9 +3,9 @@ title: Adobe [!DNL Express] Panoramica
 description: Adobe e velocità [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: b443f7a315bb2239fcdde197d28af0d013d29851
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,18 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
       </a>
   </td>
   <td>
+      <a href="schedule.md">
+         <img alt="Pianifica post social" src="assets/schedule.png" />
+      </a>
+  </td>
+  <td>
+   <a href="collaborate.md">
+      <img alt="Invitare collaboratori di progetto" src="assets/collaborate.png" />
+   </a>
+  </td>
+</tr>
+<tr>
+   <td>
       <a href="get-inspiration.md">
          <img alt="Ispirazione rapida" src="assets/inspiration.png" />
       </a>
@@ -48,9 +60,7 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
       <img alt="Creare modelli" src="assets/templates.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="add-design-assets.md">
          <img alt="Aggiungere risorse di progettazione" src="assets/design-assets.png" />
       </a>
@@ -60,7 +70,9 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
          <img alt="Raggruppare gli oggetti" src="assets/group-objects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="layers.md">
          <img alt="Selezionare e spostare i livelli" src="assets/layers.png" />
       </a>
@@ -69,11 +81,8 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
       <a href="multiple-pages.md">
          <img alt="Creare più pagine" src="assets/multiple-pages.png" />
       </a>
-      <div>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="Annullare e ripristinare" src="assets/undo-redo.png" />
       </a>
@@ -83,7 +92,9 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
          <img alt="Utilizzare CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="brand.md">
          <img alt="Applicare il marchio" src="assets/brand.png" />
       </a>
@@ -93,9 +104,7 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
          <img alt="Integrazione con Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
-    <td>
+   <td>
       <a href="remove-background.md">
          <img alt="Rimuovi sfondo" src="assets/background.png" />
       </a>
@@ -105,6 +114,7 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
          <img alt="Rifinire un ritaglio" src="assets/cutouts.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="text-effects.md">
          <img alt="Usare gli effetti di testo" src="assets/text-effects.png" />
@@ -115,21 +125,10 @@ Adobe Express è uno strumento creativo facile da usare, senza bisogno di alcuna
          <img alt="Usare gli effetti immagine" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="create-curved-text.md">
          <img alt="Creare testo curvo" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/Whitespacer.png" />

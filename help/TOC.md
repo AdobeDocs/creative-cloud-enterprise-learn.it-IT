@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '476'
 ht-degree: 10%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 10%
    + Esercitazioni {#expresstutorials}
       + [Guida introduttiva ad Adobe Express](express/get-started.md)
       + [Adobe Express per principianti](express/adobe-express-beginners.md)
+      + [Pianifica post social](express/schedule.md)
+      + [Invitare collaboratori di progetto](express/collaborate.md)
       + [Ispirazione rapida](express/get-inspiration.md)
       + [Creare modelli](express/create-templates.md)
       + [Aggiungere risorse di progettazione](express/add-design-assets.md)
