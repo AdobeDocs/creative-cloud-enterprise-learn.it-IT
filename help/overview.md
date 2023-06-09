@@ -4,7 +4,7 @@ description: Benvenuto nell'hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 715226411355dce6411212f6d51043afc77998be
+source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 9%
@@ -43,10 +43,10 @@ Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare 
   </td>
   <td>
     <a href="firefly/overview-firefly.md">
-      <img alt="Firefly Adobe" src="assets/firefly.png" />
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
     </a>
     <div>
-   <a href="firefly/overview-firefly.md"><strong>Firefly Adobe</strong></a>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
     </div>
     <em>La nuova famiglia di modelli creativi generativi di IA in arrivo sui prodotti Adobi</em>
     <br>
@@ -93,11 +93,11 @@ Benvenuto nell&#39;hub Creative Cloud for enterprise learning. Qui puoi trovare 
     <br>
   </td>
   <td>
-    <a href="max2020/overview-max.md">
+    <a href="max/overview-max.md">
       <img alt="MAX 2020 - sessioni aziendali" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 - sessioni aziendali</strong></a>
+   <a href="max/overview-max.md"><strong>MAX 2020 - sessioni aziendali</strong></a>
     </div>
     <em>Sessioni aziendali per MAX 2020</em>
     <br>
