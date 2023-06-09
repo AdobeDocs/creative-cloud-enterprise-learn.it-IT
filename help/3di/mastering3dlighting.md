@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Illuminazione 3D, 600 MSV globali
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Scoprite l’illuminazione 3D e come creare diverse condizioni di luce che posso
 
 Percepiamo il mondo che ci circonda usando i nostri sensi: sentiamo, sentiamo, odoriamo, vediamo. Possiamo vedere perché i nostri occhi raccolgono informazioni che ci arrivano dalle particelle elementari chiamate fotoni. Queste informazioni vengono elaborate dal nostro cervello per produrre un&#39;immagine. Ciò che interpretiamo come colore dell&#39;oggetto, lucentezza, traslucidità o qualità metalliche sono tutti prodotti dell&#39;interazione tra i fotoni e la superficie dell&#39;oggetto.
 
-La meccanica della luce in una scena 3D generata al computer segue lo stesso principio naturale dello scattering fotonico, attraverso un processo chiamato [ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). I raggi rimbalzano sulle forme e interagiscono con i loro materiali, definendo in modo efficace l’aspetto degli oggetti nell’immagine finale. Le luci espongono la dimensionalità di tutto ciò che esiste in una scena 3D.
+La meccanica della luce in una scena 3D generata al computer segue lo stesso principio naturale dello scattering dei fotoni, attraverso un processo chiamato ray tracing. I raggi rimbalzano sulle forme e interagiscono con i loro materiali, definendo in modo efficace l’aspetto degli oggetti nell’immagine finale. Le luci espongono la dimensionalità di tutto ciò che esiste in una scena 3D.
 
 Alcuni materiali sono più sensibili alle condizioni di illuminazione di altri. Prendete i metalli, per esempio: un oggetto chrome riflette praticamente tutto ciò che lo circonda. Se una luce viene spostata, diventa più luminosa o più grande, tutte queste informazioni sono visibili direttamente sulla superficie cromata in un dettaglio quasi simile a uno specchio, quindi possono apparire completamente diverse da una condizione di luce all&#39;altra.
 
@@ -35,15 +35,15 @@ Il processo di creazione di un rendering 3D non è mai esattamente lo stesso, ma
 1. Creazione o assegnazione di materiale
 1. Rendering
 
-Quando si arriva alla fase di illuminazione, è ideale impostare le luci prima di lavorare sui materiali. A tale scopo, potete assegnare un materiale grigio neutro all’intera scena. In questo modo, sarai in grado di vedere e comprendere più chiaramente in che modo le luci influenzano le sagome degli oggetti nella scena. Dopo che i materiali sono stati completati, l&#39;illuminazione potrebbe aver bisogno di ulteriori miglioramenti.
+Quando si arriva alla fase di illuminazione, è ideale impostare le luci prima di lavorare sui materiali. A tale scopo, potete assegnare un materiale grigio neutro all’intera scena. In questo modo, sarai in grado di vedere e capire più chiaramente in che modo le luci influenzano le sagome degli oggetti nella scena. Dopo che i materiali sono stati completati, l&#39;illuminazione potrebbe aver bisogno di ulteriori miglioramenti.
 
 ![Il soggiorno in CGI esegue il confronto con il materiale opaco grigio neutro a sinistra rispetto ai materiali finiti a destra](assets/Mastering3dlighting_2.jpg)
 
-È meglio lavorare sulle luci una alla volta. La luce attiva dovrebbe essere l’unica visibile nella scena, mentre tutte le altre luci dovrebbero essere temporaneamente spente. In questo modo, potrai vedere come una luce specifica influenza la scena e modificarla lavorando sulle sue proprietà, come la posizione, la direzione, l’intensità e così via.
+È meglio lavorare sulle luci una alla volta. La luce attiva dovrebbe essere l’unica visibile nella scena, mentre tutte le altre luci dovrebbero essere temporaneamente spente. In questo modo, sarai in grado di vedere come una luce specifica influenza la scena e cambiarla lavorando sulle sue proprietà, come la posizione, la direzione, l&#39;intensità, ecc.
 
 ![Esempio di 3 luci che illuminano un modello di auto 3D singolarmente e tutte e 3 insieme](assets/Mastering3dlighting_3.gif)
 
-Un altro trucco utile è creare una sfera con un materiale metallico luccicante (cromato o specchio). Questa &quot;palla specchio&quot; rifletterà in modo efficace l’intera scena attorno ad essa, così puoi determinare facilmente la posizione, la direzione o le dimensioni della luce. Nel caso delle luci ambiente, potrai vedere il suo riflesso nella sfera a specchio, che ti aiuterà a impostare il suo orientamento nello spazio.
+Un altro trucco utile è creare una sfera con un materiale metallico luccicante (cromato o specchio). Questa &quot;palla specchio&quot; rifletterà in modo efficace l’intera scena attorno ad essa, in modo da poter facilmente determinare la posizione, la direzione o le dimensioni della luce. Nel caso delle luci d&#39;ambiente, potrete vedere il suo riflesso nella sfera a specchio, che aiuterà a impostare il suo orientamento nello spazio.
 
 ![Utilizzo di una sfera a specchio (sfera con texture metallica) per vedere e orientare la luce ambiente in una scena 3D](assets/Mastering3dlighting_4.gif)
 
@@ -81,7 +81,7 @@ Con questi metodi hai acquisito tutte le luci, i riflessi e i dettagli necessari
 
 ### Luci direzionali
 
-Oltre alle luci ambiente, che emettono luce a 360 gradi, ci sono anche luci direzionali, che emettono luce da una sola direzione. Sono usati per emulare torce elettriche e altri tipi di luci provenienti da un emettitore ben definito, e possono essere a forma di cerchio o quadrato.
+Oltre alle luci ambiente, che emettono luce a 360 gradi, ci sono anche luci direzionali, che emettono luce da una sola direzione. Sono usati per emulare torce elettriche e altri tipi di luci provenienti da un emettitore ben definito e possono essere a forma di cerchio o quadrato.
 
 L’uso delle luci direzionali offre un controllo completo sulla configurazione dell’illuminazione. L’illuminazione della scena con queste luci è eseguita nello stesso modo della fotografia tradizionale, in cui ogni luce può essere controllata in modo indipendente, consentendo di creare la propria illuminazione fotografica virtuale. Una delle impostazioni di illuminazione più comunemente utilizzate è il sistema di illuminazione a 3 punti.
 
@@ -147,7 +147,7 @@ Questa configurazione è composta da tre luci:
 
    ![Esempio di luce a cerchio che illumina un modello di cuffie 3D](assets/Mastering3dlighting_23.jpg)
 
-1. **Luce di riempimento:** meno intensivo e utile per riempire le aree più scure, viene utilizzato per le aree che le due luci precedenti non raggiungono.
+1. **Luce di riempimento:** meno intensivo e utile per riempire le aree più scure, viene utilizzato per aree che le due luci precedenti non raggiungono.
 
    ![Esempio di luce di riempimento che illumina un modello di cuffie 3D](assets/Mastering3dlighting_24.jpg)
 
@@ -183,7 +183,7 @@ Il modo più semplice per impostare questa luce è usando piani con materiali lu
 
 ![Illustrazione che illustra come le luci chiave e di riempimento vengono posizionate all’interno di un soggiorno 3D per illuminare la scena](assets/Mastering3dlighting_30.jpg)
 
-L&#39;intensità della luce è controllata dalla proprietà bagliore sui materiali dei piani. Potete aggiungere un colore o anche una texture, che può essere utilizzata per creare ombre interessanti. L&#39;uso di materiali luminosi fornisce anche il decadimento dell&#39;intensità della luce, che è molto importante per l&#39;illuminazione interna.
+L&#39;intensità della luce è controllata dalla proprietà del bagliore sui materiali dei piani. Potete aggiungere un colore o anche una texture, che può essere utilizzata per creare ombre interessanti. L&#39;uso di materiali luminosi fornisce anche il decadimento dell&#39;intensità della luce, che è molto importante per l&#39;illuminazione interna.
 
 ![Esempio di luce ambiente, ambiente e luce chiave e ambiente, luci chiave e di riempimento che illuminano una scena 3d del soggiorno](assets/Mastering3dlighting_31.gif)
 
