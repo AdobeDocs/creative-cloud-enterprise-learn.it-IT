@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Panoramica
 description: Adobe e velocità [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
+source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <div>
       <a href="https://firefly.adobe.com/" target="_blank"><strong>Firefly Adobe (Beta)</strong></a>
       </div>
-      <em>Iscriviti al programma beta di Firefly Adobe.</em>
+      <em>Iscriviti al programma beta per Adobi Firefly.</em>
       <br>
   </td>
   <td>
@@ -49,9 +49,9 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="Sperimentazione con Adobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/Whitespacer.png" />

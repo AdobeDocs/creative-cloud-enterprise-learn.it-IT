@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '481'
 ht-degree: 10%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 10%
       + [Creare testo curvo](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Panoramica](firefly/overview-firefly.md)
+   + Webinar {#firefly-webinars}
+      + [Sperimentazione con Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Panoramica](stock/overview-stock.md)
    + Esercitazioni {#stocktutorials}
