@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Panoramica
 description: Adobe e velocità [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Scopri Firefly in Photoshop</strong></a>
       </div>
-      <em>Firefly è ora in Photoshop e il modo in cui crei non sarà mai lo stesso</em>
+      <em>Firefly è ora in Photoshop e il modo di creare non sarà mai lo stesso</em>
       <br>
   </td>
   <td>
@@ -59,9 +59,14 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Photoshop Riempimento generativo" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Photoshop Riempimento generativo</strong></a>
+      </div>
+      <em>Scoprite come utilizzare Riempimento generativo basato su Adobi Firefly</em>
+      <br>
   </td>
 </tr>
 </table>
