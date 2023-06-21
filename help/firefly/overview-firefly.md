@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Panoramica
 description: Adobe e velocità [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
          <img alt="Firefly Adobe (Beta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Firefly Adobe (Beta)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (beta)</strong></a>
       </div>
       <em>Iscriviti al programma beta per Adobi Firefly.</em>
       <br>
@@ -45,7 +46,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Scopri Firefly in Photoshop</strong></a>
       </div>
-      <em>Firefly è ora in Photoshop e il modo di creare non sarà mai lo stesso</em>
+      <em>Firefly è ora in Photoshop e il modo in cui crei non sarà mai lo stesso</em>
       <br>
   </td>
   <td>
@@ -69,4 +70,30 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Banner e varianti in Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Banner e varianti in Photoshop</strong></a>
+      </div>
+      <em>Scopri come utilizzare Riempimento generativo per accelerare la creazione di banner pubblicitari per il web</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
