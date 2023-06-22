@@ -4,7 +4,7 @@ description: Adobe e velocità [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 3ebd0493d0d31835571ecf9b5359617049977fbb
+source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
 
 <br> 
 
-## Scopri cosa puoi fare con Adobe Firefly
+## Scopri cosa puoi fare con l&#39;Adobe Firefly
 
 <br> 
 
@@ -61,8 +61,6 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
          <img alt="Photoshop Riempimento generativo" src="assets/generative-fill.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Banner e varianti in Photoshop" src="assets/banner-ad-variations.png" />
