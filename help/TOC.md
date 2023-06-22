@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapide incentrate sulla Creative Cloud per le aziende
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '502'
 ht-degree: 10%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 10%
    + Esercitazioni {#firefly-tutorials}
       + [Banner e variazioni [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Riempimento generativo [!DNL Photoshop]](firefly/generative-fill.md)
+      + [Effetti di testo](firefly/text-effects.md)
    + Webinar {#firefly-webinars}
       + [Sperimentazione con Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
