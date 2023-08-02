@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Visualizza esercitazioni e guide di riferimento rapido incentrate su Creative Cloud for enterprise
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 10%
+source-wordcount: '523'
+ht-degree: 9%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 10%
    + Esercitazioni {#expresstutorials}
       + [Introduzione all&#39;Adobe Express](express/get-started.md)
       + [Adobe Express per principianti](express/adobe-express-beginners.md)
+      + [Creazione di contenuti di selezione e inserimento con Firefly](express/create-on-boarding.md)
       + [Creazione di contenuto grafico per blog con Firefly](express/create-blog-graphics.md)
       + [Crea poster social con Firefly](express/create-social-posters.md)
       + [Crea poster del webinar con Firefly](express/create-webinar-poster.md)
