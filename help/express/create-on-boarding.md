@@ -1,11 +1,11 @@
 ---
 title: Creazione di contenuti di selezione e inserimento con Firefly
-description: Scopri come creare grafica univoca per i contenuti di selezione e inserimento dei dipendenti
+description: Scopri come utilizzare la funzione di conversione da testo a immagine, basata su Adobi Firefly, in Adobe Express per creare elementi grafici univoci per i contenuti di selezione e inserimento dei dipendenti
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---

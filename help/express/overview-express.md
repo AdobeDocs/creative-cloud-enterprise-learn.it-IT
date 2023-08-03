@@ -3,10 +3,11 @@ title: Adobe [!DNL Express] Panoramica
 description: Adobe all'avanguardia [!DNL Express]
 role: User
 level: Beginner
+jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -35,6 +36,10 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
       </a>
   </td>
   <td>
+      <a href="create-local-marketing.md">
+         <img alt="Creazione di contenuti volantini per una campagna di marketing con Firefly" src="assets/local-marketing.png" />
+      </a>
+  <td>
       <a href="create-on-boarding.md">
          <img alt="Creazione di contenuti di selezione e inserimento con Firefly" src="assets/on-boarding.png" />
       </a>
@@ -43,14 +48,14 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
          <img alt="Crea poster social con Firefly" src="assets/social-firefly.png" />
       </a>
   </td>
-  <td>
-      <a href="create-webinar-poster.md">
-         <img alt="Crea poster del webinar con Firefly" src="assets/webinar-poster.png" />
-      </a>
-  </td>
 </tr>
 <tr>
  <td>
+      <a href="create-blog-graphics.md">
+         <img alt="Creazione di contenuto grafico per blog con Firefly" src="assets/blog-graphic.png" />
+      </a>
+  </td>
+  <td>
       <a href="create-webinar-poster.md">
          <img alt="Crea poster del webinar con Firefly" src="assets/webinar-poster.png" />
       </a>
@@ -65,13 +70,13 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
       <img alt="Invita collaboratori al progetto" src="assets/collaborate.png" />
    </a>
   </td>
- <td>
+</tr>
+<tr>
+   <td>
       <a href="get-inspiration.md">
          <img alt="Trai rapidamente ispirazione" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="Creare modelli" src="assets/templates.png" />
@@ -87,13 +92,13 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
             <img alt="Raggruppare gli oggetti" src="assets/group-objects.png" />
          </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
          <a href="layers.md">
             <img alt="Selezionare e spostare i livelli" src="assets/layers.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="multiple-pages.md">
          <img alt="Creare più pagine" src="assets/multiple-pages.png" />
@@ -109,14 +114,14 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
          <img alt="Utilizzo di CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="brand.md">
          <img alt="Applica il tuo marchio" src="assets/brand.png" />
       </a>
   </td>
-</tr>
-<tr>
- <td>
+   <td>
       <a href="google-drive.md">
          <img alt="Integrazione di Google Drive" src="assets/google-drive.png" />
       </a>
@@ -131,14 +136,14 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
          <img alt="Perfezionare un ritaglio" src="assets/cutouts.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="text-effects.md">
          <img alt="Usa effetti di testo" src="assets/text-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="image-effects.md">
          <img alt="Usare gli effetti immagine" src="assets/image-effects.png" />
       </a>
@@ -147,11 +152,6 @@ Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza
       <a href="create-curved-text.md">
          <img alt="Crea testo curvo" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
