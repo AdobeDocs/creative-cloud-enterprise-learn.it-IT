@@ -1,10 +1,11 @@
 ---
 title: App desktop Creative Cloud
-description: L’app desktop Creative Cloud è il punto di riferimento per la gestione di app CC, servizi e collaborazione, e non solo.
+description: L'app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%
@@ -13,22 +14,22 @@ ht-degree: 8%
 
 # App desktop Creative Cloud
 
-![Tutorial Hero Image](../assets/CCDA.jpg)
+![Immagine esercitazione eroe](../assets/CCDA.jpg)
 
-L’app desktop Creative Cloud è il punto di riferimento per la gestione di app CC, servizi e collaborazione, e non solo.
+L&#39;app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Scopri l’app desktop CC: Il tuo hub per la Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Esplora l&apos;app CC Desktop: il tuo hub per la Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Scopri l’app desktop CC: Il tuo hub per la Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Esplora l'app CC Desktop: il tuo hub per la Creative Cloud</strong></a>
     </div>
-    <em>L’app desktop Creative Cloud è il punto di riferimento per la gestione di app CC, servizi e collaborazione, e non solo.</em>
+    <em>L'app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.</em>
     <br>
   </td>
   <td>
@@ -44,20 +45,20 @@ L’app desktop Creative Cloud è il punto di riferimento per la gestione di app
 </tr>
 </table>
 
-## Scopri l’app desktop CC: Hub per il Creative Cloud (2:50) {#tutorial1}
+## Esplora l&#39;app CC Desktop: Il tuo hub per la Creative Cloud (2:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
 **Descrizione**
-L’app desktop Creative Cloud è il punto di riferimento per la gestione di app CC, servizi e collaborazione, e non solo.
+L&#39;app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.
 
-In questa esercitazione verrà illustrato come:
-* Avviare e aggiornare le app desktop
-* Trova app mobile e web
+In questo tutorial imparerai come:
+* Avvia e aggiorna le app desktop
+* Trovare app Web e per dispositivi mobili
 * Gestione e condivisione delle risorse
-* Accesso ad Adobe Fonts
-* Esercitazioni Scopri
+* Accedi ad Adobe Fonts
+* Scopri i tutorial
 * Condividere un lavoro in Behance
 
 **Presentato da:**
-Patti Sokol, Principal Solutions Consultant (Digital Media)
+Patti Sokol, Consulente Principal Solutions (Digital Media)

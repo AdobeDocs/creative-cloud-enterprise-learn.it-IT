@@ -1,20 +1,21 @@
 ---
-title: Photoshop Riempimento generativo
-description: Scoprite come utilizzare Riempimento generativo basato su Adobi Firefly
+title: Riempimento generativo in Photoshop
+description: Scopri come utilizzare il riempimento generativo con tecnologia Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13467
 exl-id: 470703d3-94d1-4699-9112-13cc532a5d74
-source-git-commit: a09b13fab3268cef63771abca51756c96f45aa07
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Photoshop Riempimento generativo
+# Riempimento generativo in Photoshop
 
-Scopri come utilizzare Riempimento generativo, basato su Adobi Firefly, in Adobe Photoshop per semplificare la creazione di un concetto per una pubblicità di viaggio. Questa esercitazione utilizza [Beta Photoshop (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Scoprite come utilizzare Generative Fill, basato sull&#39;Adobe Firefly, in Adobe Photoshop per semplificare la creazione di un concetto per un annuncio di viaggio. Questo tutorial utilizza [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
 
 <br> 
 

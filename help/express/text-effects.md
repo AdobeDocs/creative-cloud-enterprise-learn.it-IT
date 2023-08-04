@@ -1,17 +1,19 @@
 ---
 title: Usa effetti di testo
-description: Scopri come aggiungere ombre esterne, forme e contorno del testo
+description: Scopri come aggiungere ombre esterne, forme e testo contorno
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%
 
 ---
 
-# Usare gli effetti di testo
+# Usa effetti di testo
 
-Scoprite come aggiungere ombre esterne, forme e contorno del testo.
+Scoprite come aggiungere ombre esterne, forme e testo contorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

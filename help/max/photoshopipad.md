@@ -1,10 +1,11 @@
 ---
 title: Photoshop per iPad
-description: Crea tutto quello che ti suggerisce l'immaginazione, ovunque ti colga l'ispirazione con Photoshop su iPad
+description: Crea tutto ciò che puoi immaginare, ovunque ti colga l'ispirazione con Photoshop per iPad
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -13,22 +14,22 @@ ht-degree: 2%
 
 # Photoshop per iPad
 
-![Tutorial Hero Image](../assets/PSoniPad.jpg)
+![Immagine esercitazione eroe](../assets/PSoniPad.jpg)
 
-Photoshop è il miglior software al mondo per la progettazione grafica e l&#39;elaborazione delle immagini e offre una creatività illimitata per i professionisti di tutti i dispositivi. Ora chiunque può creare qualsiasi cosa immagini, ovunque colga l&#39;ispirazione. Se ci pensate, ce la potete fare con Photoshop.
+Photoshop è il software di progettazione grafica e di imaging migliore del mondo, che offre creatività illimitata ai professionisti su tutti i dispositivi. Ora chiunque può creare qualsiasi cosa immaginino, ovunque ci sia ispirazione. Se ci pensate, potete farlo con Photoshop.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="Introduzione a Photoshop su iPad" src="../assets/PSiPad_thumbnail.jpg" />
+      <img alt="Introduzione a Photoshop per iPad" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
-   <a href="photoshopipad.md#tutorial1"><strong>Introduzione a Photoshop su iPad</strong></a>
+   <a href="photoshopipad.md#tutorial1"><strong>Introduzione a Photoshop per iPad</strong></a>
     </div>
-    <em>Segui un tour dell’interfaccia e scopri alcune funzionalità di Photoshop riprogettate per l’utilizzo nell’iPad Apple</em>
+    <em>Fai un tour dell’interfaccia e scopri alcune funzioni di Photoshop riprogettate per l’uso su Apple iPad</em>
     <br>
   </td>
   <td>
@@ -49,23 +50,23 @@ Photoshop è il miglior software al mondo per la progettazione grafica e l&#39;e
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **Descrizione**
-Segui un tour dell’interfaccia e scopri alcune funzionalità di Photoshop riprogettate per l’utilizzo nell’iPad Apple.
+Fai un tour dell’interfaccia e scopri alcune funzioni di Photoshop riprogettate per l’uso su Apple iPad.
 
-In questa esercitazione verrà illustrato come:
-* Accedi ai tuoi strumenti di Photoshop preferiti sul
-* Elaborazione precisa su mobile senza compromettere la qualità
-* Esperienza più immersiva e naturale
-* Flusso di lavoro uniforme con Documenti cloud
+In questo tutorial imparerai come:
+* Accedi ai tuoi strumenti preferiti di Photoshop su
+* Editing preciso su dispositivi mobili senza compromettere la qualità
+* Esperienza più coinvolgente e naturale
+* Flusso di lavoro uniforme con i documenti cloud
 
 **Presentato da:**
-Dan Armstrong, Consulente Soluzioni (Digital Media)
+Dan Armstrong, consulente per le soluzioni (Digital Media)
 
-![Photoshop sul logo iPad](../assets/ps_appicon_96.png)
+![Logo Photoshop con iPad](../assets/ps_appicon_96.png)
 
-**Photoshop sulle risorse iPad**
+**Risorse per Photoshop su iPad**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il punto di riferimento per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

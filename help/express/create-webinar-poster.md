@@ -1,8 +1,9 @@
 ---
 title: Crea poster del webinar con Firefly
 description: Scoprite come utilizzare la funzione "Da testo a immagine", basata su un Adobe Firefly Adobe Express, per creare un poster di un webinar per un evento di realtà virtuale
+feature: Image Editing
 level: Beginner
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%

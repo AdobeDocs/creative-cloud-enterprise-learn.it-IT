@@ -1,21 +1,23 @@
 ---
-title: Collaborazione - Il futuro della creatività
-description: 'Scopri i numerosi vantaggi di un abbonamento a Adobe Creative Cloud: puoi accedere gratuitamente a più di 20.000 font professionali progettati e selezionati da Adobe Fonts'
+title: 'Collaborazione: il futuro della creatività'
+description: Scopri come aggiungere commenti e condividere feedback su file e cartelle Creative Cloud con i membri del team, gli stakeholder, i clienti e i font selezionati di Adobe Fonts
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Collaborazione: Il futuro della creatività
+# Collaborazione: il futuro della creatività
 
-Tra i numerosi vantaggi di un abbonamento a Adobe Creative Cloud c&#39;è l&#39;accesso gratuito a più di 20.000 font professionali progettati e selezionati da Adobe Fonts. Originariamente noto come Typekit, Adobe Fonts è disponibile tramite un unico contratto di licenza che offre ai designer un utilizzo creativo illimitato per progetti personali o commerciali.
+Scopri come aggiungere commenti e inviare feedback su file e cartelle Creative Cloud con i membri del team, gli stakeholder e i clienti. Condividi dal sito Web di Adobe Creative Cloud o condividi per la revisione direttamente dalle app come Illustrator, InDesign o Photoshop.
 
-Seleziona l’immagine seguente per visualizzare o scaricare questa esercitazione PDF.
+Seleziona l&#39;immagine seguente per visualizzare o scaricare questo tutorial di PDF.
 
-[![Immagine della prima pagina dell’esercitazione](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![Immagine della prima pagina del tutorial](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

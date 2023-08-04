@@ -1,19 +1,20 @@
 ---
-title: Ricolora generativa in Illustrator
-description: Scoprite come utilizzare il ricolore generativo basato su Adobe Firefly
+title: Ricolora in modo generativo in Illustrator
+description: Scopri come utilizzare Ricolora generativa con tecnologia Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527
-source-git-commit: a09b13fab3268cef63771abca51756c96f45aa07
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Ricolora generativa in Illustrator
+# Ricolora in modo generativo in Illustrator
 
-Scoprite come utilizzare l’opzione Ricolora generativa, basata sull’Adobe Firefly, in Adobe Illustrator per consentire di ricolorare rapidamente le immagini vettoriali per le caselle da tè degli hotel personalizzate. Questa esercitazione utilizza l&#39;Adobe di Illustrator Prerelease.
+Scoprite come utilizzare Ricolora generativa, basata sull&#39;Adobe Firefly, in Adobe Illustrator per ricolorare rapidamente le immagini vettoriali per le scatole da tè degli hotel personalizzate. Questo tutorial utilizza la versione preliminare di Illustrator di Adobe.
 
 <br> 
 

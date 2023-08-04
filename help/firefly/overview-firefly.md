@@ -1,26 +1,27 @@
 ---
 title: Adobe [!DNL Firefly] Panoramica
-description: Adobe e velocità [!DNL Firefly]
+description: Adobe all'avanguardia [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] panoramica
 
-![Firefly Hero Image](../assets/firefly.png)
+![Immagine eroe Firefly](../assets/firefly.png)
 
-Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui prodotti di Adobe, concentrandosi inizialmente sulla generazione di immagini e di effetti di testo. Firefly offre nuovi modi per ideare, creare e comunicare, migliorando allo stesso tempo notevolmente i flussi di lavoro creativi.
+Firefly è la nuova famiglia di modelli di intelligenza artificiale generativa creativa che verranno introdotti nei prodotti di Adobe, concentrandosi inizialmente sulla generazione di effetti di immagine e testo. Firefly offre nuovi modi per ideare, creare e comunicare, migliorando significativamente i flussi di lavoro creativi.
 
 <br> 
 
-## Scopri cosa puoi fare con l&#39;Adobe Firefly
+## Scopri cosa puoi fare con Adobe Firefly
 
 <br> 
 
@@ -32,17 +33,17 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (beta)" src="assets/firefly-beta.png" />
+         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
       </a>
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="Scopri Firefly in Photoshop" src="assets/firefly-photoshop.png" />
+         <img alt="Esplorare il Firefly in Photoshop" src="assets/firefly-photoshop.png" />
       </a>
   </td>
   <td>
       <a href="webinar-experimenting.md">
-         <img alt="Sperimentazione con Adobe Firefly" src="assets/webinar-experimenting.png" />
+         <img alt="Sperimentare con l&apos;Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
   </td>
   <td>
@@ -53,18 +54,18 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
 </tr>
 </table>
 
-## Esercitazioni di Firefly
+## Esercitazioni per Firefly
 
 <table style="table-layout:fixed">
 <tr>
    <td>
       <a href="overview-of-firefly.md">
-         <img alt="Panoramica sull&apos;Adobe Firefly" src="assets/firefly-overview.png" />
+         <img alt="Panoramica dell&apos;Adobe Firefly" src="assets/firefly-overview.png" />
       </a>
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Photoshop Riempimento generativo" src="assets/generative-fill.png" />
+         <img alt="Riempimento generativo in Photoshop" src="assets/generative-fill.png" />
       </a>
    </td>
    <td>
@@ -81,7 +82,7 @@ Firefly è la nuova famiglia di modelli di IA creativi generativi in arrivo sui 
 <tr>
 <td>
       <a href="generative-recolor.md">
-         <img alt="Ricolora generativa in Illustrator" src="assets/firefly-recolor.png" />
+         <img alt="Ricolora in modo generativo in Illustrator" src="assets/firefly-recolor.png" />
       </a>
   </td>
 <td>

@@ -1,19 +1,20 @@
 ---
 title: Effetti di testo
-description: Scoprite come utilizzare gli effetti di testo, basati su Adobi Firefly
+description: Scoprite come utilizzare gli effetti di testo basati sull'Adobe Firefly
+feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: a09b13fab3268cef63771abca51756c96f45aa07
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Effetti di testo
 
-Scopri come utilizzare gli effetti di testo, basati su Adobi Firefly, per creare immagini di titoli uniche e stimolanti per una newsletter. Partecipa all’Adobe Firefly (beta) [qui](https://firefly.adobe.com/).
+Scopri come utilizzare gli effetti di testo basati sull&#39;Adobe Firefly per creare immagini del titolo uniche e stimolanti per un notiziario. Partecipa all’Adobe Firefly (Beta) [qui](https://firefly.adobe.com/).
 
 <br> 
 

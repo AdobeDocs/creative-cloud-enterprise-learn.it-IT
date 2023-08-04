@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Elenco delle esercitazioni di Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,11 +14,11 @@ ht-degree: 0%
 
 # Photoshop
 
-![Tutorial Hero Image](../assets/Photoshop.jpg)
+![Immagine esercitazione eroe](../assets/Photoshop.jpg)
 
-Photoshop è il miglior software al mondo per la progettazione grafica e l&#39;elaborazione delle immagini e offre una creatività illimitata per i professionisti di tutti i dispositivi. Ora chiunque può creare qualsiasi cosa immagini, ovunque colga l&#39;ispirazione. Se ci pensate, ce la potete fare con Photoshop.
+Photoshop è il software di progettazione grafica e di imaging migliore del mondo, che offre creatività illimitata ai professionisti su tutti i dispositivi. Ora chiunque può creare qualsiasi cosa immaginino, ovunque ci sia ispirazione. Se ci pensate, potete farlo con Photoshop.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,17 +29,17 @@ Photoshop è il miglior software al mondo per la progettazione grafica e l&#39;e
     <div>
    <a href="photoshop.md#tutorial1"><strong>Modifica le immagini in base alla campagna</strong></a>
     </div>
-    <em>Utilizzate gli avanzati strumenti di selezione e modifica del colore di Adobe Photoshop per modificare notevolmente un'immagine in base alle vostre esigenze di branding aziendale</em>
+    <em>Utilizza i potenti strumenti di selezione e modifica del colore di Adobe Photoshop per modificare radicalmente un'immagine in base alle tue esigenze di branding aziendali</em>
     <br>
   </td>
   <td>
     <a href="photoshop.md#tutorial2">
-        <img alt="Seleziona e sostituisci il cielo" src="../assets/PS_Sky_Replace_wood.jpg" />
+        <img alt="Selezionare e sostituire il cielo" src="../assets/PS_Sky_Replace_wood.jpg" />
     </a>
     <div>
-    <a href="photoshop.md#tutorial2"><strong>Seleziona e sostituisci il cielo</strong></a>
+    <a href="photoshop.md#tutorial2"><strong>Selezionare e sostituire il cielo</strong></a>
     </div>
-    <em>Seleziona automaticamente il cielo in un’immagine e sostituiscilo con un cielo a scelta, regolando automaticamente i colori dell’immagine in base alla selezione</em>
+    <em>Seleziona automaticamente il cielo di un’immagine e sostituiscilo con un cielo a tua scelta, regolando automaticamente i colori dell’immagine in base alla tua selezione</em>
     <br>
   </td>
   <td>
@@ -49,43 +50,43 @@ Photoshop è il miglior software al mondo per la progettazione grafica e l&#39;e
 </tr>
 </table>
 
-## Modifica le immagini in base alla campagna (5:45) {#tutorial1}
+## Modifica immagini come da campagna (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Descrizione**
-Utilizzate gli avanzati strumenti di selezione e modifica del colore di Adobe Photoshop per modificare notevolmente un&#39;immagine in base alle vostre esigenze di branding aziendale.
+Utilizza i potenti strumenti di selezione e modifica del colore di Adobe Photoshop per modificare radicalmente un&#39;immagine in base alle tue esigenze di branding aziendali.
 
-In questa esercitazione verrà illustrato come:
+In questo tutorial imparerai come:
 * Lo strumento Selezione oggetto rende la selezione degli elementi più semplice e veloce
-* Riempimento in base al contenuto consente un maggiore controllo delle aree campione all’interno di un’immagine sorgente per una migliore clonazione e correzione delle aree di destinazione
-* I pennelli possono essere forme diverse per ottenere risultati migliori
-* Adobe Sensei consente di sfruttare l&#39;intelligenza artificiale per attività ordinarie
+* Riempimento in base al contenuto consente un maggiore controllo delle aree campione all’interno di un’immagine sorgente per una migliore clonazione e applicazione di patch alle aree di destinazione
+* I pennelli possono avere forme diverse per ottenere risultati migliori
+* Adobe Sensei consente di sfruttare l&#39;intelligenza artificiale per attività banali
 
 **Presentato da:**
-A.J Wood, Senior Solutions Consultant (Digital Media)
+A.J. Wood, Senior Solutions Consultant (Digital Media)
 
-## Seleziona e sostituisci il cielo (2:16) {#tutorial2}
+## Selezionare e sostituire il cielo (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
 **Descrizione**
-Selezionate automaticamente il cielo in un’immagine e sostituitelo con un cielo a scelta, regolando automaticamente i colori dell’immagine in base alla selezione.
+Seleziona automaticamente il cielo di un’immagine e sostituiscilo con un cielo a tua scelta, regolando automaticamente i colori dell’immagine in base alla tua selezione.
 
-In questa esercitazione verrà illustrato come:
-* Sostituzione cielo fornisce una soluzione con un solo clic per scambiare cielo all’istante nelle immagini
+In questo tutorial imparerai come:
+* Sostituzione cielo offre una soluzione con un solo clic per scambiare istantaneamente i cieli nelle immagini
 * Sostituzione cielo salva l’output come gruppo di livelli con ogni maschera, regolazione e immagine per un ulteriore perfezionamento
 
 
 **Presentato da:**
-A.J Wood, Senior Solutions Consultant (Digital Media)
+A.J. Wood, Senior Solutions Consultant (Digital Media)
 
 ![Logo Photoshop](../assets/ps_appicon_96.png)
 
-**Risorse Photoshop**
+**Risorse per Photoshop**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il punto di riferimento per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/photoshop/using/whats-new.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/photoshop/using/whats-new.html)e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

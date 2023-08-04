@@ -1,23 +1,24 @@
 ---
-title: Acrobat e firma
-description: Elenco delle esercitazioni di Acrobat e Adobe Sign
+title: Acrobat e Sign
+description: Un elenco di esercitazioni per Acrobat e Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
 
 ---
 
-# Acrobat e firma
+# Acrobat e Sign
 
-![Tutorial Hero Image](../assets/DC.jpg)
+![Immagine esercitazione eroe](../assets/DC.jpg)
 
-Con Adobe Document Cloud, che include le principali soluzioni di PDF e firma elettronica del mondo, puoi trasformare i processi documentali manuali in efficienti processi digitali. Ora il tuo team può intervenire rapidamente su documenti, flussi di lavoro e attività, su più schermi e dispositivi, ovunque, in qualsiasi momento e all&#39;interno delle tue app Microsoft ed enterprise preferite.
+Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per la firma elettronica e la PDF, è possibile trasformare i processi manuali dei documenti in processi digitali efficienti. Ora il tuo team può intervenire rapidamente su documenti, flussi di lavoro e attività, su più schermi e dispositivi, ovunque, in qualsiasi momento e all&#39;interno delle tue app preferite per Microsoft ed enterprise.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,17 +29,17 @@ Con Adobe Document Cloud, che include le principali soluzioni di PDF e firma ele
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Avvio di una revisione condivisa di Acrobat</strong></a>
     </div>
-    <em>Invitare i revisori ad aggiungere i propri commenti a un documento PDF</em>
+    <em>Invita i revisori ad aggiungere i loro commenti a un documento PDF</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Forms Crea rinuncia online con Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="Creazione di un Forms di rinuncia online con Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Forms Crea rinuncia online con Adobe Sign</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Creazione di un Forms di rinuncia online con Adobe Sign</strong></a>
     </div>
-    <em>Trasforma rapidamente i documenti in moduli online e pubblicali online, dove possono essere compilati e firmati da chiunque ne abbia bisogno</em>
+    <em>Trasforma rapidamente i documenti in moduli online e pubblicali online, dove chiunque ne abbia bisogno può compilarli e firmarli</em>
     <br>
   </td>
   <td>
@@ -48,29 +49,29 @@ Con Adobe Document Cloud, che include le principali soluzioni di PDF e firma ele
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Richiedi una firma con Adobe Sign</strong></a>
     </div>
-    <em>Passa da Word a PDF e invia per la firma con Adobe Sign</em>
+    <em>Passare da Word a PDF e inviarlo per la firma con Adobe Sign</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial4">
-      <img alt="Visualizzare i menu su dispositivi mobili con Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
+      <img alt="Visualizza i menu su dispositivo mobile con Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>Visualizzare i menu su dispositivi mobili con Liquid Mode</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Visualizza i menu su dispositivo mobile con Liquid Mode</strong></a>
     </div>
-    <em>Utilizzo di Liquid Mode per migliorare l'esperienza di lettura di PDF sui dispositivi mobili</em>
+    <em>Utilizzo della modalità Liquid Mode per migliorare l’esperienza di lettura di PDF sui dispositivi mobili</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="Acquisire documenti a PDF dal cellulare" src="../assets/acrobat_scan_enke.jpg" />
+        <img alt="Acquisire documenti in PDF da un cellulare" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Acquisire documenti a PDF dal cellulare</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Acquisire documenti in PDF da un cellulare</strong></a>
     </div>
-    <em>Con Adobe Scan puoi acquisire e convertire facilmente documenti, moduli, biglietti da visita e lavagne in PDF di Adobe di alta qualità</em>
+    <em>Con Adobe Scan, acquisisci e converti facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità</em>
     <br>
   </td>
   <td>
@@ -81,89 +82,89 @@ Con Adobe Document Cloud, che include le principali soluzioni di PDF e firma ele
 </tr>
 </table>
 
-## Avvio di una revisione condivisa di Acrobat (3:49) {#tutorial1}
+## Avvio di una revisione condivisa con Acrobat (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
 **Descrizione**
-Invitare i revisori ad aggiungere i propri commenti a un documento PDF.
+Invita i revisori ad aggiungere i loro commenti a un documento PDF.
 
-In questa esercitazione verrà illustrato come:
-* Commenti del PDF host nel Document Cloud
-* Raccolta di commenti in un&#39;unica posizione
+In questo tutorial imparerai come:
+* Commenti di Host PDF nel Document Cloud
+* Raccogli i commenti in un unico luogo
 * I commenti simultanei incoraggiano la collaborazione
 
-**Adobe PDF di confronto delle opzioni di revisione e commento**
+**PDF di confronto delle opzioni di revisione e commento dell&#39;Adobe**
 
-[![Immagine a confronto](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![Immagine di confronto](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presentato da:**
-Dan Armstrong, Consulente Soluzioni (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Dan Armstrong, consulente per le soluzioni (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Forms Crea rinuncia online con Adobe Sign (5:19) {#tutorial2}
+## Creazione di Forms di rinuncia online con Adobe Sign (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
 **Descrizione**
-Trasforma rapidamente i documenti in moduli online e pubblicali online, dove possono essere compilati e firmati da chiunque ne abbia bisogno.
+Trasforma rapidamente i documenti in moduli online e pubblicali online, dove chiunque ne abbia bisogno può compilarli e firmarli.
 
-In questa esercitazione verrà illustrato come:
-* Passa al digitale trasformando i moduli cartacei in documenti digitali
-* Pubblica i moduli digitali sul tuo sito web, dove i clienti possono accedervi dal loro dispositivo
+In questo tutorial imparerai come:
+* Passare al digitale trasformando i moduli cartacei in documenti digitali
+* Pubblica moduli digitali sul tuo sito Web, dove i clienti possono accedervi dal proprio dispositivo
 * I moduli completati vengono archiviati automaticamente per i record
 
 **Presentato da:**
-Taylor Kobey, Consulente Soluzioni (Digital Media) Emily Palmer, Consulente Soluzioni (Digital Media)
+Taylor Kobey, consulente soluzioni (Digital Media) Emily Palmer, consulente soluzioni (Digital Media)
 
 ## Richiedi una firma con Adobe Sign (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Descrizione**
-Passa da Word a PDF e invia per la firma con Adobe Sign.
+Passa da Word a PDF e invialo per la firma con Adobe Sign.
 
-In questa esercitazione verrà illustrato come:
-* Sfrutta gli strumenti che usi ogni giorno per inviare documenti digitali da firmare
+In questo tutorial imparerai come:
+* Utilizza gli strumenti che utilizzi quotidianamente per inviare documenti digitali per la firma
 
 **Presentato da:**
 Rick Borstein, Senior Manager Solution Consulting (Media Digitali)
 
-## Visualizzare i menu su dispositivi mobili con Liquid Mode (2:57) {#tutorial4}
+## Visualizza menu su dispositivo mobile con Liquid Mode (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
 **Descrizione**
-Utilizzate Liquid Mode per migliorare l&#39;esperienza di lettura di PDF sui dispositivi mobili.
+Utilizza Liquid Mode per migliorare l’esperienza di lettura di PDF sui dispositivi mobili.
 
-In questa esercitazione verrà illustrato come:
+In questo tutorial imparerai come:
 * Rendere i file PDF reattivi per i dispositivi mobili
-* Migliora il layout del PDF
-* Possibilità di aggiungere funzioni al volo per semplificare la lettura dei documenti sul telefono e tablet
+* Migliorare il layout dei PDF
+* Aggiungi funzionalità rapide per facilitare la lettura dei documenti su smartphone e tablet
 
 **Presentato da:**
-Emilie Enke, Consulente Soluzioni Associate (Digital Media)
+Emilie Enke, Consulente Soluzioni Associate (Media Digitali)
 
-## Acquisire documenti in PDF dal cellulare (5:53) {#tutorial5}
+## Acquisisci documenti in PDF da cellulare (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
 **Descrizione**
-Con Adobe Scan puoi acquisire e convertire facilmente documenti, moduli, biglietti da visita e lavagne in PDF di Adobe di alta qualità.
+Con Adobe Scan, acquisisci e converti facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità.
 
-In questa esercitazione verrà illustrato come:
-* Usa il tuo cellulare per acquisire e convertire documenti, moduli, biglietti da visita e lavagne in PDF di Adobe di alta qualità
-* Identifica e rende più nitido il testo scritto a mano o stampato, rimuovendo gli elementi indesiderati, ad esempio riflessi e ombre
-* Apri il PDF acquisito mediante scansione in Acrobat Reader per aggiungere note e commenti e rivederlo con il tuo team
+In questo tutorial imparerai come:
+* Usa il tuo cellulare per acquisire e convertire documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità
+* Identifica e rende più nitido il testo scritto a mano o stampato, eliminando gli elementi indesiderati, come riflessi e ombre
+* Apri il PDF scansionato in Acrobat Reader per creare note e commenti e rivederli con il tuo team
 
 **Presentato da:**
-Emilie Enke, Consulente Soluzioni Associate (Digital Media)
+Emilie Enke, Consulente Soluzioni Associate (Media Digitali)
 
 ![Logo DC](../assets/Doc-Cloud-256.png)
 
-**Risorse Acrobat e Adobe Sign**
+**Risorse per Acrobat e Adobe Sign**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/document-cloud.html) è il punto di riferimento per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/acrobat/using/whats-new.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/document-cloud.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/acrobat/using/whats-new.html)e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

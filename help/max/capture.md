@@ -1,10 +1,11 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per la progettazione grafica
+description: Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per la raccolta di progetti
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -13,11 +14,11 @@ ht-degree: 1%
 
 # [!DNL Capture]
 
-![Tutorial Hero Image](../assets/Capture.jpg)
+![Immagine esercitazione eroe](../assets/Capture.jpg)
 
-Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per la progettazione grafica. Gli utenti possono creare diversi tipi di risorse (singoli elementi digitali per la grafica).   Queste risorse vengono sincronizzate automaticamente con altre applicazioni di Adobe per desktop e dispositivi mobili. Gli utenti possono inserirli nei loro progetti creativi o condividerli facilmente con i collaboratori.
+Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per la raccolta di progetti. Gli utenti possono creare molti tipi diversi di risorse (singoli elementi digitali per la grafica).   Queste risorse si sincronizzano automaticamente con altre applicazioni di Adobe per desktop e dispositivi mobili. Gli utenti possono inserirli nei loro progetti creativi o condividerli facilmente con i collaboratori.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +29,7 @@ Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per 
     <div>
    <a href="capture.md#tutorial1"><strong>Cattura l'ispirazione dal mondo che ti circonda</strong></a>
     </div>
-    <em>Utilizzate gli avanzati strumenti di selezione e modifica del colore di Adobe Capture per modificare notevolmente un'immagine in base alle vostre esigenze di branding aziendale</em>
+    <em>Utilizza i potenti strumenti di selezione e modifica del colore di Adobe Capture per modificare radicalmente un'immagine in base alle tue esigenze di branding aziendali</em>
     <br>
   </td>
   <td>
@@ -51,20 +52,20 @@ Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per 
 **Descrizione**
 Trasforma immagini e video sul tuo dispositivo mobile in elementi creativi per tutti i tuoi progetti.
 
-In questa esercitazione verrà illustrato come:
-* Progettazione universale
+In questo tutorial imparerai come:
+* Progetta ovunque
 * Integrazione con le app desktop tramite CC Libraries
-* Accesso a migliaia di Adobe Fonts
+* Accedi a migliaia di Adobe Fonts
 
 **Presentato da:**
-Emily Palmer, Consulente Soluzioni (Digital Media)
+Emily Palmer, Consulente per le soluzioni (Digital Media)
 
 ![Logo Capture](../assets/ca_appicon_96.png)
 
 **[!DNL Capture]Risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) è il punto di riferimento per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

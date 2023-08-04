@@ -1,17 +1,19 @@
 ---
-title: Guida introduttiva ad Adobe Express
-description: Nozioni di base sull'Adobe Express
+title: Introduzione all'Adobe Express
+description: Scopri le nozioni di base dell'Adobe Express
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 8d532b2e-4eab-4c73-9ad6-30776904d59b
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 0%
 
 ---
 
-# Guida introduttiva ad Adobe Express
+# Introduzione all&#39;Adobe Express
 
-Impara le basi dell&#39;Adobe Express.
+Scopri le nozioni di base dell&#39;Adobe Express.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420205?quality=12&learn=on&hidetitle=true)

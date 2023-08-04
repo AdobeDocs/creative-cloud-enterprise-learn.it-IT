@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 Tutorials
-description: Queste esercitazioni ti aiuteranno ad apprendere le nuove funzioni della versione 2021 di Creative Cloud, da una prospettiva aziendale
+description: Questi tutorial ti aiuteranno ad apprendere le nuove funzioni della versione 2021 di Creative Cloud, da una prospettiva aziendale
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 25%
@@ -13,22 +14,22 @@ ht-degree: 25%
 
 # Esercitazioni
 
-![Immagine Eroica Max 2020](../assets/MAX.jpg)
+![Immagine eroe Max 2020](../assets/MAX.jpg)
 
-In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Queste esercitazioni ti aiuteranno ad apprendere le nuove funzioni della versione 2021 di Creative Cloud, da una prospettiva aziendale.
+In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Questi tutorial ti aiuteranno ad apprendere le nuove funzioni della versione 2021 di Creative Cloud, da una prospettiva aziendale.
 
-## Tutorials di prodotti desktop
+## Tutorials per prodotti desktop
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="Acrobat e Adobe Sign" src="../assets/DC.jpg" />
+      <img alt="ACROBAT e ADOBE SIGN" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat e Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>ACROBAT e ADOBE SIGN</strong></a>
     </div>
-    <em>Creare, modificare e firmare documenti e moduli PDF</em>
+    <em>Creazione, modifica e firma di documenti e moduli PDF</em>
     <br>
   </td>
   <td>
@@ -38,7 +39,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Creazione di immagini 3D fotorealistiche per progetti di branding, immagini di prodotti e packaging</em>
+    <em>Crea immagini 3D fotorealistiche per branding, foto di prodotti e design di confezioni</em>
     <br>
   </td>
   <td>
@@ -70,7 +71,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Elabora, componi e crea immagini, grafica e progetti artistici su desktop</em>
+    <em>Modifica, componi e crea bellissime immagini, grafica e grafica su desktop</em>
     <br>
   </td>
   <td>
@@ -178,7 +179,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="aem.md"><strong>AEM Assets e Asset Link</strong></a>
     </div>
-    <em>Gestione delle risorse digitali di prossima generazione</em>
+    <em>Gestione delle risorse digitali di nuova generazione</em>
     <br>
   </td>
   <td>
@@ -188,7 +189,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="creativeclouddesktopapp.md"><strong>App desktop Creative Cloud</strong></a>
     </div>
-    <em>L’app desktop Creative Cloud è il punto di riferimento per la gestione di app CC, servizi e collaborazione, e non solo.</em>
+    <em>L'app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.</em>
     <br>
   </td>
   <td>
@@ -198,7 +199,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>Mantieni disponibili le tue risorse e i tuoi progetti in linea con il marchio</em>
+    <em>Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio</em>
     <br>
   </td>
 </tr>
@@ -210,7 +211,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>I sofisticati strumenti di InDesign abbinati all'automazione personalizzata</em>
+    <em>Gli strumenti sofisticati dell'InDesign abbinati all'automazione personalizzata</em>
     <br>
   </td>
  <td>
@@ -220,7 +221,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Immagini digitali, illustrazioni, video, audio, modelli e altro ancora di alta qualità</em>
+    <em>Immagini digitali di alta qualità, illustrazioni, video, audio, modelli e altro ancora</em>
     <br>
   </td>
   <td>
@@ -231,18 +232,18 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 </tr>
 </table>
 
-### Progetto pratico: Creare una maschera per volti personalizzata
+### Progetto pratico: creare una maschera viso personalizzata
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Creare una maschera per volti personalizzata" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Crea la tua maschera viso" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Creare una maschera per volti personalizzata</strong></a>
+    <a href="handsonproject.md"><strong>Crea la tua maschera viso</strong></a>
     </div>
-    <em>Con il plug-in Adobe Progettazione per la stampa, puoi visualizzare i tuoi progetti su centinaia di prodotti Zazzle e pubblicarli direttamente sul loro marketplace online</em>
+    <em>Con il plug-in Design to Print di Adobe, puoi visualizzare i tuoi progetti su centinaia di prodotti Zazzle e pubblicarli direttamente sul loro marketplace online</em>
     <br>
   </td>
   <td>

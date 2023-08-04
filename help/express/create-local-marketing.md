@@ -1,10 +1,11 @@
 ---
 title: Creazione di contenuti volantini per una campagna di marketing con Firefly
 description: Scoprite come utilizzare la funzione di conversione da testo a immagine, basata sull'Adobe Firefly, nell'Adobe Express di contenuti localizzati da una campagna di marketing di un hotel globale
+feature: Image Editing
 role: User
 level: Beginner
 jira: KT-13756
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 4%

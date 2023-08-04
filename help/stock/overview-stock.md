@@ -1,32 +1,33 @@
 ---
-title: Adobe [!DNL Stock] esercitazioni
-description: Tutorials che ti aiuteranno a familiarizzare con l'Adobe [!DNL Stock]
+title: Adobe [!DNL Stock] tutorial
+description: Tutorials per aiutarti a ottenere l'Adobe rapido [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] esercitazioni
+# Adobe [!DNL Stock] tutorial
 
-![Creative Cloud Hero Image](../assets/Stock.jpg)
+![Creative Cloud immagine eroe](../assets/Stock.jpg)
 
-I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coinvolgenti. Adobe Stock consente ai team creativi di accedere a più di 300 milioni di immagini, video, file audio, modelli, illustrazioni e risorse 3D esenti da royalty, all&#39;interno delle app di Creative Cloud che utilizzano quotidianamente. Accedi alle risorse standard di Adobe Stock senza limiti con Creative Cloud Pro Edition. Esplora le ultime raccolte su stock.adobe.com. Selezionate un’immagine per visualizzare un’esercitazione.
+I creativi sono sotto pressione per fornire rapidamente contenuti visivi coinvolgenti. Adobe Stock offre ai team creativi l&#39;accesso a più di 300 milioni di immagini, video, file audio, modelli, illustrazioni e risorse 3D esenti da royalty, all&#39;interno delle app Creative Cloud che utilizzano quotidianamente. Accedi senza limiti alle risorse standard di Adobe Stock con Creative Cloud Pro Edition. Scopri le raccolte più recenti su stock.adobe.com. Seleziona un’immagine per visualizzare un’esercitazione.
 
 <table>
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Straordinarie risorse digitali (PDF)" src="assets/Stunningdigitalassets.png" />
+         <img alt="Splendide risorse digitali (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Straordinarie risorse digitali (PDF)</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Splendide risorse digitali (PDF)</strong></a>
       </div>
-      <em>Scopri come integrare Adobe Stock con CC Libraries per creare risultati di progettazione uniformi e professionali per la stampa e lo schermo in questo tutorial pratico</em>
+      <em>Scoprite come integrare Adobe Stock con CC Libraries per creare risultati di progettazione coerenti e professionali per la stampa e lo schermo in questa esercitazione pratica</em>
       <br>
   </td>
   <td>
@@ -36,27 +37,27 @@ I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coi
       <div>
       <a href="searchstock.md"><strong>Adobe di ricerca [!DNL Stock] cronologia licenze</strong></a>
       </div>
-      <em>Scopri come cercare rapidamente l’Adobe della tua organizzazione [!DNL Stock] cronologia delle licenze in Creative Cloud for enterprise</em>
+      <em>Scopri come eseguire rapidamente ricerche nell’Adobe della tua organizzazione [!DNL Stock] cronologia delle licenze in Creative Cloud for enterprise</em>
       <br>
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="Aggiungere un’estetica disegnata a mano all’Adobe [!DNL Stock] immagini" src="assets/handdrawn.jpg" />
+         <img alt="Aggiungere un&apos;estetica disegnata a mano agli Adobi [!DNL Stock] immagini" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>Aggiungere un’estetica disegnata a mano all’Adobe [!DNL Stock] immagini</strong></a>
+      <a href="handdrawn.md"><strong>Aggiungere un'estetica disegnata a mano agli Adobi [!DNL Stock] immagini</strong></a>
       </div>
-      <em>Amplia il tuo marketing creativo con tecniche esclusive che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad</em>
+      <em>Amplia il tuo marketing creativo con tecniche uniche che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad</em>
       <br>
   </td>
   <td>
    <a href="flairtypography.md">
-      <img alt="Aggiunta di un tocco tipografico con maschere e animazioni" src="assets/flairtypography.jpg" />
+      <img alt="Aggiungere stile alla composizione tipografica con maschere e animazioni" src="assets/flairtypography.jpg" />
    </a>
     <div>
-   <a href="flairtypography.md"><strong>Aggiunta di un tocco tipografico con maschere e animazioni</strong></a>
+   <a href="flairtypography.md"><strong>Aggiungere stile alla composizione tipografica con maschere e animazioni</strong></a>
     </div>
-    <em>Dai vita al tuo testo con elementi di Adobe [!DNL Stock] e stili di animazione da After Effects</em>
+    <em>Dai vita al tuo testo con elementi dall'Adobe [!DNL Stock] e stili di animazione da After Effects</em>
     <br>
   </td>
 </tr>
@@ -68,217 +69,217 @@ I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coi
       <div>
       <a href="animatevector.md"><strong>Animare un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop</strong></a>
       </div>
-      <em>Importa animazioni nella tua newsletter con vettori modificabili, ad Adobe [!DNL Stock]</em>
+      <em>Inserire animazioni nella grafica del notiziario con vettori modificabili, ad Adobe [!DNL Stock]</em>
       <br>
   </td>
  <td>
       <a href="annualreport.md">
-         <img alt="Inizia il report annuale con un video creato con Adobe [!DNL Stock] e Spark Video" src="assets/annualreport.jpg" />
+         <img alt="Inizia il report annuale con un video creato con l’Adobe [!DNL Stock] e SPARK VIDEO" src="assets/annualreport.jpg" />
       </a>
       <div>
-      <a href="annualreport.md"><strong>Inizia il report annuale con un video creato con Adobe [!DNL Stock] e Spark Video</strong></a>
+      <a href="annualreport.md"><strong>Inizia il report annuale con un video creato con l’Adobe [!DNL Stock] e SPARK VIDEO</strong></a>
       </div>
-      <em>Trasforma il tuo annual report in una storia con Adobe [!DNL Stock] e Spark Video</em>
+      <em>Rendi la tua relazione annuale una storia con degli Adobi [!DNL Stock] e SPARK VIDEO</em>
       <br>
   </td>
   <td>
       <a href="customanimations.md">
-         <img alt="Dai vita alla tua creatività con animazioni personalizzate di Adobe [!DNL Stock]" src="assets/customanimations.jpg" />
+         <img alt="Dai vita alla creatività con animazioni personalizzate per Adobe [!DNL Stock]" src="assets/customanimations.jpg" />
       </a>
       <div>
-      <a href="customanimations.md"><strong>Dai vita alla tua creatività con animazioni personalizzate di Adobe [!DNL Stock]</strong></a>
+      <a href="customanimations.md"><strong>Dai vita alla creatività con animazioni personalizzate per Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Adobe [!DNL Stock] immagini, texture, pattern di animazioni personalizzate in Photoshop</em>
+      <em>Usa Adobe [!DNL Stock] immagini, trame, pattern alle animazioni personalizzate in Photoshop</em>
       <br>
   </td>
   <td>
       <a href="changecolors.md">
-         <img alt="Modificare un Adobe [!DNL Stock] colori dell'immagine in base alla storia" src="assets/changecolors.jpg" />
+         <img alt="Modificare un Adobe [!DNL Stock] i colori dell&apos;immagine in base alla tua storia" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Modificare un Adobe [!DNL Stock] colori dell'immagine in base alla storia</strong></a>
+      <a href="changecolors.md"><strong>Modificare un Adobe [!DNL Stock] i colori dell'immagine in base alla tua storia</strong></a>
       </div>
-      <em>Trovare una foto unica nell’Adobe [!DNL Stock] e quindi regolare il colore in Adobe Photoshop in base alle tue esigenze</em>
+      <em>Trovare una foto unica nell’Adobe [!DNL Stock] quindi regolate il colore in Adobe Photoshop in base alle vostre esigenze</em>
       <br>
   </td>
 </tr>
 <tr>
  <td>
       <a href="collage.md">
-         <img alt="Creare un collage 3D per un poster utilizzando Adobe [!DNL Stock] immagini" src="assets/collage.jpg" />
+         <img alt="Creazione di un collage 3D per un poster utilizzando l&apos;Adobe [!DNL Stock] immagini" src="assets/collage.jpg" />
       </a>
       <div>
-      <a href="collage.md"><strong>Creare un collage 3D per un poster utilizzando Adobe [!DNL Stock] immagini</strong></a>
+      <a href="collage.md"><strong>Creazione di un collage 3D per un poster utilizzando l'Adobe [!DNL Stock] immagini</strong></a>
       </div>
       <em>Progetta un collage in Adobe Illustrator che presenta un effetto 3D accattivante dalle immagini in Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
       <a href="boldlabel.md">
-         <img alt="Creare un’etichetta in grassetto con Adobe [!DNL Stock] modelli e Photoshop oggetti avanzati" src="assets/boldlabel.jpg" />
+         <img alt="Creare un&apos;etichetta in grassetto con Adobe [!DNL Stock] modelli e oggetti avanzati di Photoshop" src="assets/boldlabel.jpg" />
       </a>
       <div>
-      <a href="boldlabel.md"><strong>Creare un’etichetta in grassetto con Adobe [!DNL Stock] modelli e Photoshop oggetti avanzati</strong></a>
+      <a href="boldlabel.md"><strong>Creare un'etichetta in grassetto con Adobe [!DNL Stock] modelli e oggetti avanzati di Photoshop</strong></a>
       </div>
-      <em>Progetta e visualizza i tuoi progetti personalizzati con modelli di packaging realistici, presi ad Adobe [!DNL Stock]</em>
+      <em>Progetta e visualizza i tuoi progetti personalizzati con modelli di packaging realistici da Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
       <a href="infographic.md">
-         <img alt="Creare un’infografica con le linee guida aziendali con Adobe [!DNL Stock]" src="assets/infographic.jpg" />
+         <img alt="Creazione di un&apos;infografica sulle linee guida aziendali con Adobe [!DNL Stock]" src="assets/infographic.jpg" />
       </a>
       <div>
-      <a href="infographic.md"><strong>Creare un’infografica con le linee guida aziendali con Adobe [!DNL Stock]</strong></a>
+      <a href="infographic.md"><strong>Creazione di un'infografica sulle linee guida aziendali con Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Combinare diverse risorse da Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente accattivanti</em>
+      <em>Combinare varie risorse da un Adobe [!DNL Stock] comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti</em>
       <br>
   </td>
  <td>
       <a href="featurecomparison.md">
-         <img alt="Creare un grafico di confronto delle funzionalità di un prodotto utilizzando l'Adobe [!DNL Stock]" src="assets/featurecomparison.jpg" />
+         <img alt="Creazione di un grafico di confronto delle funzionalità del prodotto utilizzando l&apos;Adobe [!DNL Stock]" src="assets/featurecomparison.jpg" />
       </a>
       <div>
-      <a href="featurecomparison.md"><strong>Creare un grafico di confronto delle funzionalità di un prodotto utilizzando l'Adobe [!DNL Stock]</strong></a>
+      <a href="featurecomparison.md"><strong>Creazione di un grafico di confronto delle funzionalità del prodotto utilizzando l'Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in un attimo</em>
+      <em>Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in breve</em>
       <br>
   </td>
 </tr>
 <tr>
    <td>
       <a href="surrealcomposite.md">
-         <img alt="Creare una composizione semi-surreale con Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
+         <img alt="Creazione di una composizione semi-surreale con Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
       <div>
-      <a href="surrealcomposite.md"><strong>Creare una composizione semi-surreale con Adobe [!DNL Stock]</strong></a>
+      <a href="surrealcomposite.md"><strong>Creazione di una composizione semi-surreale con Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Creare un'immagine editoriale memorabile combinando più immagini con effetti di colore, movimento e mascheratura</em>
+      <em>Crea un'immagine editoriale memorabile combinando più immagini con effetti di colore, movimento e mascheratura</em>
       <br>
   </td>
    <td>
       <a href="surrealpattern.md">
-         <img alt="Creare un pattern semi-surreale con Adobe [!DNL Stock]" src="assets/surrealpattern.jpg" />
+         <img alt="Creazione di un pattern semi-surreale con Adobe [!DNL Stock]" src="assets/surrealpattern.jpg" />
       </a>
       <div>
-      <a href="surrealpattern.md"><strong>Creare un pattern semi-surreale con Adobe [!DNL Stock]</strong></a>
+      <a href="surrealpattern.md"><strong>Creazione di un pattern semi-surreale con Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Crea uno splendido pattern uniforme basato su immagini surreali di Adobe [!DNL Stock]</em>
+      <em>Crea uno splendido pattern uniforme basato su immagini surreali di Adobi [!DNL Stock]</em>
       <br>
   </td>
    <td>
       <a href="productconfigurator.md">
-         <img alt="Creazione di un configuratore di prodotto interattivo con Adobe [!DNL Stock]" src="assets/productconfigurator.jpg" />
+         <img alt="Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]" src="assets/productconfigurator.jpg" />
       </a>
       <div>
-      <a href="productconfigurator.md"><strong>Creazione di un configuratore di prodotto interattivo con Adobe [!DNL Stock]</strong></a>
+      <a href="productconfigurator.md"><strong>Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Sfrutta le potenzialità dell'interattività, dell'animazione e della grafica modificabile di Adobe [!DNL Stock] presentare le informazioni finanziarie in modo visivo</em>
+      <em>Sfrutta le potenzialità di interattività, animazione e grafica modificabile di Adobe [!DNL Stock] per presentare le informazioni finanziarie in modo visivo</em>
       <br>
   </td>
   <td>
       <a href="interactivetourismphoto.md">
-         <img alt="Creazione di una foto interattiva per il turismo con Adobe [!DNL Stock] XD e &lt;unk&gt;" src="assets/interactivetourismphoto.jpg" />
+         <img alt="Crea una foto turistica interattiva con l&apos;Adobe [!DNL Stock] e XD" src="assets/interactivetourismphoto.jpg" />
       </a>
       <div>
-      <a href="interactivetourismphoto.md"><strong>Creazione di una foto interattiva per il turismo con Adobe [!DNL Stock] XD e &lt;unk&gt;</strong></a>
+      <a href="interactivetourismphoto.md"><strong>Crea una foto turistica interattiva con l'Adobe [!DNL Stock] e XD</strong></a>
       </div>
-      <em>Creazione rapida di una foto interattiva all'interno del prototipo del sito web con Adobe [!DNL Stock] XD &amp; &lt;unk&gt;</em>
+      <em>Crea rapidamente una foto interattiva all'interno del prototipo del tuo sito Web con Adobe [!DNL Stock] e XD</em>
       <br>
   </td>
 </tr>
 <tr>
  <td>
       <a href="animationemail.md">
-         <img alt="Creare animazioni per l’e-mail con Adobe [!DNL Stock] e Photoshop" src="assets/animationemail.jpg" />
+         <img alt="Creazione di animazioni per e-mail con Adobe [!DNL Stock] e PHOTOSHOP" src="assets/animationemail.jpg" />
       </a>
       <div>
-      <a href="animationemail.md"><strong>Creare animazioni per l’e-mail con Adobe [!DNL Stock] e Photoshop</strong></a>
+      <a href="animationemail.md"><strong>Creazione di animazioni per e-mail con Adobe [!DNL Stock] e PHOTOSHOP</strong></a>
       </div>
-      <em>Possibilità di abilitare le e-mail con l’animazione stop-action con Adobi [!DNL Stock] e Photoshop</em>
+      <em>Potenziare le e-mail con l'animazione stop-action con l'Adobe [!DNL Stock] e PHOTOSHOP</em>
       <br>
   </td>
   <td>
       <a href="brandgradients.md">
-         <img alt="Crea immagini di marchio coerenti con splendide sfumature e Adobi [!DNL Stock] risorse" src="assets/brandgradients.jpg" />
+         <img alt="Crea immagini coerenti del marchio con splendide sfumature e Adobe [!DNL Stock] risorse" src="assets/brandgradients.jpg" />
       </a>
       <div>
-      <a href="brandgradients.md"><strong>Crea immagini di marchio coerenti con splendide sfumature e Adobi [!DNL Stock] risorse</strong></a>
+      <a href="brandgradients.md"><strong>Crea immagini coerenti del marchio con splendide sfumature e Adobe [!DNL Stock] risorse</strong></a>
       </div>
-      <em>Crea brand unity con immagini diverse combinando colori e sfumature in tutta la tua campagna pubblicitaria</em>
+      <em>Crea l'unità del marchio con immagini diverse combinando colori e sfumature nella tua campagna pubblicitaria</em>
       <br>
    </td>
   <td>
       <a href="webgraphics.md">
-         <img alt="Creazione di grafica per il web coinvolgente mediante la combinazione di Adobi [!DNL Stock] immagini con CSS" src="assets/webgraphics.jpg" />
+         <img alt="Crea grafica Web coinvolgente combinando l&apos;Adobe [!DNL Stock] immagini con CSS" src="assets/webgraphics.jpg" />
       </a>
       <div>
-      <a href="webgraphics.md"><strong>Creazione di grafica per il web coinvolgente mediante la combinazione di Adobi [!DNL Stock] immagini con CSS</strong></a>
+      <a href="webgraphics.md"><strong>Crea grafica Web coinvolgente combinando l'Adobe [!DNL Stock] immagini con CSS</strong></a>
       </div>
-      <em>Crea brand unity con immagini diverse combinando colori e sfumature in tutta la tua campagna pubblicitaria</em>
+      <em>Crea l'unità del marchio con immagini diverse combinando colori e sfumature nella tua campagna pubblicitaria</em>
       <br>
   </td>
   <td>
       <a href="moodboard.md">
-         <img alt="Crea mood board suggestive in un batter d'occhio con Adobe [!DNL Stock]" src="assets/moodboard.jpg" />
+         <img alt="Crea tavole di stile ispiratrici in pochissimo tempo con l&apos;Adobe [!DNL Stock]" src="assets/moodboard.jpg" />
       </a>
       <div>
-      <a href="moodboard.md"><strong>Crea mood board suggestive in un batter d'occhio con Adobe [!DNL Stock]</strong></a>
+      <a href="moodboard.md"><strong>Crea tavole di stile ispiratrici in pochissimo tempo con l'Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Crea una scheda di stato d’animo per trasmettere informazioni, idee, elementi visivi e palette di colori ai team/clienti</em>
+      <em>Crea una bacheca di stato d’animo del progetto per trasmettere informazioni, idee, elementi visivi e tavolozze di colori a team/clienti</em>
       <br>
   </td>
 </tr>
 <tr>
    <td>
       <a href="realisticcomposite.md">
-         <img alt="Creazione di composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini" src="assets/realisticcomposite.jpg" />
+         <img alt="Realizza composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini" src="assets/realisticcomposite.jpg" />
       </a>
       <div>
-      <a href="realisticcomposite.md"><strong>Creazione di composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini</strong></a>
+      <a href="realisticcomposite.md"><strong>Realizza composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini</strong></a>
       </div>
-      <em>Due grandi Adobi [!DNL Stock] foto per attirare persone nei tuoi post social</em>
+      <em>Riunisci due Adobi straordinari [!DNL Stock] foto per attirare le persone nei tuoi post social</em>
       <br>
   </td>
    <td>
    <a href="loadingscreen.md">
-      <img alt="Personalizzare un’animazione della schermata di caricamento con Adobe [!DNL Stock] XD e &lt;unk&gt;" src="assets/loadingscreen.jpg" />
+      <img alt="Personalizzare l’animazione di una schermata di caricamento con Adobe [!DNL Stock] e XD" src="assets/loadingscreen.jpg" />
    </a>
     <div>
-   <a href="loadingscreen.md"><strong>Personalizzare un’animazione della schermata di caricamento con Adobe [!DNL Stock] XD e &lt;unk&gt;</strong></a>
+   <a href="loadingscreen.md"><strong>Personalizzare l’animazione di una schermata di caricamento con Adobe [!DNL Stock] e XD</strong></a>
     </div>
-    <em>Personalizzare la grafica vettoriale da Adobe [!DNL Stock] per creare un'animazione della schermata di caricamento per un'app mobile</em>
+    <em>Personalizzare la grafica vettoriale dall'Adobe [!DNL Stock] per creare un'animazione con schermata di caricamento più fredda per un'app per dispositivi mobili</em>
     <br>
   </td>
   <td>
    <a href="presentationtemplate.md">
-      <img alt="Personalizzare un Adobe [!DNL Stock] un modello per presentazioni professionali e accattivanti" src="assets/presentationtemplate.jpg" />
+      <img alt="Personalizzare un Adobe [!DNL Stock] un modello di presentazione professionale ma accattivante" src="assets/presentationtemplate.jpg" />
    </a>
     <div>
-   <a href="presentationtemplate.md"><strong>Personalizzare un Adobe [!DNL Stock] un modello per presentazioni professionali e accattivanti</strong></a>
+   <a href="presentationtemplate.md"><strong>Personalizzare un Adobe [!DNL Stock] un modello di presentazione professionale ma accattivante</strong></a>
     </div>
-    <em>Creazione di una splendida presentazione stilizzata in pochi minuti con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali di facile utilizzo</em>
+    <em>Crea in pochi minuti una splendida presentazione stilizzata con immagini e modelli di Adobe [!DNL Stock] e alcuni effetti speciali facili da fare</em>
     <br>
   </td>
    <td>
    <a href="customizecolors.md">
-      <img alt="Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale" src="assets/customizecolors.jpg" />
+      <img alt="Personalizzare i colori in un Adobe [!DNL Stock] illustrazione vettoriale" src="assets/customizecolors.jpg" />
    </a>
     <div>
-   <a href="customizecolors.md"><strong>Personalizzare i colori di un Adobe [!DNL Stock] illustrazione vettoriale</strong></a>
+   <a href="customizecolors.md"><strong>Personalizzare i colori in un Adobe [!DNL Stock] illustrazione vettoriale</strong></a>
     </div>
-    <em>Aggiungete un tocco raffinato a qualsiasi progetto con un'illustrazione di grande impatto. Trova il vettore perfetto in Adobe [!DNL Stock], quindi abbinare i colori alla tavolozza del progetto utilizzando Adobe Illustrator</em>
+    <em>Aggiungi il tocco a qualsiasi progetto con un'illustrazione di grande impatto. Trovare il vettore perfetto in Adobe [!DNL Stock]e quindi abbinare i colori alla tavolozza del tuo progetto utilizzando Adobe Illustrator</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
-         <img alt="Aggiungere movimento alle immagini fisse con Adobi [!DNL Stock] e Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
+         <img alt="Aggiungere movimento alle immagini fisse con Adobe [!DNL Stock] e PHOTOSHOP" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf"><strong>Aggiungere movimento alle immagini fisse con Adobi [!DNL Stock] e Photoshop (PDF)</strong></a>
+      <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf"><strong>Aggiungere movimento alle immagini fisse con Adobe [!DNL Stock] e Photoshop (PDF)</strong></a>
       </div>
-      <em>Stupisci il pubblico su qualsiasi schermo incorporando video in un’immagine fissa</em>
+      <em>Sorprendi il tuo pubblico su qualsiasi schermo incorporando il video in un'immagine fissa</em>
       <br>
    </td>
    <td>
@@ -288,7 +289,7 @@ I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coi
     <div>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>Creare una composizione con Photoshop su iPad e Adobe [!DNL Stock] immagini (PDF)</strong></a>
     </div>
-    <em>Scopri come utilizzare una delle tue app Adobe Creative Cloud preferite in un modo completamente nuovo grazie alle potenzialità di Photoshop sul tuo iPad</em>
+    <em>Scopri come utilizzare una delle tue app Adobe Creative Cloud preferite in modo completamente nuovo con la potenza di Photoshop sul tuo iPad</em>
     <br>
   </td>
    <td>
@@ -298,81 +299,81 @@ I creativi sono sotto pressione per distribuire rapidamente contenuti visivi coi
     <div>
    <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>Animare un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop (PDF)</strong></a>
     </div>
-    <em>Combinando After Effects con Adobe [!DNL Stock], è possibile creare rapidamente effetti speciali straordinari per raccontare visivamente una storia</em>
+    <em>Combinando After Effects con Adobe [!DNL Stock], puoi creare rapidamente straordinari effetti speciali che ti aiutano a raccontare visivamente una storia</em>
     <br>
   </td>
    <td>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
-         <img alt="Creare elementi grafici unici combinando Adobi [!DNL Stock] immagini" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
+         <img alt="Creare grafica unica combinando l’Adobe [!DNL Stock] immagini" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Creare elementi grafici unici combinando Adobi [!DNL Stock] immagini (PDF)</strong></a>
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Creare grafica unica combinando l’Adobe [!DNL Stock] immagini (PDF)</strong></a>
       </div>
-      <em>Riunisci due immagini diverse per creare una scena completamente nuova per i tuoi progetti di design. Adobe [!DNL Stock] e Adobe Photoshop semplifica la gestione</em>
+      <em>Riunisci due diverse immagini per creare una scena completamente nuova per i tuoi progetti di design. Adobe [!DNL Stock] e Adobe Photoshop per semplificare</em>
       <br>
    </td>
 </tr>
 <tr>
   <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
-         <img alt="Creazione di un filmato di Halloween con Photoshop CC e Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
+         <img alt="Creazione di un cinema di Halloween con Photoshop CC e Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Creazione di un filmato di Halloween con Photoshop CC e Adobe [!DNL Stock] (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Creazione di un cinema di Halloween con Photoshop CC e Adobe [!DNL Stock] (PDF)</strong></a>
       </div>
-      <em>Creare un grafico cinematografico componendo video, illustrazioni e foto con Adobe Photoshop</em>
+      <em>Crea un cinemagraph componendo video, illustrazioni e foto con Adobe Photoshop</em>
       <br>
   </td>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
-         <img alt="Metti in moto i tuoi dati con l'Adobe [!DNL Stock] e Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
+         <img alt="Metti in movimento i tuoi dati con l&apos;Adobe [!DNL Stock] e PREMIERE PRO" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>Metti in moto i tuoi dati con l'Adobe [!DNL Stock] e Premiere Pro (PDF)</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>Metti in movimento i tuoi dati con l'Adobe [!DNL Stock] e Premiere Pro (PDF)</strong></a>
       </div>
-      <em>Dai vita ai tuoi dati per raccontare una storia più convincente con l'Adobe [!DNL Stock] e Adobe Premiere Pro</em>
+      <em>Dai vita ai tuoi dati per raccontare una storia più convincente usando l'Adobe [!DNL Stock] e ADOBE PREMIERE PRO</em>
       <br>
   </td>
    <td>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank">
-         <img alt="Adobe Ricolora [!DNL Stock] Grafica vettoriale con Adobe Illustrator per ottenere esattamente il look desiderato" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
+         <img alt="Ricolora Adobe [!DNL Stock] Grafica vettoriale con Adobe Illustrator per ottenere esattamente l&apos;aspetto che desideri" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Adobe Ricolora [!DNL Stock] grafica vettoriale con Adobe Illustrator per ottenere esattamente il risultato desiderato (PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Ricolora Adobe [!DNL Stock] grafica vettoriale con Adobe Illustrator per ottenere esattamente l'aspetto desiderato (PDF)</strong></a>
       </div>
-      <em>Adobe [!DNL Stock] semplifica l'individuazione di grafica vettoriale univoca e Adobe Illustrator consente di modificarla rapidamente in base alla propria visione creativa</em>
+      <em>Adobe [!DNL Stock] semplifica la ricerca di immagini vettoriali uniche e Adobe Illustrator consente di modificarle rapidamente in base alla propria visione creativa</em>
       <br>
    </td>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
-         <img alt="Presenta il tuo lavoro di progettazione nel mondo reale con Adobi [!DNL Stock] e Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Mostra il tuo lavoro di progettazione nel mondo reale con Adobe [!DNL Stock] e PHOTOSHOP" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Presenta il tuo lavoro di progettazione nel mondo reale con Adobi [!DNL Stock] e Photoshop (PDF)</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Mostra il tuo lavoro di progettazione nel mondo reale con Adobe [!DNL Stock] e Photoshop (PDF)</strong></a>
       </div>
-      <em>Segui questi passaggi per mostrare il tuo lavoro in un Adobe realistico [!DNL Stock] modello con Adobe Photoshop</em>
+      <em>Segui questi passaggi per mostrare il tuo lavoro in un Adobe dall'aspetto realistico [!DNL Stock] modello con Adobe Photoshop</em>
       <br>
   </td>
  </tr> 
  <tr>
    <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
-         <img alt="Scopri dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
+         <img alt="Scopri dettagli incredibili in Adobe [!DNL Stock] immagini con Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>Scopri dettagli straordinari in Adobe [!DNL Stock] immagini con Lightroom for mobile (PDF)</strong></a>
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>Scopri dettagli incredibili in Adobe [!DNL Stock] immagini con Lightroom for mobile (PDF)</strong></a>
       </div>
-      <em>Scopri le potenzialità di Lightroom sul tuo dispositivo mobile per valorizzare al meglio le tue immagini</em>
+      <em>Scoprite la potenza di Lightroom sul vostro dispositivo mobile per ottenere il meglio dalle vostre immagini</em>
       <br>
   </td>
   <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
-         <img alt="Adobe per visualizzare i poster nel mondo reale [!DNL Stock] e Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Visualizza i progetti di poster nel mondo reale con Adobi [!DNL Stock] e PHOTOSHOP" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Adobe per visualizzare i poster nel mondo reale [!DNL Stock] e Photoshop (PDF)</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Visualizza i progetti di poster nel mondo reale con Adobi [!DNL Stock] e Photoshop (PDF)</strong></a>
       </div>
-      <em>Presenta i tuoi progetti in ambienti reali per capire meglio come si presentano nel mondo</em>
+      <em>Mostra i tuoi progetti in ambienti reali per avere un senso migliore del loro aspetto nel mondo</em>
       <br>
   </td>
   <td>

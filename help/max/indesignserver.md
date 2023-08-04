@@ -1,34 +1,35 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server offre un motore affidabile e scalabile che sfrutta le funzionalità di progettazione, impaginazione e tipografia di InDesign per creare a livello di codice documenti automatizzati accattivanti
+description: Adobe Adobe&reg; InDesign&reg; Il software server offre un motore solido e scalabile che sfrutta le funzionalità di progettazione, layout e composizione tipografica di InDesign per consentire la creazione di documenti automatizzati coinvolgenti a livello di programmazione
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
 
-![Tutorial Hero Image](../assets/InDesignServer.jpg)
+![Immagine esercitazione eroe](../assets/InDesignServer.jpg)
 
-Adobe InDesign® Server offre un motore affidabile e scalabile che sfrutta le funzionalità di progettazione, impaginazione e tipografia di InDesign per consentirti di creare a livello di codice documenti automatizzati coinvolgenti.
+Il software Adobe InDesign® Server offre un motore solido e scalabile che sfrutta le funzionalità di progettazione, layout e composizione tipografica di InDesign per consentire la creazione di documenti automatizzati coinvolgenti a livello di programmazione.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="Contenuto InDesign Server basato su dati" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="Contenuto InDesign Server basato sui dati" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Contenuto InDesign Server basato su dati</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Contenuto InDesign Server basato sui dati</strong></a>
     </div>
-    <em>La progettazione data-driven può essere ottenuta a livello di codice con InDesign Server</em>
+    <em>La progettazione basata sui dati può essere realizzata, a livello di programmazione, con l'InDesign Server</em>
     <br>
   </td>
   <td>
@@ -49,15 +50,15 @@ Adobe InDesign® Server offre un motore affidabile e scalabile che sfrutta le fu
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **Descrizione**
-La progettazione data-driven può essere ottenuta, a livello di codice, con InDesign Server.
+La progettazione basata sui dati può essere realizzata, a livello di programmazione, con l&#39;InDesign Server.
 
-In questa esercitazione verrà illustrato come:
-* Creare modelli di InDesign con testo o stili di oggetto preformattati
-* Flusso di contenuti basati su dati esterni per una personalizzazione più rapida dei contenuti
-* Generare PDF AEM spot-on o collegarli ad altri formati di output &lt;unk> del layout
+In questo tutorial imparerai come:
+* Creare modelli di InDesign con testo o stili oggetto preformattati
+* Flusso di contenuti esterni basati su dati per una personalizzazione più rapida dei contenuti
+* Generare PDF spot-on o collegare il layout ad altri formati di output guidati dall’AEM
 
 **Presentato da:**
-Eric Rowse, Senior Solutions Consultant (Digital Media)
+Eric Rowse, Consulente Senior Solutions (Digital Media)
 
 ## Risorse InDesign Server aggiuntive
 
@@ -80,7 +81,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Trova un partner</strong></a>
     </div>
-    <em>Adobe consiglia di collaborare con i partner per trovare la soluzione che soddisfi le vostre esigenze</em>
+    <em>Sebbene si disponga dell'esperienza necessaria per lo sviluppo interno, Adobe consiglia di collaborare con i partner per trovare la soluzione più adatta alle proprie esigenze</em>
     <br>
   </td>
   <td>
@@ -95,8 +96,8 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Risorse InDesign Server**
 
-[Informazioni e supporto](https://www.adobe.com/products/indesignserver.html) è il punto di riferimento per ulteriori esercitazioni, novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://www.adobe.com/products/indesignserver.html) è il tuo hub per tutorial aggiuntivi, Novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

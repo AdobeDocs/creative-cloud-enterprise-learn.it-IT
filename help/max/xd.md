@@ -1,10 +1,11 @@
 ---
 title: XD
-description: Adobe XD è uno strumento di progettazione e prototipazione dell'esperienza utente per progettare siti web, app, interfacce vocali, giochi e altri tipi di esperienze digitali
+description: Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza utente per la progettazione di siti Web, app, interfacce vocali, giochi e altri tipi di esperienze digitali
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -13,40 +14,40 @@ ht-degree: 0%
 
 # XD
 
-![Tutorial Hero Image](../assets/XD.jpg)
+![Immagine esercitazione eroe](../assets/XD.jpg)
 
-Adobe XD è uno strumento di progettazione e prototipazione dell&#39;esperienza utente per progettare siti web, app, interfacce vocali, giochi e altri tipi di esperienze digitali.
+Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza utente per la progettazione di siti Web, app, interfacce vocali, giochi e altri tipi di esperienze digitali.
 
-## Sfoglia i Tutorials di prodotto
+## Sfoglia Tutorials di prodotti
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Creazione di componenti con stati Passaggio" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
+      <img alt="Creazione di componenti con stati al passaggio del mouse" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Creazione di componenti con stati Passaggio</strong></a>
+   <a href="xd.md#tutorial1"><strong>Creazione di componenti con stati al passaggio del mouse</strong></a>
     </div>
-    <em>Creazione di pulsanti riutilizzabili e ridimensionabili in modo dinamico per i progetti interattivi</em>
+    <em>Creazione di pulsanti riutilizzabili e ridimensionabili dinamicamente per le progettazioni interattive</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Creare e compilare una griglia di ripetizione" src="../assets/XD_repeatgrid_thumbnail.jpg" />
+        <img alt="Creare e popolare una griglia di ripetizione" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Creare e compilare una griglia di ripetizione</strong></a>
+    <a href="xd.md#tutorial2"><strong>Creare e popolare una griglia di ripetizione</strong></a>
     </div>
-    <em>Trasforma un singolo elemento in griglie ripetute con un semplice clic e trascinamento</em>
+    <em>Trasformare un singolo elemento in griglie ripetute con un semplice clic e trascinamento</em>
     <br>
   </td>
   <td>
    <a href="xd.md#tutorial3">
-      <img alt="Lavorare con le pile" src="../assets/xd_Stacks_thumbnail.jpg" />
+      <img alt="Utilizzo delle pile" src="../assets/xd_Stacks_thumbnail.jpg" />
    </a>
     <div>
-    <a href="xd.md#tutorial3"><strong>Lavorare con le pile</strong></a>
+    <a href="xd.md#tutorial3"><strong>Utilizzo delle pile</strong></a>
     </div>
     <em>Utilizzare la proprietà stack per ridisporre facilmente gli elementi</em>
     <br>
@@ -55,12 +56,12 @@ Adobe XD è uno strumento di progettazione e prototipazione dell&#39;esperienza 
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Creare un prototipo - Collegamenti di ancoraggio e gruppi di scorrimento" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Creare un prototipo: collegamenti di ancoraggio e gruppi di scorrimento" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Creare un prototipo - Collegamenti di ancoraggio e gruppi di scorrimento</strong></a>
+    <a href="xd.md#tutorial4"><strong>Creare un prototipo: collegamenti di ancoraggio e gruppi di scorrimento</strong></a>
     </div>
-    <em>Aggiunta di opzioni di navigazione e scorrimento a un prototipo</em>
+    <em>Aggiunta della navigazione e scorrimento a un prototipo</em>
     <br>
   </td>
   <td>
@@ -70,27 +71,27 @@ Adobe XD è uno strumento di progettazione e prototipazione dell&#39;esperienza 
     <div>
     <a href="xd.md#tutorial5"><strong>Creazione di un prototipo - Stati dei componenti interattivi</strong></a>
     </div>
-    <em>Aggiungere interattività e un menu di sovrapposizione a un prototipo</em>
+    <em>Aggiunta di un menu di interattività e sovrapposizione a un prototipo</em>
     <br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
-      <img alt="E-mail - Creare e compilare una griglia di ripetizione" src="../assets/xd_repeat_torres.jpg" />
+      <img alt="E-mail: creare e popolare una griglia di ripetizione" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-mail - Creare e compilare una griglia di ripetizione</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-mail: creare e popolare una griglia di ripetizione</strong></a>
     </div>
-    <em>Trasforma un singolo elemento in griglie ripetute con un semplice clic e trascinamento</em>
+    <em>Trasformare un singolo elemento in griglie ripetute con un semplice clic e trascinamento</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial7">
-        <img alt="E-mail - Utilizzo delle pile" src="../assets/xd_stacks_torres.jpg" />
+        <img alt="E-mail - Lavorare con le pile" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial7"><strong>E-mail - Utilizzo delle pile</strong></a>
+    <a href="xd.md#tutorial7"><strong>E-mail - Lavorare con le pile</strong></a>
     </div>
     <em>Utilizzare la proprietà stack per ridisporre facilmente gli elementi</em>
     <br>
@@ -108,113 +109,113 @@ Adobe XD è uno strumento di progettazione e prototipazione dell&#39;esperienza 
 </tr>
 </table>
 
-## Crea [!UICONTROL Componenti] con stati Passaggio (7:35) {#tutorial1}
+## Crea [!UICONTROL Componenti] con Stati Passaggio (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
 **Descrizione**
-Crea pulsanti riutilizzabili e ridimensionabili in modo dinamico per i tuoi progetti interattivi.
+Crea pulsanti riutilizzabili e ridimensionabili dinamicamente per i tuoi progetti interattivi.
 
-In questa esercitazione verrà illustrato come:
+In questo tutorial imparerai come:
 * Apporta modifiche a un componente principale di origine e tali modifiche vengono inviate automaticamente a tutte le istanze di quel componente
-* Usa i componenti per garantire coerenza, risparmio di tempo, meno clic
+* Utilizzo dei componenti per coerenza, risparmio di tempo e minor numero di clic
 
 **Presentato da:**
-Michael Murphy, Senior Solutions Consultant (Digital Media)
+Michael Murphy, Consulente Senior Solutions (Digital Media)
 
-## Creare e compilare una griglia di ripetizione (2:57) {#tutorial2}
+## Creare e popolare una griglia di ripetizione (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
 **Descrizione**
 Trasforma un singolo elemento in griglie ripetute con un semplice clic e trascinamento.
 
-In questa esercitazione verrà illustrato come:
-* Ottimizza il tuo flusso di lavoro e trascina all&#39;istante la griglia di qualsiasi dimensione necessaria
-* XD Importa contenuti e dati reali e &lt;unk> posiziona magicamente tutte le immagini e il testo nella tua griglia
-* Apporta le modifiche una sola volta e applicale dove preferisci, in qualsiasi direzione
+In questo tutorial imparerai come:
+* Migliora il tuo flusso di lavoro e trascina istantaneamente la griglia di qualsiasi dimensione necessaria
+* Inserisci contenuti e dati reali e l&#39;XD magicamente posizionerà tutte le immagini e il testo nella tua griglia
+* Apporta le modifiche una volta e applicale dove preferisci, in qualsiasi direzione
 
 **Presentato da:**
-Ashley Dvorin, Senior Solutions Consultant (Digital Media)
+Ashley Dvorin, Consulente Senior Solutions (Digital Media)
 
-## Operazioni con le pile (5:33) {#tutorial3}
+## Utilizzo delle pile (5:33) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
 **Descrizione**
-Utilizzate la proprietà stack per ridisporre facilmente gli elementi.
+Utilizza la proprietà stack per ridisporre facilmente gli elementi.
 
-In questa esercitazione verrà illustrato come:
-* Mantenere l’allineamento e la spaziatura tra gli oggetti sull’area di lavoro anche quando il tuo progetto cambia
-* Inserisci nuovi oggetti o riordina gli oggetti in una pila e tutto si adatta automaticamente
+In questo tutorial imparerai come:
+* Mantenere l&#39;allineamento e la spaziatura tra gli oggetti sull&#39;area di lavoro anche quando cambia la progettazione
+* Inserisci nuovi oggetti o riordina gli oggetti in una pila e tutto si regola automaticamente
 
 **Presentato da:**
-Michael Murphy, Senior Solutions Consultant (Digital Media)
+Michael Murphy, Consulente Senior Solutions (Digital Media)
 
-## Creare un prototipo - Collegamenti di ancoraggio e gruppi di scorrimento (9:55) {#tutorial4}
+## Crea un prototipo - Collegamenti di ancoraggio e gruppi di scorrimento (9:55) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
 **Descrizione**
-Aggiungi la navigazione e lo scorrimento a un prototipo.
+Aggiungi navigazione e scorrimento a un prototipo.
 
-In questa esercitazione verrà illustrato come:
-* Aggiungi collegamenti ai tuoi prototipi con un’azione che consente agli utenti di passare a punti diversi sulla stessa tavola da disegno
+In questo tutorial imparerai come:
+* Aggiunta di collegamenti ai prototipi con un&#39;azione che consente agli utenti di passare a punti diversi sulla stessa tavola da disegno
 * Crea feed di attività, caroselli di immagini, elenchi di prodotti e altro ancora definendo aree che scorrono indipendentemente dal resto dei tuoi progetti
-* Creare gruppi che scorrono verticalmente, orizzontalmente o in entrambi
+* Crea gruppi che scorrono in verticale, in orizzontale o in entrambe le direzioni
 
 **Presentato da:**
-Michael Murphy, Senior Solutions Consultant (Digital Media)
+Michael Murphy, Consulente Senior Solutions (Digital Media)
 
-## Creare un prototipo - Stati dei componenti interattivi (8:55) {#tutorial5}
+## Creazione di un prototipo - Stati dei componenti interattivi (8:55) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
 **Descrizione**
 Aggiungi interattività e un menu di sovrapposizione a un prototipo.
 
-In questa esercitazione verrà illustrato come:
-* Creazione di un&#39;esperienza utente non lineare interattiva e animata senza bisogno di ulteriori tavole da disegno
-* XD Crea più flussi di prototipi o interazioni in un unico documento &lt;unk> e pubblica link condivisibili univoci per ciascun flusso
+In questo tutorial imparerai come:
+* Crea un&#39;esperienza utente animata e interattiva non lineare senza la necessità di tavole da disegno aggiuntive
+* Creazione di più flussi di prototipi o interazioni in un singolo documento XD e pubblicazione di collegamenti condivisibili univoci per ogni flusso
 
 **Presentato da:**
-Emilie Enke, Consulente Soluzioni Associate (Digital Media)
+Emilie Enke, Consulente Soluzioni Associate (Media Digitali)
 
-## E-mail - Creare e compilare una griglia di ripetizione (4:45) {#tutorial6}
+## E-mail - Creare e popolare una griglia di ripetizione (4:45) {#tutorial6}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Descrizione**
 Trasforma un singolo elemento in griglie ripetute con un semplice clic e trascinamento.
 
-In questa esercitazione verrà illustrato come:
-* Ottimizza il tuo flusso di lavoro e trascina all&#39;istante la griglia di qualsiasi dimensione necessaria
-* XD Importa contenuti e dati reali e &lt;unk> posiziona magicamente tutte le immagini e il testo nella tua griglia
-* Apporta le modifiche una sola volta e applicale dove preferisci, in qualsiasi direzione
+In questo tutorial imparerai come:
+* Migliora il tuo flusso di lavoro e trascina istantaneamente la griglia di qualsiasi dimensione necessaria
+* Inserisci contenuti e dati reali e l&#39;XD magicamente posizionerà tutte le immagini e il testo nella tua griglia
+* Apporta le modifiche una volta e applicale dove preferisci, in qualsiasi direzione
 
 **Presentato da:**
-Victoria Torres, Consulente Soluzioni (Digital Media)
+Victoria Torres, consulente per le soluzioni (Digital Media)
 
-## E-mail - Operazioni con le pile (3:38) {#tutorial7}
+## E-mail - Lavorare con le pile (3:38) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
 **Descrizione**
-Utilizzate la proprietà stack per ridisporre facilmente gli elementi.
+Utilizza la proprietà stack per ridisporre facilmente gli elementi.
 
-In questa esercitazione verrà illustrato come:
-* Mantenere l’allineamento e la spaziatura tra gli oggetti sull’area di lavoro anche quando il tuo progetto cambia
-* Inserisci nuovi oggetti o riordina gli oggetti in una pila e tutto si adatta automaticamente
+In questo tutorial imparerai come:
+* Mantenere l&#39;allineamento e la spaziatura tra gli oggetti sull&#39;area di lavoro anche quando cambia la progettazione
+* Inserisci nuovi oggetti o riordina gli oggetti in una pila e tutto si regola automaticamente
 
 **Presentato da:**
-Victoria Torres, Consulente Soluzioni (Digital Media)
+Victoria Torres, consulente per le soluzioni (Digital Media)
 
-![XD &lt;unk> Logo](../assets/xd_appicon_96.png)
+![Logo XD](../assets/xd_appicon_96.png)
 
-**XD &lt;unk> Risorse**
+**Risorse XD**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/xd.html) è il punto di riferimento per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/xd.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a usare queste funzionalità (e molto altro!) scaricando l&#39;aggiornamento più recente dall&#39;app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.
