@@ -1,11 +1,12 @@
 ---
 title: Guide di riferimento rapido per Creative Cloud for Enterprise
 description: Tutorials per aiutarti a ottenere l'aggiornamento rapido sulla Creative Cloud dei prodotti Enterprise
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Video Editing, 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -335,7 +336,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Suggerimenti per la creazione di animazioni nelle e-mail con Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Unisci immagini statiche e video in Photoshop per creare un GIF animato accattivante per la tua campagna, adatto a un'ampia gamma di applicazioni e-mail dei clienti</em>
+    <em>Combina insieme immagini statiche e video in Photoshop per creare un GIF animato accattivante per la tua campagna, adatto a un'ampia gamma di applicazioni e-mail dei clienti</em>
     <br>
   </td>
   <td>

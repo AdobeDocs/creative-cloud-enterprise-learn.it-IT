@@ -1,10 +1,10 @@
 ---
 title: Video sulla distribuzione di Creative Cloud for enterprise
 description: Informazioni su come distribuire e gestire Creative Cloud for enterprise
-role: User
+role: Admin
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 14%

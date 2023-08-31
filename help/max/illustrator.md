@@ -1,11 +1,11 @@
 ---
 title: Illustrator
 description: Crea loghi, icone, illustrazioni e qualsiasi altro progetto che puoi immaginare per il Web, i dispositivi mobili o la stampa
-role: User
 feature: Vector Editing
+role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
