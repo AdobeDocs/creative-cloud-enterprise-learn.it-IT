@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 - Le sessioni aziendali
 description: Informazioni sulle risorse demo
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -27,7 +27,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 Il vostro staff creativo sta dedicando troppo tempo al lavoro manuale e ripetitivo? Aiuta la tua organizzazione a ottenere il massimo dai professionisti creativi. I sistemi aziendali, come AEM e InDesign Server, possono fornire al personale creativo e produttivo i mezzi per diffondere rapidamente i contenuti nelle mani del pubblico di destinazione.
 
 In questa sessione live registrata, vedrai esempi di flussi di lavoro basati su modelli in:
-* Adobe Experience Manager (AEM) Assets è una soluzione di gestione delle risorse digitali (DAM) che può essere integrata con Adobe Creative Cloud per aiutare gli utenti DAM a lavorare con team creativi, semplificando la collaborazione nel processo di creazione dei contenuti
+* Adobe Experience Manager (AEM) Assets è una soluzione di gestione degli asset digitali (DAM) che può essere integrata con Adobe Creative Cloud per aiutare gli utenti DAM a collaborare con i team creativi, semplificando la collaborazione nel processo di creazione dei contenuti
 * Adobe InDesign Server è un motore di composizione e layout che potenzia le soluzioni di publishing automatizzate integrandole in altri sistemi
 
 **Presentato da:**

@@ -3,8 +3,9 @@ title: Numeri di serie in scadenza? Perché è il momento delle licenze nominati
 description: La concessione di licenze per i prodotti di Adobe tramite licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l’Admin Console e consente agli utenti finali di accedere ad app creative e di produttività di livello superiore e ai servizi Adobe Cloud, anche se l’intera forza lavoro è remota
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
