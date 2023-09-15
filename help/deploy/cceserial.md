@@ -3,8 +3,9 @@ title: Informazioni sulla scadenza del numero di serie Creative Cloud for enterp
 description: Esperienza di scadenza del numero di serie per Creative Cloud for enterprise e Acrobat
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 3%
