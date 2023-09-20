@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
@@ -19,147 +19,33 @@ ht-degree: 0%
 
 Adobi Express è uno strumento creativo facile da usare, senza alcuna esperienza richiesta.
 
-<br> 
-
-## Crea il tuo primo progetto con Adobe Express
-
-<br> 
-
->[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
-
-## Esercitazioni per gli Adobi Express
+## Percorsi di apprendimento
 
 <table style="table-layout:fixed">
 <tr>
    <td>
-      <a href="get-started.md">
-         <img alt="Introduzione all&apos;Adobe Express" src="assets/get-started.png" />
+      <a href="overview-express-how-to.md">
+         <img alt="Tutorials di procedure di Adobe Express" src="assets/how-to-tutorials.png" />
       </a>
   </td>
   <td>
-      <a href="jumpstart-ideation.md">
-         <img alt="Iniziare un&apos;idea creativa" src="assets/marketing-ideation.png" />
-      </a>
-   </td>     
-   <td>
-      <a href="create-local-marketing.md">
-         <img alt="Creazione di contenuti volantini per una campagna di marketing con Firefly" src="assets/local-marketing.png" />
-      </a>
-   </td>    
-   <td>
-      <a href="create-on-boarding.md">
-         <img alt="Creazione di contenuti di selezione e inserimento con Firefly" src="assets/on-boarding.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="create-social-posters.md">
-         <img alt="Crea poster social con Firefly" src="assets/social-firefly.png" />
+      <a href="overview-express-use-case-tutorials.md">
+         <img alt="Esercitazioni per casi d’uso di Adobi Express" src="assets/use-case-tutorials.png" />
       </a>
    </td>
    <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Creazione di contenuto grafico per blog con Firefly" src="assets/blog-graphic.png" />
-      </a>
-   </td>
-   <td>
-      <a href="create-webinar-poster.md">
-         <img alt="Crea poster del webinar con Firefly" src="assets/webinar-poster.png" />
-      </a>
-   </td>
-   <td>
-      <a href="schedule.md">
-         <img alt="Pianifica post social" src="assets/schedule.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Invita collaboratori al progetto" src="assets/collaborate.png" />
-   </a>
-  </td>
-    <td>
-      <a href="get-inspiration.md">
-         <img alt="Trai rapidamente ispirazione" src="assets/inspiration.png" />
-      </a>
-  </td>
-   <td>
-   <a href="create-templates.md">
-      <img alt="Creare modelli" src="assets/templates.png" />
-   </a>
-  </td>
-   <td>
-         <a href="add-design-assets.md">
-            <img alt="Aggiungere risorse di progettazione" src="assets/design-assets.png" />
-         </a>
-   </td>
-</tr>
-<tr>
-  <td>
-         <a href="group-objects.md">
-            <img alt="Raggruppare gli oggetti" src="assets/group-objects.png" />
-         </a>
-   </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Selezionare e spostare i livelli" src="assets/layers.png" />
-         </a>
-   </td>
-  <td>
-      <a href="multiple-pages.md">
-         <img alt="Creare più pagine" src="assets/multiple-pages.png" />
-      </a>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
   <td>
-      <a href="undo-redo.md">
-         <img alt="Annulla e ripeti" src="assets/undo-redo.png" />
-      </a>
-   </td>
-</tr>
-<tr>
- <td>
-      <a href="cc-libraries.md">
-         <img alt="Utilizzo di CC Libraries" src="assets/cc-libraries.png" />
-      </a>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Applica il tuo marchio" src="assets/brand.png" />
-      </a>
-  </td>
-   <td>
-      <a href="google-drive.md">
-         <img alt="Integrazione di Google Drive" src="assets/google-drive.png" />
-      </a>
-  </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Rimuovi sfondo" src="assets/background.png" />
-      </a>
-  </td>
-</tr>
-<tr>
- <td>
-      <a href="text-effects.md">
-         <img alt="Usa effetti di testo" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Usa effetti di testo" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Usare gli effetti immagine" src="assets/image-effects.png" />
-      </a>
-  </td>
-   <td>
-      <a href="create-curved-text.md">
-         <img alt="Crea testo curvo" src="assets/curved-text.png" />
-      </a>
-   </td>
 </tr>
 </table>
+
+## Crea il tuo primo progetto con Adobe Express
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
