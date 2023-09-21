@@ -3,9 +3,9 @@ title: Possibilità per i team distribuiti di localizzare i contenuti
 description: Scopri come i team di marketing sul campo distribuiti possono personalizzare facilmente i contenuti in base alla propria area geografica per le campagne di marketing locali
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13991
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%
