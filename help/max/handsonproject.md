@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # Plug-in di progettazione per la stampa - Personalizzare una maschera per volti
-
-![Immagine esercitazione eroe](../assets/faceMaskSplash.jpg)
 
 Non sarebbe bello se potessi personalizzare una maschera per volti con i tuoi disegni? Con il plug-in Design to Print di Adobe, puoi visualizzare i tuoi progetti su centinaia di prodotti Zazzle e pubblicarli direttamente sul loro marketplace online.
 

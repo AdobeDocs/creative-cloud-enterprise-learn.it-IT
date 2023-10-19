@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # Esercitazioni per Creative Cloud for enterprise
-
-![Creative Cloud immagine eroe](../assets/CCEbanner.png)
 
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Questi tutorial aiutano a scoprire le nuove funzioni di Creative Cloud, da una prospettiva aziendale.
 

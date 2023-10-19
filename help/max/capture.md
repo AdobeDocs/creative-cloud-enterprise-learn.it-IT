@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
-
-![Immagine esercitazione eroe](../assets/Capture.jpg)
 
 Adobe [!DNL Capture] trasforma telefoni cellulari e tablet in uno strumento per la raccolta di progetti. Gli utenti possono creare molti tipi diversi di risorse (singoli elementi digitali per la grafica).   Queste risorse si sincronizzano automaticamente con altre applicazioni di Adobe per desktop e dispositivi mobili. Gli utenti possono inserirli nei loro progetti creativi o condividerli facilmente con i collaboratori.
 

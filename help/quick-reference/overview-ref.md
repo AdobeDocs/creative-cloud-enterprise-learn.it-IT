@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # Guide di riferimento rapido per Creative Cloud for enterprise
-
-![Creative Cloud immagine eroe](../assets/CCEbanner.png)
 
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Queste guide di riferimento rapido (PDF) aiutano ad apprendere le nuove funzioni di Creative Cloud.
 

@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # Guide di riferimento rapido video
-
-![Creative Cloud immagine eroe](../assets/CCEbanner-DVA.png)
 
 Dai vita alle tue idee con software e app Adobi per l&#39;editing video, la grafica animata, gli effetti visivi, l&#39;animazione e altro ancora. Selezionate un’immagine da scaricare o visualizzate un PDF della guida di riferimento rapido.
 

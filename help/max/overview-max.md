@@ -5,16 +5,14 @@ feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
 # MAX 2020 - Le sessioni aziendali
-
-![Immagine eroe Max 2020](../assets/MAX2020.jpg)
 
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Questi tutorial ti aiuteranno ad apprendere le nuove funzioni della versione 2021 di Creative Cloud, da una prospettiva aziendale.
 
