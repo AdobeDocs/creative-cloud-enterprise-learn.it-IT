@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,21 @@ ht-degree: 0%
 
 Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza artificiale generativa basata sull&#39;Adobe Firefly. Progetta volantini, TikToks, curriculum e Reels con Adobe Express.
 
-## Adobi Express di esercitazioni pratiche
-
 <table style="table-layout:fixed">
 <tr>
  <td>
       <a href="get-started.md">
-         <img alt="Introduzione all&apos;Adobe Express" src="assets/get-started.png" />
+         <img alt="Contenuto della pagina Home" src="assets/home-page.png" />
+      </a>
+ </td>
+ <td>
+      <a href="quick-actions.md">
+         <img alt="Introduzione alle azioni rapide" src="assets/quick-actions.png" />
+      </a>
+ </td>
+ <td>
+      <a href="introduction-templates.md">
+         <img alt="Introduzione alle azioni rapide" src="assets/introduction-templates.png" />
       </a>
  </td>
  <td>
@@ -31,6 +39,8 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Pianifica post social" src="assets/schedule.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
    <a href="collaborate.md">
       <img alt="Invita collaboratori al progetto" src="assets/collaborate.png" />
@@ -41,8 +51,6 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Trai rapidamente ispirazione" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>  
-<tr>
   <td>
    <a href="create-templates.md">
       <img alt="Creare modelli" src="assets/templates.png" />
@@ -53,6 +61,8 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
             <img alt="Aggiungere risorse di progettazione" src="assets/design-assets.png" />
          </a>
  </td>
+</tr>
+<tr>
   <td>
          <a href="group-objects.md">
             <img alt="Raggruppare gli oggetti" src="assets/group-objects.png" />
@@ -63,8 +73,6 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
             <img alt="Selezionare e spostare i livelli" src="assets/layers.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="multiple-pages.md">
          <img alt="Creare più pagine" src="assets/multiple-pages.png" />
@@ -75,6 +83,8 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Annulla e ripeti" src="assets/undo-redo.png" />
       </a>
    </td>
+</tr>
+<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Utilizzo di CC Libraries" src="assets/cc-libraries.png" />
@@ -85,8 +95,6 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Applica il tuo marchio" src="assets/brand.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Integrazione di Google Drive" src="assets/google-drive.png" />
@@ -97,6 +105,8 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Rimuovi sfondo" src="assets/background.png" />
       </a>
   </td>
+  </tr>
+<tr>
   <td>
       <a href="text-effects.md">
          <img alt="Usa effetti di testo" src="assets/text-effects.png" />
@@ -107,24 +117,12 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Usare gli effetti immagine" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Crea testo curvo" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
       <img alt="Spaziatore" src="../assets/Whitespacer.png" />
       <div>
       <br>

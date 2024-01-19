@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 9%
+source-wordcount: '579'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 9%
 + [Panoramica](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
    + [Panoramica](cce/overview-cce.md)
-   + Esercitazioni {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [Acrobat per Creatori di contenuti](cce/acrobat-content-creators.md)
       + [Migliorare i flussi di lavoro CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Ansia da domazione](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 9%
    + [Panoramica](express/overview-express.md)
    + Esercitazioni sulle procedure {#expresshowto}
       + [Panoramica](express/overview-express-how-to.md)
-      + [Introduzione all&#39;Adobe Express](express/get-started.md)
+      + [Elementi della home page](express/get-started.md)
+      + [Introduzione alle azioni rapide](express/quick-actions.md)
+      + [Introduzione ai modelli](express/introduction-templates.md)
       + [Pianifica post social](express/schedule.md)
       + [Invita collaboratori al progetto](express/collaborate.md)
       + [Trai rapidamente ispirazione](express/get-inspiration.md)
@@ -71,7 +73,7 @@ ht-degree: 9%
       + [Crea poster del webinar con Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Panoramica](firefly/overview-firefly.md)
-   + Esercitazioni {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Panoramica dell&#39;Adobe Firefly](firefly/overview-of-firefly.md)
       + [Efficienza creativa](firefly/enable-creative-efficiency.md)
       + [Banner e varianti in [!DNL Photoshop]](firefly/web-banner-ad.md)
@@ -82,7 +84,7 @@ ht-degree: 9%
       + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Panoramica](stock/overview-stock.md)
-   + Esercitazioni {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Splendide risorse digitali](stock/stunning-digital-assets.md)
       + [Adobe di ricerca [!DNL Stock] cronologia licenze](stock/searchstock.md)
       + [Aggiungere un&#39;estetica disegnata a mano agli Adobi [!DNL Stock] immagini](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 9%
       + [Personalizzare i colori in un Adobe [!DNL Stock] illustrazione vettoriale](stock/customizecolors.md)
 + Adobe 3D E VR {#3doverview}
    + [Panoramica](3di/overview-3di.md)
-   + Esercitazioni {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [Progettazione e rendering 3D](3di/substance-3d-stager.md)
       + [Suggerimenti e tecniche per l’illuminazione 3D in CGI](3di/mastering3dlighting.md)
       + [Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D](3di/photorealistic.md)
       + [Personalizza e personalizza un modello 3D con [!DNL Dimension] e ADOBE [!DNL Stock]](3di/3ddimensionstock.md)
 + Video Adobe {#videooverview}
    + [Panoramica](dva/overview-dva.md)
-   + Esercitazioni {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Modelli professionali per grafica animata](dva/motion-graphics-templates.md)
       + [Revisione video con Frame.io](dva/video-review-frame-io.md)
    + Guide di riferimento rapide {#videorefguides}
       + [Guide video](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Panoramica](xd/overview-xd.md)
-   + Esercitazioni {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Comodità con [!UICONTROL Componenti] in Adobe XD](xd/components.md)
 + Distribuzione e gestione {#deploy}
    + [Panoramica](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 9%
    + [Licenze nominative](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Panoramica](max/overview-max.md)
-   + Esercitazioni {#tutorials}
+   + Tutorials {#tutorials}
       + [Panoramica](max/maxtutorials.md)
       + Prodotti desktop {#desktop-products}
          + [Acrobat e Sign](max/acrobat-sign.md)
