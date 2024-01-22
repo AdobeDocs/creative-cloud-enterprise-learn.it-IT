@@ -1,19 +1,20 @@
 ---
-title: Usa effetti di testo
-description: Scopri come aggiungere ombre esterne, forme e testo contorno
+title: Come aggiungere testo
+description: Scopri tutti i diversi modi per aggiungere testo ai tuoi progetti creativi
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13421
+exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Usa effetti di testo
+# Come aggiungere del testo
 
-Scoprite come aggiungere ombre esterne, forme e testo contorno.
+Scopri tutti i diversi modi per aggiungere testo ed effetti di testo ai tuoi progetti creativi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

@@ -1,19 +1,20 @@
 ---
-title: Applica il tuo marchio
-description: Scopri come aggiungere il logo e il colore del marchio a qualsiasi modello
+title: Configurazione di un kit per i marchi
+description: Scopri come creare una raccolta di risorse del marchio per i tuoi progetti aziendali o personali
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 21bbcd5a-a762-4169-a944-d8f1252699b9
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13417
+exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Applica il tuo marchio
+# Configurazione di un kit del marchio
 
-Scopri come aggiungere il logo e il colore del marchio a qualsiasi modello.
+Scopri come creare una raccolta di risorse del marchio per creare progetti coerenti e professionali per la tua azienda o i tuoi progetti personali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
