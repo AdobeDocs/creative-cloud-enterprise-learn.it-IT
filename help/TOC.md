@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 6%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 6%
       + [Come aggiungere del testo](express/text-effects.md)
       + [Come aggiungere un’immagine](express/image-effects.md)
       + [Come aggiungere un’immagine Gen AI](express/add-gen-ai-image.md)
+      + [Come utilizzare le griglie](express/grids.md)
+      + [Come utilizzare gli elementi](express/add-design-assets.md)
+      + [Utilizzo di livelli e tavole da disegno](express/layers.md)
+      + [Come collaborare](express/collaborate.md)
+      + [Come condividere e scaricare](express/share.md)
+      + [Come utilizzare la cronologia delle versioni](express/version-history.md)
       + [Pianifica post social](express/schedule.md)
-      + [Invita collaboratori al progetto](express/collaborate.md)
       + [Trai rapidamente ispirazione](express/get-inspiration.md)
       + [Creare modelli](express/create-templates.md)
-      + [Aggiungere risorse di progettazione](express/add-design-assets.md)
       + [Raggruppare gli oggetti](express/group-objects.md)
-      + [Selezionare e spostare i livelli](express/layers.md)
       + [Creare più pagine](express/multiple-pages.md)
       + [Annulla e ripeti](express/undo-redo.md)
       + [Utilizzo di CC Libraries](express/cc-libraries.md)
