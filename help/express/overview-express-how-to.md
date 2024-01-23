@@ -6,16 +6,18 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # Adobe [!DNL Express] esercitazioni pratiche
 
 Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza artificiale generativa basata sull&#39;Adobe Firefly. Progetta volantini, TikToks, curriculum e Reels con Adobe Express.
+
+## Guida introduttiva
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,14 +35,24 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
       <a href="introduction-templates.md">
          <img alt="Introduzione alle azioni rapide" src="assets/introduction-templates.png" />
       </a>
- </td>     
+ </td>
+ <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>
+
+## Nozioni di base
+
+<table style="table-layout:fixed">
+<tr>
  <td>
       <a href="brand.md">
          <img alt="Configurazione di un kit del marchio" src="assets/brand.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="new-project.md">
          <img alt="Avvio di un progetto" src="assets/starting-a-project.png" />
@@ -56,19 +68,19 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Come aggiungere del testo" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="Come aggiungere un’immagine" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="add-gen-ai-image.md">
          <img alt="Come aggiungere un’immagine Gen AI" src="assets/gen-ai-image.png" />
       </a>
   </td>
- <td>
+   <td>
       <a href="grids.md">
          <img alt="Come utilizzare le griglie" src="assets/grids.png" />
       </a>
@@ -78,47 +90,95 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
             <img alt="Come utilizzare gli elementi" src="assets/design-assets.png" />
          </a>
    </td>
+</tr>
+<tr>
    <td>
          <a href="layers.md">
             <img alt="Utilizzo di livelli e tavole da disegno" src="assets/layers.png" />
          </a>
    </td>
-</tr>
-<tr>
    <td>
    <a href="collaborate.md">
       <img alt="Come collaborare" src="assets/collaborate.png" />
    </a>
-  </td>
-  <td>
+   </td>
+   <td>
    <a href="share.md">
       <img alt="Come condividere e scaricare" src="assets/share.png" />
    </a>
-  </td>
-  <td>
+   </td>
+   <td>
    <a href="version-history.md">
       <img alt="Come utilizzare la cronologia delle versioni" src="assets/version-history.png" />
    </a>
-  </td>
-  <td>
-      <a href="schedule.md">
-         <img alt="Pianifica post social" src="assets/schedule.png" />
-      </a>
-  </td>
+   </td>
 </tr>
 <tr>
-  <td>
+   <td>
+      <a href="undo-redo.md">
+         <img alt="Annulla e ripeti" src="assets/undo-redo.png" />
+      </a>
+   </td>
+   <td>
       <a href="get-inspiration.md">
          <img alt="Trai rapidamente ispirazione" src="assets/inspiration.png" />
       </a>
   </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>
+
+## Animazione
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="intro-animation.md">
+            <img alt="Introduzione alle animazioni" src="assets/intro-animations.png" />
+         </a>
+   </td>
+  <td>
+         <a href="different-types-animation.md">
+            <img alt="Diversi tipi di animazione" src="assets/different-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="tweak-animation.md">
+            <img alt="Modifica delle impostazioni delle animazioni" src="assets/tweaking-settings.png" />
+         </a>
+   </td>
+   <td>
+         <a href="animation-timeline.md">
+            <img alt="Che cos&apos;è la sequenza temporale dell&apos;animazione?" src="assets/what-is-animation-timeline.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## Attività avanzate
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+      <a href="schedule.md">
+         <img alt="Pianifica post social" src="assets/schedule.png" />
+      </a>
+   </td>
    <td>
    <a href="create-templates.md">
       <img alt="Creare modelli" src="assets/templates.png" />
    </a>
-  </td>
-
-<td>
+   </td>
+   <td>
          <a href="group-objects.md">
             <img alt="Raggruppare gli oggetti" src="assets/group-objects.png" />
          </a>
@@ -130,11 +190,6 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
   </td>
 </tr>
 <tr>
-  <td>
-      <a href="undo-redo.md">
-         <img alt="Annulla e ripeti" src="assets/undo-redo.png" />
-      </a>
-   </td>
   <td>
       <a href="cc-libraries.md">
          <img alt="Utilizzo di CC Libraries" src="assets/cc-libraries.png" />
@@ -150,27 +205,10 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
             <img alt="Rimuovi sfondo" src="assets/background.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Crea testo curvo" src="assets/curved-text.png" />
          </a>
-   </td>
-  <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
    </td>
 </tr>
 </table>

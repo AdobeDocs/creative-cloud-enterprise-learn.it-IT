@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
-ht-degree: 6%
+source-wordcount: '620'
+ht-degree: 5%
 
 ---
 
@@ -54,12 +54,16 @@ ht-degree: 6%
       + [Come collaborare](express/collaborate.md)
       + [Come condividere e scaricare](express/share.md)
       + [Come utilizzare la cronologia delle versioni](express/version-history.md)
-      + [Pianifica post social](express/schedule.md)
+      + [Annulla e ripeti](express/undo-redo.md)
       + [Trai rapidamente ispirazione](express/get-inspiration.md)
+      + [Introduzione alle animazioni](express/intro-animation.md)
+      + [Diversi tipi di animazione](express/different-types-animation.md)
+      + [Modifica delle impostazioni delle animazioni](express/tweak-animation.md)
+      + [Che cos&#39;è la sequenza temporale dell&#39;animazione?](express/animation-timeline.md)
+      + [Pianifica post social](express/schedule.md)
       + [Creare modelli](express/create-templates.md)
       + [Raggruppare gli oggetti](express/group-objects.md)
       + [Creare più pagine](express/multiple-pages.md)
-      + [Annulla e ripeti](express/undo-redo.md)
       + [Utilizzo di CC Libraries](express/cc-libraries.md)
       + [Integrazione di Google Drive](express/google-drive.md)
       + [Come rimuovere uno sfondo da una foto con un clic](express/remove-background.md)
