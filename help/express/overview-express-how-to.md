@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="Diversi tipi di animazione" src="assets/different-animations.png" />
+            <img alt="Diversi tipi di animazioni" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
@@ -160,6 +160,50 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <a href="animation-timeline.md">
             <img alt="Che cos&apos;è la sequenza temporale dell&apos;animazione?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="Come scaglionare le animazioni" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="Aggiunta di sezioni all’animazione" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="Aggiunta di audio alle animazioni" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="Come ridimensionare le animazioni" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="Esportazione delle animazioni" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
