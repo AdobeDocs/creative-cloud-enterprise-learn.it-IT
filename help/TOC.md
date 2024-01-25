@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '689'
 ht-degree: 5%
 
 ---
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Aggiunta di audio alle animazioni](express/audio-animation.md)
       + [Come ridimensionare le animazioni](express/resize-animations.md)
       + [Esportazione delle animazioni](express/export-animations.md)
-      + [Pianifica post social](express/schedule.md)
+      + [Come rimuovere lo sfondo da qualsiasi immagine](express/remove-background.md)
+      + [Quali sono le nuove funzioni di intelligenza artificiale generale in Adobi Express?](express/intro-gen-ai.md)
+      + [Come usare lo strumento gomma per oggetti](express/object-eraser.md)
+      + [Come utilizzare Riempimento generativo](express/generative-fill.md)
+      + [Miglioramento della progettazione del testo con Gen AI](express/gen-text.md)
+      + [Come utilizzare la funzione &quot;Text-to-template&quot; Gen AI](express/text-to-template.md)
+      + [Come tradurre in blocco i tuoi contenuti](express/bulk-translate.md)
+      + [Come modificare un PDF](express/edit-a-pdf.md)
+      + [Come utilizzare l&#39;utilità di pianificazione per la registrazione](express/schedule.md)
       + [Creare modelli](express/create-templates.md)
       + [Raggruppare gli oggetti](express/group-objects.md)
       + [Creare più pagine](express/multiple-pages.md)
       + [Utilizzo di CC Libraries](express/cc-libraries.md)
       + [Integrazione di Google Drive](express/google-drive.md)
-      + [Come rimuovere uno sfondo da una foto con un clic](express/remove-background.md)
       + [Perfezionare un ritaglio](express/refine-cutout.md)
       + [Crea testo curvo](express/create-curved-text.md)
    + Esercitazioni per casi d’uso {#expressusecase}

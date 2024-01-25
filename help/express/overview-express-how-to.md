@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
+source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -213,8 +213,52 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
 <table style="table-layout:fixed">
 <tr>
    <td>
+         <a href="remove-background.md">
+            <img alt="Come rimuovere lo sfondo da qualsiasi immagine" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Quali sono le nuove funzioni di intelligenza artificiale generale in Adobe Express" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="Come usare lo strumento gomma per oggetti" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="Come utilizzare Riempimento generativo" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Miglioramento della progettazione del testo con Gen AI" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-template.md">
+         <img alt="Come utilizzare la funzione &quot;Text-to-template&quot; Gen AI" src="assets/text-to-template.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="Come tradurre in blocco i tuoi contenuti" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="Come modificare un PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="schedule.md">
-         <img alt="Pianifica post social" src="assets/schedule.png" />
+         <img alt="Come utilizzare l&apos;utilità di pianificazione per la registrazione" src="assets/schedule.png" />
       </a>
    </td>
    <td>
@@ -244,15 +288,15 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
          <img alt="Integrazione di Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
-         <a href="remove-background.md">
-            <img alt="Rimuovi sfondo" src="assets/background.png" />
-         </a>
-   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Crea testo curvo" src="assets/curved-text.png" />
          </a>
    </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

@@ -1,19 +1,20 @@
 ---
-title: Come rimuovere uno sfondo da una foto con un clic
-description: Scopri come rimuovere lo sfondo dalle immagini
+title: Come rimuovere lo sfondo da qualsiasi immagine
+description: Scoprite come rimuovere lo sfondo dalle immagini con un clic
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13419
 exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Come rimuovere uno sfondo da una foto con un clic
+# Come rimuovere lo sfondo da qualsiasi immagine
 
-Scopri come rimuovere lo sfondo dalle immagini.
+Scoprite come rimuovere lo sfondo dalle immagini con un clic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
