@@ -3,9 +3,9 @@ title: Come utilizzare la funzione di conversione da testo a modello
 description: Scopri come generare modelli modificabili da una descrizione di testo in pochi secondi
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14848
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

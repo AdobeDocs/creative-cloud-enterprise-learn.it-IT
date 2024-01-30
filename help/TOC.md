@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
@@ -81,6 +81,11 @@ ht-degree: 5%
       + [Integrazione di Google Drive](express/google-drive.md)
       + [Perfezionare un ritaglio](express/refine-cutout.md)
       + [Crea testo curvo](express/create-curved-text.md)
+      + [Come avviare un progetto video](express/start-video.md)
+      + [Come aggiungere clip video](express/add-video-clips.md)
+      + [Che cos&#39;è una timeline video?](express/video-timeline.md)
+      + [Come aggiungere l’audio](express/add-audio-video.md)
+      + [Come esportare un video](express/export-video.md)
    + Esercitazioni per casi d’uso {#expressusecase}
       + [Panoramica](express/overview-express-use-case-tutorials.md)
       + [Crea contenuti di merchandising accattivanti](express/compelling-merchandise.md)
