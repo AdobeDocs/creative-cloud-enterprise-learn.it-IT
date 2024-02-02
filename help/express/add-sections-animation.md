@@ -1,19 +1,19 @@
 ---
 title: Aggiunta di sezioni all'animazione
-description: Aumenta il coinvolgimento aggiungendo nuove scene alla timeline
+description: Aumenta il coinvolgimento aggiungendo elementi come immagini e titoli a un’animazione
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14836
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # Aggiunta di sezioni all’animazione
 
-Rendi più intensa l’animazione aggiungendo nuove scene alla timeline.
+Per ottimizzare l’animazione, aggiungi a un’animazione elementi come immagini e titoli. Scopri come aggiungere, duplicare, ridisporre o sostituire gli elementi di una scena mantenendo intatte le animazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)

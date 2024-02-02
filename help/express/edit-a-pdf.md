@@ -4,15 +4,15 @@ description: Scoprite come dare un nuovo volto ai vostri PDF statici e obsoleti 
 role: User
 level: Intermediate
 jira: KT-14852
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Come modificare un PDF
 
-Scopri come dare ai tuoi PDF statici e obsoleti un restyling aggiungendo testo, immagini, marchi, colori, animazioni e altro ancora di grande impatto.
+Scopri come dare ai tuoi PDF statici e obsoleti un restyling aggiungendo testo, immagini, marchi, colori, animazioni e altro ancora di grande impatto. Una volta completata la modifica, puoi scaricare PDF PDF, condividerlo o convertirlo in altri formati di file, come JPEG.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)

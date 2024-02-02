@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Come tradurre in blocco i tuoi contenuti
 
-Scoprite come eliminare la necessità di traduzioni manuali e i problemi degli strumenti di traduzione esterni traducendo il testo su file di una o più pagine in 46 lingue.
+Scopri come creare variazioni di lingua dei tuoi progetti traducendo automaticamente i contenuti in 46 lingue diverse. Puoi selezionare la lingua desiderata, duplicare e tradurre il contenuto e mantenere tutte le animazioni.
+
+>[!NOTE]
+>
+>È importante verificare l’accuratezza delle traduzioni prima di condividerle o scaricarle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

@@ -1,19 +1,19 @@
 ---
 title: Come aggiungere audio
-description: Scopri come registrare la tua voce o aggiungere audio Adobe Stock esente da royalty a qualsiasi video
+description: Scopri come creare progetti coinvolgenti e memorabili aggiungendo l'audio
 feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14874
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Come aggiungere l’audio
 
-Scopri come registrare la tua voce o aggiungere audio Adobe Stock esente da royalty a qualsiasi video.
+Scopri come creare progetti coinvolgenti e memorabili aggiungendo l&#39;audio. Puoi caricare i tuoi file audio o scegliere tra audio stock esenti da royalty. Puoi anche registrare voci fuori campo e regolare il volume sia per l’audio che per le voci fuori campo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
