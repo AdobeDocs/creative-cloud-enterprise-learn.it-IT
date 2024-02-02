@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,50 @@ ht-degree: 0%
 Scopri la timeline, dove disporre e modificare oggetti video come video, immagini, testo e grafica nel progetto. La linea temporale è una rappresentazione degli oggetti e dell&#39;ordine degli oggetti che compongono un video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="Come avviare un progetto video" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="Come aggiungere clip video" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="multiple-clips.md">
+            <img alt="Operazioni con più clip" src="assets/multiple-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="Come aggiungere l’audio" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+    <td>
+         <a href="export-video.md">
+            <img alt="Come esportare un video" src="assets/export-video.png" />
+         </a>
+   </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+</tr>
+</table>
