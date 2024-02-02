@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14870
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Scopri i vari modi per avviare un progetto video, compreso come utilizzare i modelli di video per social media.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+
+## Video aggiuntivi di questa serie
 
 <table style="table-layout:fixed">
 <tr>
