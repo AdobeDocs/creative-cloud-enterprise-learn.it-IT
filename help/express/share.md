@@ -5,7 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Scopri le opzioni per scaricare e condividere i progetti in diversi formati di f
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="Configurazione di un kit del marchio" src="assets/brand.png" />
       </a>
@@ -36,12 +36,12 @@ Scopri le opzioni per scaricare e condividere i progetti in diversi formati di f
       <a href="workspace.md">
          <img alt="UX di un progetto" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="Come aggiungere del testo" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -76,7 +76,6 @@ Scopri le opzioni per scaricare e condividere i progetti in diversi formati di f
       <img alt="Come collaborare" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="Come utilizzare la cronologia delle versioni" src="assets/version-history.png" />
