@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Panoramica](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Panoramica dell&#39;Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Panoramica di [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Scopri [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Pagina di destinazione](firefly/landing-page.md)
+      + [Da testo a immagine](firefly/text-to-image.md)
+      + [Effetti Testo](firefly/text-effects.md)
+      + [Riempimento generativo](firefly/gen-fill.md)
+      + [Ricolora in modo generativo](firefly/gen-recolor.md)
+      + [Esempi di utilizzo [!DNL Firefly]](firefly/examples.md)
       + [Efficienza creativa](firefly/enable-creative-efficiency.md)
       + [Banner e varianti in [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Compilazione generativa [!DNL Photoshop]](firefly/generative-fill.md)
-      + [Effetti di testo](firefly/text-effects.md)
       + [Ricolora in modalità generativa [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webinar {#firefly-webinars}
       + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
