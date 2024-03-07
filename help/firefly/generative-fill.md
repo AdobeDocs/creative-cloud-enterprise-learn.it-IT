@@ -5,17 +5,17 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13467
-exl-id: 470703d3-94d1-4699-9112-13cc532a5d74
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: abefcf4f-b8bb-4428-9b0e-801d21f2e587
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
 # Riempimento generativo in Photoshop
 
-Scoprite come utilizzare Generative Fill, basato sull&#39;Adobe Firefly, in Adobe Photoshop per semplificare la creazione di un concetto per un annuncio di viaggio. Questo tutorial utilizza [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Scoprite come utilizzare Generative Fill, basato sull&#39;Adobe Firefly, in Adobe Photoshop per semplificare la creazione di un concetto per un annuncio di viaggio.
 
 <br> 
 
