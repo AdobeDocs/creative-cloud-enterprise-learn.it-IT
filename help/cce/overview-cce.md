@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 In qualità di creativo aziendale, devi collaborare con team distribuiti, stabilire processi scalabili e rispettare i sistemi e le linee guida aziendali. Questi tutorial aiutano a scoprire le nuove funzioni di Creative Cloud, da una prospettiva aziendale.
 
-## Fai clic per visualizzare l&#39;esercitazione di un prodotto (elencata in ordine alfabetico)
+## Seleziona un&#39;esercitazione sul prodotto (elencato in ordine alfabetico) da visualizzare
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
   <td>
     <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (in precedenza Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: contenuti straordinari" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: contenuti straordinari</strong></a>
-    </div>
-    <em> Crea in pochi minuti grafica, pagine Web e racconti video accattivanti con Adobe Express</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creazione del marchio in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creazione del marchio in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark semplifica la definizione del tuo marchio</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Aggiunta di una presentazione allo Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Aggiunta di una presentazione allo Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark offre alcuni componenti di layout incredibili e facili da usare che danno vita alle tue storie Web</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creazione del marchio in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creazione del marchio in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark semplifica la definizione del tuo marchio</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Incontra il tuo nuovo artista di produzione: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Incontra il tuo nuovo artista di produzione: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark impara da te mentre crei layout, definisci i colori, importa grafica e disponi gli elementi all’interno delle tue composizioni</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Da Lightroom Web a InDesign tramite Creative Cloud (PDF)</strong></a>
     </div>
     <em>Porta la tua creatività dalla fotocamera al progetto finale con i file e le librerie di Creative Cloud</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
