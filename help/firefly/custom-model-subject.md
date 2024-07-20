@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Creare un modello personalizzato utilizzando un oggetto
 
-Scopri come creare modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione utilizzando un soggetto specifico. I modelli personalizzati consentono di creare contenuti pertinenti e personalizzati su larga scala. Prova Adobe Firefly [qui](https://firefly.adobe.com/).
+Scopri come creare modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione utilizzando un soggetto specifico. I modelli personalizzati consentono di creare contenuti pertinenti e personalizzati su larga scala. Prova l&#39;Adobe Firefly [qui](https://firefly.adobe.com/).
 
 <br> 
 
@@ -23,4 +23,4 @@ Scopri come creare modelli personalizzati in Firefly per creare nuove immagini p
 
 >[!IMPORTANT]
 >
->Ulteriori informazioni sul [architettura di sicurezza e flusso di dati dei modelli personalizzati](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Ulteriori informazioni sull&#39;architettura di protezione [e sul flusso di dati dei modelli personalizzati](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

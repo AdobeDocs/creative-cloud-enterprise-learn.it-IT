@@ -8,7 +8,7 @@ thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Importa i contenuti, disponi la scena, applica materiali e texture, regola l’i
 
 Seleziona l&#39;immagine seguente per visualizzare o scaricare questo tutorial di PDF.
 
-[![Immagine della prima pagina del tutorial](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![Immagine della prima pagina dell&#39;esercitazione](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}

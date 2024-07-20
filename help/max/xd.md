@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Utilizzo delle pile" src="../assets/xd_Stacks_thumbnail.jpg" />
    </a>
     <div>
-    <a href="xd.md#tutorial3"><strong>Utilizzo delle pile</strong></a>
+    <a href="xd.md#tutorial3"><strong>Lavorare con le pile</strong></a>
     </div>
     <em>Utilizzare la proprietà stack per ridisporre facilmente gli elementi</em>
     <br>
@@ -54,10 +54,12 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Creare un prototipo: collegamenti di ancoraggio e gruppi di scorrimento" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Crea un prototipo: collegamenti di ancoraggio e 
+Gruppi di scorrimento" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Creare un prototipo: collegamenti di ancoraggio e gruppi di scorrimento</strong></a>
+    <a href="xd.md#tutorial4"><strong>Creazione di un prototipo: collegamenti di ancoraggio e 
+Gruppi di scorrimento</strong></a>
     </div>
     <em>Aggiunta della navigazione e scorrimento a un prototipo</em>
     <br>
@@ -69,7 +71,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
     <div>
     <a href="xd.md#tutorial5"><strong>Creazione di un prototipo - Stati dei componenti interattivi</strong></a>
     </div>
-    <em>Aggiunta di un menu di interattività e sovrapposizione a un prototipo</em>
+    <em>Aggiungere interattività e un menu di sovrapposizione a un prototipo</em>
     <br>
   </td>
   <td>
@@ -77,7 +79,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="E-mail: creare e popolare una griglia di ripetizione" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-mail: creare e popolare una griglia di ripetizione</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-mail - Creare e popolare una griglia di ripetizione</strong></a>
     </div>
     <em>Trasformare un singolo elemento in griglie ripetute con un semplice clic e trascinamento</em>
     <br>
@@ -89,7 +91,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
         <img alt="E-mail - Lavorare con le pile" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial7"><strong>E-mail - Lavorare con le pile</strong></a>
+    <a href="xd.md#tutorial7"><strong>E-mail - Utilizzare le pile</strong></a>
     </div>
     <em>Utilizzare la proprietà stack per ridisporre facilmente gli elementi</em>
     <br>
@@ -107,7 +109,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
 </tr>
 </table>
 
-## Crea [!UICONTROL Componenti] con Stati Passaggio (7:35) {#tutorial1}
+## Crea [!UICONTROL componenti] con stati Passaggio (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -212,7 +214,7 @@ Victoria Torres, consulente per le soluzioni (Digital Media)
 
 **Risorse XD**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/xd.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/xd.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

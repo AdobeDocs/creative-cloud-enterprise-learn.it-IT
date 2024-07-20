@@ -1,6 +1,6 @@
 ---
-title: Personalizza e personalizza un modello 3D con [!DNL Dimension] e ADOBE [!DNL Stock]
-description: Personalizza e personalizza un modello 3D in [!DNL [!DNL Dimension]] utilizzo di materiali, proprietà ambientali, illuminazione e fotografia, per creare immagini fotorealistiche per qualsiasi progetto di progettazione
+title: Personalizza e personalizza un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]
+description: Personalizza e personalizza un modello 3D in [!DNL [!DNL Dimension]] utilizzando materiali, proprietà ambientali, illuminazione e fotografia, per creare immagini fotorealistiche per qualsiasi progetto di progettazione
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Personalizza e personalizza un modello 3D con [!DNL Dimension] e ADOBE [!DNL Stock]
+# Personalizza e personalizza un modello 3D con [!DNL Dimension] e Adobe [!DNL Stock]
 
-Personalizza e personalizza un modello 3D in [!DNL Dimension] utilizzo di materiali, proprietà ambientali, illuminazione e fotografia, per creare immagini fotorealistiche per qualsiasi progetto di progettazione.
+Personalizza e personalizza un modello 3D in [!DNL Dimension] utilizzando materiali, proprietà ambientali, illuminazione e fotografia, per creare immagini fotorealistiche per qualsiasi progetto di progettazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

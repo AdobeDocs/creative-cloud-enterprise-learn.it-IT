@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # Da testo a immagine
 
-Scopri come creare un’immagine dalle descrizioni di testo. [Generazione delle immagini](https://www.adobe.com/products/firefly/features/text-to-image.html) in base alle tue esigenze specifiche ti consente di creare contenuti personalizzati e stimolanti. Prova Adobe Firefly [qui](https://firefly.adobe.com/).
+Scopri come creare un’immagine dalle descrizioni di testo. [La generazione delle immagini](https://www.adobe.com/products/firefly/features/text-to-image.html) in base alle vostre esigenze specifiche ti consente di creare contenuti personalizzati e stimolanti. Prova l&#39;Adobe Firefly [qui](https://firefly.adobe.com/).
 
 <br> 
 

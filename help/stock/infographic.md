@@ -1,6 +1,6 @@
 ---
-title: Creazione di un'infografica sulle linee guida aziendali con Adobe [!DNL Stock]
-description: Combina una varietà di risorse da Adobi [!DNL Stock] comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti
+title: Crea un'infografica delle linee guida aziendali con l'Adobe  [!DNL Stock]
+description: Combinate una varietà di risorse dall'Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Creazione di un&#39;infografica sulle linee guida aziendali con Adobe [!DNL Stock]
+# Crea un&#39;infografica delle linee guida aziendali con l&#39;Adobe [!DNL Stock]
 
-Combina una varietà di risorse da Adobi [!DNL Stock] comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti.
+Combina una serie di risorse dall&#39;Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

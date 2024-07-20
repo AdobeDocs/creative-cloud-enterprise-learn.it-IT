@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ Adobe Fresco è un’app multipiattaforma per la creazione di disegni e dipinti 
       <img alt="Creare grafica con texture: da Fresco a Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Creare grafica con texture: da Fresco a Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Creazione di una grafica con texture, in Fresco con Illustrator</strong></a>
     </div>
-    <em>Dipingete e disegnate le texture in Adobe Fresco e scoprite come utilizzarle in Illustrator</em>
+    <em>Dipingi e disegna texture in Adobe Fresco e scopri come utilizzarle in Illustrator</em>
     <br>
   </td>
   <td>
@@ -79,11 +79,11 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Liz Tanonis, consulente per le soluzioni (Digital Media)
 
-![Fresco Logo](../assets/fr_appicon_96.png)
+![Logo Fresco](../assets/fr_appicon_96.png)
 
 **Risorse Fresco**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/adobe-fresco.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/fresco/using/whats-new.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/adobe-fresco.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/fresco/using/whats-new.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

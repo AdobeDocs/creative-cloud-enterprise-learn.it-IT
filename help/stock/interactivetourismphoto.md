@@ -1,6 +1,6 @@
 ---
-title: Crea una foto turistica interattiva con l'Adobe [!DNL Stock] e XD
-description: Crea rapidamente una foto interattiva all'interno del prototipo del tuo sito Web con Adobe [!DNL Stock] e XD
+title: Crea una foto turistica interattiva con l'Adobe [!DNL Stock] e l'XD
+description: Crea rapidamente una foto interattiva nel prototipo del tuo sito Web con l'Adobe  [!DNL Stock]  e l'XD
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crea una foto turistica interattiva con l&#39;Adobe [!DNL Stock] e XD
+# Crea una foto turistica interattiva con l&#39;Adobe [!DNL Stock] e l&#39;XD
 
-Crea rapidamente una foto interattiva all&#39;interno del prototipo del tuo sito Web con Adobe [!DNL Stock] e XD.
+Crea rapidamente una foto interattiva nel prototipo del tuo sito Web con l&#39;Adobe [!DNL Stock] e l&#39;XD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

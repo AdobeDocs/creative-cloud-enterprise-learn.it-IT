@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Photoshop è il software di progettazione grafica e di imaging migliore del mond
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Introduzione a Photoshop per iPad</strong></a>
     </div>
-    <em>Fai un tour dell’interfaccia e scopri alcune funzioni di Photoshop riprogettate per l’uso su Apple iPad</em>
+    <em>Avvia un tour dell'interfaccia e scopri alcune funzioni disponibili in Photoshop riprogettato per l'uso su Apple iPad</em>
     <br>
   </td>
   <td>
@@ -59,9 +59,9 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Dan Armstrong, consulente per le soluzioni (Digital Media)
 
-![Logo Photoshop con iPad](../assets/ps_appicon_96.png)
+![Photoshop con il logo iPad](../assets/ps_appicon_96.png)
 
-**Risorse per Photoshop su iPad**
+**Photoshop nelle risorse iPad**
 
 [Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 

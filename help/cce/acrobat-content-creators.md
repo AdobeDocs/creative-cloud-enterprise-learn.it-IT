@@ -8,7 +8,7 @@ thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ In qualità di creatore di contenuti, potresti generare PDF e quindi visualizzar
 
 Seleziona l&#39;immagine seguente per visualizzare o scaricare questo tutorial di PDF.
 
-[![Immagine della prima pagina del tutorial](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![Immagine della prima pagina dell&#39;esercitazione](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

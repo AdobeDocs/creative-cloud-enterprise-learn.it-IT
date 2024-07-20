@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Accelera l&#39;idea creativa
 
-Scopri come visualizzare rapidamente le idee ed esplorare i concetti per le campagne aziendali. L&#39;accelerazione dell&#39;ideazione creativa consente alle aziende di produrre rapidamente contenuti di alta qualità. Prova Adobe Firefly [qui](https://firefly.adobe.com/).
+Scopri come visualizzare rapidamente le idee ed esplorare i concetti per le campagne aziendali. L&#39;accelerazione dell&#39;ideazione creativa consente alle aziende di produrre rapidamente contenuti di alta qualità. Prova l&#39;Adobe Firefly [qui](https://firefly.adobe.com/).
 
 <br> 
 

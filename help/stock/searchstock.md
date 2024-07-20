@@ -1,6 +1,6 @@
 ---
-title: Adobe di ricerca [!DNL Stock] cronologia licenze
-description: Scopri come eseguire rapidamente ricerche nell’Adobe della tua organizzazione [!DNL Stock] cronologia delle licenze in Creative Cloud for enterprise
+title: Cerca Adobe  [!DNL Stock] cronologia licenze
+description: Scopri come cercare rapidamente l'Adobe  [!DNL Stock] cronologia delle licenze della tua organizzazione in Creative Cloud for enterprise
 feature: Licensable Assets
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe di ricerca [!DNL Stock] cronologia licenze
+# Cronologia licenze Adobe di ricerca [!DNL Stock]
 
-In questo tutorial video, scoprite come eseguire rapidamente una ricerca nell’Adobe dell’organizzazione [!DNL Stock] cronologia delle licenze in Creative Cloud for enterprise.
+In questo tutorial video scoprirai come eseguire rapidamente una ricerca nella cronologia delle licenze dell’Adobe [!DNL Stock] della tua organizzazione in Creative Cloud for enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

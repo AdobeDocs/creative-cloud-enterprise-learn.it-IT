@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Firefly] Panoramica
-description: Adobe all'avanguardia [!DNL Firefly]
+description: Aggiorna all'Adobe [!DNL Firefly]
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] panoramica
+# Panoramica dell&#39;Adobe [!DNL Firefly]
 
 Firefly è la nuova famiglia di modelli di intelligenza artificiale generativa creativa che verranno introdotti nei prodotti di Adobe, concentrandosi inizialmente sulla generazione di effetti di immagine e testo. Firefly offre nuovi modi per ideare, creare e comunicare, migliorando significativamente i flussi di lavoro creativi.
 

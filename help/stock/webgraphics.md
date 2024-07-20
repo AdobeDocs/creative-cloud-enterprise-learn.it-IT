@@ -1,5 +1,5 @@
 ---
-title: Crea grafica Web coinvolgente combinando l'Adobe [!DNL Stock] immagini con CSS
+title: Crea grafica Web coinvolgente combinando le immagini di Adobe [!DNL Stock] con CSS
 description: Crea l'unità del marchio con immagini diverse combinando colori e sfumature nella tua campagna pubblicitaria
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crea grafica Web coinvolgente combinando l&#39;Adobe [!DNL Stock] immagini con CSS
+# Crea grafica Web coinvolgente combinando le immagini di Adobe [!DNL Stock] con CSS
 
 Crea l&#39;unità del marchio con immagini diverse combinando colori e sfumature nella tua campagna pubblicitaria.
 

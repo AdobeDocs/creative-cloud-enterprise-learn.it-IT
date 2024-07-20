@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Photoshop è il software di progettazione grafica e di imaging migliore del mond
       <img alt="Modifica le immagini in base alla campagna" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>Modifica le immagini in base alla campagna</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>Modifica immagini in base alla campagna</strong></a>
     </div>
     <em>Utilizza i potenti strumenti di selezione e modifica del colore di Adobe Photoshop per modificare radicalmente un'immagine in base alle tue esigenze di branding aziendali</em>
     <br>
@@ -37,7 +37,7 @@ Photoshop è il software di progettazione grafica e di imaging migliore del mond
     <div>
     <a href="photoshop.md#tutorial2"><strong>Selezionare e sostituire il cielo</strong></a>
     </div>
-    <em>Seleziona automaticamente il cielo di un’immagine e sostituiscilo con un cielo a tua scelta, regolando automaticamente i colori dell’immagine in base alla tua selezione</em>
+    <em>Selezionate automaticamente il cielo di un'immagine e sostituitelo con un cielo a vostra scelta, regolando automaticamente i colori dell'immagine in modo che corrispondano alla vostra selezione</em>
     <br>
   </td>
   <td>
@@ -81,9 +81,9 @@ A.J. Wood, Senior Solutions Consultant (Digital Media)
 
 ![Logo Photoshop](../assets/ps_appicon_96.png)
 
-**Risorse per Photoshop**
+**Risorse Photoshop**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/photoshop/using/whats-new.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/photoshop/using/whats-new.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

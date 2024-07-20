@@ -1,6 +1,6 @@
 ---
-title: Realizza composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini
-description: Riunisci due Adobi straordinari [!DNL Stock] foto per attirare le persone nei tuoi post social
+title: Creazione di composizioni fotografiche realistiche con immagini  [!DNL Stock] Adobi
+description: Riunisci due straordinarie  [!DNL Stock] foto Adobi per attirare l'attenzione delle persone sui tuoi post social
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Realizza composizioni fotografiche realistiche con Adobe [!DNL Stock] immagini
+# Crea composizioni fotografiche realistiche con immagini Adobi [!DNL Stock]
 
-Riunisci due Adobi straordinari [!DNL Stock] foto per attirare le persone nei tuoi post social.
+Riunisci due straordinarie foto di Adobe [!DNL Stock] per attirare utenti nei tuoi post social.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

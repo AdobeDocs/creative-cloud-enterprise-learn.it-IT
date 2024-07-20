@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Adobe Firefly Discover
 
-Adobe Firefly della sezione [futuro della creatività](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) con intelligenza artificiale generativa, progettata per la sicurezza commerciale e l&#39;innovazione. Prova Adobe Firefly [qui](https://firefly.adobe.com/).
+Scopri l&#39;Adobe Firefly del [futuro della creatività](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) con l&#39;intelligenza artificiale generativa, progettata per la sicurezza commerciale e l&#39;innovazione. Prova l&#39;Adobe Firefly [qui](https://firefly.adobe.com/).
 
 <br> 
 

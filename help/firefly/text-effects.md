@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Effetti Testo
 
-Scopri come creare testo unico e stimolante per i tuoi progetti utilizzando semplici messaggi di testo. Gli effetti di testo consentono di migliorare la creatività e creare testo straordinario per i progetti. Prova Adobe Firefly [qui](https://firefly.adobe.com/).
+Scopri come creare testo unico e stimolante per i tuoi progetti utilizzando semplici messaggi di testo. Gli effetti di testo consentono di migliorare la creatività e creare testo straordinario per i progetti. Prova l&#39;Adobe Firefly [qui](https://firefly.adobe.com/).
 
 <br> 
 

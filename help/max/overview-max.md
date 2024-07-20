@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,8 @@ In questa sessione live registrata, vedrai esempi di flussi di lavoro basati su 
 
 **Presentato da:**
 
-Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solutions Consultant (Proof of Concept)
+Eric Rowse, Consulente Senior Solutions (Digital Media)
+Derek Lu, Consulente Principale per le Soluzioni (Proof of Concept)
 
 ## Nuovi strumenti per la nuova normale (29:57)
 
@@ -47,7 +48,9 @@ In questa sessione live registrata, imparerai come:
 
 **Presentato da:**
 
-Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solutions Consultant (Digital Media) Emilie Enke, Solutions Consultant (Digital Media)
+Dave Weinberg, Consulente Senior Solutions (Digital Media)
+Liz Tanonis, consulente per le soluzioni (Digital Media)
+Emilie Enke, consulente per le soluzioni (Digital Media)
 
 ## Collaborazione con CC Libraries (27:58)
 
@@ -63,7 +66,8 @@ In questo tutorial imparerai come:
 
 **Presentato da:**
 
-Ashley Dvorin, Consulente Senior Solutions (Digital Media) Emily Palmer, Consulente Solutions (Digital Media)
+Ashley Dvorin, Consulente Senior Solutions (Digital Media)
+Emily Palmer, Consulente per le soluzioni (Digital Media)
 
 ## Informazioni sulle risorse demo: LOCALE
 
@@ -71,4 +75,4 @@ Il team si è avvicinato alla creazione delle risorse demo come avrebbe potuto f
 
 In risposta al COVID-19, LOCAL, un&#39;azienda che ospita eventi dal vivo che celebrano vacanze divertenti e stravaganti, ha dato vita a raduni online e sta collaborando con piccoli autocarri e ristoranti locali per promuovere le proprie attività e aiutarli a rimanere aperti.
 
-![Demo locale](../assets/demo_local_assets-WIP-v1.jpg)
+![Risorse demo LOCALI](../assets/demo_local_assets-WIP-v1.jpg)

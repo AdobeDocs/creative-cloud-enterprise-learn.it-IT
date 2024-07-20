@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Gestisci le autorizzazioni e le risorse per gli Adobi in tutta l&#39;organizzazi
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Esplora le quasi 200 famiglie di Adobe Fonts e la facilità d'uso del servizio Adobe Fonts</em>
+    <em>Esplorate le quasi 200 famiglie di Adobe Fonts e la facilità d'uso del servizio Adobe Fonts</em>
     <br>
   </td>
   <td>
@@ -60,8 +60,8 @@ In questo tutorial imparerai come:
 
 Todd Burke, Consulente Principal Solutions (Digital Media)
 
-**Risorse di amministrazione organizzazione:**
+**Risorse di amministrazione dell&#39;organizzazione:**
 
 [Guida utente di Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Guida per l’amministratore Enterprise](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guida all&#39;amministrazione aziendale](https://helpx.adobe.com/enterprise/admin-guide.html)

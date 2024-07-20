@@ -1,6 +1,6 @@
 ---
-title: Creazione di un pattern semi-surreale con Adobe [!DNL Stock]
-description: Crea uno splendido pattern uniforme basato su immagini surreali di Adobi [!DNL Stock]
+title: Crea un pattern semi-surreale con Adobe [!DNL Stock]
+description: Crea uno splendido pattern uniforme basato su immagini surreali di Adobe [!DNL Stock]
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Creazione di un pattern semi-surreale con Adobe [!DNL Stock]
+# Crea un pattern semi-surreale con Adobe [!DNL Stock]
 
-Crea uno splendido pattern uniforme basato su immagini surreali di Adobi [!DNL Stock].
+Crea uno splendido pattern uniforme basato su immagini surreali dell&#39;Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

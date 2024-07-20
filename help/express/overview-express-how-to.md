@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Procedure Tutorials
-description: Adobe all'avanguardia [!DNL Express]
+description: Aggiorna all'Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -273,7 +273,7 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="Utilizzo di CC Libraries" src="assets/cc-libraries.png" />
+         <img alt="Usa CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

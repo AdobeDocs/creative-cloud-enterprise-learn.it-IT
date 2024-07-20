@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Panoramica
-description: Adobe all'avanguardia [!DNL Express]
+description: Aggiorna all'Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] panoramica
+# Panoramica dell&#39;Adobe [!DNL Express]
 
 Reel di progettazione e video TikTok, volantini, curriculum, banner, loghi e altro ancora con la nuova app di Adobe Express completa per la creazione rapida e semplice di contenuti. Realizza un lavoro straordinario che si distingue con le funzionalità di intelligenza artificiale generativa basate sull&#39;Adobe Firefly.
 
@@ -21,7 +21,7 @@ Reel di progettazione e video TikTok, volantini, curriculum, banner, loghi e alt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] tutorial
+## Esercitazioni per l&#39;Adobe [!DNL Express]
 
 <table style="table-layout:fixed">
 <tr>

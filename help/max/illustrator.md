@@ -25,9 +25,9 @@ L&#39;app moderna per illustrazioni e grafica. Crea loghi, icone, illustrazioni 
       <img alt="Usare i simboli per aggiornare più istanze di icone" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Usare i simboli per aggiornare più istanze di icone</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Utilizzare i simboli per aggiornare più istanze di icone</strong></a>
     </div>
-    <em>Riduzione del lavoro manuale e coerenza con i simboli</em>
+    <em>Ridurre il lavoro manuale e mantenere la coerenza con i simboli</em>
     <br>
   </td>
   <td>
@@ -76,7 +76,7 @@ Patti Sokol, Consulente Principal Solutions (Digital Media)
 
 ![Logo Illustrator](../assets/ai_appicon_96.png)
 
-**Risorse per Illustrator**
+**Risorse Illustrator**
 
 [Informazioni e supporto](https://helpx.adobe.com/support/illustrator.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 

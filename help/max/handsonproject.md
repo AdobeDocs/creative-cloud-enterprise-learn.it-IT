@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Non sarebbe bello se potessi personalizzare una maschera per volti con i tuoi di
         <img alt="Personalizzare una maschera viso con Design to Print" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Personalizzare una maschera viso con Design to Print</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Personalizzare una maschera del volto con la progettazione da stampare</strong></a>
     </div>
     <em>Personalizza la tua maschera Zazzle</em>
     <br>
@@ -47,7 +47,7 @@ Non sarebbe bello se potessi personalizzare una maschera per volti con i tuoi di
     <div>
    <a href="handsonproject.md#tutorial3"><strong>Creare una visualizzazione 3D della maschera del volto</strong></a>
     </div>
-    <em>Crea una visualizzazione 3D della maschera del volto per la galleria degli eventi</em>
+    <em>Crea una visualizzazione 3D della maschera del volto per la raccolta eventi</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Scopri come installare il plug-in Design to Print per Photoshop.
 
 In questo tutorial imparerai come:
 * Visualizza i tuoi progetti su prodotti come abbigliamento, accessori, cancelleria e arte murale in tempo reale!
-* Pubblicare sul marketplace online di Dazzle
+* Publish al marketplace online di Dazzle
 
 **Presentato da:**
 Patti Sokol, Consulente Principal Solutions (Digital Media)
@@ -76,11 +76,11 @@ Personalizza la tua maschera Zazzle
 
 In questo tutorial imparerai come:
 * Visualizza i tuoi progetti su prodotti come abbigliamento, accessori, cancelleria e arte murale in tempo reale!
-* Pubblicare sul marketplace online di Dazzle
+* Publish al marketplace online di Dazzle
 
-**Fate clic sull’immagine per scaricare Learn Design to Print PDF**
+**Fare clic sull&#39;immagine per scaricare Learn Design to Print PDF**
 
-[![Impara da progettare a stampare](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Scopri la progettazione da stampare](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Presentato da:**
 Patti Sokol, Consulente Principal Solutions (Digital Media)
@@ -97,7 +97,7 @@ In questo tutorial imparerai come:
 * Aggiungi materiali e controlla l&#39;illuminazione per un aspetto professionale
 * Importa le risorse per applicare il tuo marchio o altri progetti
 
-**Fare clic sull&#39;immagine da scaricare [!DNL Dimension] File con modello 3D di maschera bianca**
+**Fare clic sull&#39;immagine per scaricare [!DNL Dimension] file con modello 3D di maschera bianca**
 
 [![Immagine di confronto](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

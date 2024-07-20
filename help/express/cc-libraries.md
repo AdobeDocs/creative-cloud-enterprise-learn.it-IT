@@ -1,5 +1,5 @@
 ---
-title: Utilizzo di CC Libraries
+title: Usa CC Libraries
 description: Scopri come condividere le risorse di CC Library con il tuo team
 feature: Integrations
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo di CC Libraries
+# Usa CC Libraries
 
 Scopri come condividere le risorse di CC Library con il tuo team.
 

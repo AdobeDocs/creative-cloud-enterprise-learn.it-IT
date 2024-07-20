@@ -1,6 +1,6 @@
 ---
-title: Animare un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop
-description: Inserire animazioni nella grafica del notiziario con vettori modificabili, ad Adobe [!DNL Stock]
+title: Anima un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop
+description: Inserisci animazioni nella grafica del notiziario con vettoriali modificabili, ad Adobe  [!DNL Stock]
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Animare un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop
+# Anima un&#39;illustrazione vettoriale di Adobe [!DNL Stock] in Photoshop
 
-Inserire animazioni nella grafica del notiziario con vettori modificabili, ad Adobe [!DNL Stock].
+Inserisci animazioni nella grafica del notiziario con vettoriali modificabili, ad Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

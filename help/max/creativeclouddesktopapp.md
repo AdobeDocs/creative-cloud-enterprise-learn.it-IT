@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,10 +22,12 @@ L&#39;app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Esplora l&apos;app CC Desktop: il tuo hub per la Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Scopri l’app CC per desktop: il tuo hub per 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Esplora l'app CC Desktop: il tuo hub per la Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Esplora l'app desktop CC: il tuo hub per 
+Creative Cloud</strong></a>
     </div>
     <em>L'app desktop Creative Cloud è il tuo hub per la gestione di app, servizi e collaborazione CC e altro ancora.</em>
     <br>

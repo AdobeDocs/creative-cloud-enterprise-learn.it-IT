@@ -1,6 +1,6 @@
 ---
-title: Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]
-description: Sfrutta le potenzialità di interattività, animazione e grafica modificabile di Adobe [!DNL Stock] per presentare le informazioni finanziarie in modo visivo
+title: Creazione di un configuratore di prodotti interattivo con l'Adobe  [!DNL Stock]
+description: Sfrutta le potenzialità dell'interattività, dell'animazione e della grafica modificabile dell'Adobe [!DNL Stock] per presentare informazioni finanziarie in modo visivo
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]
 
-Sfrutta le potenzialità di interattività, animazione e grafica modificabile di Adobe [!DNL Stock] per presentare le informazioni finanziarie in modo visivo.
+Utilizza le potenzialità dell&#39;interattività, dell&#39;animazione e della grafica modificabile dell&#39;Adobe [!DNL Stock] per presentare le informazioni finanziarie in modo visivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

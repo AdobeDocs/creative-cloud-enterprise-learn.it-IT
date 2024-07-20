@@ -1,6 +1,6 @@
 ---
 title: Creazione di cinemagraphs con Photoshop
-description: In questa esercitazione video dettagliata del workshop, create una fotografia vivente combinando i video di un Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop
+description: In questo tutorial video del workshop, create una fotografia vivente combinando i video di Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Creazione di cinemagraphs con Photoshop
 
-In questa esercitazione video dettagliata del workshop, create una fotografia vivente combinando i video di un Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop.
+In questo tutorial video del workshop dettagliato, puoi creare una fotografia vivente combinando i video dell&#39;Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 

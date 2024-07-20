@@ -1,5 +1,5 @@
 ---
-title: Condivisione delle risorse di branding con Creative Cloud Libraries per i team
+title: Condivisione delle risorse di branding con Creative Cloud Libraries per Teams
 description: Scopri come creare, utilizzare e condividere risorse di branding per il tuo gruppo o team utilizzando Creative Cloud Libraries for teams
 feature: Integrations
 role: User
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Condivisione di risorse di branding con Creative Cloud Libraries per team
 
-Scopri come creare, utilizzare e condividere risorse di branding per il tuo gruppo o team utilizzando Creative Cloud Libraries for teams. Le risorse nelle librerie Creative Cloud per i team sono archiviate in una posizione centrale e non sono collegate al singolo account utente. Puoi identificare le librerie del team dal ![immagine di edificio](assets/Smock_Building_18_N.png) icona.
+Scopri come creare, utilizzare e condividere risorse di branding per il tuo gruppo o team utilizzando Creative Cloud Libraries for teams. Le risorse in Creative Cloud Libraries per i team sono archiviate in una posizione centrale e non sono collegate al singolo account utente. Puoi identificare le librerie del team dall&#39;icona ![compilazione immagine](assets/Smock_Building_18_N.png).
 
 >[!TIP]
 >
->Utilizza le librerie Creative Cloud per i team ogni volta che l&#39;organizzazione deve mantenere la proprietà delle risorse creative. Alcuni esempi includono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
+>Utilizza Creative Cloud Libraries per i team ogni volta che l&#39;organizzazione deve mantenere la proprietà delle risorse creative. Alcuni esempi includono: guida di stile aziendale, progetti condivisi ed elementi di progettazione dell&#39;interfaccia utente.
 
 <br> 
 

@@ -24,7 +24,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Acquisire familiarità con i componenti in Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Scopri come utilizzare [!UICONTROL Components] in Adobe XD</strong></a>
+   <a href="components.md"><strong>Informazioni su [!UICONTROL Components] in Adobe XD</strong></a>
     </div>
     <em>Scopri come utilizzare [!UICONTROL Components] per offrire una flessibilità senza precedenti per applicare sia velocità che coerenza al flusso di lavoro di progettazione</em>
     <br>
@@ -36,7 +36,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
     <div>
    <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>Controllare più tavole da disegno XD con simboli nidificati (PDF)</strong></a>
     </div>
-    <em>I simboli forniscono un modo eccellente per creare grafica e testo riutilizzabili che possono essere applicati più volte sulle tavole da disegno nel tuo progetto</em>
+    <em>I simboli offrono un metodo eccellente per creare grafica e testo riutilizzabili che possono essere applicati più volte a tutte le tavole da disegno del progetto</em>
     <br>
   </td>
   <td>
@@ -44,19 +44,19 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Crea una foto di e-commerce zoomabile con XD e Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>Crea una foto di e-commerce zoomabile con XD e Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>Creazione di una foto di e-commerce zoomabile con XD e Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>La combinazione della fotografia ad alta risoluzione con la funzione Animazione automatica di Adobe XD consente di progettare esperienze più coinvolgenti per il sito Web</em>
+    <em>La combinazione della fotografia ad alta risoluzione con la funzione di animazione automatica di Adobe XD consente di progettare esperienze più coinvolgenti per il sito Web</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
-      <img alt="Creazione di un’interfaccia di rotazione del prodotto per l’e-commerce con Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="Creazione di un&apos;interfaccia del prodotto a rotazione per E-Commerce con Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Creazione di un’interfaccia di rotazione del prodotto per l’e-commerce con Adobe XD (PDF)</strong></a>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Creazione di un'interfaccia di prodotto a rotazione per E-Commerce con Adobe XD (PDF)</strong></a>
     </div>
-    <em>Progetta un'interfaccia che offra una vista a rotazione del tuo prodotto e poi puoi trasformare il tuo progetto in un prototipo interattivo che mostra esattamente come funzionerà l'esperienza sul Web o sui dispositivi mobili</em>
+    <em>Progetta un'interfaccia che offra una vista a rotazione del tuo prodotto e poi puoi trasformare il tuo progetto in un prototipo interattivo che mostri esattamente come funzionerà l'esperienza sul Web o sui dispositivi mobili</em>
     <br>
   </td>
 </tr>
@@ -68,7 +68,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
     <div>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>Progettazione e prototipazione di un quiz interattivo con XD (PDF)</strong></a>
     </div>
-    <em>Progetta il feedback che un utente incontrerà durante un progetto</em>
+    <em>Progetta il feedback che un utente riceverà durante un progetto</em>
     <br>
   </td>
   <td>
@@ -76,9 +76,9 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Progettazione di progetti interattivi con microanimazioni nell’XD" src="assets/DesignInteractiveProjectswithMicroAnimationsinXD.jpg" />
    </a>
     <div>
-   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank"><strong>Progettazione di progetti interattivi con micro animazioni in XD (PDF)</strong></a>
+   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank"><strong>Progettazione di progetti interattivi con microanimazioni in XD (PDF)</strong></a>
     </div>
-    <em>Scopri come creare prototipi animati interattivi delle tue progettazioni con Adobe XD</em>
+    <em>Scopri come creare prototipi animati interattivi delle tue progettazioni utilizzando Adobe XD</em>
     <br>
   </td>
   <td>
@@ -86,9 +86,9 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Avviare rapidamente il progetto XD da un file Photoshop (PSD)" src="assets/JumpstartyourXDProjectfromaPhotoshopFile.jpg" />
    </a>
     <div>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Avviare rapidamente il progetto XD da un file Photoshop (PSD) (PDF)</strong></a>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Avviare il progetto XD da un file Photoshop (PSD) (PDF)</strong></a>
     </div>
-    <em>Adobe XD offre alcuni straordinari strumenti di progettazione interattiva che funzionano in combinazione con il flusso di lavoro esistente, consentendoti di portare la tua visione di progettazione interattiva a un livello superiore</em>
+    <em>Adobe XD offre alcuni straordinari strumenti di progettazione interattiva che funzionano insieme al flusso di lavoro esistente, consentendoti di portare la tua visione della progettazione interattiva al livello successivo</em>
     <br>
   </td>
   <td>
@@ -96,9 +96,9 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Progettazione di un&apos;esperienza web mobile con XD" src="assets/MobileWebExperienceswithXD.jpg" />
    </a>
     <div>
-   <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Progettazione di un'esperienza web mobile con XD (PDF)</strong></a>
+   <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Progettazione di un'esperienza Web per dispositivi mobili con XD (PDF)</strong></a>
     </div>
-    <em>Dai un'occhiata dietro le quinte sul processo di progettazione per la galleria Web mobile Russell Brown MAX Madness utilizzando Adobe XD</em>
+    <em>Guarda il dietro le quinte del processo di progettazione della galleria Web per dispositivi mobili Russell Brown MAX Madness utilizzando Adobe XD</em>
     <br>
   </td>
 </tr>
@@ -110,7 +110,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Crea prototipi di un'esperienza Web per dispositivi mobili con Adobe XD (PDF)</strong></a>
     </div>
-    <em>La progettazione dell'esperienza richiede strategia, progettazione e prototipazione funzionale e Adobe XD offre la possibilità di eseguire tutte queste operazioni</em>
+    <em>La progettazione dell'esperienza richiede strategia, progettazione e prototipazione funzionale, e Adobe XD offre la potenza per farlo tutto</em>
     <br>
   </td>
   <td>
@@ -118,7 +118,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
       <img alt="Sovralimentazione della griglia di ripetizione in XD con testo e grafica esterni" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Sovralimentazione della griglia di ripetizione in XD con testo e grafica esterni (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Sovraccaricare la griglia di ripetizione in XD con testo e grafica esterni (PDF)</strong></a>
     </div>
     <em>Combina la griglia di ripetizione con testo e grafica esterni per potenziare la tua produttività</em>
     <br>
@@ -130,7 +130,7 @@ Adobe XD è uno strumento di progettazione e prototipazione dell’esperienza ut
     <div>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Dietro le quinte di MAX Madness con Adobe XD (PDF)</strong></a>
     </div>
-    <em>Offrire un'esperienza Web ottimizzata per dispositivi mobili può davvero essere d'aiuto ai tuoi utenti</em>
+    <em>Offrire un'esperienza Web ottimizzata per dispositivi mobili può essere molto utile per i tuoi utenti</em>
     <br>
   </td>
   <td>

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e illu
       <img alt="Applicare i materiali Substance ai modelli 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Applicare i materiali Substance ai modelli 3D</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Applicare materiali Substance ai modelli 3D</strong></a>
     </div>
-    <em>I materiali di Substance supportano migliaia di variazioni di pattern e design in un unico materiale</em>
+    <em>I materiali Substance supportano migliaia di varianti di pattern e design in un unico materiale</em>
     <br>
   </td>
   <td>
@@ -56,11 +56,11 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Jim Babbage, consulente Senior Solutions (Digital Media)
 
-![Dimension Logo](../assets/dn_appicon_96.png)
+![Logo Dimension](../assets/dn_appicon_96.png)
 
 **Risorse Dimension**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/dimension.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/dimension.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

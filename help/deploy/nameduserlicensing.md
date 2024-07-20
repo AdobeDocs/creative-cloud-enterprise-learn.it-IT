@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione
 
 ## Informazioni sulle licenze nominative
 
-[Licenze nominative](https://helpx.adobe.com/enterprise/using/licensing.html) è un modello di licenza software che consente di assegnare il software a un singolo utente anziché a un numero di serie o a un dispositivo. NUL offre agli amministratori IT sicurezza a livello aziendale con gestione avanzata dell’identità degli utenti e consente di distribuire e gestire facilmente le applicazioni utilizzando Adobe Admin Console.
+[La licenza nominativa](https://helpx.adobe.com/enterprise/using/licensing.html) è un modello di licenza software che consente di assegnare il software a un singolo utente anziché a un numero di serie o a un dispositivo. NUL offre agli amministratori IT sicurezza a livello aziendale con gestione avanzata dell’identità degli utenti e consente di distribuire e gestire facilmente le applicazioni utilizzando Adobe Admin Console.
 
 ## Vantaggi delle licenze nominative:
 
@@ -32,7 +32,7 @@ Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione
 
 * Approfitta dei servizi Expert.
 
-  Il contratto di licenza Enterprise Term con Adobe offre sessioni illimitate di 30 minuti tramite telefono o conferenza Web con un esperto Adobe per risolvere qualsiasi problema. Per prenotare una sessione, vai alla scheda Supporto nell’Admin Console e fai clic su **Richiedi sessione con esperti**.
+  Il contratto di licenza Enterprise Term con Adobe offre sessioni illimitate di 30 minuti tramite telefono o conferenza Web con un esperto Adobe per risolvere qualsiasi problema. Per prenotare una sessione, vai alla scheda Supporto nell&#39;Admin Console e fai clic su **Richiedi sessione con esperti**.
 
 * Numero elevato di utenti? Nessun problema.
 
@@ -46,4 +46,4 @@ Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione
 
   Sfruttando la NUL, gli utenti avranno accesso ai motori di produttività di Adobe Creative Cloud e Adobe Document Cloud. Sono molte le operazioni che puoi svolgere: creare e firmare documenti in modo sicuro, creare rapidamente PDF personalizzati, avviare un progetto creativo su un tablet prima di utilizzarlo sul desktop, condividere documenti con un team tramite un Document Cloud e lavorare su nuovi progetti team in Adobe XD. I nostri servizi basati sul cloud semplificano la condivisione delle risorse e la collaborazione come team remoto.
 
-Le moderne sfide del flusso di lavoro richiedono soluzioni moderne. Ti aiutiamo a passare alla licenza nominativa. Consultate il [Guida alla migrazione delle licenze nominative](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) per iniziare la transizione.
+Le moderne sfide del flusso di lavoro richiedono soluzioni moderne. Ti aiutiamo a passare alla licenza nominativa. Consulta la [Guida alla migrazione delle licenze nominative](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) per iniziare la transizione.

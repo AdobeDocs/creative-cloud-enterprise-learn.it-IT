@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Mantieni le tue risorse a portata di mano e i tuoi progetti sul marchio.
       <img alt="Crea CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Crea CC Libraries</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>Creazione di CC Libraries</strong></a>
     </div>
     <em>Con Adobe Creative Cloud Libraries puoi gestire, organizzare e accedere a loghi, colori e altro nelle tue app Creative Cloud preferite</em>
     <br>
@@ -80,7 +80,7 @@ Ashley Dvorin, Consulente Senior Solutions (Digital Media)
 
 **Risorse CC Libraries**
 
-[Informazioni e supporto](https://helpx.adobe.com/creative-cloud/help/libraries.html) è il tuo hub per tutorial aggiuntivi, Novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/creative-cloud/help/libraries.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

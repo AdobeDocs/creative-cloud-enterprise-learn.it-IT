@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -35,9 +35,9 @@ Adobe Experience Manager è la soluzione leader di settore per la gestione dell&
       <img alt="File InDesign ospitati nell’AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>File InDesign ospitati nell’AEM</strong></a>
+   <a href="aem.md#tutorial2"><strong>File InDesign ospitati nell'AEM</strong></a>
     </div>
-    <em>Ospita il tuo documento InDesign nell'AEM in modo che più utenti possano creare variazioni di contenuto contemporaneamente</em>
+    <em>Ospita il documento InDesign nell'AEM in modo che più utenti possano creare variazioni di contenuto contemporaneamente</em>
     <br>
   </td>
   <td>
@@ -117,7 +117,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
 
 **Asset Link e risorse AEM**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/experience-manager.html) è il tuo hub per tutorial aggiuntivi, Novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/experience-manager.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

@@ -1,5 +1,5 @@
 ---
-title: Crea immagini coerenti del marchio con splendide sfumature e Adobe [!DNL Stock] risorse
+title: Crea immagini coerenti del marchio con splendide sfumature e risorse Adobi [!DNL Stock]
 description: Crea l'unità del marchio con immagini diverse combinando colori e sfumature nella tua campagna pubblicitaria
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crea immagini coerenti del marchio con splendide sfumature e Adobe [!DNL Stock] risorse
+# Crea immagini coerenti del marchio con splendide sfumature e risorse Adobi di [!DNL Stock]
 
-Inserire animazioni nella grafica del notiziario con vettori modificabili, ad Adobe [!DNL Stock].
+Inserisci animazioni nella grafica del notiziario con vettoriali modificabili, ad Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Modificare un Adobe [!DNL Stock] i colori dell'immagine in base alla tua storia
-description: Rendete ancora più difficile il lavoro di un'immagine eccezionale per supportare il vostro messaggio. Trovare una foto unica nell’Adobe [!DNL Stock] quindi regolate il colore in Adobe Photoshop in base alle vostre esigenze
+title: Modifica i colori di un'immagine di Adobe [!DNL Stock]  in base alla tua storia
+description: Rendete ancora più difficile il lavoro di un'immagine eccezionale per supportare il vostro messaggio. Trova una foto unica in Adobe [!DNL Stock] e poi regola il colore in Adobe Photoshop in base alle tue esigenze
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Modificare un Adobe [!DNL Stock] i colori dell&#39;immagine in base alla tua storia
+# Modifica i colori di un&#39;immagine di Adobe [!DNL Stock] in base alla tua storia
 
-Rendete ancora più difficile il lavoro di un&#39;immagine eccezionale per supportare il vostro messaggio. Trovare una foto unica nell’Adobe [!DNL Stock] quindi regolate il colore in Adobe Photoshop in base alle vostre esigenze.
+Rendete ancora più difficile il lavoro di un&#39;immagine eccezionale per supportare il vostro messaggio. Trova una foto unica nell&#39;Adobe [!DNL Stock], quindi regola il colore in Adobe Photoshop in base alle tue esigenze.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

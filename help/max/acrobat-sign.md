@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Avvio di una revisione condivisa di Acrobat</strong></a>
     </div>
-    <em>Invita i revisori ad aggiungere i loro commenti a un documento PDF</em>
+    <em>Invitare i revisori ad aggiungere commenti a un documento PDF</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Creazione di un Forms di rinuncia online con Adobe Sign</strong></a>
     </div>
-    <em>Trasforma rapidamente i documenti in moduli online e pubblicali online, dove chiunque ne abbia bisogno può compilarli e firmarli</em>
+    <em>Trasforma rapidamente i documenti in moduli online e pubblicali online in modo che chiunque ne abbia bisogno possa compilarli e firmarli</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Richiedi una firma con Adobe Sign</strong></a>
     </div>
-    <em>Passare da Word a PDF e inviarlo per la firma con Adobe Sign</em>
+    <em>Passa da Word a PDF e invialo per la firma con Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -57,9 +57,9 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
       <img alt="Visualizza i menu su dispositivo mobile con Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>Visualizza i menu su dispositivo mobile con Liquid Mode</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Visualizza menu su dispositivo mobile con Liquid Mode</strong></a>
     </div>
-    <em>Utilizzo della modalità Liquid Mode per migliorare l’esperienza di lettura di PDF sui dispositivi mobili</em>
+    <em>Utilizza Liquid Mode per migliorare l’esperienza di lettura di PDF sui dispositivi mobili</em>
     <br>
   </td>
   <td>
@@ -67,9 +67,9 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
         <img alt="Acquisire documenti in PDF da un cellulare" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Acquisire documenti in PDF da un cellulare</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Acquisisci documenti in PDF dal tuo cellulare</strong></a>
     </div>
-    <em>Con Adobe Scan, acquisisci e converti facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità</em>
+    <em>Con Adobe Scan è possibile acquisire e convertire facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità</em>
     <br>
   </td>
   <td>
@@ -92,12 +92,13 @@ In questo tutorial imparerai come:
 * Raccogli i commenti in un unico luogo
 * I commenti simultanei incoraggiano la collaborazione
 
-**PDF di confronto delle opzioni di revisione e commento dell&#39;Adobe**
+**PDF di confronto opzioni Adobe revisione e commento**
 
 [![Immagine di confronto](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presentato da:**
-Dan Armstrong, consulente per le soluzioni (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Dan Armstrong, consulente per le soluzioni (Digital Media)
+Rick Borstein, Senior Manager Solution Consulting (Media Digitali)
 
 ## Creazione di Forms di rinuncia online con Adobe Sign (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ In questo tutorial imparerai come:
 * I moduli completati vengono archiviati automaticamente per i record
 
 **Presentato da:**
-Taylor Kobey, consulente soluzioni (Digital Media) Emily Palmer, consulente soluzioni (Digital Media)
+Taylor Kobey, consulente per le soluzioni (Digital Media)
+Emily Palmer, Consulente per le soluzioni (Digital Media)
 
 ## Richiedi una firma con Adobe Sign (3:21) {#tutorial3}
 
@@ -161,7 +163,7 @@ Emilie Enke, Consulente Soluzioni Associate (Media Digitali)
 
 **Risorse per Acrobat e Adobe Sign**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/document-cloud.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/acrobat/using/whats-new.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/document-cloud.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/acrobat/using/whats-new.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

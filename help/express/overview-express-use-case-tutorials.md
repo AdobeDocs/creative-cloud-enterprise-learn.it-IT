@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Tutorials Use Case
-description: Adobe all'avanguardia [!DNL Express] casi d'uso
+description: Informazioni sull'Adobe [!DNL Express] casi d'uso
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,13 +13,13 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] esercitazioni per casi d’uso
+# Adobe [!DNL Express] esercitazioni per lo use case
 
 Scopri come i diversi team della tua organizzazione possono trarre vantaggio da Adobi Express.
 
 ## Novità
 
-* [Creazione di un video promozionale per un corso di apprendimento online](promo-visual.md)
+* [Creazione di un&#39;immagine promozionale per un corso di apprendimento online](promo-visual.md)
 Scopri come creare un&#39;immagine accattivante per un corso di apprendimento online
 * [Creazione di un video di fine anno](end-of-year-video.md)
 Scopri come creare un video stimolante di fine anno

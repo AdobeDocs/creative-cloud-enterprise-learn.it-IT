@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Premiere [!DNL Rush] è la prima app di editing video per più dispositivi compl
     <div>
    <a href="rush.md#tutorial1"><strong>Creare un video per social media</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e rende l'output professionale abbastanza semplice per i principianti</em>
+    <em>L'Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e semplifica l'output professionale per i principianti</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Premiere [!DNL Rush] è la prima app di editing video per più dispositivi compl
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Descrizione**
-Racconta la tua storia utilizzando video e audio dall&#39;Adobe [!DNL Stock]. Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e rende l&#39;output professionale abbastanza facile per i principianti.
+Racconta la tua storia utilizzando video e audio dall&#39;Adobe [!DNL Stock]. L&#39;Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e semplifica l&#39;output professionale per i principianti.
 
 In questo tutorial imparerai come:
 * Editing video fluido su desktop, tablet e telefono
@@ -60,11 +60,11 @@ In questo tutorial imparerai come:
 **Presentato da:**
 A.J. Wood, consulente per le soluzioni (Digital Media)
 
-![Rush Logo](../assets/ru_appicon_96.png)
+![Logo Rush](../assets/ru_appicon_96.png)
 
-**[!DNL Rush]Risorse**
+**[!DNL Rush]risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/premiere-rush.html) è il tuo hub per tutorial aggiuntivi, [Novità](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/premiere-rush.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

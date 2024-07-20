@@ -1,6 +1,6 @@
 ---
-title: Inizia il report annuale con un video creato con l’Adobe [!DNL Stock] e SPARK VIDEO
-description: Rendi la tua relazione annuale una storia con degli Adobi [!DNL Stock] e SPARK VIDEO
+title: Inizia il report annuale con un video creato con l'Adobe [!DNL Stock] e Spark Video
+description: Crea una storia per il tuo report annuale con Adobe [!DNL Stock] e Spark Video
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Inizia il report annuale con un video creato con l’Adobe [!DNL Stock] e SPARK VIDEO
+# Inizia il report annuale con un video creato con l&#39;Adobe [!DNL Stock] e Spark Video
 
-Rendi la tua relazione annuale una storia con degli Adobi [!DNL Stock] e Spark Video.
+Crea una storia per il tuo report annuale con l&#39;Adobe [!DNL Stock] e Spark Video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

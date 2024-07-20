@@ -1,6 +1,6 @@
 ---
 title: Aggiungere stile alla composizione tipografica con maschere e animazioni
-description: Dai vita al tuo testo con elementi dall'Adobe [!DNL Stock] e stili di animazione da After Effects
+description: Anima il tuo testo con elementi dall'Adobe [!DNL Stock] e stili di animazione da After Effects
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate

@@ -1,5 +1,5 @@
 ---
-title: Creazione di un grafico di confronto delle funzionalità del prodotto utilizzando l'Adobe [!DNL Stock]
+title: Crea un grafico di confronto delle funzionalità del prodotto utilizzando l'Adobe  [!DNL Stock]
 description: Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in breve
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Creazione di un grafico di confronto delle funzionalità del prodotto utilizzando l&#39;Adobe [!DNL Stock]
+# Crea un grafico di confronto delle funzionalità del prodotto utilizzando l&#39;Adobe [!DNL Stock]
 
 Crea un grafico che confronta i piani di prezzo dei prodotti per fornire ai potenziali clienti le informazioni di cui hanno bisogno in breve tempo.
 

@@ -1,5 +1,5 @@
 ---
-title: Aggiungere un'estetica disegnata a mano agli Adobi [!DNL Stock] immagini
+title: Aggiungete un'estetica disegnata a mano all'Adobe [!DNL Stock] delle immagini
 description: Amplia il tuo marketing creativo con tecniche uniche che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Aggiungere un&#39;estetica disegnata a mano agli Adobi [!DNL Stock] immagini
+# Aggiungi un&#39;estetica disegnata a mano all&#39;Adobe di [!DNL Stock] immagini
 
 Amplia il tuo marketing creativo con tecniche uniche che aggiungono profondità e dimensione alle tue immagini utilizzando Photoshop per iPad.
 

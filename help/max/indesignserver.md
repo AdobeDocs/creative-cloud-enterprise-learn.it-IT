@@ -1,14 +1,14 @@
 ---
 title: InDesign Server
-description: Adobe Adobe&reg; InDesign&reg; Il software server offre un motore solido e scalabile che sfrutta le funzionalità di progettazione, layout e composizione tipografica di InDesign per consentire la creazione di documenti automatizzati coinvolgenti a livello di programmazione
+description: Adobe Adobe&reg; InDesign&reg; Il software per server offre un motore solido e scalabile che sfrutta le funzionalità di progettazione, layout e composizione tipografica di InDesign per consentire la creazione di documenti automatizzati coinvolgenti a livello di programmazione
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,9 @@ Il software Adobe InDesign® Server offre un motore solido e scalabile che sfrut
       <img alt="Contenuto InDesign Server basato sui dati" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Contenuto InDesign Server basato sui dati</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Contenuto InDesign Server basato su dati</strong></a>
     </div>
-    <em>La progettazione basata sui dati può essere realizzata, a livello di programmazione, con l'InDesign Server</em>
+    <em>La progettazione basata sui dati può essere realizzata a livello di programmazione con InDesign Server</em>
     <br>
   </td>
   <td>
@@ -67,7 +67,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
       <img alt="InDesign Server: Guida all&apos;acquisto" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Guida all'acquisto</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: guida all'acquisto</strong></a>
     </div>
     <em>Risorse disponibili per sviluppatori o partner interni</em>
     <br>
@@ -79,7 +79,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Trova un partner</strong></a>
     </div>
-    <em>Sebbene si disponga dell'esperienza necessaria per lo sviluppo interno, Adobe consiglia di collaborare con i partner per trovare la soluzione più adatta alle proprie esigenze</em>
+    <em>Pur disponendo delle competenze necessarie per lo sviluppo interno, l'Adobe consiglia di collaborare con i partner per trovare la soluzione più adatta alle proprie esigenze</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
 
 **Risorse InDesign Server**
 
-[Informazioni e supporto](https://www.adobe.com/products/indesignserver.html) è il tuo hub per tutorial aggiuntivi, Novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://www.adobe.com/products/indesignserver.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

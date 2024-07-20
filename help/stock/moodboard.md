@@ -1,5 +1,5 @@
 ---
-title: Crea tavole di stile ispiratrici in pochissimo tempo con l'Adobe [!DNL Stock]
+title: Crea mood board ispiratori in pochissimo tempo con l'Adobe [!DNL Stock]
 description: Crea una bacheca di stato d’animo del progetto per trasmettere informazioni, idee, elementi visivi e tavolozze di colori a team/clienti
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crea tavole di stile ispiratrici in pochissimo tempo con l&#39;Adobe [!DNL Stock]
+# Crea mood board ispiratrici in pochissimo tempo con l&#39;Adobe [!DNL Stock]
 
 Crea una bacheca di stato d’animo del progetto per trasmettere informazioni, idee, elementi visivi e tavolozze di colori a team/clienti.
 

@@ -24,7 +24,7 @@ Dai vita alle tue idee con software e app Adobi per l&#39;editing video, la graf
       <img alt="Modelli professionali per grafica animata" src="assets/MORGTs.png" />
    </a>
     <div>
-   <a href="motion-graphics-templates.md"><strong>Modelli professionali per grafica animata</strong></a>
+   <a href="motion-graphics-templates.md"><strong>Modelli professionali di grafica animata</strong></a>
     </div>
     <em>I modelli di grafica animata (.mogrt) rappresentano un modo collaborativo ed efficiente per creare pacchetti di grafica animata personalizzabili: titoli, animazioni di loghi, terzi inferiori e condividerli con i team editoriali</em>
     <br>
