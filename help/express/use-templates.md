@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Scopri come creare contenuti on-brand in modo rapido ed efficiente in tutta l’
          <div>
          <a href="create-templates.md"><strong>Ottimizzare l'efficienza: creare modelli riutilizzabili</strong></a>
          </div>
-         <em>Scoprite come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi all'organizzazione con i modelli</em>
+         <em>Scoprite come migliorare la coerenza del marchio, l'efficienza e il risparmio sui costi per la vostra organizzazione con i modelli</em>
          <br>
    </td>
    <td>

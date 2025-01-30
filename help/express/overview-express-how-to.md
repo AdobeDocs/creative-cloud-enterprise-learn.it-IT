@@ -1,19 +1,19 @@
 ---
 title: Adobe [!DNL Express] Procedure Tutorials
-description: Aggiorna all'Adobe [!DNL Express]
+description: Aggiornamento rapido su Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] esercitazioni pratiche
+# Esercitazioni sulle procedure di Adobe per [!DNL Express]
 
 Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza artificiale generativa basata sull&#39;Adobe Firefly. Progetta volantini, TikToks, curriculum e Reels con Adobe Express.
 
@@ -355,24 +355,44 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Come e perché bloccare i livelli" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Come e perché bloccare i livelli</strong></a>
+            </div>
+            <em>Scopri perché è importante bloccare vari elementi del modello</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Creazione di un modello" src="assets/create-template.png" />
+            <img alt="Massima efficienza: creazione di modelli riutilizzabili" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Ottimizzare l'efficienza: creare modelli riutilizzabili</strong></a>
+         </div>
+         <em>Scoprite come migliorare la coerenza del marchio, l'efficienza e il risparmio sui costi per la vostra organizzazione con i modelli</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Salva e condividi modelli" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Salvare e condividere modelli</strong></a>
+         </div>
+         <em>Scopri come salvare e condividere i modelli in un kit di branding o in una libreria per il tuo team</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Come utilizzare i modelli" src="assets/use-templates.png" />
+            <img alt="Coerenza del brand senza problemi con i modelli" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Coerenza del marchio senza problemi con i modelli</strong></a>
+         </div>
+         <em>Scopri come creare contenuti on-brand in modo rapido ed efficiente in tutta l'organizzazione</em>
+         <br>
    </td>
 </tr>
 </table>
