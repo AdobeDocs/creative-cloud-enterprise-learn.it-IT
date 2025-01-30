@@ -1,21 +1,21 @@
 ---
-title: Creazione di un modello
-description: Scopri come creare un modello e aggiungere istruzioni da utilizzare
+title: 'Massimizza l''efficienza: creazione di modelli riutilizzabili'
+description: Scopri come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi alla tua organizzazione con modelli di Adobe Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Creazione di un modello
+# Massima efficienza: creazione di modelli riutilizzabili
 
-Scopri come creare un modello in cui alcuni livelli sono bloccati mentre altri sono sbloccati per consentire ai team di apportare modifiche. Puoi anche includere istruzioni per i team che utilizzano questo modello.
+Scopri come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi alla tua organizzazione con modelli di Adobe Express. Questo tutorial spiega come creare un file riutilizzabile da qualsiasi contenuto esistente, che si tratti di un file Photoshop, Illustrator, InDesign o PowerPoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ Scopri come creare un modello in cui alcuni livelli sono bloccati mentre altri s
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Come e perché bloccare i livelli" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Come e perché bloccare i livelli" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Come e perché bloccare i livelli</strong></a>
+            </div>
+            <em>Scopri perché è importante bloccare vari elementi del modello</em>
+            <br>
     </td>
     <td>
-            <a href="share-templates.md">
-                <img alt="Salva e condividi modelli" src="assets/share-templates.png" />
-            </a>
-    </td>
-    <td>
-            <a href="use-templates.md">
-                <img alt="Come utilizzare i modelli" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="share-templates.md">
+            <img alt="Salva e condividi modelli" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>Salvare e condividere modelli</strong></a>
+         </div>
+         <em>Scopri come salvare e condividere i modelli in un kit di branding o in una libreria per il tuo team</em>
+         <br>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="Coerenza del brand senza problemi con i modelli" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>Coerenza del marchio senza problemi con i modelli</strong></a>
+         </div>
+         <em>Scopri come creare contenuti on-brand in modo rapido ed efficiente in tutta l'organizzazione</em>
+         <br>
+   </td>
     <td>
       <img alt="Spaziatore" src="../assets/Whitespacer.png" />
       <div>
@@ -45,3 +60,4 @@ Scopri come creare un modello in cui alcuni livelli sono bloccati mentre altri s
     </td>
 </tr>
 </table>
+
