@@ -1,19 +1,19 @@
 ---
-title: 'Massimizza l''efficienza: creazione di modelli riutilizzabili'
+title: 'Massimizza efficienza: creazione di un modello riutilizzabile'
 description: Scopri come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi alla tua organizzazione con modelli di Adobe Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Massima efficienza: creazione di modelli riutilizzabili
+# Massima efficienza: crea un modello riutilizzabile
 
 Scopri come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi alla tua organizzazione con modelli di Adobe Express. Questo tutorial spiega come creare un file riutilizzabile da qualsiasi contenuto esistente, che si tratti di un file Photoshop, Illustrator, InDesign o PowerPoint.
 

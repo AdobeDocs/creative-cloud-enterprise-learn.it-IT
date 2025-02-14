@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 4%
       + [Come ridimensionare le animazioni](express/resize-animations.md)
       + [Esportazione delle animazioni](express/export-animations.md)
       + [Come rimuovere lo sfondo da qualsiasi immagine](express/remove-background.md)
-      + [Quali sono le nuove funzioni di intelligenza artificiale generale in Adobi Express?](express/intro-gen-ai.md)
+      + [Quali sono le nuove funzioni di intelligenza artificiale generale in Adobe Express?](express/intro-gen-ai.md)
       + [Come usare lo strumento gomma per oggetti](express/object-eraser.md)
       + [Come utilizzare Riempimento generativo](express/generative-fill.md)
       + [Miglioramento della progettazione del testo con Gen AI](express/gen-text.md)
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [Come aggiungere l’audio](express/add-audio-video.md)
       + [Come esportare un video](express/export-video.md)
       + [Come e perché bloccare i livelli](express/lock-layers.md)
-      + [Creazione di un modello](express/create-templates.md)
+      + [Massima efficienza: crea un modello riutilizzabile](express/create-templates.md)
       + [Salva e condividi modelli](express/share-templates.md)
       + [Come utilizzare i modelli](express/use-templates.md)
    + Esercitazioni per casi d&#39;uso {#expressusecase}
@@ -133,29 +133,29 @@ ht-degree: 4%
    + [Panoramica](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
       + [Splendide risorse digitali](stock/stunning-digital-assets.md)
-      + [Cerca Adobe  [!DNL Stock] cronologia licenze](stock/searchstock.md)
-      + [Aggiungete un&#39;estetica disegnata a mano all&#39;Adobe [!DNL Stock] delle immagini](stock/handdrawn.md)
+      + [Cerca nella cronologia delle licenze di Adobe [!DNL Stock] ](stock/searchstock.md)
+      + [Aggiungi un&#39;estetica disegnata a mano alle immagini Adobe [!DNL Stock] ](stock/handdrawn.md)
       + [Aggiungere stile alla composizione tipografica con maschere e animazioni](stock/flairtypography.md)
-      + [Anima un Adobe [!DNL Stock] illustrazione vettoriale in Photoshop](stock/animatevector.md)
-      + [Inizia il report annuale con un video creato con l&#39;Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
+      + [Anima un&#39;illustrazione vettoriale Adobe [!DNL Stock] in Photoshop](stock/animatevector.md)
+      + [Inizia il report annuale con un video creato con Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
       + [Dai vita alla creatività con animazioni personalizzate di Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Modifica i colori di un&#39;immagine di Adobe [!DNL Stock]  in base alla tua storia](stock/changecolors.md)
-      + [Crea un collage 3D per un poster utilizzando immagini Adobi [!DNL Stock] ](stock/collage.md)
-      + [Crea un&#39;etichetta in grassetto con Adobi [!DNL Stock] modelli e oggetti avanzati Photoshop](stock/boldlabel.md)
-      + [Crea un&#39;infografica delle linee guida aziendali con l&#39;Adobe  [!DNL Stock]](stock/infographic.md)
-      + [Crea un grafico di confronto delle funzionalità del prodotto utilizzando l&#39;Adobe  [!DNL Stock]](stock/featurecomparison.md)
-      + [Creazione di una composizione semi-surreale con Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Adobe Modifica i colori di un&#39;immagine  [!DNL Stock]  in base alla tua storia](stock/changecolors.md)
+      + [Crea un collage 3D per un poster utilizzando immagini Adobe [!DNL Stock] ](stock/collage.md)
+      + [Creazione di un&#39;etichetta in grassetto con i modelli di Adobe [!DNL Stock]  e gli oggetti avanzati di Photoshop](stock/boldlabel.md)
+      + [Creazione di un&#39;infografica sulle linee guida aziendali con Adobe [!DNL Stock]](stock/infographic.md)
+      + [Crea un grafico di confronto delle funzionalità del prodotto utilizzando Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Creazione di un composito semi-surreale con Adobe [!DNL Stock]](stock/surrealcomposite.md)
       + [Crea un pattern semi-surreale con Adobe [!DNL Stock]](stock/surrealpattern.md)
-      + [Creazione di un configuratore di prodotti interattivo con l&#39;Adobe  [!DNL Stock]](stock/productconfigurator.md)
-      + [Crea una foto turistica interattiva con l&#39;Adobe [!DNL Stock] e l&#39;XD](stock/interactivetourismphoto.md)
-      + [Creazione di animazioni per e-mail con Adobe [!DNL Stock]  e Photoshop](stock/animationemail.md)
-      + [Crea immagini coerenti del marchio con splendide sfumature e risorse Adobi [!DNL Stock] ](stock/brandgradients.md)
-      + [Crea grafica Web coinvolgente combinando le immagini di Adobe [!DNL Stock] con CSS](stock/webgraphics.md)
-      + [Crea mood board ispiratori in pochissimo tempo con l&#39;Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Creazione di composizioni fotografiche realistiche con immagini  [!DNL Stock] Adobi](stock/realisticcomposite.md)
+      + [Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]](stock/productconfigurator.md)
+      + [Crea una foto turistica interattiva con Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
+      + [Creazione di animazioni per e-mail con Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
+      + [Crea immagini coerenti del marchio con splendide sfumature e risorse Adobe [!DNL Stock] ](stock/brandgradients.md)
+      + [Crea grafica Web coinvolgente combinando  [!DNL Stock] immagini Adobe con CSS](stock/webgraphics.md)
+      + [Crea mood board accattivanti in pochissimo tempo con Adobe [!DNL Stock]](stock/moodboard.md)
+      + [Creazione di composizioni fotografiche realistiche con immagini  [!DNL Stock] Adobe](stock/realisticcomposite.md)
       + [Personalizzare l&#39;animazione di una schermata di caricamento con Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
-      + [Personalizza un modello di presentazione di Adobe [!DNL Stock] per ottenere un aspetto professionale](stock/presentationtemplate.md)
-      + [Personalizza i colori in un&#39;illustrazione vettoriale di Adobe [!DNL Stock] ](stock/customizecolors.md)
+      + [Personalizza un modello di presentazione di Adobe [!DNL Stock]  per ottenere un aspetto professionale](stock/presentationtemplate.md)
+      + [Personalizza i colori in un&#39;illustrazione vettoriale Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D E VR {#3doverview}
    + [Panoramica](3di/overview-3di.md)
    + Tutorials {#3dtutorials}

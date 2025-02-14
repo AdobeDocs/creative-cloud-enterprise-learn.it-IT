@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -366,10 +366,10 @@ Inizia a creare lavori straordinari che si distinguono con l&#39;intelligenza ar
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Massima efficienza: creazione di modelli riutilizzabili" src="assets/create-template.png" />
+            <img alt="Massima efficienza: crea un modello riutilizzabile" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Ottimizzare l'efficienza: creare modelli riutilizzabili</strong></a>
+         <a href="create-templates.md"><strong>Ottimizzare l'efficienza: creare un modello riutilizzabile</strong></a>
          </div>
          <em>Scoprite come migliorare la coerenza del marchio, l'efficienza e il risparmio sui costi per la vostra organizzazione con i modelli</em>
          <br>
