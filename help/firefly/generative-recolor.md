@@ -19,4 +19,4 @@ Scoprite come utilizzare Ricolora generativa, basata sull&#39;Adobe Firefly, in 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442075?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Scoprite come utilizzare la funzione Testo in immagine, basata sull&#39;Adobe Firefly, in Adobe Express per creare una campagna di promozione per i social media. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430565?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come creare contenuti on-brand in modo rapido ed efficiente in tutta l’organizzazione. Questo tutorial spiega come creare nuovi contenuti per il marchio che possano essere condivisi e localizzati immediatamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436136?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

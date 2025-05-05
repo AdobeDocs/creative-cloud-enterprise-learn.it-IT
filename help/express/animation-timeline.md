@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come navigare e regolare la timeline dell’animazione. La linea temporale è una vista generale dell’intera animazione, in cui potete visualizzare in anteprima e ridurre/estendere la lunghezza dell’animazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437609?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

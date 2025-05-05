@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come offrire coerenza del marchio, efficienza, professionalità e risparmio sui costi alla tua organizzazione con modelli di Adobe Express. Questo tutorial spiega come creare un file riutilizzabile da qualsiasi contenuto esistente, che si tratti di un file Photoshop, Illustrator, InDesign o PowerPoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433972?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

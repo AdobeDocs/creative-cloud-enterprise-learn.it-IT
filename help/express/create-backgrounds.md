@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come creare sfondi coinvolgenti per le presentazioni PowerPoint. Utilizzando la funzione di conversione da testo a immagine, basata su Adobe Firefly, è possibile generare un&#39;immagine personalizzata per la presentazione e quindi apportare ulteriori modifiche all&#39;immagine, applicare effetti e scaricarla per utilizzarla nella presentazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433983?quality=12&learn=on&hidetitle=true&captions=ita)

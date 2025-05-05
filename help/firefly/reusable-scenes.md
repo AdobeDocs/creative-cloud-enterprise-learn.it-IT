@@ -19,4 +19,4 @@ Scopri come creare scene riutilizzabili per merchandising, come borse e accessor
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448475?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -19,4 +19,4 @@ Scopri come creare un’immagine dalle descrizioni di testo. [La generazione del
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447678?quality=12&learn=on&hidetitle=true&captions=ita)

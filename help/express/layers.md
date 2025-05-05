@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come utilizzare le tavole da disegno e i livelli in un progetto di progettazione. Aggiungi, elimina, duplica, riordina e ridimensiona le tavole disegno per diversi canali social. Potete anche modificare l’ordine degli elementi nella pila di livelli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447073?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

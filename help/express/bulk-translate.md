@@ -21,7 +21,7 @@ Scopri come creare variazioni di lingua dei tuoi progetti traducendo automaticam
 >
 >È importante verificare l’accuratezza delle traduzioni prima di condividerle o scaricarle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438276?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

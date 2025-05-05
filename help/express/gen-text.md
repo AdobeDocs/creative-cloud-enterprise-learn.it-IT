@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scoprite come creare progetti di grande impatto utilizzando effetti di testo basati sull&#39;Adobe Firefly. Con un prompt di testo, puoi generare effetti di testo straordinari che puoi perfezionare e abbellire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438824?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come impostare la risoluzione dei video, scaricarli e condividerli direttamente sui canali social.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436023?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

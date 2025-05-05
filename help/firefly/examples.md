@@ -19,4 +19,4 @@ Scopri come utilizzare Firefly per creare presentazioni PowerPoint stimolanti, m
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437064?quality=12&learn=on&hidetitle=true&captions=ita)

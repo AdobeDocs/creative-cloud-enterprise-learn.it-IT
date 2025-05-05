@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scoprite come utilizzare Riempimento generativo, basato sull&#39;Adobe Firefly, per aggiungere e rimuovere elementi da un&#39;immagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437840?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

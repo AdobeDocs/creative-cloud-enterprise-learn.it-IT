@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Le azioni rapide consentono di risparmiare tempo e forniscono strumenti di modifica di base per il lavoro creativo quotidiano. Esempi di azioni rapide includono l&#39;unione e il taglio di video, la rimozione di sfondi, il ridimensionamento di immagini e video, la conversione di video in GIF e la modifica di PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446310?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

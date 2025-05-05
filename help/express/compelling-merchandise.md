@@ -19,4 +19,4 @@ Scopri come un team di commercio può facilmente creare immagini convincenti per
 
 Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447139?quality=12&learn=on&hidetitle=true&captions=ita)

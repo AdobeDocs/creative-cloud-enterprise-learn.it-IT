@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come invitare le persone a modificare, pubblicare sul Web, pianificare un post sui social o scaricare l&#39;animazione. Nell&#39;Adobe Express vengono forniti suggerimenti sul formato di file in cui esportare in base alla situazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433961?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Scopri come utilizzare la funzione di conversione da testo a immagine, basata su Adobi Firefly, in Adobe Express per creare elementi grafici unici per i contenuti di selezione e inserimento dei dipendenti. In questo esempio, i modelli vengono utilizzati in modo che tutti all&#39;interno dell&#39;azienda creino contenuti che sono precisamente on-brand. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444268?quality=12&learn=on&hidetitle=true&captions=ita)

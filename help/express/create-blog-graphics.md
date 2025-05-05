@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Scoprite come utilizzare la funzione Testo in immagine, basata sull&#39;Adobe Firefly, per creare contenuti grafici unici per campagne Web, blog e social. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441371?quality=12&learn=on&hidetitle=true&captions=ita)

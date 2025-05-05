@@ -19,4 +19,4 @@ Scopri come visualizzare rapidamente le idee ed esplorare i concetti per le camp
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452523?quality=12&learn=on&hidetitle=true&captions=ita)

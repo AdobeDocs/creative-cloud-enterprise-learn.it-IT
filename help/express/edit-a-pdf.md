@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Scopri come dare ai tuoi PDF statici e obsoleti un restyling aggiungendo testo, immagini, marchi, colori, animazioni e altro ancora di grande impatto. Una volta completata la modifica, puoi scaricare PDF PDF, condividerlo o convertirlo in altri formati di file, come JPEG.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437906?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come creare una raccolta di risorse del marchio per creare progetti coerenti e professionali per la tua azienda o i tuoi progetti personali. Un brand kit è una raccolta di risorse del marchio come loghi, colori, font, grafica e modelli. Possono essere creati da zero o da una libreria esistente e condivisi con i colleghi, che possono disporre dei privilegi di modifica o visualizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449373?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

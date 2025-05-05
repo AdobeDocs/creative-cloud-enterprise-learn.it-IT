@@ -19,4 +19,4 @@ Scoprite come utilizzare la funzione Riempimento generativo, basata sull&#39;Ado
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444553?quality=12&learn=on&hidetitle=true&captions=ita)

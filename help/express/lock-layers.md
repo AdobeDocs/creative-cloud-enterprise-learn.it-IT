@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri perché è importante bloccare vari elementi del modello in modo che non possano essere modificati. Alcuni elementi, come i loghi, non devono essere modificati, quindi possono essere bloccati prima della condivisione del modello.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437075?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

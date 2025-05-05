@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come collaborare con i colleghi su progetti creativi, inclusi l&#39;invito, l&#39;impostazione di autorizzazioni, la risoluzione di commenti e l&#39;utilizzo simultaneo del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439545?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

@@ -44,7 +44,7 @@ Sia le app Acrobat che Creative Cloud for enterprise inizieranno a visualizzare 
 
 Le seguenti informazioni descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video, seguito da un riepilogo dell&#39;esperienza utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441285?hidetitle=true&captions=ita)
 
 **Prima della scadenza**
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 In questo tutorial video del workshop dettagliato, puoi creare una fotografia vivente combinando i video dell&#39;Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop.
 
->[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410688?hidetitle=true&captions=ita)
 
 <br> 
 

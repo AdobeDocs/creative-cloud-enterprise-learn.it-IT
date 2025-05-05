@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come iniziare a creare un notiziario cercando modelli progettati in modo professionale utilizzando le parole chiave. Dopo aver modificato il logo e la copia del testo, puoi invitare i colleghi a collaborare e aggiungere il loro contenuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439211?quality=12&learn=on&hidetitle=true&captions=ita)

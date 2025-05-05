@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come aggiungere animazioni a un post sui social media per aumentare il coinvolgimento. Per accedere al pannello di animazione, seleziona un elemento della pagina, ad esempio un’immagine, e applica vari tipi di animazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436593?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

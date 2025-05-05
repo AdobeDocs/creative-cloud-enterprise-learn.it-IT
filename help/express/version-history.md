@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri come accedere alla cronologia delle versioni e visualizzare e copiare le versioni precedenti dei tuoi progetti. Contrassegna i punti cardine nello sviluppo per tornare facilmente a momenti specifici nell&#39;avanzamento del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438705?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 

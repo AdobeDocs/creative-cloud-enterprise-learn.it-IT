@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Per ottimizzare l’animazione, aggiungi a un’animazione elementi come immagini e titoli. Scopri come aggiungere, duplicare, ridisporre o sostituire gli elementi di una scena mantenendo intatte le animazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433928?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ## Video aggiuntivi di questa serie
 
