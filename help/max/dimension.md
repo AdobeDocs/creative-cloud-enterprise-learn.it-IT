@@ -60,7 +60,7 @@ Jim Babbage, consulente Senior Solutions (Digital Media)
 
 **Risorse Dimension**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/dimension.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/dimension.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/it/dimension/user-guide.html/dimension/using/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

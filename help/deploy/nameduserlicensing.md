@@ -22,7 +22,7 @@ Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione
 
 ## Informazioni sulle licenze nominative
 
-[La licenza nominativa](https://helpx.adobe.com/enterprise/using/licensing.html) è un modello di licenza software che consente di assegnare il software a un singolo utente anziché a un numero di serie o a un dispositivo. NUL offre agli amministratori IT sicurezza a livello aziendale con gestione avanzata dell’identità degli utenti e consente di distribuire e gestire facilmente le applicazioni utilizzando Adobe Admin Console.
+[La licenza nominativa](https://helpx.adobe.com/it/enterprise/using/licensing.html) è un modello di licenza software che consente di assegnare il software a un singolo utente anziché a un numero di serie o a un dispositivo. NUL offre agli amministratori IT sicurezza a livello aziendale con gestione avanzata dell’identità degli utenti e consente di distribuire e gestire facilmente le applicazioni utilizzando Adobe Admin Console.
 
 ## Vantaggi delle licenze nominative:
 

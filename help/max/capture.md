@@ -62,7 +62,7 @@ Emily Palmer, Consulente per le soluzioni (Digital Media)
 
 **[!DNL Capture]risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/mobile-apps/help/capture-faq.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

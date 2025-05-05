@@ -148,7 +148,7 @@ Patti Sokol, Consulente Principal Solutions (Digital Media)
 
 **Risorse InDesign**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/indesign.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/indesign.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/it/indesign/user-guide.html/indesign/using/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

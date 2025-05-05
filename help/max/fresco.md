@@ -83,7 +83,7 @@ Liz Tanonis, consulente per le soluzioni (Digital Media)
 
 **Risorse Fresco**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/adobe-fresco.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/fresco/using/whats-new.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/adobe-fresco.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/it/fresco/using/whats-new.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

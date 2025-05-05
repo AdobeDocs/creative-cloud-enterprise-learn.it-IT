@@ -78,7 +78,7 @@ Patti Sokol, Consulente Principal Solutions (Digital Media)
 
 **Risorse Illustrator**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/illustrator.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/illustrator.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

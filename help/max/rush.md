@@ -64,7 +64,7 @@ A.J. Wood, consulente per le soluzioni (Digital Media)
 
 **[!DNL Rush]risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/premiere-rush.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/premiere-rush.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/it/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

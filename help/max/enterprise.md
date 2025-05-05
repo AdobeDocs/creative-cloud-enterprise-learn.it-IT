@@ -62,6 +62,6 @@ Todd Burke, Consulente Principal Solutions (Digital Media)
 
 **Risorse di amministrazione dell&#39;organizzazione:**
 
-[Guida utente di Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Guida utente di Adobe Fonts](https://helpx.adobe.com/it/fonts/user-guide.html)
 
-[Guida all&#39;amministrazione aziendale](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guida all&#39;amministrazione aziendale](https://helpx.adobe.com/it/enterprise/admin-guide.html)

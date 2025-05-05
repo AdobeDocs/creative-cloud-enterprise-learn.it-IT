@@ -117,7 +117,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
 
 **Asset Link e risorse AEM**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/experience-manager.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/experience-manager.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
