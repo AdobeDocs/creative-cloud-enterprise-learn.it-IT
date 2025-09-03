@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 6%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 6%
    + Esercitazioni {#firefly-tutorials}
       + [Panoramica di  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Scopri [!DNL Adobe Firefly]](firefly/discover.md)
-      + [Rimozione e sostituzione dello sfondo con Produzione creativa](firefly/creative-production/background.md)
       + [Accelera l&#39;idea creativa](firefly/accelerate-ideas.md)
       + [Crea scene riutilizzabili per la merchandising](firefly/reusable-scenes.md)
       + [Creare un modello personalizzato utilizzando un oggetto](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 6%
       + [Banner e varianti in [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Riempimento generativo in [!DNL Photoshop]](firefly/generative-fill.md)
       + [Ricolora generativa in [!DNL Illustrator]](firefly/generative-recolor.md)
+   + Esercitazioni per Creative Production {#firefly-creative-production}
+      + [Panoramica di  [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
+      + [Rimozione e sostituzione dello sfondo](firefly/creative-production/background.md)
    + Webinar {#firefly-webinars}
       + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
