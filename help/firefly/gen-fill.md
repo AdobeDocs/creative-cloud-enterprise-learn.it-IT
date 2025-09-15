@@ -19,4 +19,4 @@ Scoprite come utilizzare il riempimento generativo per aggiungere, espandere o r
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473997?quality=12&learn=on&hidetitle=true&captions=ita)
