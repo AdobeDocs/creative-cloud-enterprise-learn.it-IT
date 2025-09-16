@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
+source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,21 @@ Scopri come creare modelli personalizzati in Firefly per creare nuove immagini p
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474939?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+
+## Che cosa sono i modelli personalizzati di Firefly
+
+I modelli personalizzati consentono alle organizzazioni di generare contenuti di immagine allineati con l&#39;identità del proprio marchio utilizzando la funzione Text to Image del Firefly.
+
+Puoi addestrare questi modelli con le tue immagini per produrre contenuti che riflettano il tuo stile, il soggetto o altri elementi di branding.
+
+## Vantaggi principali/casi di utilizzo
+
+**Design coerente con il marchio** Create rapidamente immagini che aderiscono strettamente all&#39;estetica del vostro marchio.
+
+**Temi carattere** Mantenere l&#39;uniformità delle immagini basate sui caratteri per scene, luci, pose e così via. Riduzione del tempo di inattività dedicato allo sviluppo.
+
+**Iterazioni concettuali più veloci** Accelera l&#39;allineamento tra gli stakeholder mostrando prima idee e concetti sul marchio.
 
 >[!IMPORTANT]
 >
