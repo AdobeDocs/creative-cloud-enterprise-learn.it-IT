@@ -20,7 +20,7 @@ Scopri come creare modelli personalizzati in Firefly per creare nuove immagini p
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474939?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!IMPORTANT]
 >
