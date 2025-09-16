@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
+source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '808'
 ht-degree: 6%
 
 ---
@@ -116,8 +116,6 @@ ht-degree: 6%
       + [Accelera l&#39;idea creativa](firefly/accelerate-ideas.md)
       + [Crea scene riutilizzabili per la merchandising](firefly/reusable-scenes.md)
       + [Creare un modello personalizzato](firefly/custom-model.md)
-      + [Creare un modello personalizzato utilizzando un oggetto](firefly/custom-model-subject.md)
-      + [Creare un modello personalizzato utilizzando gli stili](firefly/custom-model-style.md)
       + [Pagina di destinazione](firefly/landing-page.md)
       + [Da testo a immagine](firefly/text-to-image.md)
       + [Effetti Testo](firefly/text-effects.md)
