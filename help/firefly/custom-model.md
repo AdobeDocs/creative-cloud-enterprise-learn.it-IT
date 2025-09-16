@@ -1,24 +1,24 @@
 ---
 title: Creare un modello personalizzato
-description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
+source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Creare un modello personalizzato
 
-Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti del marchio pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474939?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Che cosa sono i modelli personalizzati di Firefly
 
