@@ -1,6 +1,6 @@
 ---
 title: Creare un modello personalizzato
-description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Creare un modello personalizzato
 
-Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti del marchio pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti del marchio pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
