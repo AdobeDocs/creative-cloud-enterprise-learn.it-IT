@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -48,18 +48,18 @@ Photoshop è il software di progettazione grafica e di imaging migliore del mond
 </tr>
 </table>
 
-## Modifica immagini come da campagna (5:45) {#tutorial1}
+## Modifica immagini in base alla campagna (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Descrizione**
 Utilizza i potenti strumenti di selezione e modifica del colore di Adobe Photoshop per modificare radicalmente un&#39;immagine in base alle tue esigenze di branding aziendali.
 
-In questo tutorial imparerai come:
+In questo tutorial, scoprite come:
 * Lo strumento Selezione oggetto rende la selezione degli elementi più semplice e veloce
 * Riempimento in base al contenuto consente un maggiore controllo delle aree campione all’interno di un’immagine sorgente per una migliore clonazione e applicazione di patch alle aree di destinazione
 * I pennelli possono avere forme diverse per ottenere risultati migliori
-* Adobe Sensei consente di sfruttare l&#39;intelligenza artificiale per attività banali
+* L&#39;intelligenza artificiale di Adobe sfrutta l&#39;intelligenza artificiale per attività banali
 
 **Presentato da:**
 A.J. Wood, Senior Solutions Consultant (Digital Media)
@@ -83,8 +83,8 @@ A.J. Wood, Senior Solutions Consultant (Digital Media)
 
 **Risorse Photoshop**
 
-[Informazioni e supporto](https://helpx.adobe.com/it/support/photoshop.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/it/photoshop/using/whats-new.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/photoshop.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/photoshop/using/whats-new.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro!) scaricando l&#39;aggiornamento più recente dalla tua app desktop Creative Cloud.

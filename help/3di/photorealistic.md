@@ -1,14 +1,14 @@
 ---
 title: Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D
-description: Scoprite come creare una fotografia virtuale fotorealistica sorprendentemente ingannevole con la composizione e il rendering di immagini 3D nell'Adobe  [!DNL Dimension]
+description: Scoprite come creare una fotografia virtuale fotorealistica e incredibilmente ingannevole con la composizione e il rendering di immagini 3D in Adobe [!DNL Dimension]
 feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: fotografia virtuale, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ Guardando le immagini qui sopra, vi perdoneremo se tutto ciò che vedete è real
 
 ![Una scena de L&#39;abisso di James Cameron in cui Mary Mastrantonio si allunga per toccare il tentacolo d&#39;acqua CGI](assets/Photorealistic_2.jpg)
 
-Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobi [!DNL Dimension]](https://www.adobe.com/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
+Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
 
 
-## Tecnologia per la creazione di immagini composite nell&#39;Adobe [!DNL Dimension]
+## Tecnologia per la creazione di immagini composite in Adobe [!DNL Dimension]
 
 ![Modifica del piano di un modello di sfera metallica in un Adobe [!DNL Dimension] composito](assets/Photorealistic_3.png)
 
-L&#39;Adobe [!DNL Dimension] ha consentito agli utenti di combinare in modo uniforme elementi 2D e 3D direttamente nell&#39;app utilizzando la funzione Come immagine, con tecnologia Adobe Sensei. Il vantaggio principale della composizione degli elementi in questo modo è che il turbo migliora il processo di creazione di un&#39;immagine realistica sostituendo una scena 3D completamente realizzata con un&#39;immagine di sfondo, che può essere acquisita dalla realtà.
+L&#39;Adobe [!DNL Dimension] ha consentito agli utenti di combinare in modo uniforme elementi 2D e 3D direttamente nell&#39;app utilizzando Adobe AI. Il vantaggio principale della composizione degli elementi in questo modo è che il turbo migliora il processo di creazione di un&#39;immagine realistica sostituendo una scena 3D completamente realizzata con un&#39;immagine di sfondo, che può essere acquisita dalla realtà.
 
 ![La funzione Come immagine nell&#39;Adobe [!DNL Dimension] analizza l&#39;immagine di sfondo e valuta la lunghezza focale e la posizione della fotocamera utilizzata per acquisirla](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Ma cosa accade con tutto ciò che non è stato inquadrato dalla telecamera?  L&#
 
 ![Immagine composita fotorealistica 3D di un ciclomotore in un soggiorno](assets/Photorealistic_5.png)
 
-L’opzione Come immagine tenta di simulare l’ambiente di illuminazione in cui è stata scattata un’immagine di sfondo. Fa in breve tempo un ottimo lavoro con risultati eccellenti, ma acquisendo l&#39;ambiente insieme all&#39;immagine di sfondo si otterranno risultati ancora più realistici. Questo è anche il metodo utilizzato per addestrare la funzione Adobe Sensei a farlo da solo.
+L’opzione Come immagine tenta di simulare l’ambiente di illuminazione in cui è stata scattata un’immagine di sfondo. Fa in breve tempo un ottimo lavoro con risultati eccellenti, ma acquisendo l&#39;ambiente insieme all&#39;immagine di sfondo si otterranno risultati ancora più realistici. Questo è anche il metodo usato per addestrare l&#39;Adobe.
 
 ![Immagine panoramica HDR a 360 gradi di un ufficio](assets/Photorealistic_6.png)
 
@@ -136,7 +136,7 @@ Al termine dell’acquisizione, le immagini devono essere elaborate in modo da r
 
 ## Assemblaggio dell&#39;immagine composita in [!DNL Dimension]
 
-Dopo aver raccolto e completato questi elementi, è possibile assemblarli in una scena dell&#39;Adobe [!DNL Dimension]. È sufficiente trascinare lo sfondo nella scena, dove verrà applicato sullo sfondo; quindi, aggiungere l’immagine panoramica HDR nello slot per le immagini di luce ambiente.
+Dopo aver raccolto e completato questi elementi, è ora possibile assemblarli in una scena nell&#39;Adobe [!DNL Dimension]. È sufficiente trascinare lo sfondo nella scena, dove verrà applicato sullo sfondo; quindi, aggiungere l’immagine panoramica HDR nello slot per le immagini di luce ambiente.
 
 Trascina l’immagine di sfondo in un’area vuota dell’area di lavoro oppure seleziona Ambiente nel pannello della scena e aggiungi l’immagine all’input dello sfondo.
 
@@ -162,10 +162,10 @@ Per valutare rapidamente l’orientamento e l’esposizione dell’immagine pano
 
 ![Time-lapse della composizione e del rendering 3D di una fotografia di prodotto virtuale nell&#39;Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
 
-Una volta completata la scena, il flusso di lavoro è semplice. Trascina il tuo modello o un qualsiasi contenuto [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) direttamente nell&#39;immagine per creare l&#39;impressione che fosse presente quando è stata scattata la foto. Ciò apre nuove possibilità per la creazione di contenuti pubblicitari altamente realistici o la possibilità di lavorare su progetti in molti contesti diversi.
+Una volta completata la scena, il flusso di lavoro è semplice. Trascina il tuo modello o un contenuto [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) direttamente nell&#39;immagine per creare l&#39;impressione che fosse presente quando è stata scattata la foto. Ciò apre nuove possibilità per la creazione di contenuti pubblicitari altamente realistici o la possibilità di lavorare su progetti in molti contesti diversi.
 
 ![Foto virtuale fotorealistica di elettrodomestici 3D composti in una scena sul piano di una cucina](assets/Photorealistic_25.png)
 
-Il risultato finale è una combinazione convincente di realtà e 3D che aiuta gli utenti finali a creare immagini fotorealistiche con il minimo sforzo. Prova anche tu con alcune [scene](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) gratuite create per dimostrare il flusso di lavoro. [!DNL Dimension] 
+Il risultato finale è una combinazione convincente di realtà e 3D che aiuta gli utenti finali a creare immagini fotorealistiche con il minimo sforzo. Prova anche tu con alcune [scene [!DNL Dimension]  gratuite create per dimostrare il flusso di lavoro.](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)
 
 [Scarica oggi stesso l&#39;ultima versione](https://creativecloud.adobe.com/apps/download/dimension) di [!DNL Dimension] e inizia a creare immagini fotorealistiche.
