@@ -85,7 +85,7 @@ Logo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe di [!DNL Stock] risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/support/stock.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/it/support/stock.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
