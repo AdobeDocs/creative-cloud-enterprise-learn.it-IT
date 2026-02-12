@@ -5,7 +5,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 02c50fd25c75eaa09b88a31dc0b1c3ee03e77df3
+source-git-commit: a596540deb715b3ef158456d7c3c989d235da468
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 11%
