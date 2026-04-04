@@ -63,21 +63,21 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/it/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server: Guida all&apos;acquisto" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: guida all'acquisto</strong></a>
+   <a href="https://www.adobe.com/it/products/indesignserver/buying-guide.html"><strong>InDesign Server: guida all'acquisto</strong></a>
     </div>
     <em>Risorse disponibili per sviluppatori o partner interni</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/it/products/indesignserver/partner.html">
       <img alt="InDesign Server: Trova un partner" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Trova un partner</strong></a>
+   <a href="https://www.adobe.com/it/products/indesignserver/partner.html"><strong>InDesign Server: Trova un partner</strong></a>
     </div>
     <em>Pur disponendo delle competenze necessarie per lo sviluppo interno, l'Adobe consiglia di collaborare con i partner per trovare la soluzione più adatta alle proprie esigenze</em>
     <br>
@@ -94,7 +94,7 @@ Eric Rowse, Consulente Senior Solutions (Digital Media)
 
 **Risorse InDesign Server**
 
-[Informazioni e supporto](https://www.adobe.com/products/indesignserver.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
+[Informazioni e supporto](https://www.adobe.com/it/products/indesignserver.html) è il tuo hub per esercitazioni aggiuntive, novità e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
