@@ -21,7 +21,7 @@ Guardando le immagini qui sopra, vi perdoneremo se tutto ciò che vedete è real
 
 ![Una scena de L&#39;abisso di James Cameron in cui Mary Mastrantonio si allunga per toccare il tentacolo d&#39;acqua CGI](assets/Photorealistic_2.jpg)
 
-Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
+Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobe [!DNL Dimension]](https://www.adobe.com/it/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
 
 
 ## Tecnologia per la creazione di immagini composite in Adobe [!DNL Dimension]
@@ -58,7 +58,7 @@ Per acquisire efficacemente questi contenuti è importante sfruttare le capacit�
 
 ### Scelta di un percorso
 
-Cercate luoghi interessanti sia per il contesto che per l&#39;illuminazione. Considerando il contesto, può essere utile immaginare il potenziale uso di una scena. Ad esempio, si potrebbe aggiungere un’auto 3D alla foto di una strada vuota, oppure per [presentare l’imballaggio](https://www.adobe.com/products/dimension/packaging-design-mockup.html) di prodotti alimentari può essere utile un tavolo di un coffee shop.
+Cercate luoghi interessanti sia per il contesto che per l&#39;illuminazione. Considerando il contesto, può essere utile immaginare il potenziale uso di una scena. Ad esempio, si potrebbe aggiungere un’auto 3D alla foto di una strada vuota, oppure per [presentare l’imballaggio](https://www.adobe.com/it/products/dimension/packaging-design-mockup.html) di prodotti alimentari può essere utile un tavolo di un coffee shop.
 
 ![4 scene di location per una foto virtuale sono in contrasto con le stesse scene con una composizione 3D](assets/Photorealistic_8.png)
 
