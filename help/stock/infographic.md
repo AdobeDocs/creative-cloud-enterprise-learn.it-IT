@@ -1,19 +1,23 @@
 ---
-title: Crea un'infografica delle linee guida aziendali con l'Adobe  [!DNL Stock]
-description: Combinate una varietà di risorse dall'Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti
+title: Creazione di un'infografica sulle linee guida aziendali con Adobe [!DNL Stock]
+description: Combinate una varietà di risorse da Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
 exl-id: 17d2c27a-99e0-493a-8956-36725aac167f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/zRW3IM4GhfdIDvR-iikzBWvMQwu4pUQO3WI8rj4i03s
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: 47
 ht-degree: 0%
 
 ---
 
-# Crea un&#39;infografica delle linee guida aziendali con l&#39;Adobe [!DNL Stock]
+# Creazione di un&#39;infografica delle linee guida aziendali con l&#39;Adobe [!DNL Stock]
 
 Combina una serie di risorse dall&#39;Adobe [!DNL Stock] per comunicare le linee guida sotto forma di infografiche visivamente coinvolgenti.
 

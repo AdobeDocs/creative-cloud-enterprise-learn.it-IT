@@ -6,9 +6,15 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
+TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: 1412
 ht-degree: 1%
 
 ---
@@ -188,7 +194,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Da scrittura a mano ad Illustrator tramite Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Grazie alle potenzialità di Creative Cloud per le aziende, le app mobili e desktop di Adobe consentono di acquisire, convertire e creare ovunque, su qualsiasi dispositivo</em>
+    <em>Grazie alle potenzialità di Creative Cloud per le app enterprise, Adobe per dispositivi mobili e desktop, puoi acquisire, convertire e creare ovunque ti trovi, su qualsiasi dispositivo</em>
     <br>
   </td>
   <td>
@@ -220,7 +226,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualizza il prodotto in un ambiente realistico (PDF)</strong></a>
     </div>
-    <em>Quando vuoi vedere come appaiono i tuoi prodotti nel mondo reale, l'Adobe [!DNL Dimension] è la tua app di riferimento</em>
+    <em>Quando vuoi vedere come appaiono i tuoi prodotti nel mondo reale, Adobe [!DNL Dimension] è la tua app di riferimento</em>
     <br>
   </td>
   <td>
@@ -252,7 +258,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="frescoworkshop.md"><strong>Prova il Fresco su iPad (e iPhone)</strong></a>
     </div>
-    <em>Esplora un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresco in questo workshop pratico di 15 minuti</em>
+    <em>Esplora un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresca in questo workshop pratico di 15 minuti</em>
     <br>
   </td>
   <td>
@@ -451,10 +457,10 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="Creazione di composizioni univoche con l&apos;Adobe [!DNL Stock] e Photoshop per iPad" src="assets/CompositePSiPad.jpg" />
+      <img alt="Creazione di composizioni univoche con Adobe [!DNL Stock] e Photoshop per iPad" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>Creazione di composizioni univoche con l'Adobe [!DNL Stock] e Photoshop per iPad</strong></a>
+    <a href="compositepsipad.md"><strong>Creazione di composizioni univoche con Adobe [!DNL Stock] e Photoshop per iPad</strong></a>
     </div>
     <em>Sfruttate la potenza di Photoshop. Scopri come utilizzare una delle tue applicazioni Creative Cloud preferite in modo completamente nuovo, con un'interfaccia touch riprogettata</em>
     <br>
@@ -466,7 +472,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="cinemagraphps.md"><strong>Creazione di cinemagraphs con Photoshop</strong></a>
     </div>
-    <em>In questo tutorial video del workshop dettagliato, puoi creare una fotografia dinamica combinando il video dell'Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop</em>
+    <em>In questo tutorial video del workshop dettagliato, puoi creare una fotografia vivente combinando il video di [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop</em>
     <br>
   </td>
   <td>
@@ -488,7 +494,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Creazione di cinematografiche in un attimo con Photoshop e Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Ricerca di video in ciclo continuo nell'Adobe [!DNL Stock] per assemblare rapidamente immagini cinematografiche accattivanti in Photoshop</em>
+    <em>Ricerca di video in ciclo continuo in Adobe [!DNL Stock] per assemblare rapidamente cinemagraphs accattivanti in Photoshop</em>
     <br>
   </td>
   <td>

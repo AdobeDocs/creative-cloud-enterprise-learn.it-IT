@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: Illuminazione 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -56,7 +61,7 @@ Le luci ambiente sono immagini equirettangolari (sferiche), che vengono avvolte 
 
 ![Esempi di luci ambiente costituite da foto, una scena di studio 3D e una scena 3D astratta](assets/Mastering3dlighting_5.jpg)
 
-Quando crei una nuova scena in [[!DNL Dimension]](https://www.adobe.com/it/products/dimension.html), verrà creata una luce ambiente predefinita. Ecco perché si è immediatamente in grado di vedere qualcosa nella scena. Adobe [!DNL Dimension] Le risorse iniziali includono un certo numero di luci ambiente, che puoi provare immediatamente. Inoltre, l&#39;[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) offre un&#39;ampia selezione di luci ambiente.
+Quando crei una nuova scena in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), verrà creata una luce ambiente predefinita. Ecco perché si è immediatamente in grado di vedere qualcosa nella scena. Le risorse per iniziare di Adobe [!DNL Dimension] includono un certo numero di luci ambiente, che puoi provare immediatamente. Inoltre, [l&#39;Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offre un&#39;ampia selezione di luci ambiente.
 
 Le luci ambiente producono risultati altamente realistici e consentono di risparmiare molto tempo. Per ottenere manualmente un risultato simile, dovreste creare l’intero ambiente in 3D (comprese le varie sorgenti luminose), operazione che rappresenta un’enorme quantità di lavoro.
 
@@ -110,7 +115,7 @@ Siamo in grado di emulare il cielo utilizzando le luci ambiente, e qualsiasi luc
 
 Se la luce ambiente presenta un cielo coperto, la proprietà Nuvolosità può essere utilizzata per soddisfare queste condizioni più da vicino.
 
-![Manipolazione delle proprietà di nuvolosità per la luce ambiente del cielo sul modello 3D di un&#39;auto nell&#39;Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
+![Manipolazione delle proprietà di nuvolosità per la luce ambiente del cielo sul modello 3D di un&#39;auto in Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
 Una volta associate la luce solare e la luce ambiente del cielo, puoi ruotarle insieme utilizzando la proprietà Rotazione globale.
 

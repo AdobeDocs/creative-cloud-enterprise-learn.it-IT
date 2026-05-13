@@ -1,14 +1,18 @@
 ---
 title: Miglioramento della progettazione del testo con Gen AI
-description: Scoprite come creare progetti di grande impatto utilizzando effetti di testo con tecnologia Adobe Firefly
+description: Scoprite come creare progetti di grande impatto utilizzando effetti di testo con tecnologia Adobi Firefly
 feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14847
 exl-id: 13ed15ce-adc3-453c-98c8-365319d4d985
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/f3IH3o6tPKEt5CMCOR7uukzFGkwLYbS5SWqygzP1vA8
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 116
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Scoprite come creare progetti di grande impatto utilizzando effetti di testo basati sull&#39;Adobe Firefly. Con un prompt di testo, puoi generare effetti di testo straordinari che puoi perfezionare e abbellire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438824?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

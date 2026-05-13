@@ -5,9 +5,14 @@ feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/0PshoR6CKo9T05CHOqVsoYiPpYqM-sfL7U-u5uCUy0w
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: 732
 ht-degree: 0%
 
 ---
@@ -123,7 +128,7 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Michael Murphy, Consulente Senior Solutions (Digital Media)
 
-## Creare e popolare una griglia di ripetizione (2:57) {#tutorial2}
+## Crea e popola una griglia di ripetizione (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
@@ -152,7 +157,7 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Michael Murphy, Consulente Senior Solutions (Digital Media)
 
-## Crea un prototipo - Collegamenti di ancoraggio e gruppi di scorrimento (9:55) {#tutorial4}
+## Crea un prototipo: collegamenti di ancoraggio e gruppi di scorrimento (9:55) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
@@ -196,7 +201,7 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Victoria Torres, consulente per le soluzioni (Digital Media)
 
-## E-mail - Lavorare con le pile (3:38) {#tutorial7}
+## E-mail: utilizzo delle pile (3:38) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
@@ -214,7 +219,7 @@ Victoria Torres, consulente per le soluzioni (Digital Media)
 
 **Risorse XD**
 
-[Informazioni e supporto](https://helpx.adobe.com/it/support/xd.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/xd.html) è il tuo hub per ulteriori esercitazioni, [Novità](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 

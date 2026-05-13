@@ -5,9 +5,14 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
@@ -27,7 +32,7 @@ I creativi sono sotto pressione per fornire rapidamente nuovi contenuti visivame
     <div>
    <a href="stock.md#tutorial1"><strong>Trova più rapidamente le risorse migliori con l'Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Trova l'immagine stock perfetta esente da royalty per migliorare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati su Adobe</em>
+    <em>Trova l'immagine stock perfetta esente da royalty per migliorare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati sull'intelligenza artificiale di Adobe</em>
     <br>
   </td>
   <td>
@@ -38,7 +43,7 @@ I creativi sono sotto pressione per fornire rapidamente nuovi contenuti visivame
    <a href="stock.md#tutorial2"><strong>Ricerca e licenza di [!DNL Stock] risorse in 
 Adobe Experience Manager</strong></a>
     </div>
-    Adobe <em>Semplificare il caricamento delle risorse di [!DNL Stock] con licenza nel sistema di gestione delle risorse digitali</em>
+    <em>Semplificare il caricamento delle risorse di [!DNL Stock] con licenza nel sistema di gestione delle risorse digitali</em>
     <br>
   </td>
   <td>
@@ -54,7 +59,7 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Descrizione**
-Trova l&#39;immagine stock perfetta esente da royalty per migliorare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati sull&#39;intelligenza artificiale Adobe.
+Trova l&#39;immagine stock perfetta esente da royalty per migliorare il tuo progetto creativo utilizzando risultati di ricerca migliori e più veloci basati sull&#39;intelligenza artificiale di Adobe.
 
 In questo tutorial imparerai come:
 
@@ -71,7 +76,7 @@ Victoria Torres, consulente per le soluzioni [!DNL Stock] (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Descrizione**
-Adobe Semplifica il caricamento delle risorse di [!DNL Stock] con licenza nel tuo sistema di gestione delle risorse digitali.
+Semplifica il caricamento delle risorse di [!DNL Stock] con licenza nel tuo sistema di gestione delle risorse digitali.
 
 In questo tutorial imparerai come:
 * Esegui la ricerca delle risorse di Adobe [!DNL Stock] senza uscire dall&#39;area di lavoro AEM
@@ -85,8 +90,8 @@ Logo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe di [!DNL Stock] risorse**
 
-[Informazioni e supporto](https://helpx.adobe.com/it/support/stock.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
+[Informazioni e supporto](https://helpx.adobe.com/support/stock.html) è il tuo hub per ulteriori esercitazioni e collegamenti ai forum della community.
 
 **Versione di ottobre 2020**
 
-Inizia a utilizzare queste funzioni (e molto altro!) scaricando l&#39;aggiornamento più recente dalla tua app desktop Creative Cloud.
+Inizia a utilizzare queste funzioni (e molto altro) scaricando l’aggiornamento più recente dall’app desktop Creative Cloud.

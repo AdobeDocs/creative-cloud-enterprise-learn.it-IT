@@ -6,9 +6,15 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42aid: b29e1156-4668-4c0c-84e3-9347e94225edid: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: 1212
 ht-degree: 0%
 
 ---
@@ -28,7 +34,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf" target="_blank"><strong>Creazione, modifica e condivisione di una pagina Web con Spark (PDF)</strong></a>
     </div>
-    <em>Crea una griglia fotografica interattiva, reattiva e abilitata per lightbox per la tua pagina Web utilizzando strumenti semplici e intuitivi in Adobe Spark e bellissime immagini dall'Adobe [!DNL Stock]</em>
+    <em>Crea una griglia di foto interattiva, reattiva e abilitata per lightbox per la tua pagina Web utilizzando strumenti semplici e intuitivi in Adobe Spark e bellissime immagini da Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -107,7 +113,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Adobe Fonts illimitato a portata di mano (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] font interessanti nel mondo reale utilizzando l'Adobe [!DNL Capture] sul dispositivo mobile, quindi identificare, attivare e salvare font simili utilizzando Adobe Fonts e Creative Cloud Libraries</em>
+    <em>[!DNL Capture] font interessanti nel mondo reale utilizzando Adobe [!DNL Capture] sul tuo dispositivo mobile, quindi identifica, attiva e salva font simili utilizzando Adobe Fonts e Creative Cloud Libraries</em>
     <br>
   </td>
    <td>
@@ -139,7 +145,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="Frescoworkshop.pdf" target="_blank"><strong>Prova il Fresco su iPad (e iPhone) (PDF)</strong></a>
     </div>
-    <em>Esplora un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresco in questo workshop pratico di 15 minuti</em>
+    <em>Esplora un mondo completamente nuovo di disegno e pittura digitale con Adobe Fresca in questo workshop pratico di 15 minuti</em>
     <br>
   </td>
   <td>
@@ -228,7 +234,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf" target="_blank"><strong>Creazione di Cinemagraphs con Photoshop (PDF)</strong></a>
     </div>
-    <em>Create una fotografia vivente combinando i video dell'Adobe [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop. Dai vita alle tue immagini con l'animazione e un punto di loop strategico</em>
+    <em>Crea una foto vivente combinando i video di [!DNL Stock] con tecniche di mascheratura intelligenti in Photoshop. Dai vita alle tue immagini con l'animazione e un punto di loop strategico</em>
     <br>
   </td>
   <td>
@@ -277,40 +283,40 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
-      <img alt="Crea grafica univoca combinando immagini Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Crea elementi grafici univoci combinando [!DNL Stock] immagini" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Crea grafica univoca combinando [!DNL Stock] immagini Adobi (PDF)</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Crea grafica univoca combinando [!DNL Stock] immagini (PDF) Adobe</strong></a>
     </div>
-    <em>Combinate le immagini dell'Adobe [!DNL Stock] per creare un'immagine completamente nuova per i vostri progetti di design</em>
+    <em>Combina insieme le immagini dell'Adobe [!DNL Stock] per creare un'immagine completamente nuova per i tuoi progetti di progettazione</em>
     <br>
   </td>
   <td>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank">
-      <img alt="Migliora il tuo Portfolio con progetti ed Adobi unici [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Migliora il tuo Portfolio con progetti ed Adobe esclusivi [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>Migliora il tuo Portfolio con progetti univoci e Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combinate le immagini dell'Adobe [!DNL Stock] per creare un'immagine completamente nuova per i vostri progetti di design</em>
+    <em>Combina insieme le immagini dell'Adobe [!DNL Stock] per creare un'immagine completamente nuova per i tuoi progetti di progettazione</em>
     <br>
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank">
-      <img alt="Maggiore attenzione con l&apos;animazione dall&apos;Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Maggiore attenzione con i movimenti da Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Richiamare l'attenzione con l'animazione dall'Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Ottieni maggiore attenzione con l'animazione dall'Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>[!DNL Capture] l'attenzione del pubblico, su qualsiasi schermo, combinando la fotografia con il video dell'Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank">
-      <img alt="Mostra i tuoi dati con l&apos;Adobe [!DNL Stock] modelli di grafica animata" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mostra i tuoi dati con gli Adobe [!DNL Stock] modelli di grafica animata" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank"><strong>Mostra i tuoi dati con l'Adobe [!DNL Stock] modelli di grafica animata (PDF)</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank"><strong>Mostra i tuoi dati con [!DNL Stock] modelli di grafica animata (PDF)</strong></a> di Adobe
     </div>
     <em>Rappresenta i tuoi dati in modo più influente aggiungendo movimento e progettazione con un modello di grafica animata dall'Adobe [!DNL Stock]</em>
     <br>
@@ -324,12 +330,12 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf" target="_blank"><strong>Mostra il tuo lavoro di progettazione nel mondo reale (PDF)</strong></a>
     </div>
-    <em>Scopri come utilizzare modelli del mondo reale per creare modelli di progettazione dall'Adobe [!DNL Stock]</em>
+    <em>Scopri come utilizzare modelli reali per il tuo lavoro di progettazione dall'Adobe [!DNL Stock]</em>
     <br>
   </td>
 <td>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank">
-      <img alt="Suggerimenti per la creazione di animazioni nelle e-mail con Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Suggerimenti per la creazione di animazioni tramite e-mail con Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Suggerimenti per la creazione di animazioni in e-mail con Adobe [!DNL Stock] (PDF)</strong></a>
@@ -356,12 +362,12 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank">
-      <img alt="Creazione di prototipi 3D realistici con Adobe [!DNL Stock] e [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Creazione di modelli 3D realistici con Adobe [!DNL Stock] e [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Creazione di modelli 3D realistici con Adobe [!DNL Stock] e [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Scopri come la tua progettazione si traduce in oggetti reali combinando i modelli 3D dell'Adobe [!DNL Stock] con decalcomanie personalizzate in [!DNL Dimension]</em>
+    <em>Scopri come la tua progettazione si traduce in oggetti reali combinando i modelli 3D di [!DNL Stock] con decalcomanie personalizzate in [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -465,7 +471,7 @@ In qualità di creativo aziendale, devi collaborare con team distribuiti, stabil
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>Progettazione e prototipazione di progetti interattivi con Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Crea un'esperienza utente completamente interattiva e animata in pochi minuti combinando Adobe XD con un'ampia gamma di risorse uniche e versatili sull'Adobe [!DNL Stock]</em>
+    <em>Crea un'esperienza utente completamente interattiva e animata in pochi minuti combinando Adobe XD con un'ampia gamma di risorse uniche e versatili in Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>

@@ -1,24 +1,30 @@
 ---
 title: Creare un modello personalizzato
-description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Scopri come addestrare i modelli personalizzati di Firefly. Ulteriori informazioni [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
+exl-id: a5719996-be82-4847-b5c2-2a5909ef43ea
+TQID: https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 211
 ht-degree: 0%
 
 ---
 
 # Creare un modello personalizzato
 
-Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti del marchio pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/it/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+Scopri come addestrare i modelli personalizzati in Firefly per creare nuove immagini per il marchio della tua organizzazione. I modelli personalizzati consentono di creare contenuti del marchio pertinenti e personalizzati su larga scala. Ulteriori informazioni sulla formazione dei modelli personalizzati [qui](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474939?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Che cosa sono i modelli personalizzati di Firefly
 

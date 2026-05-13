@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: fotografia virtuale, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2376'
+source-wordcount: 2406
 ht-degree: 0%
 
 ---
@@ -21,14 +26,14 @@ Guardando le immagini qui sopra, vi perdoneremo se tutto ciò che vedete è real
 
 ![Una scena de L&#39;abisso di James Cameron in cui Mary Mastrantonio si allunga per toccare il tentacolo d&#39;acqua CGI](assets/Photorealistic_2.jpg)
 
-Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobe [!DNL Dimension]](https://www.adobe.com/it/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
+Questa tecnica di composizione di modelli 3D in un’immagine o un video non è nuova e infatti le sue origini risalgono ai primi tempi del VFX (anni ’80). La novità è che ora è diventata uno strumento potente per gli utenti di [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) e offre ai fotografi un flusso di lavoro nuovo e interessante.
 
 
 ## Tecnologia per la creazione di immagini composite in Adobe [!DNL Dimension]
 
 ![Modifica del piano di un modello di sfera metallica in un Adobe [!DNL Dimension] composito](assets/Photorealistic_3.png)
 
-L&#39;Adobe [!DNL Dimension] ha consentito agli utenti di combinare in modo uniforme elementi 2D e 3D direttamente nell&#39;app utilizzando Adobe AI. Il vantaggio principale della composizione degli elementi in questo modo è che il turbo migliora il processo di creazione di un&#39;immagine realistica sostituendo una scena 3D completamente realizzata con un&#39;immagine di sfondo, che può essere acquisita dalla realtà.
+L&#39;Adobe [!DNL Dimension] ha consentito agli utenti di combinare in modo fluido elementi 2D e 3D direttamente nell&#39;app utilizzando l&#39;intelligenza artificiale di Adobe. Il vantaggio principale della composizione degli elementi in questo modo è che il turbo migliora il processo di creazione di un&#39;immagine realistica sostituendo una scena 3D completamente realizzata con un&#39;immagine di sfondo, che può essere acquisita dalla realtà.
 
 ![La funzione Come immagine nell&#39;Adobe [!DNL Dimension] analizza l&#39;immagine di sfondo e valuta la lunghezza focale e la posizione della fotocamera utilizzata per acquisirla](assets/Photorealistic_4.gif)
 
@@ -38,7 +43,7 @@ Ma cosa accade con tutto ciò che non è stato inquadrato dalla telecamera?  L&#
 
 ![Immagine composita fotorealistica 3D di un ciclomotore in un soggiorno](assets/Photorealistic_5.png)
 
-L’opzione Come immagine tenta di simulare l’ambiente di illuminazione in cui è stata scattata un’immagine di sfondo. Fa in breve tempo un ottimo lavoro con risultati eccellenti, ma acquisendo l&#39;ambiente insieme all&#39;immagine di sfondo si otterranno risultati ancora più realistici. Questo è anche il metodo usato per addestrare l&#39;Adobe.
+L’opzione Come immagine tenta di simulare l’ambiente di illuminazione in cui è stata scattata un’immagine di sfondo. Fa in breve tempo un ottimo lavoro con risultati eccellenti, ma acquisendo l&#39;ambiente insieme all&#39;immagine di sfondo si otterranno risultati ancora più realistici. Questo è anche il metodo utilizzato per addestrare l&#39;intelligenza artificiale di Adobe.
 
 ![Immagine panoramica HDR a 360 gradi di un ufficio](assets/Photorealistic_6.png)
 
@@ -58,7 +63,7 @@ Per acquisire efficacemente questi contenuti è importante sfruttare le capacit�
 
 ### Scelta di un percorso
 
-Cercate luoghi interessanti sia per il contesto che per l&#39;illuminazione. Considerando il contesto, può essere utile immaginare il potenziale uso di una scena. Ad esempio, si potrebbe aggiungere un’auto 3D alla foto di una strada vuota, oppure per [presentare l’imballaggio](https://www.adobe.com/it/products/dimension/packaging-design-mockup.html) di prodotti alimentari può essere utile un tavolo di un coffee shop.
+Cercate luoghi interessanti sia per il contesto che per l&#39;illuminazione. Considerando il contesto, può essere utile immaginare il potenziale uso di una scena. Ad esempio, si potrebbe aggiungere un’auto 3D alla foto di una strada vuota, oppure per [presentare l’imballaggio](https://www.adobe.com/products/dimension/packaging-design-mockup.html) di prodotti alimentari può essere utile un tavolo di un coffee shop.
 
 ![4 scene di location per una foto virtuale sono in contrasto con le stesse scene con una composizione 3D](assets/Photorealistic_8.png)
 
@@ -166,6 +171,6 @@ Una volta completata la scena, il flusso di lavoro è semplice. Trascina il tuo 
 
 ![Foto virtuale fotorealistica di elettrodomestici 3D composti in una scena sul piano di una cucina](assets/Photorealistic_25.png)
 
-Il risultato finale è una combinazione convincente di realtà e 3D che aiuta gli utenti finali a creare immagini fotorealistiche con il minimo sforzo. Prova anche tu con alcune [scene [!DNL Dimension]  gratuite create per dimostrare il flusso di lavoro.](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)
+Il risultato finale è una combinazione convincente di realtà e 3D che aiuta gli utenti finali a creare immagini fotorealistiche con il minimo sforzo. Prova anche tu con alcune [scene](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) gratuite create per dimostrare il flusso di lavoro. [!DNL Dimension] 
 
 [Scarica oggi stesso l&#39;ultima versione](https://creativecloud.adobe.com/apps/download/dimension) di [!DNL Dimension] e inizia a creare immagini fotorealistiche.
