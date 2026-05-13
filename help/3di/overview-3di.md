@@ -1,19 +1,27 @@
 ---
-title: Adobe di esercitazioni per 3D e VR
+title: Esercitazioni per Adobe 3D e VR
 description: Tutorials per aiutarti a ottenere l'aggiornamento rapido su Adobe 3D e VR
 feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: 311
 ht-degree: 0%
 
 ---
 
-# Adobe di esercitazioni per 3D e VR
+# Esercitazioni per Adobe 3D e VR
 
 Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e illuminazione di alta qualità. [!DNL Dimension] semplifica la creazione di visualizzazioni del marchio, illustrazioni, modelli di prodotti, progetti di packaging e altri lavori creativi. Seleziona un’immagine per visualizzare un’esercitazione.
 
@@ -31,7 +39,7 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e illu
   </td>
   <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Creazione di modelli 3D realistici con l&apos;Adobe [!DNL Stock] e [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Creazione di modelli 3D realistici con Adobe [!DNL Stock] e [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Creazione di modelli 3D realistici con Adobe [!DNL Stock] e [!DNL Dimension] (PDF)</strong></a>
@@ -56,7 +64,7 @@ Crea contenuti coinvolgenti in 3D più velocemente con modelli, materiali e illu
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualizza il prodotto in un ambiente realistico (PDF)</strong></a>
     </div>
-    <em>Quando vuoi vedere come appariranno i tuoi prodotti nel mondo reale, l'Adobe [!DNL Dimension] è la tua app di riferimento</em>
+    <em>Quando vuoi vedere come appariranno i tuoi prodotti nel mondo reale, Adobe [!DNL Dimension] è la tua app di riferimento</em>
     <br>
   </td>
 </tr>

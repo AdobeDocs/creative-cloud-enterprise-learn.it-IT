@@ -1,20 +1,32 @@
 ---
 title: Guide di riferimento rapide per i video
-description: Guide di riferimento rapide per aiutarti a conoscere i prodotti DVA di Adobe
+description: Guide di riferimento rapide per aiutarti a conoscere i prodotti Adobe DVA
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/a4JnOaqMtjSrfboXQ2V8QnZYXwa0wc0JSEmjsXMeM14
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: 506
 ht-degree: 1%
 
 ---
 
 # Guide di riferimento rapido video
 
-Dai vita alle tue idee con software e app Adobi per l&#39;editing video, la grafica animata, gli effetti visivi, l&#39;animazione e altro ancora. Selezionate un’immagine da scaricare o visualizzate un PDF della guida di riferimento rapido.
+Dai vita alle tue idee con software e app Adobe per l&#39;editing video, la grafica animata, gli effetti visivi, l&#39;animazione e altro ancora. Selezionate un’immagine da scaricare o visualizzate un PDF della guida di riferimento rapido.
 
 ## Adobe Audition
 
@@ -106,12 +118,12 @@ Dai vita alle tue idee con software e app Adobi per l&#39;editing video, la graf
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank">
-      <img alt="Crea un&apos;illustrazione da una foto di Adobe [!DNL Stock] con After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Crea un&apos;illustrazione da una foto [!DNL Stock] di Adobe con After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Creare un'illustrazione da una foto di Adobe [!DNL Stock] con After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Crea un'illustrazione da una foto di [!DNL Stock] Adobe con After Effects (PDF)</strong></a>
     </div>
-    <em>Combinate Tonalità/Saturazione e Livelli con gli effetti dei cartoni animati in After Effects per creare un'illustrazione stilizzata unica da una [!DNL Stock] foto Adobe</em>
+    <em>Combina Tonalità/Saturazione e Livelli con gli effetti Cartone animato in After Effects per creare un'illustrazione stilizzata unica da una foto [!DNL Stock] Adobe</em>
     <br>
   </td>
    <td>

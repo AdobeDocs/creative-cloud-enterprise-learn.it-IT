@@ -1,13 +1,25 @@
 ---
-title: "[!DNL Rush]"
+title: '[!DNL Rush]'
 description: Premiere [!DNL Rush] è la prima app di editing video per più dispositivi completa che consente di creare e condividere contenuti online in modo più semplice che mai
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/wnMrg715kEB-P7ae3MopL9Q5lL037-tpYHfY9u-zOHE
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 251
 ht-degree: 0%
 
 ---
@@ -27,7 +39,7 @@ Premiere [!DNL Rush] è la prima app di editing video per più dispositivi compl
     <div>
    <a href="rush.md#tutorial1"><strong>Creare un video per social media</strong></a>
     </div>
-    <em>L'Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e semplifica l'output professionale per i principianti</em>
+    <em>Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e semplifica l'output professionale per i principianti</em>
     <br>
   </td>
   <td>
@@ -43,12 +55,12 @@ Premiere [!DNL Rush] è la prima app di editing video per più dispositivi compl
 </tr>
 </table>
 
-## Creare un video sui social media (18:11) {#tutorial1}
+## Crea un video sui social media (18:11) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Descrizione**
-Racconta la tua storia utilizzando video e audio dall&#39;Adobe [!DNL Stock]. L&#39;Adobe [!DNL Rush] consente di lavorare su qualsiasi dispositivo e semplifica l&#39;output professionale per i principianti.
+Racconta la tua storia utilizzando video e audio dall&#39;Adobe [!DNL Stock]. Adobe [!DNL Rush] ti consente di lavorare su qualsiasi dispositivo e rende l&#39;output professionale abbastanza semplice per i principianti.
 
 In questo tutorial imparerai come:
 * Editing video fluido su desktop, tablet e telefono

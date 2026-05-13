@@ -5,16 +5,28 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/N68AN3n3lBaxQ3mlKPFSg6ZMIQFHroUaYZLtWCnkSN0
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: 378
 ht-degree: 0%
 
 ---
 
 # Plug-in di progettazione per la stampa - Personalizzare una maschera per volti
 
-Non sarebbe bello se potessi personalizzare una maschera per volti con i tuoi disegni? Con il plug-in Design to Print di Adobe, puoi visualizzare i tuoi progetti su centinaia di prodotti Zazzle e pubblicarli direttamente sul loro marketplace online.
+Non sarebbe bello se potessi personalizzare una maschera per volti con i tuoi disegni? Con il plug-in Adobe Design to Print, puoi visualizzare i tuoi progetti su centinaia di prodotti Zazzle e pubblicarli direttamente sul loro marketplace online.
 
 ## Sfoglia Tutorials progetto maschera a faccia
 
@@ -67,7 +79,7 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Patti Sokol, Consulente Principal Solutions (Digital Media)
 
-## Personalizzare una maschera viso con Design to Print (7:54) {#tutorial2}
+## Personalizzare una maschera volto con Design to Print (7:54) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
@@ -85,7 +97,7 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Patti Sokol, Consulente Principal Solutions (Digital Media)
 
-## Creare una visualizzazione 3D della maschera del volto (7:54) {#tutorial3}
+## Crea una visualizzazione 3D della maschera del volto (7:54) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 

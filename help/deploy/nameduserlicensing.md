@@ -1,14 +1,24 @@
 ---
 title: Numeri di serie in scadenza? Perché è il momento delle licenze nominative
-description: La concessione di licenze per i prodotti di Adobe tramite licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l’Admin Console e consente agli utenti finali di accedere ad app creative e di produttività di livello superiore e ai servizi Adobe Cloud, anche se l’intera forza lavoro è remota
+description: La concessione di licenze ai prodotti Adobe tramite licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti Adobe utilizzando l’Admin Console e consente agli utenti finali di accedere ad app creative e di produttività di livello superiore e ai servizi Adobe Cloud, anche se l’intera forza lavoro è remota
 role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 0%
+source-wordcount: 638
+ht-degree: 1%
 
 ---
 
@@ -16,9 +26,9 @@ ht-degree: 0%
 
 Nel clima attuale, la gestione IT ha dovuto passare rapidamente a un&#39;esperienza completamente digitale. Man mano che i team imparano a lavorare in modo produttivo da casa, cresce la necessità di disporre di strumenti che favoriscano la continuità aziendale. Queste sfide hanno un impatto su qualsiasi installazione IT su larga scala, soprattutto quando si tratta di gestire gli utenti in un ambiente di lavoro virtuale.
 
-La concessione di licenze per i prodotti di Adobe tramite licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l’Admin Console e consente agli utenti finali di accedere ad app creative e di produttività di livello superiore e ai servizi Adobe Cloud, anche se l’intera forza lavoro è remota.
+La concessione di licenze ai prodotti Adobe tramite licenze nominative (NUL) consente agli amministratori IT di distribuire e gestire facilmente gli strumenti di Adobe utilizzando l’Admin Console e consente agli utenti finali di accedere ad app creative e di produttività di livello superiore e ai servizi Adobe Cloud, anche se l’intera forza lavoro è remota.
 
-Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione serializzata per prodotti di Adobe, i numeri di serie potrebbero scadere a breve. Per evitare interruzioni del servizio, è importante pianificare la migrazione a NUL prima della scadenza dei numeri di serie.
+Se la tua organizzazione non è su NUL e sta ancora utilizzando la distribuzione serializzata per i prodotti Adobe, i numeri di serie potrebbero scadere a breve. Per evitare interruzioni del servizio, è importante pianificare la migrazione a NUL prima della scadenza dei numeri di serie.
 
 ## Informazioni sulle licenze nominative
 

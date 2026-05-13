@@ -5,9 +5,17 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
@@ -69,7 +77,7 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Acquisisci documenti in PDF dal tuo cellulare</strong></a>
     </div>
-    <em>Con Adobe Scan è possibile acquisire e convertire facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità</em>
+    <em>Con Adobe Scan è possibile acquisire e convertire facilmente documenti, moduli, biglietti da visita e lavagne in PDF di alta qualità</em>
     <br>
   </td>
   <td>
@@ -80,7 +88,7 @@ Con Adobe Document Cloud, che include le soluzioni leader a livello mondiale per
 </tr>
 </table>
 
-## Avvio di una revisione condivisa con Acrobat (3:49) {#tutorial1}
+## Avvio di una revisione condivisa di Acrobat (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -92,7 +100,7 @@ In questo tutorial imparerai come:
 * Raccogli i commenti in un unico luogo
 * I commenti simultanei incoraggiano la collaborazione
 
-**PDF di confronto opzioni Adobe revisione e commento**
+**Adobe PDF per il confronto delle opzioni di revisione e commento**
 
 [![Immagine di confronto](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -100,7 +108,7 @@ In questo tutorial imparerai come:
 Dan Armstrong, consulente per le soluzioni (Digital Media)
 Rick Borstein, Senior Manager Solution Consulting (Media Digitali)
 
-## Creazione di Forms di rinuncia online con Adobe Sign (5:19) {#tutorial2}
+## Creazione di un Forms online con Adobe Sign (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -144,15 +152,15 @@ In questo tutorial imparerai come:
 **Presentato da:**
 Emilie Enke, Consulente Soluzioni Associate (Media Digitali)
 
-## Acquisisci documenti in PDF da cellulare (5:53) {#tutorial5}
+## Acquisisci documenti in PDF dal tuo cellulare (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
 **Descrizione**
-Con Adobe Scan, acquisisci e converti facilmente documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità.
+Con Adobe Scan, acquisisci e converti facilmente documenti, moduli, biglietti da visita e lavagne in PDF di alta qualità.
 
 In questo tutorial imparerai come:
-* Usa il tuo cellulare per acquisire e convertire documenti, moduli, biglietti da visita e lavagne in PDF Adobi di alta qualità
+* Usa il tuo cellulare per acquisire e convertire documenti, moduli, biglietti da visita e lavagne in PDF di alta qualità
 * Identifica e rende più nitido il testo scritto a mano o stampato, eliminando gli elementi indesiderati, come riflessi e ombre
 * Apri il PDF scansionato in Acrobat Reader per creare note e commenti e rivederli con il tuo team
 

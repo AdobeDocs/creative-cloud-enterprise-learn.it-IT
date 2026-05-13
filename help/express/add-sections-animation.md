@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14836
 exl-id: 0483dabf-1d14-47f0-9835-8a018da04e38
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/iExg6ohh7SZjgF1SMLZmHFn22PBQBdpVM2RfbgysyCk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 Per ottimizzare l’animazione, aggiungi a un’animazione elementi come immagini e titoli. Scopri come aggiungere, duplicare, ridisporre o sostituire gli elementi di una scena mantenendo intatte le animazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433928?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3433928?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 
