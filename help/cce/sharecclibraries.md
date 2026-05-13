@@ -32,4 +32,4 @@ Scopri come creare, utilizzare e condividere risorse di branding per il tuo grup
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449196?captions=ita&hidetitle=true)

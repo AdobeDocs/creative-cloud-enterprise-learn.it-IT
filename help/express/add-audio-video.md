@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri come creare progetti coinvolgenti e memorabili aggiungendo l&#39;audio. Puoi caricare i tuoi file audio o scegliere tra audio stock esenti da royalty. Puoi anche registrare voci fuori campo e regolare il volume sia per l’audio che per le voci fuori campo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436856?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

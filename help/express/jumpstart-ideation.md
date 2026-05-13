@@ -30,4 +30,4 @@ Scopri come ottenere un vantaggio competitivo sullo sviluppo di contenuti creati
 
 Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446168?captions=ita&quality=12&learn=on&hidetitle=true)

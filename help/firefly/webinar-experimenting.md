@@ -30,4 +30,4 @@ Unisciti a Howard Pinsky in questo webinar mentre si immerge nel Firefly.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455542?captions=ita&quality=12&learn=on&hidetitle=true)

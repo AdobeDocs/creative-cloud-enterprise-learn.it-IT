@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Scopri come creare un nuovo progetto partendo da zero utilizzando una dimensione dell’area di lavoro specifica, ad esempio un post quadrato di Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441433?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

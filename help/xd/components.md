@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Scopri come utilizzare i [!UICONTROL componenti] per offrire una flessibilità senza precedenti per applicare sia velocità che coerenza al flusso di lavoro di progettazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410476?captions=ita&hidetitle=true)
 
 Fai clic sull’icona del file PDF per scaricare un PDF di questo tutorial.
 

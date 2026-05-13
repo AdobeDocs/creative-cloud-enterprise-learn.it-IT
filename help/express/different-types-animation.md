@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Scopri i tre diversi tipi di animazioni (intro, ciclo continuo e inverso) che puoi aggiungere ai tuoi progetti per renderli più coinvolgenti. Ogni animazione ha uno stile diverso che potete visualizzare in anteprima e selezionare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433950?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

@@ -30,4 +30,4 @@ Scopri come i team di marketing sul campo distribuiti possono personalizzare fac
 
 Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424391?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433994?captions=ita&quality=12&learn=on&hidetitle=true)

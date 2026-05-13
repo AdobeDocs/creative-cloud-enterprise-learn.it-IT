@@ -26,4 +26,4 @@ Scopri come creare testo unico e stimolante per i tuoi progetti utilizzando semp
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432212?captions=ita&quality=12&learn=on&hidetitle=true)

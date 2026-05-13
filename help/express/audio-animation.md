@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Scopri come creare progetti coinvolgenti e memorabili aggiungendo l&#39;audio, inclusi i file audio stock esenti da royalty disponibili con Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433917?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

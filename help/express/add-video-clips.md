@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri come creare video straordinari in modo semplice e veloce con la creazione di video tramite trascinamento. Inizia con i modelli o i tuoi progetti statici e aggiungi il tuo marchio, le risorse di progettazione, i video e la musica Adobe Stock e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436438?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

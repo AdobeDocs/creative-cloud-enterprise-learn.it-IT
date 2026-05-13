@@ -31,4 +31,4 @@ Scopri come accelerare la creazione di contenuti con strumenti generativi basati
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446245?captions=ita&quality=12&learn=on&hidetitle=true)

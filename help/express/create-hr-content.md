@@ -27,4 +27,4 @@ ht-degree: 4%
 
 Scopri come creare rapidamente contenuti HR multicanale coerenti con il marchio della tua organizzazione. La distribuzione rapida di contenuti multicanale permette di raggiungere più dipendenti con le comunicazioni, consentendo loro di essere sempre aggiornati sulle ultime novità. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434605?captions=ita&quality=12&learn=on&hidetitle=true)

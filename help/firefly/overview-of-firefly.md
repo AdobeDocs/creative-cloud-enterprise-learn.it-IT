@@ -30,4 +30,4 @@ Scopri cosa puoi creare con Adobi Firefly. Scopri come accelerare la creazione d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446179?captions=ita&quality=12&learn=on&hidetitle=true)

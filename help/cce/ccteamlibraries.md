@@ -32,4 +32,4 @@ Scopri come condividere le risorse in un gruppo o team utilizzando Creative Clou
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410397?captions=ita&hidetitle=true)

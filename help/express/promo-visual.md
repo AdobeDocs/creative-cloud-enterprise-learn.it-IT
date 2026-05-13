@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Scopri come creare immagini accattivanti per un corso di apprendimento online. Inizia creando un remix su uno dei migliaia di modelli progettati professionalmente. Quindi, aggiungete una foto e utilizzate tecniche di modifica per fonderla nella composizione prima di ridimensionare e fornire l’elemento visivo finale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433939?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Scoprite come utilizzare le griglie per creare collage di foto, mood board e poster accattivanti. Sono disponibili 40 diversi layout di griglia da personalizzare con le vostre immagini o foto Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3440000?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

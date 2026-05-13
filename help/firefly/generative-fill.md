@@ -30,4 +30,4 @@ Scoprite come utilizzare Generative Fill, basato sull&#39;Adobe Firefly, in Adob
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448542?captions=ita&quality=12&learn=on&hidetitle=true)
