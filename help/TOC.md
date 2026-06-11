@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -141,7 +141,7 @@ ht-degree: 6%
       + [Anima un&#39;illustrazione vettoriale Adobe [!DNL Stock] in Photoshop](stock/animatevector.md)
       + [Inizia il report annuale con un video creato con Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
       + [Dai vita alla creatività con animazioni personalizzate di Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Adobe Modifica i colori di un&#39;immagine  [!DNL Stock]  in base alla tua storia](stock/changecolors.md)
+      + [Modifica i colori di un&#39;immagine  [!DNL Stock]  in base alla tua storia](stock/changecolors.md)
       + [Crea un collage 3D per un poster utilizzando immagini Adobe [!DNL Stock] &#x200B;](stock/collage.md)
       + [Creazione di un&#39;etichetta in grassetto con i modelli di Adobe [!DNL Stock]  e gli oggetti avanzati di Photoshop](stock/boldlabel.md)
       + [Creazione di un&#39;infografica sulle linee guida aziendali con Adobe [!DNL Stock]](stock/infographic.md)
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [Panoramica](deploy/overview-deploy.md)
    + [Scadenza numero di serie](deploy/cceserial.md)
    + [Licenze nominative](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Panoramica](max/overview-max.md)
-   + Esercitazioni {#tutorials}
-      + [Panoramica](max/maxtutorials.md)
-      + Prodotti desktop {#desktop-products}
-         + [Acrobat e Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + App per dispositivi mobili {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator per iPad](max/illustratoripad.md)
-         + [Photoshop per iPad](max/photoshopipad.md)
-      + Integrazioni {#integrations}
-         + [AEM](max/aem.md)
-         + [App desktop Creative Cloud](max/creativeclouddesktopapp.md)
-         + [CC Libraries](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Amministrazione Enterprise](max/enterprise.md)
-      + Progetto pratico {#project}
-         + [Crea la tua maschera viso](max/handsonproject.md)
