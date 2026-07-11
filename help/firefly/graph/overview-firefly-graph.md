@@ -33,7 +33,7 @@ Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" title="Che cos’è il grafico a Firefly?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1c8848f3fe12b166eda2891db416bc533231107c8.png?width=400&format=webply&optimize=medium" alt="Che cos’è il grafico a Firefly?"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1c8848f3fe12b166eda2891db416bc533231107c8.png?width=400&format=webply&optimize=medium" alt="Che cos’è il grafico a Firefly?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" title="Concetti chiave del grafico del Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1241ec7a897ee7101ae8354ba98163a2bb9fee2fa.png?width=400&format=webply&optimize=medium" alt="Concetti chiave del grafico del Firefly"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1241ec7a897ee7101ae8354ba98163a2bb9fee2fa.png?width=400&format=webply&optimize=medium" alt="Concetti chiave del grafico del Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="Crea il tuo primo grafico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1522002b4ca9a5ead61abc2b0f367e873cc12c731.png?width=400&format=webply&optimize=medium" alt="Crea il tuo primo grafico"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1522002b4ca9a5ead61abc2b0f367e873cc12c731.png?width=400&format=webply&optimize=medium" alt="Crea il tuo primo grafico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +109,7 @@ Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="Personalizzare un modello" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1caebbd45d337e6a6ff699be8a27cf0ec94a0fe03.png?width=400&format=webply&optimize=medium" alt="Personalizzare un modello"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1caebbd45d337e6a6ff699be8a27cf0ec94a0fe03.png?width=400&format=webply&optimize=medium" alt="Personalizzare un modello"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,7 +139,7 @@ Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library" title="Libreria modelli di grafici Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1922dda5ae5fcff927ebe700a90487f6dc5a49fe7.png?width=400&format=webply&optimize=medium" alt="Libreria modelli di grafici Firefly"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1922dda5ae5fcff927ebe700a90487f6dc5a49fe7.png?width=400&format=webply&optimize=medium" alt="Libreria modelli di grafici Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
