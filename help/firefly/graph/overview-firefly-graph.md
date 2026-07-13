@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 2d9ac7a1afbf639af4ba701833fb26cf1f60ee85
+source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -78,7 +78,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="Libro digitale" src="../assets/graph-library.png" />
+      <img alt="Libro digitale" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Introduzione al grafico del Firefly</strong></a>
@@ -87,12 +87,12 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
     
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <img alt="Spaziatore" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
