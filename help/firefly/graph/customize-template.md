@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 3%
@@ -26,4 +26,4 @@ Ogni modello viene fornito con input di esempio e uno use case generico. Diventa
 
 ## Passaggio successivo
 
-Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.
+Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.
