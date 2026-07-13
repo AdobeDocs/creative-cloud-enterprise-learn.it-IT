@@ -1,5 +1,5 @@
 ---
-title: Personalizzare un modello
+title: ​4. Personalizzare un modello
 description: Un breve elenco di controllo per trasformare un modello di grafico a Firefly in un flusso di lavoro che riflette la tua descrizione e le tue risorse
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 3%
 
 ---
 
-# Personalizzare un modello
+# &#x200B;4. Personalizzare un modello
 
 Ogni modello viene fornito con input di esempio e uno use case generico. Diventa un flusso di lavoro che funziona per *te* solo una volta che riflette le tue informazioni, le risorse e i risultati.
 
@@ -26,4 +26,4 @@ Ogni modello viene fornito con input di esempio e uno use case generico. Diventa
 
 ## Passaggio successivo
 
-Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.
+Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.

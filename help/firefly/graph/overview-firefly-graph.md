@@ -7,155 +7,89 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 408d802611eeeb20f61f5b750289782300b2bc1e
+source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 2%
 
 ---
 
-# Panoramica di Adobe [!DNL Firefly Graph]
+# Introduzione a Firefly Graph
 
-Se hai già utilizzato uno strumento di intelligenza artificiale generativa, probabilmente sei abituato a digitare un messaggio, ottenere un risultato e ricominciare da zero la prossima volta che avrai bisogno di qualcosa di simile. Il grafico Firefly funziona in modo diverso. Invece di un singolo prompt, crei un grafico: un flusso di lavoro visivo passo dopo passo in cui ogni input, trasformazione e output è connesso e salvato insieme.
+Se hai già utilizzato uno strumento di intelligenza artificiale generativa, probabilmente sei abituato a digitare un messaggio, ottenere un risultato e ricominciare da zero la prossima volta che avrai bisogno di qualcosa di simile. Il grafico Firefly funziona in modo diverso. Invece di un singolo prompt, crei un grafico: un flusso di lavoro visivo passo dopo passo in cui ogni input, trasformazione e output è connesso e salvato insieme. Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tuo primo grafico: i concetti di base, un primo flusso di lavoro dettagliato e una libreria di modelli già pronti che puoi aprire e adattare immediatamente.
 
 >[!TIP]
 >
 >Pensatela come una ricetta invece di un singolo pasto. Una volta creato un grafico, puoi passarlo, rieseguirlo su nuovi input o modificare un passaggio e lasciare che tutto a valle si aggiorni automaticamente.
 
-Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tuo primo grafico: i concetti di base, un primo flusso di lavoro dettagliato e una libreria di modelli già pronti che puoi aprire e adattare immediatamente.
-
-## Nozioni di base
-
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Firefly Graph?">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" title="Che cos’è il grafico a Firefly?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1c8848f3fe12b166eda2891db416bc533231107c8.png?width=400&format=webply&optimize=medium" alt="Che cos’è il grafico a Firefly?"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" title="Che cos’è il grafico a Firefly?">Che cos'è il grafico Firefly?</a>
-                    </p>
-                    <p class="is-size-6">Scoprite come un grafico viene confrontato con un singolo prompt e perché rendere ogni passaggio visibile e riutilizzabile è importante</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esercitazione di lettura</span>
-                
-            </div>
-        </div>
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="what-is-firefly-graph.md">
+      <img alt="Barattolo di trucco" src="../assets/graph-1.png" />
+   </a>
+    <div>
+   <a href="what-is-firefly-graph.md"><strong>1. Che cos'è il grafico Firefly?</strong></a></div>
+    <em>Informazioni sul grafico del Firefly e sul confronto con un singolo prompt</em>
+    
+  </td>
+  <td>
+   <a href="key-concepts.md">
+      <img alt="Barattolo di trucco con sfondo" src="../assets/graph-2.png" />
+   </a>
+    <div>
+   <a href="key-concepts.md"><strong>2. Concetti chiave</strong></a></div>
+    <em>Informazioni su nodi, connessioni e modelli</em>
+    
+  </td>
+  <td>
+   <a href="create-your-first-graph.md">
+      <img alt="Nuovo sfondo del vaso di trucco" src="../assets/graph-3.png" />
+   </a>
+    <div>
+   <a href="create-your-first-graph.md"><strong>3. Crea il tuo primo grafico</strong></a></div>
+    <em>Procedura dettagliata per l'esportazione dall'area di lavoro</em>
+    
+  </td>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Sfondo differenza barattolo trucco" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>4. Personalizza un modello</strong></a></div>
+    <em>Crea un modello che rispecchi la tua idea di partenza</em>
+    
+  </td>
+</tr>
+<tr>
+ <td>
+   <a href="template-library.md">
+      <img alt="Barattolo di trucco con sfondo finale" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>5. Libreria modelli</strong></a></div>
+    <em>Sfoglia tutti i modelli, con una descrizione e un collegamento per ciascuno</em>
+    
+  </td>
+  <td>
+   <a href="introducing-graph.md">
+      <img alt="Scatola di cioccolato" src="../assets/graph-introducing.png" />
+   </a>
+    <div>
+   <a href="introducing-graph.md"><strong>Presentazione del webinar sul grafico di Firefly</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Firefly Graph Key Concepts">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" title="Concetti chiave del grafico del Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1241ec7a897ee7101ae8354ba98163a2bb9fee2fa.png?width=400&format=webply&optimize=medium" alt="Concetti chiave del grafico del Firefly"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" title="Concetti chiave del grafico del Firefly">Concetti chiave del grafico del Firefly</a>
-                    </p>
-                    <p class="is-size-6">Le quattro idee che coprono il modello mentale del grafico del Firefly: nodo, connessione, flusso di lavoro e modello</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esercitazione di lettura</span>
-                
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Crea il tuo primo grafico
-
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create your First Graph">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="Crea il tuo primo grafico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1522002b4ca9a5ead61abc2b0f367e873cc12c731.png?width=400&format=webply&optimize=medium" alt="Crea il tuo primo grafico"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" title="Crea il tuo primo grafico">Crea il tuo primo grafico</a>
-                    </p>
-                    <p class="is-size-6">Procedura dettagliata per creare il flusso di lavoro del primo grafico di Firefly, dall’area di lavoro vuota all’esportazione</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esercitazione di lettura</span>
-                
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Customize a Template">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="Personalizzare un modello" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1caebbd45d337e6a6ff699be8a27cf0ec94a0fe03.png?width=400&format=webply&optimize=medium" alt="Personalizzare un modello"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" title="Personalizzare un modello">Personalizzare un modello</a>
-                    </p>
-                    <p class="is-size-6">Un breve elenco di controllo per trasformare un modello di grafico a Firefly in un flusso di lavoro che riflette la tua descrizione e le tue risorse</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esercitazione di lettura</span>
-                
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Libreria di modelli
-
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Firefly Graph Template Library">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library" title="Libreria modelli di grafici Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/media_1922dda5ae5fcff927ebe700a90487f6dc5a49fe7.png?width=400&format=webply&optimize=medium" alt="Libreria modelli di grafici Firefly"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library" target="_blank" rel="referrer" title="Libreria modelli di grafici Firefly">Libreria modelli di grafici Firefly</a>
-                    </p>
-                    <p class="is-size-6">Sfoglia modelli predefiniti di grafici a Firefly che puoi aprire e adattare al tuo progetto</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esercitazione di lettura</span>
-                
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+    <em>In questo webinar, scopri tutto sul grafico del flusso di lavoro completamente visivo del Firefly</em>
+    
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
