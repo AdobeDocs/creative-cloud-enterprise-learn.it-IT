@@ -1,5 +1,5 @@
 ---
-title: Che cos'è  [!DNL Firefly Graph]?
+title: ​1. Che cos'è  [!DNL Firefly Graph]?
 description: Scoprite come un grafico viene confrontato con un singolo prompt e perché rendere ogni passaggio visibile e riutilizzabile è importante
 feature: Image Editing, Gen AI
 role: User
@@ -7,18 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
-# Che cos&#39;è [!DNL Firefly Graph]?
+# &#x200B;1. Che cos&#39;è [!DNL Firefly Graph]?
 
 La maggior parte degli strumenti di intelligenza artificiale generativa fornisce un output da un messaggio. Se la descrizione cambia, ricostruisci tutto a mano, e non c&#39;è niente da distribuire se non il file finale.
 
 Il grafico Firefly funziona in modo diverso. Anziché creare un singolo prompt, è possibile creare un **grafico**: un flusso di lavoro visivo e dettagliato in cui ogni input, trasformazione e output viene acquisito insieme. Modificate un passaggio e rieseguite il processo, senza ricostruire l&#39;intera catena. Ogni passaggio è un nodo visibile che il tuo team può ispezionare, regolare e distribuire intatti.
+
+![Schermata del grafico visivo](../assets/what-is-1.png)
 
 In breve, Graph non sostituisce il tuo processo creativo: trasforma quel processo in qualcosa che puoi vedere, riutilizzare e ridimensionare.
 
@@ -38,4 +40,4 @@ Questo è il cambiamento: lo stesso lavoro, ma ogni decisione del percorso è or
 
 ## Passaggio successivo
 
-Una volta acquisita dimestichezza con l&#39;idea, passate ai [concetti chiave: nodi, connessioni e modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) per imparare il vocabolario che utilizzerete per creare un grafico.
+Quando si è soddisfatti dell&#39;idea, passare a [2. Concetti chiave: nodi, connessioni e modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) per apprendere il vocabolario che utilizzerai per creare un grafico.

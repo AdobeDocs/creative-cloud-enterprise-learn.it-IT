@@ -1,5 +1,5 @@
 ---
-title: Crea il tuo primo grafico
+title: ​3. Crea il tuo primo grafico
 description: Procedura dettagliata per creare il flusso di lavoro del primo grafico di Firefly, dall’area di lavoro vuota all’esportazione
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Crea il tuo primo grafico
+# &#x200B;3. Crea il tuo primo grafico
 
 Una volta individuato il nodo, la connessione e il modello disponibili, è possibile creare il primo flusso di lavoro.
 
@@ -30,4 +30,4 @@ Se non sai da dove iniziare, apri uno dei modelli già pronti nella libreria dei
 
 ## Passaggio successivo
 
-Stai partendo da un modello? Passa a [Personalizza un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) per adattarlo alle tue esigenze.
+Stai partendo da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.

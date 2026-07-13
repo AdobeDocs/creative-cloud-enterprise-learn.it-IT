@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Barattolo di trucco" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Che cos'è il grafico Firefly?</strong></a>
-    </div>
-    <em>Confronto tra un grafico e un singolo prompt</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Che cos'è il grafico Firefly?</strong></a></div>
+    <em>Informazioni sul grafico del Firefly e sul confronto con un singolo prompt</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Barattolo di trucco con sfondo" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>Concetti chiave</strong></a>
-    </div>
-    <em>Nodi, connessioni e modelli</em>
+   <a href="key-concepts.md"><strong>2. Concetti chiave</strong></a></div>
+    <em>Informazioni su nodi, connessioni e modelli</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Nuovo sfondo del vaso di trucco" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>Crea il tuo primo grafico</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. Crea il tuo primo grafico</strong></a></div>
     <em>Procedura dettagliata in 5 passaggi dall'area di lavoro per l'esportazione</em>
     
   </td>
@@ -59,8 +56,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Sfondo differenza barattolo trucco" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>Personalizzare un modello</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. Personalizza un modello</strong></a></div>
     <em>Crea un modello che rispecchi la tua idea di partenza</em>
     
   </td>
@@ -71,8 +67,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Barattolo di trucco con sfondo finale" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>Libreria modelli</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. Libreria modelli</strong></a></div>
     <em>Sfoglia tutti i modelli, con una descrizione e un collegamento per ciascuno</em>
     
   </td>
