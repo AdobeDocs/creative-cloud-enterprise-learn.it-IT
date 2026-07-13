@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="Sfondo differenza barattolo trucco" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. Personalizza un modello</strong></a></div>
-    <em>Crea un modello che rispecchi la tua idea di partenza</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="Barattolo di trucco con sfondo finale" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. Libreria modelli</strong></a></div>
+   <a href="template-library.md"><strong>4. Libreria modelli</strong></a></div>
     <em>Sfoglia tutti i modelli, con una descrizione e un collegamento per ciascuno</em>
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Sfondo differenza barattolo trucco" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Personalizza un modello</strong></a></div>
+    <em>Crea un modello che rispecchi la tua idea di partenza</em>
     
   </td>
   <td>
