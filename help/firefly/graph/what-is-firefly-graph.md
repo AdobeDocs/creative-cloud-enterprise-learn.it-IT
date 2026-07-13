@@ -40,4 +40,4 @@ Questo è il cambiamento: lo stesso lavoro, ma ogni decisione del percorso è or
 
 ## Passaggio successivo
 
-Quando si è soddisfatti dell&#39;idea, passare a [2. Concetti chiave: nodi, connessioni e modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) per apprendere il vocabolario che utilizzerai per creare un grafico.
+Quando si è soddisfatti dell&#39;idea, passare a [2. Concetti chiave: nodi, connessioni e modelli](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) per apprendere il vocabolario che utilizzerai per creare un grafico.

@@ -38,4 +38,4 @@ Il grafico è flessibile in base alla progettazione. Questa flessibilità signif
 
 ## Passaggio successivo
 
-Sei pronto a costruire qualcosa? Passare a [3. Creare il primo grafico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) per una procedura dettagliata.
+Sei pronto a costruire qualcosa? Passare a [3. Creare il primo grafico](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) per una procedura dettagliata.

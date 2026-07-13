@@ -26,4 +26,4 @@ Ogni modello viene fornito con input di esempio e uno use case generico. Diventa
 
 ## Passaggio successivo
 
-Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.
+Non sei sicuro da quale modello iniziare? Sfoglia la [libreria modelli](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) per trovarne una vicina al tuo caso d&#39;uso.
