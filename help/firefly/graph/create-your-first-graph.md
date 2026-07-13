@@ -24,4 +24,4 @@ Una volta individuato il nodo, la connessione e il modello disponibili, è possi
 
 ## Passaggio successivo
 
-Intendete iniziare da un modello? Vai a [4. Libreria di modelli &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) per fare in modo che rifletta le tue istruzioni.
+Intendete iniziare da un modello? Vai a [4. Libreria di modelli &#x200B;](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) per fare in modo che rifletta le tue istruzioni.
