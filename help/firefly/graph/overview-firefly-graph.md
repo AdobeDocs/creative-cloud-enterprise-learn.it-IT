@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
+source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Vassoio di caramelle" src="../assets/graph-what-is.png" />
+      <img alt="Vassoio di caramelle" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Che cos'è il grafico Firefly?</strong></a>
@@ -36,7 +36,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-key-concepts.png" />
+      <img alt="Origami" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Concetti chiave</strong></a>
@@ -46,7 +46,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Barattolo di trucco" src="../assets/graph-first.png" />
+      <img alt="Barattolo di trucco" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Crea il tuo primo grafico</strong></a>
@@ -56,7 +56,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Api" src="../assets/graph-template.png" />
+      <img alt="Api" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Personalizzare un modello</strong></a>
@@ -68,7 +68,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Libro digitale" src="../assets/graph-library.png" />
+      <img alt="Libro digitale" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Libreria modelli</strong></a>
