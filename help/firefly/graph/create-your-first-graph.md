@@ -33,4 +33,4 @@ Questo è un nodo che consente di importare un elemento grafico.
 
 ## Passaggio successivo
 
-Stai partendo da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
+Stai partendo da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
