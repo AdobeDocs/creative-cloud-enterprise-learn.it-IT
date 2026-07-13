@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Vassoio di caramelle" src="../assets/graph-1.png" />
+      <img alt="Barattolo di trucco" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Che cos'è il grafico Firefly?</strong></a>
@@ -36,7 +36,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-2.png" />
+      <img alt="Barattolo di trucco con sfondo" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Concetti chiave</strong></a>
@@ -46,7 +46,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Barattolo di trucco" src="../assets/graph-3.png" />
+      <img alt="Nuovo sfondo del vaso di trucco" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Crea il tuo primo grafico</strong></a>
@@ -56,7 +56,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Api" src="../assets/graph-4.png" />
+      <img alt="Sfondo differenza barattolo trucco" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Personalizzare un modello</strong></a>
@@ -68,7 +68,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Libro digitale" src="../assets/graph-5.png" />
+      <img alt="Barattolo di trucco con sfondo finale" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Libreria modelli</strong></a>
