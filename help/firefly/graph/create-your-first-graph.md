@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 2%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
@@ -25,8 +25,10 @@ Esempi di file da seguire (ZIP, 1,45 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495918?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
 
 ## Passaggio successivo
 
-Intendete iniziare da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
+Intendete iniziare da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
