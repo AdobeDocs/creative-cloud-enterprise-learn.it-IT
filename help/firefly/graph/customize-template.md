@@ -24,4 +24,4 @@ Ogni modello viene fornito con input di esempio e uno use case generico. Diventa
 4. **Modificare una variabile e rieseguirla**, in modo da poter vedere esattamente cosa controlla quel passaggio.
 5. **Salvare la versione personalizzata con il proprio nome.**
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
