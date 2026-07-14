@@ -73,7 +73,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Crea il tuo primo grafico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Crea il tuo primo grafico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495918?captions=ita&quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Crea il tuo primo grafico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Presentazione del grafico del Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Presentazione del grafico del Firefly"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492628?captions=ita&quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Presentazione del grafico del Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
