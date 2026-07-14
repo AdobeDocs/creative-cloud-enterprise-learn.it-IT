@@ -1,24 +1,24 @@
 ---
 title: ​2. Concetti chiave del grafico del Firefly
-description: 'Le quattro idee che coprono il modello mentale del grafico del Firefly: nodo, connessione, flusso di lavoro e modello'
+description: Scopri i concetti chiave per iniziare a usare Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # &#x200B;2. Concetti chiave del grafico a Firefly
 
-Quattro idee coprono il modello mentale di cui hai bisogno per iniziare con Firefly Graph.
+Scopri i concetti chiave per iniziare a usare Firefly Graph.
 
-![Concetti chiave](../assets/concepts.png)
+![Concetti chiave](../assets/concepts.png){align="center"}
 
 ## Un nodo
 
@@ -38,6 +38,6 @@ Il grafico è flessibile in base alla progettazione. Questa flessibilità signif
 
 ## Passaggio successivo
 
-Sei pronto a costruire qualcosa? Passare a [3. Creare il primo grafico](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) per una procedura dettagliata.
+Sei pronto a costruire qualcosa? Passare a [3. Creare il primo grafico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) per una procedura dettagliata.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
