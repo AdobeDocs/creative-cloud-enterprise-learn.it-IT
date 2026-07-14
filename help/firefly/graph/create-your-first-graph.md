@@ -7,16 +7,21 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
 # &#x200B;3. Crea il tuo primo grafico
 
-Una volta individuato il nodo, la connessione e il modello disponibili, è possibile creare il primo flusso di lavoro.
+Una volta che sai cosa sono un nodo, una connessione e un modello, sei pronto per creare il tuo primo grafico.
+
+## Segui
+
+[![Ottieni file](../assets/Getfiles.svg)](../assets/createyourfirstgraph.zip)
+Esempi di file da seguire (ZIP, 1,45 MB)
 
 <br> 
 
@@ -24,4 +29,4 @@ Una volta individuato il nodo, la connessione e il modello disponibili, è possi
 
 ## Passaggio successivo
 
-Intendete iniziare da un modello? Vai a [4. Libreria di modelli &#x200B;](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) per fare in modo che rifletta le tue istruzioni.
+Intendete iniziare da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
