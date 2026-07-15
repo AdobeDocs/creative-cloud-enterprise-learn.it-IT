@@ -4,12 +4,12 @@ description: Scopri come condividere un grafico con altri
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ Scopri come condividere un grafico con altri. La condivisione di un grafico cons
 
    ![Accesso](../assets/share_3.png){align="center"}
 
-   Attiva Discoverable tramite la ricerca in modo che i membri possano trovare il grafico senza bisogno del collegamento.
-Un banner di conferma indica esattamente chi può visualizzare il grafico utilizzando il collegamento. Prima di inviare il collegamento, controlla questo dato. Si applica a tutti i futuri destinatari di tale collegamento, non solo alla prossima persona invitata.
+1. Attiva Discoverable tramite la ricerca in modo che i membri possano trovare il grafico senza bisogno del collegamento.
 
    ![Banner](../assets/share_4.png){align="center"}
+
+   Un banner di conferma indica esattamente chi può visualizzare il grafico utilizzando il collegamento. Prima di inviare il collegamento, controlla questo dato. Si applica a tutti i futuri destinatari di tale collegamento, non solo alla prossima persona invitata.
 
 1. Digita un indirizzo e-mail direttamente nel campo di invito per assegnare un accesso denominato a una persona, separatamente dall&#39;impostazione generale del collegamento. Selezionare la voce corrispondente dal suggerimento visualizzato sotto il campo.
 
@@ -55,6 +56,6 @@ Un banner di conferma indica esattamente chi può visualizzare il grafico utiliz
 
 ## Passaggio successivo
 
-Intendete iniziare da un modello? Vai a [5. Personalizzare un modello](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
+Intendete iniziare da un modello? Vai a [5. Personalizzare un modello](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
