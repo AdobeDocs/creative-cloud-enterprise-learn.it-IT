@@ -4,9 +4,9 @@ description: Scoprite come un grafico viene confrontato con un singolo prompt e 
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,7 +19,7 @@ La maggior parte degli strumenti di intelligenza artificiale generativa fornisce
 
 Il grafico Firefly funziona in modo diverso. Anziché creare un singolo prompt, è possibile creare un **grafico**: un flusso di lavoro visivo e dettagliato in cui ogni input, trasformazione e output viene acquisito insieme. Modificate un passaggio e rieseguite il processo, senza ricostruire l&#39;intera catena. Ogni passaggio è un nodo visibile che il tuo team può ispezionare, regolare e distribuire intatti.
 
-![Schermata del grafico visivo](../assets/what-is-1.png){align="center"}
+![Schermata del grafico visivo](../assets/graph.png){align="center"}
 
 In breve, Graph non sostituisce il tuo processo creativo: trasforma quel processo in qualcosa che puoi vedere, riutilizzare e ridimensionare.
 
