@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: a6de66734272da23c21087df4dbf46a7175d5e00
+source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 3%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -54,17 +54,27 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="Makeup jar sfondo diverso" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Personalizza un modello</strong></a>
+   <a href="share-a-graph.md"><strong>4. Condividi un grafico</strong></a>
     </div>
-    <em>Crea un modello che rispecchi la tua idea di partenza</em>
+    <em>Scopri come condividere un grafico con altri utenti</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Makeup jar sfondo diverso" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Personalizza un modello</strong></a>
+    </div>
+    <em>Crea un modello che rispecchi la tua idea di partenza</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="Scatola di cioccolato" src="../assets/graph-introducing.png" />
@@ -73,11 +83,6 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
    <a href="introducing-graph.md"><strong>Presentazione del webinar sul grafico di Firefly</strong></a>
     </div>
     <em>In questo webinar, scopri tutto sul grafico del flusso di lavoro completamente visivo del Firefly</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>

@@ -1,5 +1,5 @@
 ---
-title: ​4. Personalizzare un modello
+title: ​5. Personalizzare un modello
 description: Un breve elenco di controllo per trasformare un modello di grafico a Firefly in un flusso di lavoro che riflette la tua descrizione e le tue risorse
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
 
 ---
 
-# &#x200B;4. Personalizzare un modello
+# &#x200B;5. Personalizzare un modello
 
 Ogni modello viene fornito con input di esempio e uno use case generico. Diventa un flusso di lavoro che funziona per *te* solo una volta che riflette le tue informazioni, le risorse e i risultati.
 

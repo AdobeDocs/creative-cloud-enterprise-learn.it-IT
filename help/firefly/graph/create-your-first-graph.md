@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -29,6 +29,6 @@ Esempi di file da seguire (ZIP, 1,45 MB)
 
 ## Passaggio successivo
 
-Intendete iniziare da un modello? Vai a [4. Personalizzare un modello](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) in modo che rifletta le proprie istruzioni.
+Vai a [4. Condividi un grafico con altri](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) condividi il tuo grafico con altri utenti.
 
 Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
