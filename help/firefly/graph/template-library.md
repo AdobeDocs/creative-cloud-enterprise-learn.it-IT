@@ -25,4 +25,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Estrazione stile**](/help/firefly/graph/templates/style-extraction.md) — Feed in un&#39;immagine di riferimento approvata. Il nodo di stile estrae il colore, la luce e il trattamento della texture, quindi applica il trattamento a qualsiasi nuova immagine che attraversa lo stesso grafico.
 * [**Atmosfera al tramonto**](/help/firefly/graph/templates/sunset-vibes.md): scoprite come creare un’immagine tipografica 3D con la parola &quot;Atmosfera&quot; da un messaggio di testo. Il modello gestisce automaticamente il posizionamento e il bilanciamento del colore.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
