@@ -29,4 +29,4 @@ team fotografico in un luogo.
 * **Vendita al dettaglio** - Fondere un ritaglio di prodotto in uno sfondo di stile di vita stagionale per un banner della pagina principale.
 * **Viaggi**: crea uno sfondo di destinazione dietro un&#39;immagine di un prodotto per una promozione con marchio comune.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

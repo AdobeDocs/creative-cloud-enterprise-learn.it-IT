@@ -30,4 +30,4 @@ Scopri come inserire l’elemento grafico chiave approvato e un breve messaggio 
 * **Vendita al dettaglio** - Estendi una singola foto della campagna in un video di breve durata per i social.
 
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

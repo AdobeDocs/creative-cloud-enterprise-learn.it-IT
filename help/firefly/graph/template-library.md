@@ -36,4 +36,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Guida introduttiva - Generazione di video**](/help/firefly/graph/templates/get-started-video-gen.md) - Scopri come inserire nell&#39;immagine chiave approvata e in un breve messaggio animato. Il modello genera un taglio video creato sulla base della stessa grafica chiave, anziché un nuovo servizio.
 * [**Tempo punto elenco VFX**](/help/firefly/graph/templates/bullet-time-vfx.md): scoprite come alimentare un prodotto eroe o un’immagine del soggetto per generare una sequenza di angoli di rotazione attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

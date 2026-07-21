@@ -29,4 +29,4 @@ Scopri come caricare un’immagine di riferimento del personaggio, quindi scambi
 * **Vendita al dettaglio** - Mantieni un carattere a raggi con marchio su decine di foto di prodotti stagionali e post sui social.
 * **Istruzione** - Mantenere un personaggio istruttore animato coerente in ogni video di lezione di un corso.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
