@@ -1,5 +1,5 @@
 ---
-title: Libreria modelli di grafici Firefly
+title: Libreria modelli
 description: Sfoglia modelli predefiniti di grafici a Firefly che puoi aprire e adattare al tuo progetto
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Libreria di modelli di Firefly Graph
+# &#x200B;5. Libreria di modelli
 
-Ogni modello è un grafico completo che qualcuno ha già creato. Apritene uno per vedere esattamente come funziona, quindi personalizzalo scambiando i tuoi input.
+Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati in base a ciò che ciascuno di essi produce o fa. Ogni esempio è un punto di partenza: scambia il tuo marchio, il tuo prodotto e le tue richieste prima di utilizzare un modello in produzione.
 
-| Modello | Che cosa fa | Collegamento |
-|---|---|---|
-| **Generatore VFX in tempo elenco** | Genera sequenze VFX in stile punto elenco. | Apri modello |
-| **Generatore di sistemi di progettazione** | Creare risorse del sistema di progettazione riutilizzabili. | Apri modello |
-| **Generatore di storie di viaggio dell&#39;eroe** | Creare sequenze narrative e strutture narrative per storyboard o archi di campagne. | Apri modello |
-| **Ombreggiature e tratti pennello in tempo reale personalizzati** | Crea effetti shader e tratti pennello in tempo reale personalizzati. | Apri modello |
-| **Disegnare su un tornio 3D** | Convertire uno schizzo in una vista di rotazione 3D. | Apri modello |
-| **Correzione colore mirata** | Applicate la correzione del colore selettiva e localizzata in modo non distruttivo. | Apri modello |
-| **Foto Coerenti** | Genera un set coerente di headshot in un gruppo. | Apri modello |
-| **Ripresa fotografica editoriale + cambio abiti** | Crea un look editoriale da photoshoot con lo scambio di indumenti in una ripresa. | Apri modello |
+## Generazione e stile delle immagini
 
-## Passaggio successivo
-
-Non sei sicuro di quale modello si adatta al tuo progetto? Inizia con per i concetti fondamentali, quindi torna per aprire la corrispondenza più vicina.
+* [**Guida introduttiva - Generazione di un&#39;immagine**](/help/firefly/graph/templates/get-started-gen-image.md) - Grafico più semplice possibile: un nodo prompt in un nodo di generazione in un unico output. Usalo come primo modello da aprire con qualsiasi nuovo utente.
+* [**Generazione coerente dei personaggi**](/help/firefly/graph/templates/character-gen.md): carica un&#39;immagine di riferimento del personaggio, quindi scambia la scena o il prompt di posa per ogni nuova ripresa. Il riferimento al personaggio rimane bloccato mentre cambia la scena circostante.
+* [**Estrazione stile**](/help/firefly/graph/templates/style-extraction.md) — Inserimento in un&#39;immagine di riferimento approvata. Il nodo di stile estrae il colore, la luce e il trattamento della texture, quindi applica il trattamento a qualsiasi nuova immagine che attraversa lo stesso grafico.
+* [**Luci al tramonto**](/help/firefly/graph/templates/sunset-vibes.md): scoprite come creare un’immagine tipografica 3D con la parola &quot;Luce&quot; da un messaggio di testo. Il modello gestisce automaticamente il posizionamento e il bilanciamento del colore.

@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -66,11 +66,20 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
+   <a href="template-library.md">
+      <img alt="Barattolo di trucco in varianti" src="../assets/graph-templates.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>5. Libreria modelli</strong></a>
+    </div>
+    <em>Scopri tutto sui vari modelli</em>
+    <br>
+  </td>
+  <a href="customize-template.md">
       <img alt="Makeup jar sfondo diverso" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Personalizza un modello</strong></a>
+   <a href="customize-template.md"><strong>6. Personalizzare un modello</strong></a>
     </div>
     <em>Crea un modello che rispecchi la tua idea di partenza</em>
     <br>
@@ -83,11 +92,6 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
    <a href="introducing-graph.md"><strong>Presentazione del webinar sul grafico di Firefly</strong></a>
     </div>
     <em>In questo webinar, scopri tutto sul grafico del flusso di lavoro completamente visivo del Firefly</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
