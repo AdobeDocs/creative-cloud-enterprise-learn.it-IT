@@ -4,9 +4,9 @@ description: Scopri come creare un’immagine tipografica 3D con la parola "Vibr
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22099
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Scopri come creare un’immagine tipografica 3D con la parola &quot;Vibra&quot; 
 * **Bevande**: abbina uno slogan stagionale a uno sfondo di stile di vita caldo per una promozione estiva.
 * **Vendita al dettaglio** - Genera una risorsa in stile testo e sfondo per un annuncio di vendita flash.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,9 +4,9 @@ description: Scopri come mascherare un’area specifica che deve essere corretta
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22102
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Scopri come mascherare un’area specifica che deve essere corretta e come impos
 * **Vendita al dettaglio** - Standardizzare il colore del prodotto su un set di foto scattato con illuminazione incoerente.
 * **Finanza** - Correggere un colore del marchio irregolare in un batch di fotografie di marketing prima della pubblicazione.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

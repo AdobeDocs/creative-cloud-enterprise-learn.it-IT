@@ -4,9 +4,9 @@ description: Scoprite come generare un riferimento uniforme al personaggio quand
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Scopri come caricare un’immagine di riferimento del personaggio, quindi scambi
 * **Vendita al dettaglio** - Mantieni un carattere a raggi con marchio su decine di foto di prodotti stagionali e post sui social.
 * **Istruzione** - Mantenere un personaggio istruttore animato coerente in ogni video di lezione di un corso.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

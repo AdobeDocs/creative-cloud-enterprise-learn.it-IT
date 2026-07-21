@@ -4,9 +4,9 @@ description: Scoprite come alimentare un prodotto eroe o un'immagine del soggett
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22104
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,8 +15,7 @@ ht-degree: 1%
 
 # Tempo punto elenco VFX
 
-Scoprite come alimentare un prodotto eroe o un&#39;immagine del soggetto per generare una sequenza di rotazione di
-gli angoli attorno ad esso, quindi unire la sweep fermo fotogramma automaticamente. [Apri modello VFX ora punto elenco](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
+Scoprite come alimentare un prodotto eroe o un&#39;immagine del soggetto per generare una sequenza di angoli rotanti attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma. [Apri modello VFX ora punto elenco](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
 >[!TIP]
 >
@@ -30,4 +29,4 @@ gli angoli attorno ad esso, quindi unire la sweep fermo fotogramma automaticamen
 * **Vendita al dettaglio** - Crea un fermo immagine a 360 gradi di una nuova scarpa da ginnastica per una pagina di lancio del prodotto.
 * **Automotive** - Consente di generare una ripresa a rotazione di un veicolo per uno showroom digitale, senza una sessione di studio girevole.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

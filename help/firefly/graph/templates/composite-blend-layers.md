@@ -3,9 +3,9 @@ title: Livelli compositi e di fusione
 description: Scopri come impilare un ritaglio di prodotto e una scena di sfondo come input di livello separati
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ team fotografico in un luogo.
 * **Vendita al dettaglio** - Fondere un ritaglio di prodotto in uno sfondo di stile di vita stagionale per un banner della pagina principale.
 * **Viaggi**: crea uno sfondo di destinazione dietro un&#39;immagine di un prodotto per una promozione con marchio comune.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

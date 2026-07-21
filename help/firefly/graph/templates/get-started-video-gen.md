@@ -4,9 +4,9 @@ description: Scopri come inserire l’elemento grafico chiave approvato e un bre
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22103
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Scopri come inserire l’elemento grafico chiave approvato e un breve messaggio 
 * **Vendita al dettaglio** - Estendi una singola foto della campagna in un video di breve durata per i social.
 
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

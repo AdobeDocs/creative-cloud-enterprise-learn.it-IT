@@ -4,9 +4,9 @@ description: Scoprite come applicare lo stile da un'immagine di riferimento a qu
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Scoprite come alimentare un’immagine di riferimento per estrarne colore, luce 
 * **Vendita al dettaglio** - Estrai l&#39;aspetto approvato di un direttore artistico da uno scatto eroe e applicalo alle fotografie di prodotti di un&#39;intera stagione.
 * **Bevande** - I nuovi imballaggi si adattano all&#39;atmosfera di una foto pluripremiata della campagna.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
