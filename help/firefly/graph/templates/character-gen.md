@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # Generazione dei caratteri coerente
 
-Scoprite come generare un riferimento uniforme al personaggio mentre cambia la scena circostante. [Aprire il modello di generazione dei caratteri coerente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Scopri come caricare un’immagine di riferimento del personaggio, quindi scambia la scena o il prompt della posa per ogni nuova ripresa. [Aprire il modello di generazione dei caratteri coerente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Scoprite come generare un riferimento uniforme al personaggio mentre cambia la s
 * **Vendita al dettaglio** - Mantieni un carattere a raggi con marchio su decine di foto di prodotti stagionali e post sui social.
 * **Istruzione** - Mantenere un personaggio istruttore animato coerente in ogni video di lezione di un corso.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
