@@ -29,4 +29,4 @@ Scoprite come alimentare un prodotto eroe o un&#39;immagine del soggetto per gen
 * **Vendita al dettaglio** - Crea un fermo immagine a 360 gradi di una nuova scarpa da ginnastica per una pagina di lancio del prodotto.
 * **Automotive** - Consente di generare una ripresa a rotazione di un veicolo per uno showroom digitale, senza una sessione di studio girevole.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

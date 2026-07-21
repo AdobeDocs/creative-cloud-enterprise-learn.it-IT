@@ -29,4 +29,4 @@ Scopri come creare un’immagine tipografica 3D con la parola &quot;Vibra&quot; 
 * **Bevande**: abbina uno slogan stagionale a uno sfondo di stile di vita caldo per una promozione estiva.
 * **Vendita al dettaglio** - Genera una risorsa in stile testo e sfondo per un annuncio di vendita flash.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

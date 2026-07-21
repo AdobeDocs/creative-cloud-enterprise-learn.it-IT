@@ -30,4 +30,4 @@ Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione 
 * **Istruzione** - Creare una prima immagine di esempio per illustrare il grafico ai nuovi membri del team prima di assegnare il lavoro effettivo al progetto.
 
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

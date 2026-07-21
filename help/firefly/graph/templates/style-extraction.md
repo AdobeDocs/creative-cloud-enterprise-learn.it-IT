@@ -29,4 +29,4 @@ Scoprite come alimentare un’immagine di riferimento per estrarne colore, luce 
 * **Vendita al dettaglio** - Estrai l&#39;aspetto approvato di un direttore artistico da uno scatto eroe e applicalo alle fotografie di prodotti di un&#39;intera stagione.
 * **Bevande** - I nuovi imballaggi si adattano all&#39;atmosfera di una foto pluripremiata della campagna.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
