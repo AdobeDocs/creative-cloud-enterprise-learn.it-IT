@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Scopri come visualizzare decalcomanie o loghi sui modelli di prodotti. La masche
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-![Applica decalcomania alle superfici](../../assets/apply-decal.png){align="center"}
-
 [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **All&#39;aperto** - Applicate una decalcomania per logo aggiornata su una linea completa di prototipi di ingranaggi per visualizzare in anteprima un rebrand prima di ordinare gli strumenti di produzione.
 * **Automotive** - Visualizza in anteprima una nuova livrea o decalcomania in un modello di veicolo prima di completare la produzione.
 * **Vendita al dettaglio** - Prima dell’approvazione di stampa, verifica la posizione di un nuovo logo su una linea di modelli di abbigliamento completa.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Applica decalcomania alle superfici](../../assets/apply-decal.png){align="center"}
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 1%
@@ -22,12 +22,12 @@ e ritagliare l&#39;intero set in un&#39;unica sequenza. [Aprire il modello di ge
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-![Generazione di foto](../../assets/headshots-generation.png){align="center"}
-
 [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Tecnologia** - Genera un set di headshot coerente per la directory aggiornata dei dipendenti in anticipo rispetto a tutti i dipendenti, senza pianificare un fotografo per ogni nuovo assunto.
 * **Finanza** - Normalizza gli headshot in un team di consulenti per una pagina di incontro con il team.
 * **Salute** - Standardizzazione degli headshot del personale in più sedi cliniche per un aspetto unificato del sito Web.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Generazione di foto](../../assets/headshots-generation.png){align="center"}
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

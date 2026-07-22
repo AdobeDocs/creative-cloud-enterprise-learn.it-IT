@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Scopri come inserire un riferimento a un carattere o a una mascotte e come esegu
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-![Progettazione di giocattoli in vinile](../../assets/vinyl-toy-design.png){align="center"}
-
 [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Vendita al dettaglio** - Progettare una versione limitata collezionabile associata all&#39;avvio di un programma fedeltà, rivisto come concetto prima di eseguire un&#39;esecuzione di produzione.
 * **Bevande**: prendi in giro una figura collezionabile di una mascotte di un marchio per un rilascio di merce a tiratura limitata.
 * **Intrattenimento** - Visualizza in anteprima un personaggio sotto forma di giocattolo in vinile per un kit di licenza.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Progettazione di giocattoli in vinile](../../assets/vinyl-toy-design.png){align="center"}
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

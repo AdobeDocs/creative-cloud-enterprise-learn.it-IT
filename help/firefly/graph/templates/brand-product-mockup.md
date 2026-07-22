@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Scopri come visualizzare il prodotto in diverse scene. Trascina una foto o un re
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-![Modello di prodotto per il branding](../../assets/brand-mockup.png){align="center"}
-
 [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Vendita al dettaglio** - Crea una nuova linea di prodotti stagionali all&#39;interno di una scena di visualizzazione in negozio con marchio, prima che esista la visualizzazione fisica.
 * **Bevande** - Visualizza in anteprima una nuova progettazione di bottiglie all&#39;interno di una scena di raffreddamento per la vendita al dettaglio completamente personalizzata prima della produzione.
 * **Tech** - Crea una nuova periferica all&#39;interno di una scena di scaffale per un lancio.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Modello di prodotto per il branding](../../assets/brand-mockup.png){align="center"}
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
