@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 
 ## Modelli di prodotti e marchi
 
-* [**Visualizzazione del branding**](/help/firefly/graph/templates/branding-visualization.md): in questo modello di grafico scopri come visualizzare le scene di prodotto. Feed in linee guida del marchio o un logo e una tavolozza di colori e il grafico genera sia grafica statica chiave e un passaggio di breve movimento in un&#39;unica esecuzione, in modo che entrambi i formati rimangano visivamente allineati.
+* [**Visualizzazione del marchio**](/help/firefly/graph/templates/branding-visualization.md): in questo modello di grafico impara a visualizzare il logo o il marchio nelle scene di prodotto. Feed in linee guida del marchio o un logo e una tavolozza di colori e il grafico genera sia grafica statica chiave e un passaggio di breve movimento in un&#39;unica esecuzione, in modo che entrambi i formati rimangano visivamente allineati.
 * [**Modello di prodotto del marchio**](/help/firefly/graph/templates/brand-product-mockup.md): in questo modello di grafico scopri come visualizzare il prodotto in diverse scene. Puoi inserire una foto o un rendering del prodotto nel nodo del modello e il grafico lo inserisce all’interno di una scena con marchio completo, in cui illuminazione e ombre corrispondono automaticamente alla scena.
 * [**Photoshop editoriale**](/help/firefly/graph/templates/editorial-photoshoot.md): in questo modello di grafico carichi un riferimento al modello e scambia l’input dell’indumento per ogni nuovo aspetto. I nodi di posizione e illuminazione rimangono bloccati sul set per un&#39;atmosfera editoriale uniforme.
 * [**Studio fotografico**](/help/firefly/graph/templates/photography-studio.md): in questo modello di grafico inserisci il rendering di un prodotto sullo sfondo dello studio e regola l’illuminazione finché il risultato non assume l’aspetto di una vera e propria acquisizione da studio.
@@ -61,4 +61,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Generatore di sistemi di progettazione**](/help/firefly/graph/templates/design-system-generator.md): in questo modello di grafico viene generato un sistema di progettazione basato sulla schermata di un sito Web. Il grafico produce un insieme corrispondente di icone, pattern e componenti di layout in una singola esecuzione batch.
 * [**Generazione di headshots**](/help/firefly/graph/templates/headshots-generation.md): in questo modello di grafico si armonizza un batch di headshot aziendali. Caricate le foto sorgente, una a persona, e il grafico normalizza l’illuminazione, lo sfondo e il ritaglio sull’intero set in un’unica sequenza.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
