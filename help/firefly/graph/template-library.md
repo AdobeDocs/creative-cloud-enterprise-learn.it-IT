@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,16 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Guida introduttiva - Generazione di video**](/help/firefly/graph/templates/get-started-video-gen.md) - In questo modello di grafico viene inserito un elemento grafico a chiave fissa approvato e un breve prompt di animazione. Il modello genera un taglio video creato sulla base della stessa grafica chiave, anziché un nuovo servizio.
 * [**Tempo punto elenco VFX**](/help/firefly/graph/templates/bullet-time-vfx.md): in questo modello di grafico, inserisci un prodotto eroe o un’immagine del soggetto per generare una sequenza di angoli di rotazione attorno ad esso, quindi unisci automaticamente lo sweep di fermo fotogramma.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+## Storyboard
+
+* [**Da testo a storyboard**](/help/firefly/graph/templates/text-to-storyboard.md): in questo modello di grafico i nodi di input di testo vengono sostituiti con elementi del brano. Ogni riga diventa un proprio frame di storyboard, generato in sequenza e disposto per la revisione come un singolo set di pannelli.
+* [**Generatore storyboard**](/help/firefly/graph/templates/storyboard-builder.md): in questo modello di grafico si crea uno storyboard scena per scena, aggiungendo un nodo per battuta del commento. Riordinate i nodi per provare una sequenza diversa prima di bloccare l&#39;ordine finale del pannello.
+
+## 3D e carattere
+
+* [**Shader in tempo reale**](/help/firefly/graph/templates/real-time-shaders.md): in questo modello di grafico si inizia con un&#39;immagine, si applicano tre diversi shader personalizzati e si visualizza in anteprima il risultato in tempo reale. Regolate i parametri dello shader direttamente sul nodo, invece di eseguire nuovamente il rendering da zero.
+* [**Generazione del modello di carattere**](/help/firefly/graph/templates/character-model-generation.md): in questo modello di grafico crei uno stile animato 3D di un&#39;illustrazione. Il modello genera un passaggio del modello 3D di base pronto per essere consegnato a un modeler per la pulizia, anziché partire da una scena vuota.
+* [**Progettazione di giocattoli in vinile**](/help/firefly/graph/templates/vinyl-toy-design.md): in questo modello di grafico inserisci un riferimento a un carattere o a una mascotte ed esegui il rendering in un giocattolo in vinile stilizzato. Sono disponibili angoli di rotazione per un deck di licenza o di revisione del prodotto.
+* [**Disegna per trasformare in 3D**](/help/firefly/graph/templates/sketch-to-3d.md): in questo modello di grafico puoi trasformare uno schizzo in un carattere 3D. Il grafico ne crea un risultato 3D rotante, pronto per una revisione del progetto interno prima di qualsiasi prototipo fisico.
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
