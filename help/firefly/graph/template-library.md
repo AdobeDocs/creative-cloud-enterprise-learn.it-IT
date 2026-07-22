@@ -48,4 +48,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Progettazione di giocattoli in vinile**](/help/firefly/graph/templates/vinyl-toy-design.md): in questo modello di grafico inserisci un riferimento a un carattere o a una mascotte ed esegui il rendering in un giocattolo in vinile stilizzato. Sono disponibili angoli di rotazione per un deck di licenza o di revisione del prodotto.
 * [**Disegna per trasformare in 3D**](/help/firefly/graph/templates/sketch-to-3d.md): in questo modello di grafico puoi trasformare uno schizzo in un carattere 3D. Il grafico ne crea un risultato 3D rotante, pronto per una revisione del progetto interno prima di qualsiasi prototipo fisico.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

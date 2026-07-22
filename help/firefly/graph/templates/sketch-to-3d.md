@@ -29,4 +29,4 @@ Scopri come trasformare uno schizzo in un personaggio 3D. Il grafico ne crea un 
 * **Automotive** - Visualizza uno schizzo concettuale di un veicolo iniziale come un&#39;inversione 3D a rotazione per la revisione interna.
 * **Intrattenimento** - Trasforma uno schizzo del concetto di personaggio in un&#39;inversione 3D per un intonazione.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

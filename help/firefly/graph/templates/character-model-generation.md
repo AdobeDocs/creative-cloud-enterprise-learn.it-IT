@@ -29,4 +29,4 @@ Scoprite come creare uno stile 3D animato di un&#39;illustrazione. Il modello ge
 * **Tech** - Genera un modello di carattere 3D di base da una descrizione scritta, pronto per essere inviato a un modeler per la pulizia.
 * **Istruzione** - Crea un modello di carattere per istruttori 3D da utilizzare nelle lezioni video di un corso.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

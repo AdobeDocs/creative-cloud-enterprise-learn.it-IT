@@ -29,4 +29,4 @@ Scoprite come generare uno storyboard da uno script o da una shot list. Ogni rig
 * **Vendita al dettaglio** - Storyboard di un video di lancio del prodotto direttamente dalla descrizione della campagna, prima della prenotazione di un regista.
 * **Tech** - Storyboard e video tutorial da uno script di funzionalità per allineare gli stakeholder prima dell&#39;inizio dell&#39;animazione.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

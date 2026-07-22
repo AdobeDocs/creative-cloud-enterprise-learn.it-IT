@@ -29,4 +29,4 @@ Scoprite come iniziare con un’immagine e applicare tre diversi shader personal
 * **Automotive** - Visualizza in anteprima colori personalizzati e ombreggiatori di materiale su un modello di veicolo prima dell&#39;esistenza di un prototipo fisico.
 * **Vendita al dettaglio** - Prova i look di materiale stilizzato sul rendering di un prodotto 3D per una visualizzazione su scaffale digitale.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
