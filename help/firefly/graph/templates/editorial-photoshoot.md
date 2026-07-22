@@ -29,4 +29,4 @@ Scopri come inserire un riferimento a un modello e scambiare l’input dell’in
 * **Bellezza**: crea una serie editoriale coerente su più look di prodotti utilizzando un riferimento di modello.
 * **All&#39;aperto** - Genera un set editoriale completo su una nuova gamma di colori della giacca da uno shooting a modello singolo.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

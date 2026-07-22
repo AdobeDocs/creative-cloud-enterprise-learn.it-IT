@@ -29,4 +29,4 @@ Scopri come visualizzare decalcomanie o loghi sui modelli di prodotti. La masche
 * **Automotive** - Visualizza in anteprima una nuova livrea o decalcomania in un modello di veicolo prima di completare la produzione.
 * **Vendita al dettaglio** - Prima dell’approvazione di stampa, verifica la posizione di un nuovo logo su una linea di modelli di abbigliamento completa.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

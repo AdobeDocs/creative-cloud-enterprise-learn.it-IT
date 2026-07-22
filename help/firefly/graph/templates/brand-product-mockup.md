@@ -29,4 +29,4 @@ Scopri come visualizzare il prodotto in diverse scene. Trascina una foto o un re
 * **Bevande** - Visualizza in anteprima una nuova progettazione di bottiglie all&#39;interno di una scena di raffreddamento per la vendita al dettaglio completamente personalizzata prima della produzione.
 * **Tech** - Crea una nuova periferica all&#39;interno di una scena di scaffale per un lancio.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

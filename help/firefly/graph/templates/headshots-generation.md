@@ -30,4 +30,4 @@ e ritagliare l&#39;intero set in un&#39;unica sequenza. [Aprire il modello di ge
 * **Finanza** - Normalizza gli headshot in un team di consulenti per una pagina di incontro con il team.
 * **Salute** - Standardizzazione degli headshot del personale in più sedi cliniche per un aspetto unificato del sito Web.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

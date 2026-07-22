@@ -29,4 +29,4 @@ Scoprite come posizionare il rendering di un prodotto sul nodo di sfondo dello s
 * **Tech** - Crea rendering di qualità da studio di un nuovo dispositivo per una pagina di avvio prima che le unità siano disponibili per la fotografia.
 * **Vendita al dettaglio** - Crea foto da studio coerenti su un&#39;intera linea di prodotti senza prenotare singole sessioni di fotografia.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

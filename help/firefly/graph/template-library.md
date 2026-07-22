@@ -61,4 +61,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Generatore di sistemi di progettazione**](/help/firefly/graph/templates/design-system-generator.md): in questo modello di grafico viene generato un sistema di progettazione basato sulla schermata di un sito Web. Il grafico produce un insieme corrispondente di icone, pattern e componenti di layout in una singola esecuzione batch.
 * [**Generazione di headshots**](/help/firefly/graph/templates/headshots-generation.md): in questo modello di grafico si armonizza un batch di headshot aziendali. Caricate le foto sorgente, una a persona, e il grafico normalizza l’illuminazione, lo sfondo e il ritaglio sull’intero set in un’unica sequenza.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Scopri come visualizzare il tuo logo in scene di prodotti. Feed in linee guida d
 * **Bevande**: verifica tre logo e tre direzioni della tavolozza di colori come elementi chiave dall&#39;aspetto finito prima di sceglierne uno per passare alla produzione.
 * **Finanza** - Visualizza in anteprima una nuova carta o un&#39;identità dell&#39;app come elementi visivi con marchio prima che raggiunga una revisione della progettazione.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

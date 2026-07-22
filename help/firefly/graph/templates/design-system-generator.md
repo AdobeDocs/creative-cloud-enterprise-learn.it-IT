@@ -29,4 +29,4 @@ Scoprite come generare un sistema di progettazione basato sulla schermata di un 
 * **Finanza** - Crea un&#39;icona e un sistema di colori coerenti per una nuova progettazione dell&#39;app prima dell&#39;inizio dello sviluppo.
 * **Comunicazioni e telecomunicazioni** - Generazione di un linguaggio visivo per un nuovo livello del piano nella segnaletica per il Web e nel punto vendita.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
