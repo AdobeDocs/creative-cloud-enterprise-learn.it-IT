@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 ## Generazione e stile delle immagini
 
 * [**Guida introduttiva - Genera un&#39;immagine**](/help/firefly/graph/templates/get-started-gen-image.md) - Questo modello è un grafico di base: un nodo prompt in un nodo di generazione in un unico output. Usalo come primo modello da aprire con qualsiasi nuovo utente.
-* [**Generazione coerente dei caratteri**](/help/firefly/graph/templates/character-gen.md): nel modello di grafico carichi un’immagine di riferimento di un personaggio, quindi scambia la scena o il prompt della posa per ogni nuova ripresa. Il riferimento al personaggio rimane bloccato mentre cambia la scena circostante.
+* [**Generazione coerente dei caratteri**](/help/firefly/graph/templates/character-gen.md): in questo modello di grafico carichi un’immagine di riferimento di un personaggio, quindi scambia la scena o il prompt della posa per ogni nuova ripresa. Il riferimento al personaggio rimane bloccato mentre cambia la scena circostante.
 * [**Estrazione dello stile**](/help/firefly/graph/templates/style-extraction.md): in questo modello di grafico viene inserita un’immagine di riferimento per estrarne il trattamento di colore, luce e texture. Potete quindi applicare quel trattamento a qualsiasi nuova immagine che attraversi lo stesso grafico.
 * [**Atmosfera al tramonto**](/help/firefly/graph/templates/sunset-vibes.md): in questo modello di grafico puoi creare un’immagine tipografica 3D da un messaggio di testo. Il modello gestisce automaticamente il posizionamento e il bilanciamento del colore.
 
@@ -48,4 +48,17 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 * [**Progettazione di giocattoli in vinile**](/help/firefly/graph/templates/vinyl-toy-design.md): in questo modello di grafico inserisci un riferimento a un carattere o a una mascotte ed esegui il rendering in un giocattolo in vinile stilizzato. Sono disponibili angoli di rotazione per un deck di licenza o di revisione del prodotto.
 * [**Disegna per trasformare in 3D**](/help/firefly/graph/templates/sketch-to-3d.md): in questo modello di grafico puoi trasformare uno schizzo in un carattere 3D. Il grafico ne crea un risultato 3D rotante, pronto per una revisione del progetto interno prima di qualsiasi prototipo fisico.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+## Modelli di prodotti e marchi
+
+* [**Visualizzazione del branding**](/help/firefly/graph/templates/branding-visualization.md): in questo modello di grafico scopri come visualizzare le scene di prodotto. Feed in linee guida del marchio o un logo e una tavolozza di colori e il grafico genera sia grafica statica chiave e un passaggio di breve movimento in un&#39;unica esecuzione, in modo che entrambi i formati rimangano visivamente allineati.
+* [**Modello di prodotto del marchio**](/help/firefly/graph/templates/brand-product-mockup.md): in questo modello di grafico scopri come visualizzare il prodotto in diverse scene. Puoi inserire una foto o un rendering del prodotto nel nodo del modello e il grafico lo inserisce all’interno di una scena con marchio completo, in cui illuminazione e ombre corrispondono automaticamente alla scena.
+* [**Photoshop editoriale**](/help/firefly/graph/templates/editorial-photoshoot.md): in questo modello di grafico carichi un riferimento al modello e scambia l’input dell’indumento per ogni nuovo aspetto. I nodi di posizione e illuminazione rimangono bloccati sul set per un&#39;atmosfera editoriale uniforme.
+* [**Studio fotografico**](/help/firefly/graph/templates/photography-studio.md): in questo modello di grafico inserisci il rendering di un prodotto sullo sfondo dello studio e regola l’illuminazione finché il risultato non assume l’aspetto di una vera e propria acquisizione da studio.
+* [**Applica decalcomania alle superfici**](/help/firefly/graph/templates/decal-to-surfaces.md): in questo modello di grafico vengono caricati il modello di prodotto di base e la risorsa decalcomania o logo come input separati. La maschera avvolge la decalcomania sulla geometria della superficie in modo che segua correttamente i contorni.
+
+## Operazioni in batch e di coerenza
+
+* [**Generatore di sistemi di progettazione**](/help/firefly/graph/templates/design-system-generator.md): in questo modello di grafico viene generato un sistema di progettazione basato sulla schermata di un sito Web. Il grafico produce un insieme corrispondente di icone, pattern e componenti di layout in una singola esecuzione batch.
+* [**Generazione di headshots**](/help/firefly/graph/templates/headshots-generation.md): in questo modello di grafico si armonizza un batch di headshot aziendali. Caricate le foto sorgente, una a persona, e il grafico normalizza l’illuminazione, lo sfondo e il ritaglio sull’intero set in un’unica sequenza.
+
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

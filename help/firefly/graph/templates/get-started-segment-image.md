@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Scoprite come caricare qualsiasi immagine sorgente ed eseguire il nodo di segmen
 * **Vendita al dettaglio** - Isolate un indumento da una foto lifestyle per creare un&#39;immagine pulita del catalogo dei soli prodotti.
 * **Automotive** - Tagliate un veicolo fuori da un luogo per effettuare le riprese e posizionatelo sullo sfondo di uno studio per la stampa.
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
