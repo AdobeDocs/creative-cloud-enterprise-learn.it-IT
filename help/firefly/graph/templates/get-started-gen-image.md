@@ -1,21 +1,21 @@
 ---
 title: Guida introduttiva - Generare un’immagine
-description: Scopri come iniziare con il grafico più semplice possibile
+description: 'Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione in un unico output'
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # Guida introduttiva - Generare un’immagine
 
-Scopri le nozioni di base con il grafico più semplice possibile: un nodo prompt in un nodo di generazione in un unico output. [Apri Guida introduttiva - Genera un modello di immagine](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione in un unico output. [Apri Guida introduttiva - Genera un modello di immagine](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >

@@ -4,18 +4,18 @@ description: Scoprite come applicare lo stile da un'immagine di riferimento a qu
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
 # Estrazione stile
 
-Scoprite come applicare lo stile da un&#39;immagine di riferimento a qualsiasi nuova immagine. [Apri modello di estrazione stili](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Scoprite come alimentare un’immagine di riferimento per estrarne colore, luce e texture. Potete quindi applicare quel trattamento a qualsiasi nuova immagine che attraversi lo stesso grafico. [Apri modello di estrazione stili](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >

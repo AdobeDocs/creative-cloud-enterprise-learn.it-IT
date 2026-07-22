@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '825'
 ht-degree: 3%
 
 ---
@@ -144,6 +144,11 @@ ht-degree: 3%
       + {hide-from-toc}[Generazione di caratteri coerente](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Estrazione stile](firefly/graph/templates/style-extraction.md)
       + {hide-from-toc}[Atmosfera al tramonto](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc}[Guida introduttiva - Segmentare un&#39;immagine](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc}[Comporre e fondere i livelli](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc}[Correzione colore selettiva](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc}[Guida introduttiva - Generazione video](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc}[Ora punto elenco VFX](firefly/graph/templates/bullet-time-vfx.md)
   + Webinar {#firefly-webinars}
     + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
