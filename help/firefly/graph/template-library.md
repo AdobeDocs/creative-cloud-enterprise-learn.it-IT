@@ -75,4 +75,4 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 | [**Progettare il generatore di sistema**](/help/firefly/graph/templates/design-system-generator.md) | In questo modello di grafico genera un sistema di progettazione basato sulla schermata di un sito Web. | Tecnologia, finanza, comunicazioni e telecomunicazioni |
 | [**Generazione di foto**](/help/firefly/graph/templates/headshots-generation.md) | In questo modello di grafico puoi armonizzare un batch di foto scattate dall’azienda. | Tecnologia, finanza, salute |
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
