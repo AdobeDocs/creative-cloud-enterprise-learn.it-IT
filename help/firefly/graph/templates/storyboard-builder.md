@@ -4,9 +4,9 @@ description: Scoprite come trasformare automaticamente le vostre idee in uno sto
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-22131
+jira: KT-22136
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+source-git-commit: 8933daea4c9aeb7ad61e1cf407a8e838b7a82131
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,4 +29,4 @@ Scoprite come trasformare automaticamente le vostre idee in uno storyboard utili
 
 ![Generatore storyboard](../../assets/storyboard-builder.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
