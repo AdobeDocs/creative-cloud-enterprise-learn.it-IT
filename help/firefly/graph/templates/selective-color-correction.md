@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Scopri come mascherare un’area specifica che deve essere corretta e come impostare il colore di destinazione solo su quel nodo. Il resto dell’immagine passa attraverso il grafico inalterato. [Aprire il modello di correzione colore selettiva](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:92c1c93e-4a12-5c99-a2d7-a06ad1662125).
 
->[!TIP]
->
->**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
-
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di settore"}
 
 * **Comunicazioni e telecomunicazioni** - Correggere il colore del marchio in un batch di fotografie di negozi al dettaglio in modo che ogni luogo corrisponda al colore della firma del marchio, senza dover eseguire un aggiornamento completo.
 * **Vendita al dettaglio** - Standardizzare il colore del prodotto su un set di foto scattato con illuminazione incoerente.
 * **Finanza** - Correggere un colore del marchio irregolare in un batch di fotografie di marketing prima della pubblicazione.
+
+>[!TIP]
+>
+>**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
 ![Correzione colore selettiva](../../assets/selective-color.png){align="center"}
 

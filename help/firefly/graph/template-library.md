@@ -4,13 +4,13 @@ description: Sfoglia modelli predefiniti di grafici a Firefly che puoi aprire e 
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 3%
+source-wordcount: '609'
+ht-degree: 1%
 
 ---
 
@@ -20,59 +20,57 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 
 ## Generazione e stile delle immagini
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Guida introduttiva - Generare un&#39;immagine**](/help/firefly/graph/templates/get-started-gen-image.md) | Questo modello è un grafico di base: un nodo prompt in un nodo di generazione in un unico output. | Retail, sanità, istruzione |
-| [**Generazione di caratteri coerente**](/help/firefly/graph/templates/character-gen.md) | In questo modello di grafico carichi un’immagine di riferimento di un personaggio, quindi scambia la scena o il prompt della posa per ogni nuova ripresa. | Viaggi, vendita al dettaglio, istruzione |
-| [**Estrazione stile**](/help/firefly/graph/templates/style-extraction.md) | In questo modello di grafico inserisci un’immagine di riferimento per estrarne colore, luce e texture. | Viaggi, commercio al dettaglio, bevande |
-| [**Atmosfera al tramonto**](/help/firefly/graph/templates/sunset-vibes.md) | In questo modello di grafico puoi creare un’immagine tipografica 3D da un prompt di testo. | Viaggi, Bevande, Commercio Al Dettaglio |
+| **Guida introduttiva - Generare un&#39;immagine** | Grafico di base con un nodo prompt in un nodo di generazione in un unico output. | <ul><li>Hero image</li><li>Test segnaposto</li><li>Immagine di esempio</li></ul> |
+| **Generazione di caratteri coerente** | Carica un’immagine di riferimento di un personaggio, quindi scambia la scena o il prompt della posa per ogni nuova ripresa. | <ul><li>Mascotte ricorrente</li><li>Carattere raggi</li><li>Carattere istruttore</li></ul> |
+| **Estrazione stile** | Inserite un’immagine di riferimento per estrarne colore, luce e texture. | <ul><li>Trasferimento look</li><li>Abbinamento look stagionale</li><li>Abbinamento di umore</li></ul> |
+| **Luci Al Tramonto** | Crea un’immagine tipografica 3D da un prompt di testo. | <ul><li>Sovrapposizione tagline</li><li>Slogan stagionale</li><li>Flash cespite vendita</li></ul> |
 
 ## Segmentazione e composizione
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Guida introduttiva - Segmentare un&#39;immagine**](/help/firefly/graph/templates/get-started-segment-image.md) | In questo modello di grafico carichi qualsiasi immagine sorgente ed esegui il nodo di segmentazione per isolare il soggetto dallo sfondo. | Salute, commercio al dettaglio, settore automobilistico |
-| [**Comporre e fondere i livelli**](/help/firefly/graph/templates/composite-blend-layers.md) | In questo modello di grafico sovrapponi un ritaglio di prodotto e una scena di sfondo come input di livello separati. | Bevande, commercio al dettaglio, viaggi |
-| [**Correzione colore selettiva**](/help/firefly/graph/templates/selective-color-correction.md) | In questo modello di grafico puoi mascherare un’area specifica che deve essere corretta e impostare il colore di destinazione solo su quel nodo. | Comunicazioni e telecomunicazioni, Retail, Finanza |
+| **Guida introduttiva - Segmentare un&#39;immagine** | Caricate qualsiasi immagine sorgente ed eseguite il nodo di segmentazione per isolare il soggetto dallo sfondo. | <ul><li>Pulisci effetto ritaglio</li><li>Isolamento catalogo</li><li>scambio di sfondo</li></ul> |
+| **Livelli compositi e di fusione** | Impila un ritaglio di prodotto e una scena di sfondo come input di livello separati. | <ul><li>Lifestyle/Composito sociale</li><li>Banner della homepage</li><li>Composito con marchio o</li></ul> |
+| **Correzione Colore Selettiva** | Applicate una maschera a un’area specifica che deve essere corretta e impostate il colore di destinazione solo su quel nodo. | <ul><li>Corrispondenza dei colori del marchio</li><li>Standardizzazione colore</li><li>Correzione colore irregolare</li></ul> |
 
 ## Video e animazione
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Guida introduttiva - Generazione video**](/help/firefly/graph/templates/get-started-video-gen.md) | In questo modello di grafico inserisci un elemento grafico chiave approvato e un breve messaggio di animazione. | Finanza, Bevande, Commercio al dettaglio |
-| [**Ora punto elenco VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | In questo modello di grafico, inserisci un prodotto eroe o un’immagine del soggetto per generare una sequenza di angoli che ruotano attorno ad esso, quindi unisci automaticamente lo sweep del fermo fotogramma. | All&#39;aperto, al dettaglio, automobilistico |
+| **Guida introduttiva - Generazione video** | Inserimento di un&#39;immagine statica approvata e di un breve messaggio di animazione. | <ul><li>Grafica chiave per il video</li><li>Avvia teaser</li><li>Taglio video</li></ul> |
+| **Ora punto elenco VFX** | Alimentate un prodotto eroe o un&#39;immagine del soggetto per generare una sequenza di angoli rotanti attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma. | <ul><li>Ripresa temporale punto elenco</li><li>360 fermo immagine</li><li>Ripresa rotazione eroe</li></ul> |
 
 ## Storyboard
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Aggiungere testo allo storyboard**](/help/firefly/graph/templates/text-to-storyboard.md) | In questo modello di grafico sostituisci i nodi di input di testo con elementi del tuo brano. | Finanza, Retail, Tecnologia |
-| [**Generatore storyboard**](/help/firefly/graph/templates/storyboard-builder.md) | In questo modello di grafico puoi creare uno storyboard scena per scena, aggiungendo un nodo per battuta del commento. | Comunicazioni e telecomunicazioni, bevande, viaggi |
+| **Invia testo allo storyboard** | Sostituite i nodi di input di testo con elementi del brano. | <ul><li>Script nello storyboard</li><li>Avvia storyboard</li><li>Storyboard di Explainer</li></ul> |
+| **Generatore storyboard** | Creare uno storyboard scena per scena, aggiungendo un nodo per battuta del commento. | <ul><li>Test della struttura narrativa</li><li>Test di stimolazione</li><li>Arco narrativo</li></ul> |
 
 ## 3D e carattere
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Shader in tempo reale**](/help/firefly/graph/templates/real-time-shaders.md) | In questo modello di grafico, inizierai con un’immagine applicando tre diversi shader personalizzati e visualizzando l’anteprima del risultato in tempo reale. | Tecnologia, settore automobilistico, vendita al dettaglio |
-| [**Generazione modello di carattere**](/help/firefly/graph/templates/character-model-generation.md) | In questo modello di grafico puoi creare uno stile animato 3D di un’illustrazione. | Esterni, Tecnologia, Istruzione |
-| [**Progettazione di giocattoli in vinile**](/help/firefly/graph/templates/vinyl-toy-design.md) | In questo modello di grafico inserisci un riferimento a un carattere o a una mascotte ed esegui il rendering in un giocattolo in vinile stilizzato. | Retail, bevande, intrattenimento |
-| [**Disegnare per passare al 3D**](/help/firefly/graph/templates/sketch-to-3d.md) | In questo modello di grafico puoi trasformare uno schizzo in un carattere 3D. | Tecnologia, settore automobilistico, intrattenimento |
+| **Shader in tempo reale** | Inizia con un’immagine e applica tre diversi shader personalizzati, visualizzando l’anteprima del risultato in tempo reale. | <ul><li>Configurator shader</li><li>Anteprima materiale pittura</li><li>Rendering prodotti</li></ul> |
+| **Generazione modello di carattere** | Crea uno stile 3D animato di un&#39;illustrazione. | <ul><li>Modello mascotte</li><li>Modello 3D di base</li><li>Modello istruttore</li></ul> |
+| **Progettazione giocattolo in vinile** | Immetti un riferimento a un carattere o a una mascotte e esegui il rendering in una forma di giocattolo in vinile stilizzato. | <ul><li>Concetto collezionabile</li><li>Figura mascotte</li><li>Licensing pitch</li></ul> |
+| **Disegnare su un tornio 3D** | Trasforma uno schizzo in un personaggio 3D. | <ul><li>Soluzione hardware</li><li>Rotazione veicolo e motore</li><li>Trasformazione dei personaggi</li></ul> |
 
 ## Modelli di prodotti e marchi
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Visualizzazione del marchio**](/help/firefly/graph/templates/branding-visualization.md) | In questo modello di grafico scopri come visualizzare il logo o il marchio nelle scene di prodotto. | Tecnologia, bevande, finanza |
-| [**Modello di prodotto del marchio**](/help/firefly/graph/templates/brand-product-mockup.md) | In questo modello di grafico scopri come visualizzare il prodotto in diverse scene. | Commercio al dettaglio, bevande, tecnologia |
-| [**Photoshop editoriale**](/help/firefly/graph/templates/editorial-photoshoot.md) | In questo modello di grafico viene caricato un riferimento modello e scambiato l&#39;input dell&#39;indumento per ogni nuovo aspetto. | Commercio al dettaglio, bellezza, all&#39;aperto |
-| [**Studio fotografico**](/help/firefly/graph/templates/photography-studio.md) | In questo modello di grafico inserisci il rendering di un prodotto sullo sfondo dello studio e regola l’illuminazione finché il risultato non assume l’aspetto di un’acquisizione da studio reale. | Bevande, prodotti tecnici, vendita al dettaglio |
-| [**Applica decalcomania alle superfici**](/help/firefly/graph/templates/decal-to-surfaces.md) | In questo modello di grafico carichi il modello di prodotto di base e la decalcomania o la risorsa del logo come input separati. | All&#39;aperto, settore automobilistico, commercio al dettaglio |
+| **Visualizzazione del marchio** | Visualizza un logo o un marchio nelle scene di prodotto. | <ul><li>Visualizzazione sub-brand</li><li>Test della tavolozza</li><li>Anteprima identità</li></ul> |
+| **Modello di prodotto del marchio** | Visualizza il tuo prodotto in diverse scene. | <ul><li>Modello in-store</li><li>Modello di prodotto</li><li>Modello architettonico</li></ul> |
+| **Photoshop editoriale** | Carica un riferimento modello e scambia l’input dell’indumento per ogni nuovo aspetto. | <ul><li>Ripresa con lookbook</li><li>Serie editoriale</li><li>Allineamento Colorway</li></ul> |
+| **Studio fotografico** | Posizionate il rendering di un prodotto sullo sfondo dello studio e regolate l’illuminazione finché il risultato non assume l’aspetto di una vera e propria acquisizione da studio. | <ul><li>Ripresa da studio SKU</li><li>Avvia rendering pagina</li><li>Riprese della linea di prodotti</li></ul> |
+| **Applica decalcomania alle superfici** | Carica il modello di prodotto di base e la decalcomania o la risorsa del logo come input separati. | <ul><li>Aggiorna anteprima</li><li> Anteprima Livery</li><li>Test di posizionamento dei loghi</li></ul> |
 
 ## Operazioni in batch e di coerenza
 
-| Modello grafico | Descrizione | [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"} |
+| Modello grafico | Descrizione | Casi di utilizzo |
 |---|---|---|
-| [**Progettare il generatore di sistema**](/help/firefly/graph/templates/design-system-generator.md) | In questo modello di grafico genera un sistema di progettazione basato sulla schermata di un sito Web. | Tecnologia, finanza, comunicazioni e telecomunicazioni |
-| [**Generazione di foto**](/help/firefly/graph/templates/headshots-generation.md) | In questo modello di grafico puoi armonizzare un batch di foto scattate dall’azienda. | Tecnologia, finanza, salute |
-
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+| **Generatore di sistemi di progettazione** | Genera un sistema di progettazione basato sulla schermata di un sito Web. | <ul><li>Set di pattern icone</li><li>Sistema del colore</li><li>Linguaggio visivo</li></ul> |
+| **Generazione di foto** | Armonizzare un gruppo di foto scattate dall&#39;azienda. | <ul><li>Foto di directory</li><li>Foto di pagine del team</li><li>Cuffie professionali</li></ul> |

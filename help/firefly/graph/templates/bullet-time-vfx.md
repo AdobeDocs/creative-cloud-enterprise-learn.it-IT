@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22104
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Scoprite come alimentare un prodotto eroe o un&#39;immagine del soggetto per generare una sequenza di angoli rotanti attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma. [Apri modello VFX ora punto elenco](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
->[!TIP]
->
->**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
-
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di settore"}
 
 * **All&#39;aperto** - Create una foto in stile eroe di uno scalatore in movimento per un annuncio social a pagamento, senza un rigging multicamera sul posto.
 * **Vendita al dettaglio** - Crea un fermo immagine a 360 gradi di una nuova scarpa da ginnastica per una pagina di lancio del prodotto.
 * **Automotive** - Consente di generare una ripresa a rotazione di un veicolo per uno showroom digitale, senza una sessione di studio girevole.
+
+>[!TIP]
+>
+>**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
 ![Ora punto elenco VFX](../../assets/bullet-time-vfx.png){align="center"}
 
