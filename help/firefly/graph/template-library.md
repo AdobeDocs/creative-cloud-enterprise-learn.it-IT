@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: bd878f1297ab60bcdf5e9e7e2d8c5ab9fa6a68b5
+source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -31,8 +31,8 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 
 | Modello grafico | Descrizione | Esempi di utilizzo |
 |---|---|---|
-| [**Guida introduttiva - Segmentare un&#39;immagine**](/help/firefly/graph/templates/get-started-segment-image.md) | Caricate qualsiasi immagine sorgente ed eseguite il nodo di segmentazione per isolare il soggetto dallo sfondo. | <ul><li>Pulisci effetto ritaglio</li><li>Isolamento catalogo</li><li>scambio di sfondo</li></ul> |
-| [**Comporre e fondere i livelli**](/help/firefly/graph/templates/composite-blend-layers.md) | Impila un ritaglio di prodotto e una scena di sfondo come input di livello separati. | <ul><li>Lifestyle/Composito sociale</li><li>Banner della homepage</li><li>Composito con marchio o</li></ul> |
+| [**Guida introduttiva - Segmentare un&#39;immagine**](/help/firefly/graph/templates/get-started-segment-image.md) | Caricate qualsiasi immagine sorgente ed eseguite il nodo di segmentazione per isolare il soggetto dallo sfondo. | <ul><li>Pulisci effetto ritaglio</li><li>Isolamento catalogo</li><li>backdrop swap</li></ul> |
+| [**Comporre e fondere i livelli**](/help/firefly/graph/templates/composite-blend-layers.md) | Impila un ritaglio di prodotto e una scena di sfondo come input di livello separati. | <ul><li>Lifestyle/Composito sociale</li><li>Banner della homepage</li><li>Composito con marchio congiunto</li></ul> |
 | [**Correzione colore selettiva**](/help/firefly/graph/templates/selective-color-correction.md) | Applicate una maschera a un’area specifica che deve essere corretta e impostate il colore di destinazione solo su quel nodo. | <ul><li>Corrispondenza dei colori del marchio</li><li>Standardizzazione colore</li><li>Correzione colore irregolare</li></ul> |
 
 ## Video e animazione
@@ -66,7 +66,7 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 | [**Modello di prodotto del marchio**](/help/firefly/graph/templates/brand-product-mockup.md) | Visualizza il tuo prodotto in diverse scene. | <ul><li>Modello in-store</li><li>Modello di prodotto</li><li>Modello architettonico</li></ul> |
 | [**Photoshop editoriale**](/help/firefly/graph/templates/editorial-photoshoot.md) | Carica un riferimento modello e scambia l’input dell’indumento per ogni nuovo aspetto. | <ul><li>Ripresa con lookbook</li><li>Serie editoriale</li><li>Allineamento Colorway</li></ul> |
 | [**Studio fotografico**](/help/firefly/graph/templates/photography-studio.md) | Posizionate il rendering di un prodotto sullo sfondo dello studio e regolate l’illuminazione finché il risultato non assume l’aspetto di una vera e propria acquisizione da studio. | <ul><li>Ripresa da studio SKU</li><li>Avvia rendering pagina</li><li>Riprese della linea di prodotti</li></ul> |
-| [**Applica decalcomania alle superfici**](/help/firefly/graph/templates/decal-to-surfaces.md) | Carica il modello di prodotto di base e la decalcomania o la risorsa del logo come input separati. | <ul><li>Aggiorna anteprima</li><li> Anteprima Livery</li><li>Test di posizionamento dei loghi</li></ul> |
+| [**Applica decalcomania alle superfici**](/help/firefly/graph/templates/decal-to-surfaces.md) | Carica il modello di prodotto di base e la decalcomania o la risorsa del logo come input separati. | <ul><li>Aggiorna anteprima</li><li>Anteprima Livery</li><li>Test di posizionamento dei loghi</li></ul> |
 
 ## Operazioni in batch e di coerenza
 
