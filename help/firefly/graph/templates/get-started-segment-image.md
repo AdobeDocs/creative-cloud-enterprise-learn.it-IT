@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scoprite come caricare qualsiasi immagine sorgente ed eseguire il nodo di segmen
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Immagine del segmento](../../assets/get-started-segment-image.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Salute**: segmentare un dispositivo medico da una ripresa da studio occupata per rilasciarlo su uno sfondo clinico pulito per una pagina di prodotto, senza una nuova scansione in background.
 * **Vendita al dettaglio** - Isolate un indumento da una foto lifestyle per creare un&#39;immagine pulita del catalogo dei soli prodotti.
@@ -29,4 +31,4 @@ Scoprite come caricare qualsiasi immagine sorgente ed eseguire il nodo di segmen
 
 ![Immagine del segmento](../../assets/get-started-segment-image.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

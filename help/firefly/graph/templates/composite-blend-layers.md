@@ -5,9 +5,9 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,9 @@ Scopri come impilare un ritaglio di prodotto e una scena di sfondo come input di
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Comporre e fondere i livelli](../../assets/composite-blend-layers.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Bevande** - Crea un nuovo design per una scena di vita sulla spiaggia per una campagna estiva, senza volare
 team fotografico in un luogo.
@@ -29,4 +31,4 @@ team fotografico in un luogo.
 
 ![Comporre e fondere i livelli](../../assets/composite-blend-layers.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

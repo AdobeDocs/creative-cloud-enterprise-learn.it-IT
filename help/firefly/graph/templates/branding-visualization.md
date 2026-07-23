@@ -4,11 +4,11 @@ description: Scopri come visualizzare il tuo logo o il tuo marchio nelle scene d
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scopri come visualizzare il tuo logo o il tuo marchio nelle scene di prodotto. F
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Visualizzazione del marchio](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Tecnologia** - Visualizza un nuovo marchio secondario di prodotto sia come grafica chiave che come teaser di lancio prima di impegnare il budget di progettazione o media nella produzione completa.
 * **Bevande**: verifica tre logo e tre direzioni della tavolozza di colori come elementi chiave dall&#39;aspetto finito prima di sceglierne uno per passare alla produzione.
@@ -29,4 +31,4 @@ Scopri come visualizzare il tuo logo o il tuo marchio nelle scene di prodotto. F
 
 ![Visualizzazione del marchio](../../assets/branding-visualization.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

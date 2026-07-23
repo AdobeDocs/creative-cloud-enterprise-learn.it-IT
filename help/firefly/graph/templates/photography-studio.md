@@ -4,11 +4,11 @@ description: Scoprite come posizionare il rendering di un prodotto sullo sfondo 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22128
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scoprite come posizionare il rendering di un prodotto sul nodo di sfondo dello s
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Studio fotografico](../../assets/photography-studio.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Bevande** - Genera foto di prodotti da studio pulite di un nuovo SKU di sapore prima della fotografia fisica del prodotto in fase di pianificazione.
 * **Tech** - Crea rendering di qualità da studio di un nuovo dispositivo per una pagina di avvio prima che le unità siano disponibili per la fotografia.
@@ -29,4 +31,4 @@ Scoprite come posizionare il rendering di un prodotto sul nodo di sfondo dello s
 
 ![Studio fotografico](../../assets/photography-studio.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

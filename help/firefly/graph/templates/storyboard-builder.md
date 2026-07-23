@@ -4,11 +4,11 @@ description: Scoprite come trasformare automaticamente le vostre idee in uno sto
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22131
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scoprite come trasformare automaticamente le vostre idee in uno storyboard utili
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Generatore storyboard](../../assets/storyboard-builder.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Comunicazioni e telecomunicazioni**: lo storyboard offre un punto di lancio di 30 secondi per un nuovo piano, testando tre diverse strutture narrative prima di prenotare una ripresa.
 * **Bevande** - Crea uno storyboard scena per scena per una campagna stagionale e riordina le battute per testare il ritmo prima di bloccare il taglio.
@@ -29,4 +31,4 @@ Scoprite come trasformare automaticamente le vostre idee in uno storyboard utili
 
 ![Generatore storyboard](../../assets/storyboard-builder.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

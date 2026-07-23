@@ -4,11 +4,11 @@ description: Scopri come trasformare uno schizzo in un personaggio 3D
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scopri come trasformare uno schizzo in un personaggio 3D. Il grafico ne crea un 
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Schizzo in 3D](../../assets/sketch-to-3d.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Tecnologia** - Trasforma uno schizzo di un concetto hardware in un&#39;evoluzione 3D per la revisione della progettazione, prima di impegnarsi nella creazione di un prototipo fisico.
 * **Automotive** - Visualizza uno schizzo concettuale di un veicolo iniziale come un&#39;inversione 3D a rotazione per la revisione interna.
@@ -29,4 +31,4 @@ Scopri come trasformare uno schizzo in un personaggio 3D. Il grafico ne crea un 
 
 ![Schizzo in 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

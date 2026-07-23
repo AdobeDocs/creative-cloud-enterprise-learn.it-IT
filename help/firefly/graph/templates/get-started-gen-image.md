@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22096
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione 
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Immagine generazione](../../assets/get-started-gen-image.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Vendita al dettaglio** - Genera una prima immagine del prodotto da una breve descrizione, per apprendere il flusso del nodo di base prima di toccare una vera risorsa della campagna.
 * **Integrità** - Prima di ridimensionare un calendario con contenuti completi, verifica il flusso più semplice di generazione delle immagini per un prodotto segnaposto.
@@ -29,4 +31,4 @@ Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione 
 
 ![Immagine generazione](../../assets/get-started-gen-image.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

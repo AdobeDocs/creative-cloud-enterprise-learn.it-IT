@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scopri come mascherare un’area specifica che deve essere corretta e come impos
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Correzione colore selettiva](../../assets/selective-color.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Comunicazioni e telecomunicazioni** - Correggere il colore del marchio in un batch di fotografie di negozi al dettaglio in modo che ogni luogo corrisponda al colore della firma del marchio, senza dover eseguire un aggiornamento completo.
 * **Vendita al dettaglio** - Standardizzare il colore del prodotto su un set di foto scattato con illuminazione incoerente.
@@ -29,4 +31,4 @@ Scopri come mascherare un’area specifica che deve essere corretta e come impos
 
 ![Correzione colore selettiva](../../assets/selective-color.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

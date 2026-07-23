@@ -4,11 +4,11 @@ description: Scopri come iniziare con un’immagine e applicare tre diversi shad
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22129
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Scoprite come iniziare con un’immagine e applicare tre diversi shader personal
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-[!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
+![Shader in tempo reale](../../assets/real-time-shaders.png){align="center"}
+
+[!BADGE Esempi di settore]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Tech** - Crea shader stilizzato personalizzato cerca un configuratore di prodotti 3D utilizzato in una demo interattiva della fiera.
 * **Automotive** - Visualizza in anteprima colori personalizzati e ombreggiatori di materiale su un modello di veicolo prima dell&#39;esistenza di un prototipo fisico.
@@ -29,4 +31,4 @@ Scoprite come iniziare con un’immagine e applicare tre diversi shader personal
 
 ![Shader in tempo reale](../../assets/real-time-shaders.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
