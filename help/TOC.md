@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,19 @@ ht-degree: 3%
       + {hide-from-toc}[Correzione colore selettiva](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Guida introduttiva - Generazione video](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[Ora punto elenco VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[Aggiungere testo allo storyboard](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[Generatore storyboard](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[Shader in tempo reale](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[Generazione modello di carattere](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[Progettazione di giocattoli in vinile](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[Disegnare per passare al 3D](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[Visualizzazione del marchio](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[Modello di prodotto del marchio](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[Photoshop editoriale](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[Studio fotografico](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[Applica decalcomania alle superfici](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[Progettare il generatore di sistema](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[Generazione di foto](firefly/graph/templates/headshots-generation.md)
   + Webinar {#firefly-webinars}
     + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

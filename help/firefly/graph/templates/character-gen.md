@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22097
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Scopri come caricare un’immagine di riferimento del personaggio, quindi scambi
 >
 >**Prima di iniziare** - Per risultati ottimali, personalizza questo modello per il tuo marchio, prodotto e flusso di lavoro. Scambia le tue immagini di riferimento, i prompt e le copie prima di utilizzare qualsiasi output.
 
-![Genera carattere coerente](../../assets/character-gen.png){align="center"}
-
 [!BADGE Casi di utilizzo]{type=Informative tooltip="Esempi di utilizzo"}
 
 * **Viaggi**: mantieni una guida ricorrente o un personaggio mascotte coerente su una serie di destinazioni video e contenuti social, senza dover creare un nuovo briefing di un illustratore per ogni scena.
 * **Vendita al dettaglio** - Mantieni un carattere a raggi con marchio su decine di foto di prodotti stagionali e post sui social.
 * **Istruzione** - Mantenere un personaggio istruttore animato coerente in ogni video di lezione di un corso.
+
+![Genera carattere coerente](../../assets/character-gen.png){align="center"}
 
 Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
