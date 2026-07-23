@@ -29,4 +29,4 @@ Scopri come visualizzare il prodotto in diverse scene. Trascina una foto o un re
 
 ![Modello di prodotto per il branding](../../assets/brand-mockup.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

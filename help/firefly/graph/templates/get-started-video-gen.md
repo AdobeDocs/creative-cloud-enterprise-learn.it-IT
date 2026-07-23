@@ -29,4 +29,4 @@ Scopri come inserire l’elemento grafico chiave approvato e un breve messaggio 
 
 ![Generazione video](../../assets/video-generation.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
