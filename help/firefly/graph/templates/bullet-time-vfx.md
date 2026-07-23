@@ -31,4 +31,4 @@ Scoprite come alimentare un prodotto eroe o un&#39;immagine del soggetto per gen
 
 ![Ora punto elenco VFX](../../assets/bullet-time-vfx.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

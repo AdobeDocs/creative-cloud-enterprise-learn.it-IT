@@ -31,4 +31,4 @@ Scoprite come generare uno storyboard da uno script o da una shot list. Ogni rig
 
 ![Aggiungere testo allo storyboard](../../assets/text-storyboard.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

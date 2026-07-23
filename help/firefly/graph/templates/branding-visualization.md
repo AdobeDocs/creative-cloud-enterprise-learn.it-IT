@@ -31,4 +31,4 @@ Scopri come visualizzare il tuo logo o il tuo marchio nelle scene di prodotto. F
 
 ![Visualizzazione del marchio](../../assets/branding-visualization.png){align="center"}
 
-Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione al grafico del Firefly](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
