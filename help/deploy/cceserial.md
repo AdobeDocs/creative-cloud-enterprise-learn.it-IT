@@ -6,13 +6,9 @@ level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
-product_v2:
-  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 871
@@ -42,7 +38,7 @@ Le licenze con numero di serie associate al contratto ETLA sono disponibili tram
 
 ### Controllare la data di scadenza
 
-[AdobeExpiryCheck](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) è un&#39;utilità della riga di comando per gli amministratori IT che consente di verificare se i prodotti di Adobe di un computer utilizzano numeri di serie scaduti o in scadenza. Lo strumento visualizzerà informazioni quali l&#39;identificativo di licenza del prodotto (LEID), il numero di serie crittografato e la data di scadenza. Questa [pagina](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) contiene istruzioni su come scaricare e utilizzare lo strumento su computer Mac o Windows.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) è un&#39;utilità della riga di comando per gli amministratori IT che consente di verificare se i prodotti di Adobe di un computer utilizzano numeri di serie scaduti o in scadenza. Lo strumento visualizzerà informazioni quali l&#39;identificativo di licenza del prodotto (LEID), il numero di serie crittografato e la data di scadenza. Questa [pagina](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contiene istruzioni su come scaricare e utilizzare lo strumento su computer Mac o Windows.
 
 ## Esperienza utente finale prima e dopo la scadenza del numero di serie
 
@@ -52,7 +48,7 @@ Sia le app Acrobat che Creative Cloud for enterprise inizieranno a visualizzare 
 
 Le seguenti informazioni descrivono l&#39;esperienza dell&#39;utente finale. Di seguito è riportato un breve video, seguito da un riepilogo dell&#39;esperienza utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441285?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
 **Prima della scadenza**
 
@@ -99,7 +95,7 @@ Per tutti i successivi tentativi di avviare Acrobat, all&#39;utente finale verr�
 
 ## Contattaci se hai bisogno di aiuto
 
-Se hai domande sull&#39;utilizzo dello strumento [AdobeExpiryCheck](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) o hai bisogno di aiuto per migrare dalla distribuzione del numero di serie a un utente nominativo, hai alcune opzioni:
+Se hai domande sull&#39;utilizzo dello strumento [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o hai bisogno di aiuto per migrare dalla distribuzione del numero di serie a un utente nominativo, hai alcune opzioni:
 * Invia un&#39;e-mail al team di onboarding di Adobe Enterprise - **entonb@adobe.com**
 * Apri un ticket di supporto in [Admin Console](https://adminconsole.adobe.com/support/?locale=it)
 * Contatta il tuo team per l’account Adobe
