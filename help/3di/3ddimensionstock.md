@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Personalizza e personalizza un modello 3D in [!DNL Dimension] utilizzando materiali, proprietà ambientali, illuminazione e fotografia, per creare immagini fotorealistiche per qualsiasi progetto di progettazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410483?captions=ita&hidetitle=true)
 
 Fate clic sull’icona del file PDF per scaricare una Guida di riferimento rapido di questo tutorial.
 

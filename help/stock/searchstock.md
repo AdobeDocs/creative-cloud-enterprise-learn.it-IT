@@ -25,4 +25,4 @@ ht-degree: 0%
 
 In questo tutorial video scoprirai come eseguire rapidamente ricerche nella cronologia delle licenze di [!DNL Stock] Adobe della tua organizzazione in Creative Cloud for enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410409?captions=ita&hidetitle=true)
