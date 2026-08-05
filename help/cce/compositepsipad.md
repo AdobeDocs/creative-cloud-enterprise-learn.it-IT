@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Porta la potenza di Photoshop a portata di mano. Scoprite come utilizzare una delle vostre applicazioni Creative Cloud preferite in modo completamente nuovo, con un&#39;interfaccia touch riprogettata.
 
->[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410490?captions=ita&hidetitle=true)
 
 <br> 
 
