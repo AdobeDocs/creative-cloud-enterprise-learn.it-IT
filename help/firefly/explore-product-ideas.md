@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Le bacheche di Firefly offrono al tuo team l&#39;ambiente di brainstorming più avanzato, trasformando concetti grezzi in immagini condivisibili che vanno ben oltre gli elenchi di testo e le figure stecche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497135?captions=ita&quality=12&learn=on&hidetitle=true)
