@@ -1,21 +1,21 @@
 ---
 title: Pre-visualizzazione di Photoshop
-description: Anteprima dell'intera visione photoshoot con tutta la potenza dell'Adobe Firefly
+description: Scoprite come Gen AI consente di previsualizzare un intero servizio fotografico
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: 256a1bd60eecaae02b974e86fd7bff9e35b51503
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Pre-visualizzazione di Photoshop
 
-Visualizzate in anteprima l&#39;intera visione photoshoot con tutta la potenza dell&#39;Adobe Firefly.
+Scoprite come l&#39;intelligenza artificiale generale consente di previsualizzare un intero servizio fotografico, collocando il prodotto in ambienti di aspirazione in modo da poter bloccare posizione, impostazione e personaggi con l&#39;approvazione del cliente prima di acquisire un singolo fotogramma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497055?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
