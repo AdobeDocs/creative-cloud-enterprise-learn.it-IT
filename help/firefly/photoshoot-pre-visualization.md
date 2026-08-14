@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Visualizzate in anteprima l&#39;intera visione photoshoot con tutta la potenza dell&#39;Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497055?captions=ita&quality=12&learn=on&hidetitle=true)
