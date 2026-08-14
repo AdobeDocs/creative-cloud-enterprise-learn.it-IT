@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Concetti di prodotto utilizzati significavano aspettare artisti e illustratori 3D solo per vedere un&#39;idea prendere forma. Scopri come le bacheche di Firefly ti consentono di generare da solo concetti con un realismo straordinario, senza marcatori né modelli, con rendering statici e 3D che danno vita alle idee.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497135?captions=ita&quality=12&learn=on&hidetitle=true)

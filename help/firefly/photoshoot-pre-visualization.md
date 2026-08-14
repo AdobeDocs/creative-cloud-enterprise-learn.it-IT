@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scoprite come l&#39;intelligenza artificiale generale consente di previsualizzare un intero servizio fotografico, collocando il prodotto in ambienti di aspirazione in modo da poter bloccare posizione, impostazione e personaggi con l&#39;approvazione del cliente prima di acquisire un singolo fotogramma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497055?captions=ita&quality=12&learn=on&hidetitle=true)
