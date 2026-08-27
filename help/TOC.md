@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
+source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 3%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 3%
     + {hide-from-toc}[Esplora idee di prodotto senza riunioni, marcatori e modelli](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Trasformare una parola in una visione creativa condivisa](firefly/creative-vision.md)
     + {hide-from-toc}[Allineare prima dello scorrimento della fotocamera](firefly/align-camera-roll.md)
-  + {hide-from-toc}Esercitazioni per il grafico  {#firefly-graph}
+  + Esercitazioni per il grafico {hide-from-toc} {#firefly-graph}
     + {hide-from-toc}[Panoramica del grafico Adobe Firefly](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Che cos&#39;è il grafico Firefly?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc}[Concetti chiave del grafico del Firefly](firefly/graph/key-concepts.md)
@@ -168,18 +168,19 @@ ht-degree: 3%
       + {hide-from-toc}[Generazione di foto](firefly/graph/templates/headshots-generation.md)
   + Webinar {#firefly-webinars}
     + [Sperimentare con l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
+    + [Pensa ad alta voce: trasforma le tue idee in immagini sorprendenti](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Panoramica](stock/overview-stock.md)
   + Esercitazioni {#stocktutorials}
     + [Splendide risorse digitali](stock/stunning-digital-assets.md)
-    + [Cerca nella cronologia delle licenze di Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
-    + [Aggiungi un&#39;estetica disegnata a mano alle immagini Adobe [!DNL Stock] &#x200B;](stock/handdrawn.md)
+    + [Cerca nella cronologia delle licenze di Adobe [!DNL Stock] ](stock/searchstock.md)
+    + [Aggiungi un&#39;estetica disegnata a mano alle immagini Adobe [!DNL Stock] ](stock/handdrawn.md)
     + [Aggiungere stile alla composizione tipografica con maschere e animazioni](stock/flairtypography.md)
     + [Anima un&#39;illustrazione vettoriale Adobe [!DNL Stock] in Photoshop](stock/animatevector.md)
     + [Inizia il report annuale con un video creato con Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
     + [Dai vita alla creatività con animazioni personalizzate di Adobe [!DNL Stock]](stock/customanimations.md)
     + [Modifica i colori di un&#39;immagine  [!DNL Stock]  in base alla tua storia](stock/changecolors.md)
-    + [Crea un collage 3D per un poster utilizzando immagini Adobe [!DNL Stock] &#x200B;](stock/collage.md)
+    + [Crea un collage 3D per un poster utilizzando immagini Adobe [!DNL Stock] ](stock/collage.md)
     + [Creazione di un&#39;etichetta in grassetto con i modelli di Adobe [!DNL Stock]  e gli oggetti avanzati di Photoshop](stock/boldlabel.md)
     + [Creazione di un&#39;infografica sulle linee guida aziendali con Adobe [!DNL Stock]](stock/infographic.md)
     + [Crea un grafico di confronto delle funzionalità del prodotto utilizzando Adobe [!DNL Stock]](stock/featurecomparison.md)
@@ -188,13 +189,13 @@ ht-degree: 3%
     + [Creazione di un configuratore di prodotti interattivo con Adobe [!DNL Stock]](stock/productconfigurator.md)
     + [Crea una foto turistica interattiva con Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
     + [Creazione di animazioni per e-mail con Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
-    + [Crea immagini coerenti del marchio con splendide sfumature e risorse Adobe [!DNL Stock] &#x200B;](stock/brandgradients.md)
+    + [Crea immagini coerenti del marchio con splendide sfumature e risorse Adobe [!DNL Stock] ](stock/brandgradients.md)
     + [Crea grafica Web coinvolgente combinando  [!DNL Stock] immagini Adobe con CSS](stock/webgraphics.md)
     + [Crea mood board accattivanti in pochissimo tempo con Adobe [!DNL Stock]](stock/moodboard.md)
     + [Creazione di composizioni fotografiche realistiche con immagini  [!DNL Stock] Adobe](stock/realisticcomposite.md)
     + [Personalizzare l&#39;animazione di una schermata di caricamento con Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
     + [Personalizza un modello di presentazione di Adobe [!DNL Stock]  per ottenere un aspetto professionale](stock/presentationtemplate.md)
-    + [Personalizza i colori in un&#39;illustrazione vettoriale Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personalizza i colori in un&#39;illustrazione vettoriale Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D E VR {#3doverview}
   + [Panoramica](3di/overview-3di.md)
   + Esercitazioni {#3dtutorials}
