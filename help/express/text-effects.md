@@ -6,22 +6,26 @@ role: User
 level: Beginner
 jira: KT-13421
 exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
-TQID: https://experienceleague.adobe.com/4Oly-2fJ3g49-rUq-9b4QEhpAVvBMbmRa9FmB-ujgLA
+TQID: 'https://experienceleague.adobe.com/4Oly-2fJ3g49-rUq-9b4QEhpAVvBMbmRa9FmB-ujgLA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 123
+source-wordcount: '123'
 ht-degree: 0%
-
 ---
-
 # Come aggiungere del testo
 
 Scopri tutti i diversi modi per aggiungere testo a progetti creativi, tra cui la modifica, lo spostamento e l&#39;eliminazione dei livelli di testo, la modifica dei font, la regolazione delle dimensioni e del layout del testo, l&#39;allineamento del testo, la modifica del colore di riempimento e del contorno, l&#39;aggiunta di ombre esterne e l&#39;utilizzo di forme e testo ritagliato. I font consigliati sono forniti per l&#39;ispirazione.

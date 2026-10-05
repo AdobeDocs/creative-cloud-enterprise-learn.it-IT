@@ -1,22 +1,37 @@
 ---
 title: Libreria modelli
-description: Sfoglia modelli predefiniti di grafici a Firefly che puoi aprire e adattare al tuo progetto
+description: Sfoglia i modelli preimpostati di Firefly Graph che puoi aprire e adattare al tuo progetto
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22134
 hide: true
-hidefromtoc: true
-source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
+hidefromtoc: 'yes'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
-
 ---
-
 # &#x200B;5. Libreria di modelli
 
-Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati in base a ciò che ciascuno di essi produce o fa. Ogni esempio è un punto di partenza: scambia il tuo marchio, il tuo prodotto e le tue richieste prima di utilizzare un modello in produzione.
+Un indice di riferimento rapido dei modelli di Firefly Graph, organizzati in base a ciò che ciascuno produce o fa. Ogni esempio è un punto di partenza: scambia il tuo marchio, il tuo prodotto e le tue richieste prima di utilizzare un modello in produzione.
 
 ## Generazione e stile delle immagini
 
@@ -40,7 +55,7 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 | Modello grafico | Descrizione | Esempi di utilizzo |
 |---|---|---|
 | [**Guida introduttiva - Generazione video**](/help/firefly/graph/templates/get-started-video-gen.md) | Inserimento di un&#39;immagine statica approvata e di un breve messaggio di animazione. | <ul><li>Grafica chiave per il video</li><li>Avvia teaser</li><li>Taglio video</li></ul> |
-| [**Ora punto elenco VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | Alimentate un prodotto eroe o un&#39;immagine del soggetto per generare una sequenza di angoli rotanti attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma. | <ul><li>Ripresa temporale punto elenco</li><li>360 fermo immagine</li><li>Ripresa rotazione eroe</li></ul> |
+| [**Ora punto elenco VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | Alimentate un prodotto eroe o l&#39;immagine del soggetto per generare una sequenza di angoli rotanti attorno ad esso, quindi unite automaticamente lo sweep di fermo fotogramma. | <ul><li>Ripresa temporale punto elenco</li><li>360 fermo fotogramma</li><li>Ripresa rotazione eroe</li></ul> |
 
 ## Storyboard
 
@@ -53,7 +68,7 @@ Un indice di riferimento rapido dei modelli di grafici di Firefly, organizzati i
 
 | Modello grafico | Descrizione | Esempi di utilizzo |
 |---|---|---|
-| [**Shader in tempo reale**](/help/firefly/graph/templates/real-time-shaders.md) | Inizia con un’immagine e applica tre diversi shader personalizzati, visualizzando l’anteprima del risultato in tempo reale. | <ul><li>Configurator shader</li><li>Anteprima materiale pittura</li><li>Rendering prodotti</li></ul> |
+| [**Shader in tempo reale**](/help/firefly/graph/templates/real-time-shaders.md) | Inizia con un’immagine e applica tre diversi shader personalizzati, visualizzando l’anteprima del risultato in tempo reale. | <ul><li>Shader Configurator</li><li>Pittura anteprima materiale</li><li>Rendering prodotti</li></ul> |
 | [**Generazione modello di carattere**](/help/firefly/graph/templates/character-model-generation.md) | Crea uno stile 3D animato di un&#39;illustrazione. | <ul><li>Modello mascotte</li><li>Modello 3D di base</li><li>Modello istruttore</li></ul> |
 | [**Progettazione di giocattoli in vinile**](/help/firefly/graph/templates/vinyl-toy-design.md) | Immetti un riferimento a un carattere o a una mascotte e esegui il rendering in una forma di giocattolo in vinile stilizzato. | <ul><li>Concetto collezionabile</li><li>Figura mascotte</li><li>Licensing pitch</li></ul> |
 | [**Disegnare per passare al 3D**](/help/firefly/graph/templates/sketch-to-3d.md) | Trasforma uno schizzo in un personaggio 3D. | <ul><li>Soluzione hardware</li><li>Rotazione veicolo e motore</li><li>Trasformazione dei personaggi</li></ul> |

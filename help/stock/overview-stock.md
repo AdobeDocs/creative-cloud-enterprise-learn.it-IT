@@ -1,32 +1,40 @@
 ---
-title: Adobe [!DNL Stock] esercitazioni
-description: Tutorials per aiutarti a ottenere l'aggiornamento rapido su Adobe [!DNL Stock]
+title: Esercitazioni per [!DNL Stock] di Adobe
+description: Tutorials che ti aiuteranno ad essere aggiornato sull'Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-TQID: https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk
+TQID: 'https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1257
+source-wordcount: '1258'
 ht-degree: 0%
-
 ---
-
 # Esercitazioni per [!DNL Stock] di Adobe
 
 I creativi sono sotto pressione per fornire rapidamente contenuti visivi coinvolgenti. Adobe Stock offre ai team creativi l&#39;accesso a più di 300 milioni di immagini, video, file audio, modelli, illustrazioni e risorse 3D esenti da royalty, all&#39;interno delle app Creative Cloud che utilizzano quotidianamente. Ottieni l&#39;accesso illimitato alle risorse standard di Adobe Stock con Creative Cloud Pro Edition. Scopri le raccolte più recenti su stock.adobe.com. Seleziona un’immagine per visualizzare un’esercitazione.
@@ -102,7 +110,7 @@ I creativi sono sotto pressione per fornire rapidamente contenuti visivi coinvol
       <div>
       <a href="customanimations.md"><strong>Dai vita alla creatività con animazioni personalizzate di Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Usa immagini, texture e pattern Adobe di [!DNL Stock] per animazioni personalizzate in Photoshop</em>
+      <em>Usa immagini, texture e pattern di [!DNL Stock] Adobe per animazioni personalizzate in Photoshop</em>
       <br>
   </td>
   <td>
@@ -354,7 +362,7 @@ I creativi sono sotto pressione per fornire rapidamente contenuti visivi coinvol
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Ricolora la grafica vettoriale dell'Adobe [!DNL Stock] con Adobe Illustrator per ottenere esattamente l'aspetto desiderato (PDF)</strong></a>
       </div>
-      <em>Adobe [!DNL Stock] semplifica la ricerca di immagini vettoriali uniche e Adobe Illustrator consente di modificarle rapidamente in base alla tua visione creativa</em>
+      <em>Adobe [!DNL Stock] semplifica la ricerca di grafiche vettoriali uniche e Adobe Illustrator ti consente di modificarle rapidamente in base alla tua visione creativa</em>
       <br>
    </td>
    <td>
