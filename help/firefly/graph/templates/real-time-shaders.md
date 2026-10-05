@@ -41,4 +41,4 @@ Scoprite come iniziare con un’immagine e applicare tre diversi shader personal
 
 ![Shader in tempo reale](../../assets/real-time-shaders.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

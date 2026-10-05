@@ -41,4 +41,4 @@ Scoprite come alimentare un’immagine di riferimento per estrarne colore, luce 
 
 ![Estrazione stile](../../assets/style-extraction.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

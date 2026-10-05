@@ -41,4 +41,4 @@ Scopri come inserire un riferimento a un carattere o a una mascotte e come esegu
 
 ![Progettazione di giocattoli in vinile](../../assets/vinyl-toy-design.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

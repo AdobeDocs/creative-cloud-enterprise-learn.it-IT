@@ -41,4 +41,4 @@ Scopri come creare un grafico di base: un nodo prompt in un nodo di generazione 
 
 ![Immagine generazione](../../assets/get-started-gen-image.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

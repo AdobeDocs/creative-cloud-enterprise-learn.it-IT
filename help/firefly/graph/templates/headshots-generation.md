@@ -42,4 +42,4 @@ e ritagliare l&#39;intero set in un&#39;unica sequenza. [Aprire il modello di ge
 
 ![Generazione di foto](../../assets/headshots-generation.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -41,4 +41,4 @@ Scopri come trasformare uno schizzo in un personaggio 3D. Il grafico ne crea un 
 
 ![Schizzo in 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Torna a [Introduzione a Firefly Graph](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

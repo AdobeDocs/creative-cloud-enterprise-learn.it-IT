@@ -47,7 +47,7 @@ Le licenze con numero di serie associate al contratto ETLA sono disponibili tram
 
 ### Controllare la data di scadenza
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) è un&#39;utilità della riga di comando per gli amministratori IT che consente di verificare se i prodotti di Adobe di un computer utilizzano numeri di serie scaduti o in scadenza. Lo strumento visualizzerà informazioni quali l&#39;identificatore di licenza del prodotto (LEID), il numero di serie crittografato e la data di scadenza. Questa [pagina](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contiene istruzioni su come scaricare e utilizzare lo strumento su computer Mac o Windows.
+[AdobeExpiryCheck](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) è un&#39;utilità della riga di comando per gli amministratori IT che consente di verificare se i prodotti di Adobe di un computer utilizzano numeri di serie scaduti o in scadenza. Lo strumento visualizzerà informazioni quali l&#39;identificatore di licenza del prodotto (LEID), il numero di serie crittografato e la data di scadenza. Questa [pagina](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) contiene istruzioni su come scaricare e utilizzare lo strumento su computer Mac o Windows.
 
 ## Esperienza utente finale prima e dopo la scadenza del numero di serie
 
@@ -104,7 +104,7 @@ Per tutti i successivi tentativi di avviare Acrobat, all&#39;utente finale verr�
 
 ## Contattaci se hai bisogno di aiuto
 
-Se hai domande sull&#39;utilizzo dello strumento [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) o hai bisogno di aiuto per migrare dalla distribuzione del numero di serie a un utente nominativo, hai alcune opzioni:
+Se hai domande sull&#39;utilizzo dello strumento [AdobeExpiryCheck](https://helpx.adobe.com/it/enterprise/kb/volume-license-expiration-check.html) o hai bisogno di aiuto per migrare dalla distribuzione del numero di serie a un utente nominativo, hai alcune opzioni:
 * Invia un&#39;e-mail al team di onboarding di Adobe Enterprise - **entonb@adobe.com**
 * Apri un ticket di supporto in [Admin Console](https://adminconsole.adobe.com/support/?locale=it)
 * Contatta il tuo team per l’account Adobe
