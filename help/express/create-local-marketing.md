@@ -32,4 +32,4 @@ ht-degree: 4%
 
 Scoprite come utilizzare la funzione di conversione da testo a immagine, basata sull&#39;Adobe Firefly, in Adobe Express per la creazione di contenuti localizzati da una campagna di marketing di un hotel globale. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443592?captions=ita&quality=12&learn=on&hidetitle=true)

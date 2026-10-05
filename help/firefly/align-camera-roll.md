@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Scopri come i team creativi utilizzano le bacheche di Adobe Firefly per testare le idee in anticipo, arrivando sul set con la certezza che ogni ripresa atterrerà esattamente come previsto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502286?captions=ita&quality=12&learn=on&hidetitle=true)
