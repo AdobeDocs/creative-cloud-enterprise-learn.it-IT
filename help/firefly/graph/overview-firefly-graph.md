@@ -1,21 +1,36 @@
 ---
-title: Adobe [!DNL Firefly Graph] Panoramica
-description: Informazioni su Adobe [!DNL Firefly Graph]
+title: Panoramica di Adobe [!DNL Firefly Graph]
+description: Informazioni sull'Adobe [!DNL Firefly Graph]
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
-
+source-wordcount: '255'
+ht-degree: 2%
 ---
-
 # Introduzione a Firefly Graph
 
-Se hai già utilizzato uno strumento di intelligenza artificiale generativa, probabilmente sei abituato a digitare un messaggio, ottenere un risultato e ricominciare da zero la prossima volta che avrai bisogno di qualcosa di simile. Il grafico Firefly funziona in modo diverso. Invece di un singolo prompt, crei un grafico: un flusso di lavoro visivo passo dopo passo in cui ogni input, trasformazione e output è connesso e salvato insieme. Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tuo primo grafico: i concetti di base, un primo flusso di lavoro dettagliato e una libreria di modelli già pronti che puoi aprire e adattare immediatamente.
+Se hai già utilizzato uno strumento di intelligenza artificiale generativa, probabilmente sei abituato a digitare un messaggio, ottenere un risultato e ricominciare da zero la prossima volta che avrai bisogno di qualcosa di simile. Firefly Graph funziona in modo diverso. Invece di un singolo prompt, crei un grafico: un flusso di lavoro visivo passo dopo passo in cui ogni input, trasformazione e output è connesso e salvato insieme. Questa pagina ti guida attraverso tutto ciò di cui hai bisogno per creare il tuo primo grafico: i concetti di base, un primo flusso di lavoro dettagliato e una libreria di modelli già pronti che puoi aprire e adattare immediatamente.
 
 >[!TIP]
 >
@@ -28,9 +43,9 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Barattolo di trucco" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>1. Che cos'è il grafico Firefly?</strong></a>
+   <a href="what-is-firefly-graph.md"><strong>1. Che cos'è Firefly Graph?</strong></a>
     </div>
-    <em>Informazioni sul grafico del Firefly e sul confronto con un singolo prompt</em>
+    <em>Informazioni su Firefly Graph e confronto con un singolo prompt</em>
     <br>
   </td>
   <td>
@@ -80,7 +95,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
         <img alt="Makeup jar sfondo diverso" src="../assets/graph-5.png" />
     </a>
       <div>
-    <a href="customize-template.md"><strong>6. Personalizzare un modello</strong></a>
+    <a href="customize-template.md"><strong>6. Personalizza un modello</strong></a>
       </div>
       <em>Crea un modello che rispecchi la tua idea di partenza</em>
       <br>
@@ -90,7 +105,7 @@ Se hai già utilizzato uno strumento di intelligenza artificiale generativa, pro
       <img alt="Scatola di cioccolato" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Presentazione del webinar sul grafico di Firefly</strong></a>
+   <a href="introducing-graph.md"><strong>Presentazione del webinar del grafico Firefly</strong></a>
     </div>
     <em>In questo webinar, scopri tutto sul grafico del flusso di lavoro completamente visivo del Firefly</em>
     <br>

@@ -6,30 +6,35 @@ role: User
 level: Beginner, Intermediate
 keywords: Illuminazione 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+TQID: 'https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 2754
+source-wordcount: '2754'
 ht-degree: 0%
-
 ---
-
 # Suggerimenti e tecniche per l’illuminazione 3D in CGI
 
 Scopri l’illuminazione 3D e come creare diverse condizioni di luce per alterare completamente una scena generata da computer e gli oggetti in essa.
 
-Percepiamo il mondo intorno a noi usando i nostri sensi: sentiamo, sentiamo, odoriamo, vediamo. Possiamo vedere perché i nostri occhi raccolgono informazioni che ci arrivano da particelle elementari chiamate fotoni. Queste informazioni vengono elaborate dal nostro cervello per produrre un&#39;immagine. Ciò che interpretiamo come colore, lucentezza, trasparenza o qualità metalliche di un oggetto sono tutti prodotti dall&#39;interazione tra i fotoni e la superficie dell&#39;oggetto.
+Percepiamo il mondo intorno a noi usando i nostri sensi: sentiamo, sentiamo, odoriamo, vediamo. Possiamo vedere perché i nostri occhi raccolgono informazioni che ci arrivano da particelle elementari chiamate fotoni. Queste informazioni vengono elaborate dal nostro cervello per produrre un&#39;immagine. Ciò che interpretiamo come il colore, la lucentezza, la traslucidità o le qualità metalliche di un oggetto sono tutti prodotti dall&#39;interazione tra i fotoni e la superficie dell&#39;oggetto.
 
-La meccanica della luce in una scena 3D generata da computer (CGI) segue lo stesso principio naturale della dispersione dei fotoni, attraverso un processo chiamato ray tracing. I raggi rimbalzano dalle forme e interagiscono con i loro materiali, definendo come gli oggetti appaiono nell’immagine finale. Le luci espongono la dimensionalità di tutto ciò che esiste in una scena 3D.
+La meccanica della luce in una scena 3D generata da computer (CGI) segue lo stesso principio naturale della dispersione dei fotoni, attraverso un processo chiamato raytracing. I raggi rimbalzano dalle forme e interagiscono con i loro materiali, definendo come gli oggetti appaiono nell’immagine finale. Le luci espongono la dimensionalità di tutto ciò che esiste in una scena 3D.
 
 Alcuni materiali sono più sensibili di altri alle condizioni di illuminazione. Ad esempio, i metalli: un oggetto cromato riflette tutto ciò che lo circonda. Se una luce viene spostata, diventa più luminosa o più grande, tutte queste informazioni sono visibili direttamente sulla superficie cromata quasi come dettagli speculari, quindi possono apparire completamente diverse da una condizione di luce all’altra.
 
@@ -54,51 +59,51 @@ Quando si arriva alla fase di illuminazione, è ideale impostare le luci prima d
 
 ![Esempio di 3 luci che illuminano un modello 3D di un&#39;auto singolarmente e insieme](assets/Mastering3dlighting_3.gif)
 
-Un altro trucco utile consiste nel creare una sfera con un materiale metallico lucido (cromato o a specchio). Questa &quot;sfera a specchio&quot; riflette efficacemente l&#39;intera scena circostante, in modo da poter facilmente determinare la posizione, la direzione o le dimensioni della luce. In caso di luci ambiente, potrai vedere il suo riflesso nella sfera dello specchio, che ti aiuterà a impostare il suo orientamento nello spazio.
+Un altro trucco utile consiste nel creare una sfera con un materiale metallico lucido (cromato o a specchio). Questa &quot;sfera a specchio&quot; riflette efficacemente l&#39;intera scena circostante, in modo da poter facilmente determinare la posizione, la direzione o le dimensioni della luce. Nel caso delle luci ambientali, potrai vedere il suo riflesso nella sfera dello specchio, che ti aiuterà a impostare il suo orientamento nello spazio.
 
-![Utilizzo di una sfera a specchio (sfera con texture metallica) per visualizzare e orientare la luce ambiente in una scena 3D](assets/Mastering3dlighting_4.gif)
+![Utilizzo di una sfera speculare (sfera con texture metallica) per visualizzare e orientare la luce ambientale in una scena 3D](assets/Mastering3dlighting_4.gif)
 
 ## Tipi di luci nell&#39;Adobe [!DNL Dimension]
 
 ### Luci ambientali
 
-Le luci ambiente sono immagini equirettangolari (sferiche), che vengono avvolte intorno all’intera scena. Come suggerisce il nome, queste luci servono a emulare l&#39;intero ambiente, comprese le sorgenti luminose, che vi sono conservate.
+Le luci ambientali sono immagini equirettangolari (sferiche), che vengono avvolte intorno all’intera scena. Come suggerisce il nome, queste luci servono a emulare l&#39;intero ambiente, comprese le sorgenti luminose, che vi sono conservate.
 
-![Esempi di luci ambiente costituite da foto, una scena di studio 3D e una scena 3D astratta](assets/Mastering3dlighting_5.jpg)
+![Esempi di luce ambientale a partire da foto, una scena di studio 3D e una scena 3D astratta](assets/Mastering3dlighting_5.jpg)
 
-Quando crei una nuova scena in [[!DNL Dimension]](https://www.adobe.com/it/products/dimension.html), verrà creata una luce ambiente predefinita. Ecco perché si è immediatamente in grado di vedere qualcosa nella scena. Le risorse per iniziare di Adobe [!DNL Dimension] includono un certo numero di luci ambiente, che puoi provare immediatamente. Inoltre, [l&#39;Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offre un&#39;ampia selezione di luci ambiente.
+Quando crei una nuova scena in [[!DNL Dimension]](https://www.adobe.com/it/products/dimension.html), verrà creata una luce ambientale predefinita. Ecco perché si è immediatamente in grado di vedere qualcosa nella scena. Le risorse per iniziare di Adobe [!DNL Dimension] includono un certo numero di luci ambientali, che puoi provare immediatamente. Inoltre, [l&#39;Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id]&#x200B;[0]=2&load_type=3d+lp) offre un&#39;ampia selezione di luci ambientali.
 
-Le luci ambiente producono risultati altamente realistici e consentono di risparmiare molto tempo. Per ottenere manualmente un risultato simile, dovreste creare l’intero ambiente in 3D (comprese le varie sorgenti luminose), operazione che rappresenta un’enorme quantità di lavoro.
+La luce ambientale produce risultati altamente realistici e consente di risparmiare molto tempo. Per ottenere manualmente un risultato simile, dovreste creare l’intero ambiente in 3D (comprese le varie sorgenti luminose), operazione che rappresenta un’enorme quantità di lavoro.
 
 ![Esempio di una scena in cui l&#39;intero set (comprese le luci) è stato assemblato in 3D, per ottenere risultati da studio](assets/Mastering3dlighting_6.jpg)
 
-Esistono molti modi per creare le luci ambiente, tra cui l’acquisizione da una scena 3D o da una foto e l’utilizzo di sistemi parametrici. Se la luce ambiente è ottenuta da una scena 3D, il processo è semplice. L’immagine di output deve essere a 32 bit, in modo da acquisire i dati sulla luce di tutte le luci presenti nella scena. La videocamera 3D deve utilizzare la proiezione equirettangolare (per generare un&#39;immagine sferica).
+Esistono molti modi per creare luce ambientale, tra cui l’acquisizione da una scena 3D o da una foto e l’utilizzo di sistemi parametrici. Se la luce ambientale è costituita da una scena 3D, l’operazione è semplice. L’immagine di output deve essere a 32 bit, in modo da acquisire i dati sulla luce di tutte le luci presenti nella scena. La videocamera 3D deve utilizzare la proiezione equirettangolare (per generare un&#39;immagine sferica).
 
-![Esempio di una scena illuminata da una luce ambiente di studio 3D](assets/Mastering3dlighting_7.jpg)
+![Esempio di scena illuminata da una Luce ambientale di studio 3D](assets/Mastering3dlighting_7.jpg)
 
-![Una luce ambiente di studio 3D viene creata eseguendo il rendering di una scena 3D di uno studio in un&#39;immagine equirettangolare a 32 bit](assets/Mastering3dlighting_8.png)
+![Una luce ambientale di studio 3D viene creata eseguendo il rendering di una scena 3D di uno studio in un&#39;immagine equirettangolare a 32 bit](assets/Mastering3dlighting_8.png)
 
-Potete anche creare luci ambiente acquisendo fotografie del mondo reale. Per questo flusso di lavoro, è necessaria una fotocamera a 360° (ad esempio, [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). La fotocamera viene quindi utilizzata per il bracketing dell’esposizione (o esposizione a forcella), ovvero per scattare più foto dello stesso ambiente, scattate con una gamma di valori di esposizione diversi (da sottoesposizione a sovraesposizione). Queste immagini vengono quindi utilizzate per creare immagini a 32 bit, spesso denominate HDR (High Dynamic Range). Un modo per assemblare un’immagine di questo tipo è con la funzione Unisci come HDR in Photoshop. L’intervallo di esposizione incorporato diventerà la proprietà di intensità.
+Potete anche creare luce ambientale acquisendo fotografie del mondo reale. Per questo flusso di lavoro, è necessaria una fotocamera a 360° (ad esempio, [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). La fotocamera viene quindi utilizzata per il bracketing dell’esposizione (o esposizione a forcella), ovvero per scattare più foto dello stesso ambiente, scattate con una gamma di valori di esposizione diversi (da sottoesposizione a sovraesposizione). Queste immagini vengono quindi utilizzate per la creazione di immagini a 32 bit, spesso denominate HDR (abbreviazione di High dynamic range). Un modo per assemblare un’immagine di questo tipo è con la funzione Unisci come HDR di Photoshop. L’intervallo di esposizione incorporato diventerà la proprietà di intensità.
 
-![Esempio di scena 3D illuminata da una luce ambiente fotografica](assets/Mastering3dlighting_9.jpg)
+![Esempio di scena 3D illuminata da una Luce ambientale fotografica](assets/Mastering3dlighting_9.jpg)
 
-![La luce ambiente fotografica viene creata utilizzando il bracketing dell’esposizione e l’opzione Unisci come HDR Pro in Photoshop](assets/Mastering3dlighting_10.jpg)
+![La luce ambientale fotografica viene creata utilizzando il bracketing dell’esposizione e l’unione con HDR Pro in Photoshop](assets/Mastering3dlighting_10.jpg)
 
-In entrambi i casi, le sorgenti luminose (e le relative intensità) vengono &quot;incastonate&quot; in queste immagini e, una volta utilizzate in [!DNL Dimension], emetteranno luce.
+In entrambi i casi, le sorgenti luminose (e le relative intensità) vengono &quot;eseguite i baking&quot; in queste immagini e, una volta utilizzate in [!DNL Dimension], emetteranno luce.
 
 Con questi metodi hai acquisito tutte le luci, i riflessi e i dettagli necessari, ma le app 3D consentono di continuare a modificarli nello spazio 3D, in modo da poter regolare la rotazione dell’illuminazione, nonché modificare l’intensità e il colore complessivi.
 
-![Manipolazione dell’intensità e dell’orientamento di una luce ambiente in una scena 3D](assets/Mastering3dlighting_11.gif)
+![Manipolazione dell’intensità e dell’orientamento di una luce ambientale in una scena 3D](assets/Mastering3dlighting_11.gif)
 
 ### Luci direzionali
 
-Oltre alle luci ambiente, che emettono luce a 360 gradi, esistono anche luci direzionali, che emettono luce da una sola direzione. Vengono utilizzate per emulare torce e altri tipi di luci provenienti da un emettitore ben definito e possono essere di forma circolare o quadrata.
+Oltre alle Luci ambientali, che emettono luce a 360 gradi, esistono anche luci direzionali, che emettono luce da una sola direzione. Vengono utilizzate per emulare torce e altri tipi di luci provenienti da un emettitore ben definito e possono essere di forma circolare o quadrata.
 
 L’uso delle luci direzionali offre pieno controllo sull’impostazione dell’illuminazione. L’illuminazione della scena con queste luci funziona come nella fotografia tradizionale, in cui ogni luce può essere controllata in modo indipendente, per creare la propria illuminazione fotografica virtuale. Uno dei metodi di illuminazione più comuni è il sistema di luce a 3 punti.
 
-[!DNL Dimension] dispone di un&#39;azione comoda, Punta la luce verso il punto, che consente di controllare la rotazione e l&#39;altezza semplicemente facendo clic e trascinando su un oggetto 3D. In questo modo, potete dirigere dinamicamente i raggi di luce. Questi parametri possono essere regolati anche manualmente.
+[!DNL Dimension] dispone di un&#39;azione comoda, Punta la luce verso il punto, che consente di controllare la rotazione e il height semplicemente facendo clic e trascinando su un oggetto 3D. In questo modo, potete dirigere dinamicamente i raggi di luce. Questi parametri possono essere regolati anche manualmente.
 
-Puoi modificare il colore e l’intensità delle luci direzionali e regolare la forma della sorgente luminosa: puoi renderla circolare o rettangolare, allungarla o ingrandirla. Infine, potete ammorbidire i bordi della sorgente luminosa.
+Puoi modificare il colore e l’intensità delle luci direzionali e regolare la forma della sorgente luminosa: puoi renderla circolare o rettangolare, allungamento o ingrandire. Infine, potete ammorbidire i bordi della sorgente luminosa.
 
 ![Modifica della forma di una luce direzionale nell&#39;Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
@@ -110,19 +115,19 @@ Se rendete la sorgente di luce più piccola dell’oggetto, le ombre risulterann
 
 ### Sole e cielo
 
-La luce solare è un particolare tipo di luce direzionale. Il processo di impostazione è molto simile a una normale luce direzionale, tuttavia questa luce cambierà automaticamente il colore con l&#39;altezza; quando è vicina all&#39;orizzonte (valori bassi dell&#39;angolo di altezza), diventerà gradualmente più calda per simulare il tramonto. Il colore può essere modificato anche mediante i predefiniti. Nel frattempo, la presenza di nuvole influisce sulla morbidezza delle ombre.
+La luce solare è un particolare tipo di luce direzionale. La procedura di impostazione è molto simile a una normale luce direzionale, tuttavia questa luce cambierà automaticamente il colore con il height; quando è vicina all&#39;orizzonte (valori bassi dell&#39;angolo del height), diventerà gradualmente più calda per simulare il tramonto. Il colore può essere modificato anche mediante i predefiniti. Nel frattempo, la presenza di nuvole influisce sulla morbidezza delle ombre.
 
 ![Manipolazione delle proprietà di illuminazione per la luce solare sul modello di un&#39;auto 3D nell&#39;Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![Scena 3D sulla luna in cui l&#39;unica fonte di luce è la luce del sole](assets/Mastering3dlighting_16.jpg)
 
-Siamo in grado di emulare il cielo utilizzando le luci ambiente, e qualsiasi luce ambiente con il cielo può essere utilizzata. Ora è necessario allineare la luce solare (prodotta in [!DNL Dimension]) al Sole, acquisito nella luce ambiente. Un modo veloce per farlo è creare una sfera e assegnarvi un materiale metallico; questo ci fornirà riflessioni in tempo reale dell&#39;ambiente, così possiamo utilizzare Punta la luce verso il punto per allineare la luce solare con il Sole.
+Possiamo emulare il cielo con la luce ambientale e tutte le luci ambientali che lo presentano possono essere utilizzate. Ora è necessario allineare la luce solare (prodotta in [!DNL Dimension]) al Sole, catturato nella luce ambientale. Un modo veloce per farlo è creare una sfera e assegnarvi un materiale metallico; questo ci fornirà riflessioni in tempo reale dell&#39;ambiente, così possiamo utilizzare Punta la luce verso il punto per allineare la luce solare con il Sole.
 
-Se la luce ambiente presenta un cielo coperto, la proprietà Nuvolosità può essere utilizzata per soddisfare queste condizioni più da vicino.
+Se la luce ambientale presenta un cielo coperto, la proprietà Nuvolosità può essere utilizzata per soddisfare queste condizioni più da vicino.
 
 ![Manipolazione delle proprietà di nuvolosità per la luce ambiente del cielo sul modello 3D di un&#39;auto in Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
-Una volta associate la luce solare e la luce ambiente del cielo, puoi ruotarle insieme utilizzando la proprietà Rotazione globale.
+Una volta associate la luce solare e la Luce ambientale del cielo, puoi ruotarle insieme utilizzando la proprietà Rotazione globale.
 
 ### Luci basate su oggetti
 
@@ -136,7 +141,7 @@ Potete controllare la morbidezza delle ombre ridimensionando l’oggetto luminos
 
 ![La modifica delle dimensioni della luce dell&#39;oggetto aumenterà la quantità di luce e attenuerà le ombre](assets/Mastering3dlighting_19.gif)
 
-A differenza dei precedenti tipi di luce, queste luci possono utilizzare anche le texture, oltre ai colori. Le texture possono essere associate al colore di base dei materiali e l’intensità della luce viene controllata con un cursore del bagliore.
+A differenza dei precedenti tipi di luci, queste luci possono utilizzare anche texture, oltre a colori semplici. Le texture possono essere fissate al colore di base dei materiali e l’intensità della luce viene controllata con un cursore che ne regola il bagliore.
 
 ![Applicazione di una texture a una luce oggetto che illumina il modello 3D di un&#39;auto](assets/Mastering3dlighting_20.gif)
 
@@ -166,7 +171,7 @@ Esistono due modi per creare l&#39;illuminazione a 3 punti in [!DNL Dimension]: 
 
 ![Esempio di configurazione di una luce a 3 punti in una scena 3D](assets/Mastering3dlighting_25.jpg)
 
-![Un softbox da una configurazione di illuminazione 3D viene decostruito in un frame, lampade e schermo](assets/Mastering3dlighting_26.jpg)
+![Un softbox da una configurazione di illuminazione 3D viene decostruito in un fotogramma, lampade e schermo](assets/Mastering3dlighting_26.jpg)
 
 ### Illuminazione creativa
 
@@ -186,9 +191,9 @@ Il soggetto della scena (tubi) è completamente circondato dalla geometria delle
 
 La creazione di una visualizzazione di un interno 3D segue una serie di regole, che garantiscono quasi sempre buoni risultati. Per questo caso d’uso, considereremo solo la luce naturale (nessuna sorgente artificiale, come le lampade).
 
-Prima di tutto, una scena come questa deve trovarsi in un ambiente chiuso. Proprio come nella vita reale, l&#39;interno avrà bisogno di pareti, pavimento, soffitto e finestre. In questo modo la luce entra dalle finestre e rimbalza (tramite un processo chiamato ray tracing). Questo comportamento produce un’illuminazione molto naturale (ad esempio, le aree occluse, come gli angoli, saranno più scure).
+Prima di tutto, una scena come questa deve trovarsi in un ambiente chiuso. Proprio come nella vita reale, l&#39;interno avrà bisogno di pareti, pavimento, soffitto e finestre. In questo modo la luce entra dalle finestre e rimbalza (tramite un processo chiamato raytracing). Questo comportamento produce un’illuminazione molto naturale (ad esempio, le aree occluse, come gli angoli, saranno più scure).
 
-Poiché la scena è quasi completamente circondata da geometria architettonica, vedremo pochissima illuminazione e quasi nessuna riflessione dalla luce ambiente. Tuttavia, in questo caso, stiamo di fatto costruendo il nostro ambiente, che è l&#39;interno stesso. Così la luce reagirà con gli oggetti nella scena rimbalzando da loro e dalle pareti circostanti. Gli oggetti si rifletteranno a vicenda e rifletteranno solo le pareti circostanti. Tuttavia, è consigliabile aggiungere una luce ambiente con il cielo. In questo modo verrà aggiunto un riempimento blu diffuso.
+Poiché la scena è quasi completamente circondata da geometria architettonica, vedremo pochissima illuminazione e quasi nessuna riflessione dalla Luce ambientale. Tuttavia, in questo caso, stiamo di fatto costruendo il nostro ambiente, che è l&#39;interno stesso. Così la luce reagirà con gli oggetti nella scena rimbalzando da loro e dalle pareti circostanti. Gli oggetti si rifletteranno a vicenda e rifletteranno solo le pareti circostanti. Tuttavia, è consigliabile aggiungere una Luce ambientale con il cielo. In questo modo verrà aggiunto un riempimento blu diffuso.
 
 Il modo più semplice per impostare questa luce è usare piani con materiali luminosi. In questo caso abbiamo tre piani, che coprono tutte le aperture all&#39;interno.
 
@@ -196,19 +201,19 @@ Il modo più semplice per impostare questa luce è usare piani con materiali lum
 
 L’intensità della luce è controllata dalla proprietà Bagliore sui materiali dei piani. Puoi aggiungere un colore o anche una texture, per proiettare ombre interessanti. L’uso di materiali luminosi fornirà anche il decadimento dell’intensità della luce, molto importante per l’illuminazione di interni.
 
-![Esempio di luce ambiente, luce ambiente e luce chiave e luce ambiente, chiave e luce di riempimento che illumina una scena 3D di un soggiorno](assets/Mastering3dlighting_31.gif)
+![Esempio di luce ambientale, ambiente e luce chiave e luci ambiente, chiave e di riempimento che illuminano una scena 3D di un soggiorno](assets/Mastering3dlighting_31.gif)
 
 ### Illuminazione per esterni
 
 ![Scena di un tronco d&#39;albero sul suolo di una foresta, intrecciato con fili e nastri CGI illuminati con illuminazione 3D esterna](assets/Mastering3dlighting_32.jpg)
 
-Creare un’illuminazione per esterni è abbastanza semplice e si riduce all’uso di un sistema di luci Sole e cielo (vedi sopra). È importante abbinare correttamente la luce del sole alla luce ambiente del cielo, prestando attenzione sia all’orientamento che al valore della nuvolosità.
+Creare un’illuminazione per esterni è abbastanza semplice e si riduce all’uso di un sistema di luci Sole e cielo (vedi sopra). È importante abbinare correttamente la luce del sole alla luce ambientale del cielo, prestando attenzione sia all’orientamento che al valore della nuvolosità.
 
 La scena stessa gioca un ruolo importante in questo. Per produrre risultati convincenti, utilizza gli oggetti presenti nella scena come catalizzatori che interagiscono con la luce. Nel rendering della foresta mostrato sopra, gli oggetti (varie piante, tronchi e alberi) sono posizionati l&#39;uno vicino all&#39;altro.
 
 ![Gli oggetti di una scena di foresta 3D indicano come la luce interagirà con l’ambiente](assets/Mastering3dlighting_33.png)
 
-Ciò significa che ci saranno molte complesse interazioni di ray tracing, poiché la luce rimbalza tra gli oggetti. I punti ombreggiati appaiono scuri (come previsto), mentre le aree esposte restano luminose.
+Ciò significa che ci sarà un&#39;interazione complessa tra i raytracing, poiché la luce rimbalza tra gli oggetti. I punti ombreggiati appaiono scuri (come previsto), mentre le aree esposte restano luminose.
 
 ![Utilizzo della Rotazione globale nell&#39;Adobe [!DNL Dimension] per riorientare i sistemi di luce Sole e Cielo in una scena 3D](assets/Mastering3dlighting_34.gif)
 

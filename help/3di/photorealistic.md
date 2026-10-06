@@ -1,28 +1,33 @@
 ---
 title: Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D
-description: Scoprite come creare una fotografia virtuale fotorealistica e incredibilmente ingannevole con la composizione e il rendering di immagini 3D in Adobe [!DNL Dimension]
+description: Scopri come creare una fotografia virtuale fotorealistica e incredibilmente ingannevole con la composizione e il rendering di immagini 3D in Adobe [!DNL Dimension]
 feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: fotografia virtuale, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+TQID: 'https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 2406
+source-wordcount: '2406'
 ht-degree: 0%
-
 ---
-
 # Creazione di fotografie virtuali fotorealistiche con rendering e composizione 3D
 
 ![Esempi di fotografie virtuali fotorealistiche realizzate con l&#39;Adobe [!DNL Dimension]](assets/Photorealistic_1.png)
@@ -42,9 +47,9 @@ L&#39;Adobe [!DNL Dimension] ha consentito agli utenti di combinare in modo flui
 
 ![La funzione Come immagine nell&#39;Adobe [!DNL Dimension] analizza l&#39;immagine di sfondo e valuta la lunghezza focale e la posizione della fotocamera utilizzata per acquisirla](assets/Photorealistic_4.gif)
 
-La funzione Come immagine analizza l’immagine di sfondo e valuta la lunghezza focale e la posizione della fotocamera utilizzata per acquisirla. Viene quindi creata una videocamera 3D nella scena [!DNL Dimension] che può essere utilizzata per eseguire il rendering degli elementi 3D con la stessa prospettiva dell&#39;immagine di sfondo, in modo che vengano composti insieme.
+La funzione Come immagine analizza l’immagine di sfondo e valuta la lunghezza focale e la posizione della fotocamera utilizzata per acquisirla. Viene quindi creata una videocamera 3D nella scena [!DNL Dimension] che può essere utilizzata per eseguire il rendering degli elementi 3D all&#39;interno della stessa Prospettiva dell&#39;immagine di sfondo in modo che vengano composti insieme.
 
-Ma cosa accade con tutto ciò che non è stato inquadrato dalla telecamera?  L&#39;ambiente in cui un&#39;immagine viene acquisita ha un ruolo fondamentale, perché ne definisce ogni aspetto. Un oggetto all’interno di un’immagine riflette la luce dell’ambiente circostante, anche di tutto ciò che si trova dietro alla fotocamera. Quindi, affinché gli elementi 3D a più livelli si integrino perfettamente con lo sfondo dell&#39;immagine, devono riflettere appieno l&#39;illuminazione nell&#39;ambiente in cui è stata scattata l&#39;immagine.
+Ma cosa succede a tutto ciò che non è stato acquisito nel fotogramma della telecamera?  L&#39;ambiente in cui un&#39;immagine viene acquisita ha un ruolo fondamentale, perché ne definisce ogni aspetto. Un oggetto all’interno di un’immagine riflette la luce dell’ambiente circostante, anche di tutto ciò che si trova dietro alla fotocamera. Quindi, affinché gli elementi 3D a più livelli si integrino perfettamente con lo sfondo dell&#39;immagine, devono riflettere appieno l&#39;illuminazione nell&#39;ambiente in cui è stata scattata l&#39;immagine.
 
 ![Immagine composita fotorealistica 3D di un ciclomotore in un soggiorno](assets/Photorealistic_5.png)
 
@@ -56,13 +61,13 @@ Entra nel mondo delle immagini panoramiche HDR a 360°. Queste immagini sono sta
 
 ![Immagine del prodotto della fotocamera a 360 gradi Ricoh Theta](assets/Photorealistic_7.png)
 
-Le fotocamere Ricoh Theta, Gopro MAX e Insta 360 possono acquisire immagini panoramiche a 360°. La Ricoh Theta è dotata di bracketing dell’esposizione (o esposizione a forcella) automatico, un elemento fondamentale nel processo di acquisizione. In questo modo si riduce il tempo e l’impegno necessari per acquisire immagini HDR e si rende più accessibile ai fotografi.
+Le fotocamere Ricoh Theta, Gopro MAX e Insta 360 possono acquisire immagini panoramiche a 360°. La Ricoh Theta è dotata di bracketing dell’esposizione (o esposizione a forcella) automatico, un elemento fondamentale nel processo di acquisizione. In questo modo si riduce il tempo e l’impegno necessari per acquisire l’HDR e si rende più accessibile ai fotografi.
 
 ## Processo per la creazione di immagini composite fotorealistiche
 
 ### [!DNL Capture]
 
-Per acquisire ambienti per la composizione, sono necessari due elementi principali: una o più immagini di sfondo di alta qualità e un panorama HDR dell’ambiente in cui è stata scattata.
+Per acquisire ambienti per la composizione, sono necessari due elementi principali: una o più immagini di sfondo di alta qualità e un panorama HDR a 360° dell’ambiente in cui è stata scattata.
 
 Per acquisire efficacemente questi contenuti è importante sfruttare le capacità e gli strumenti esistenti di un fotografo. La creazione di una bella immagine di sfondo richiede un occhio per la composizione e l&#39;attenzione ai dettagli. Le immagini di sfondo richiedono anche una mentalità speciale per creare qualcosa di utile per la composizione di elementi 3D in.
 
@@ -78,7 +83,7 @@ Quando si tratta di acquisire l’immagine di sfondo, è importante tenere prese
 
 Altrettanto importante è la situazione di illuminazione all’interno dell’immagine, in quanto influirà notevolmente sul contenuto 3D composito. Lo scatto dovrebbe essere illuminato da sopra la spalla o dal lato. In questo modo si ottengono i risultati migliori, in quanto fungerà da luce principale quando vengono inseriti oggetti 3D nella scena. Potrebbe essere allettante riprendere verso la luce in assenza di elementi di messa a fuoco, ma ricordate che questo produrrà contenuti sempre in controluce. L’aggiunta temporanea di un oggetto sostitutivo alla scena può essere utile per comporre e valutare l’illuminazione.
 
-## Acquisizione dell’immagine panoramica HDR
+## Acquisizione del piano HDR
 
 ### Posizionamento della fotocamera
 
@@ -94,7 +99,7 @@ Posizionate la fotocamera a 360° nel centro generale dell&#39;area su cui vi co
 
 ### Valori di esposizione tra parentesi
 
-Per creare un ambiente HDR con la fotocamera a 360°, è necessario acquisire diversi valori di esposizione per combinarli in un’immagine HDR in fase di post-produzione. La quantità di valori di esposizione non è standardizzata, ma in genere si desidera che l’estremità superiore dell’intervallo di esposizione vada a un punto in cui non ci sono più informazioni nelle ombre e l’estremità inferiore dell’intervallo di esposizione fino a un punto in cui non ci sono più informazioni nelle aree di luce.
+Per creare un ambiente HDR con una fotocamera a 360°, è necessario acquisire diversi valori di esposizione per combinarli in un’immagine HDR in fase di post-elaborazione. La quantità di valori di esposizione non è standardizzata, ma in genere si desidera che l’estremità superiore dell’intervallo di esposizione vada a un punto in cui non ci sono più informazioni nelle ombre e l’estremità inferiore dell’intervallo di esposizione fino a un punto in cui non ci sono più informazioni nelle aree di luce.
 
 Idealmente, la fotocamera a 360° dispone di bracketing automatico che consente di scattare in batch le foto con le varie esposizioni. Le impostazioni ideali prevedono il valore ISO più basso disponibile per evitare il disturbo e un valore di apertura elevato per garantire la nitidezza. I valori di esposizione possono quindi essere modificati usando la velocità dell&#39;otturatore e suddivisi per interruzioni; dimezzando o raddoppiando l&#39;esposizione.
 
@@ -114,9 +119,9 @@ Di seguito è riportato un esempio di valori di esposizione utilizzati per ripre
 
 Se la fotocamera a 360° utilizzata è in grado di produrre immagini RAW, i valori di esposizione possono essere divisi in incrementi di 2-4 stop, poiché conservano più informazioni rispetto alle immagini a 8 bit come JPEG.
 
-![Menu per la selezione di file per Unisci come HDR Pro in Adobe Photoshop](assets/Photorealistic_13.png)
+![Menu per la selezione di file Unisci come HDR Pro in Adobe Photoshop](assets/Photorealistic_13.png)
 
-Dopo aver regolato il colore dei file dei valori di esposizione, è possibile esportarli temporaneamente come singoli file da unire in Photoshop. Il tipo di file deve dipendere dall&#39;origine, ma in entrambi i casi non utilizzare un formato compresso come JPEG. In Photoshop, utilizzate File > Automatizza > Unisci come HDR Pro e selezionate tutti i file esportati con i valori di esposizione.
+Dopo aver regolato il colore dei file dei valori di esposizione, è possibile esportarli temporaneamente come singoli file da unire in Photoshop. Il tipo di file deve dipendere dall&#39;origine, ma in entrambi i casi non utilizzare un formato compresso come JPEG. In Photoshop, usa File > Automatizza > Unisci come HDR Pro... e seleziona tutti i valori di esposizione esportati.
 
 ![Schermata di anteprima Unisci come HDR Pro in Adobe Photoshop](assets/Photorealistic_14.png)
 
@@ -126,11 +131,11 @@ Assicurati che &quot;Mode&quot; sia impostato su 32 bit. L’opzione &quot;Rimuo
 
 ![Immagine panoramica HDR a 360 gradi di un ufficio con ombre visibili in basso](assets/Photorealistic_16.png)
 
-Il risultato è un’immagine HDR utilizzabile per illuminare le scene in 3D.
+Il risultato è un’immagine dell’HDR che può essere utilizzata per illuminare le scene in 3D.
 
 ![Immagine panoramica HDR a 360 gradi di un ufficio con ombre visibili in basso](assets/Photorealistic_17.png)
 
-I passaggi finali consistono nel rimuovere eventuali ombre e gambe del treppiede visibili nella parte inferiore dell’immagine e regolare l’esposizione predefinita per illuminare correttamente la scena. La rimozione dei dettagli può essere effettuata utilizzando lo strumento Clona in Photoshop. La regolazione dell&#39;esposizione deve essere eseguita in combinazione con gli sfondi in [!DNL Dimension], poiché i valori di esposizione dell&#39;immagine IBL HDR sono i valori di illuminazione per gli oggetti 3D.
+I passaggi finali consistono nel rimuovere eventuali ombre e gambe del treppiede visibili nella parte inferiore dell’immagine e regolare l’esposizione predefinita per illuminare correttamente la scena. La rimozione dei dettagli può essere effettuata utilizzando lo strumento Clona in Photoshop. La regolazione dell&#39;esposizione deve essere eseguita in combinazione con gli sfondi in [!DNL Dimension], poiché il valore di esposizione dell&#39;immagine IBL dell&#39;HDR corrisponde ai valori di illuminazione per gli oggetti 3D.
 
 ### Acquisizione degli sfondi
 
@@ -146,27 +151,27 @@ Al termine dell’acquisizione, le immagini devono essere elaborate in modo da r
 
 ## Assemblaggio dell&#39;immagine composita in [!DNL Dimension]
 
-Dopo aver raccolto e completato questi elementi, è ora possibile assemblarli in una scena nell&#39;Adobe [!DNL Dimension]. È sufficiente trascinare lo sfondo nella scena, dove verrà applicato sullo sfondo; quindi, aggiungere l’immagine panoramica HDR nello slot per le immagini di luce ambiente.
+Dopo aver raccolto e completato questi elementi, è ora possibile assemblarli in una scena nell&#39;Adobe [!DNL Dimension]. È sufficiente trascinare lo sfondo nella scena, dove verrà applicato sullo sfondo; quindi aggiungere l’immagine panoramica dell’HDR nello slot per luce ambientale.
 
 Trascina l’immagine di sfondo in un’area vuota dell’area di lavoro oppure seleziona Ambiente nel pannello della scena e aggiungi l’immagine all’input dello sfondo.
 
 ![L&#39;immagine di sfondo di una foto virtuale può essere selezionata dal menu Proprietà nell&#39;Adobe [!DNL Dimension]](assets/Photorealistic_20.png)
 
-Aggiungete l’immagine panoramica HDR selezionando Luce ambiente e aggiungendola all’input Immagine.
+Aggiungi l’immagine panoramica dell’HDR selezionando la Luce ambientale e aggiungendola all’input Immagine.
 
-![La sorgente di luce ambiente può essere aggiunta all&#39;immagine di sfondo di una foto virtuale dal menu Scena nell&#39;Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
+![L&#39;origine della Luce ambientale può essere aggiunta all&#39;immagine di sfondo di una foto virtuale dal menu Scena nell&#39;Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
 
-Potete quindi usare &quot;Come immagine&quot; sullo sfondo per abbinare la risoluzione e le proporzioni, nonché la prospettiva della fotocamera. Anziché generare l’ambiente dall’immagine di sfondo, l’immagine panoramica HDR acquisita viene utilizzata per illuminare la scena, lasciando deselezionata l’opzione &quot;Crea luci&quot;.
+Potete quindi usare &quot;Come immagine&quot; sullo sfondo per adattare risoluzione e aspetto, nonché la Prospettiva della fotocamera. Anziché generare l’ambiente dall’immagine di sfondo, l’immagine panoramica acquisita dall’HDR viene utilizzata per illuminare la scena, lasciando deselezionata l’opzione &quot;crea luci&quot;.
 
-![Utilizzo della funzione Come immagine nell&#39;Adobe [!DNL Dimension] per eseguire il rendering di un&#39;immagine sferica metallica 3D con le luci ambiente da un&#39;immagine panoramica HDR](assets/Photorealistic_22.png)
+![Utilizzo della funzione Come immagine nell&#39;Adobe [!DNL Dimension] per eseguire il rendering di un&#39;immagine sferica metallica 3D con le luci ambientali di un panorama HDR](assets/Photorealistic_22.png)
 
 Ora gli oggetti che vengono aggiunti alla scena verranno composti realisticamente nello sfondo, poiché sono illuminati dall&#39;ambiente in cui è stata scattata l&#39;immagine.
 
-Per valutare rapidamente l’orientamento e l’esposizione dell’immagine panoramica HDR rispetto allo sfondo, è possibile posizionare nella scena una sfera di materiale metallico, dal pannello di risorse gratuite di [!DNL Dimension]. La rotazione della luce ambiente può quindi essere posizionata in modo che le riflessioni appaiano corrette. Se l’illuminazione dall’immagine panoramica HDR sovraespone o sottoespone la sfera, aumenta o riduci l’esposizione dell’immagine panoramica HDR.
+Per valutare rapidamente l’orientamento e l’esposizione dell’immagine panoramica dell’HDR rispetto allo sfondo, è possibile posizionare nella scena una sfera di materiale metallico, dal pannello delle risorse gratuite di [!DNL Dimension]. La rotazione della luce ambientale può quindi essere posizionata in modo che le riflessioni appaiano corrette. Se l’illuminazione dall’immagine panoramica dell’HDR sovraespone o sottoespone la sfera, l’esposizione dell’immagine panoramica dell’HDR deve essere aumentata o diminuita per compensarla.
 
 ![Una foto virtuale fotorealistica di una sfera metallica è composta su un&#39;immagine di sfondo di un ufficio](assets/Photorealistic_23.png)
 
-Per valutare rapidamente l’orientamento e l’esposizione dell’immagine panoramica HDR rispetto allo sfondo, è possibile posizionare nella scena una sfera di materiale metallico, dal pannello di risorse gratuite di [!DNL Dimension]. La rotazione della luce ambiente può quindi essere posizionata in modo che le riflessioni appaiano corrette. Se l’illuminazione dall’immagine panoramica HDR sovraespone o sottoespone la sfera, aumenta o riduci l’esposizione dell’immagine panoramica HDR.
+Per valutare rapidamente l’orientamento e l’esposizione dell’immagine panoramica dell’HDR rispetto allo sfondo, è possibile posizionare nella scena una sfera di materiale metallico, dal pannello delle risorse gratuite di [!DNL Dimension]. La rotazione della luce ambientale può quindi essere posizionata in modo che le riflessioni appaiano corrette. Se l’illuminazione dall’immagine panoramica dell’HDR sovraespone o sottoespone la sfera, l’esposizione dell’immagine panoramica dell’HDR deve essere aumentata o diminuita per compensarla.
 
 ## Risultato finale: un’immagine composita fotorealistica
 
