@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Scopri come ottenere un vantaggio competitivo sullo sviluppo di contenuti creativi per una campagna di marketing. In questo flusso di lavoro, un product manager del marchio avvia un nuovo progetto in Adobe Express e crea pagine in cui i team possono condividere idee, immagini e pensieri per brainstorming e condividere con altri utenti. I membri del gruppo modificano contemporaneamente in tempo reale aggiungendo le loro immagini e idee. Ogni membro del team utilizza una combinazione di risorse del marchio preesistenti in [CC Libraries](cc-libraries.md) e Text to Image per comunicare idee. I progettisti aggiungono alla bacheca i prototipi progettati nelle app Creative Cloud che sono collegati e aggiornati automaticamente durante la creazione di nuove revisioni.
 
-Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
+Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/it/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446168?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Scopri come i team di marketing sul campo distribuiti possono personalizzare facilmente i contenuti in base all&#39;area geografica per le campagne di marketing locali. In questo flusso di lavoro, il team di marketing globale crea risorse del marchio e pubblica contenuti come [modelli](create-templates.md) in Adobe Express. Un esperto di marketing sul campo utilizza l&#39;Adobe Express per accedere alle risorse della campagna e adatta le sue progettazioni alle esigenze dell&#39;area. Altri team regionali iniziano quindi nuovi progetti Express da modelli on-brand per nuovi volantini, banner Web e altri contenuti.
 
-Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
+Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/it/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433994?captions=ita&quality=12&learn=on&hidetitle=true)
