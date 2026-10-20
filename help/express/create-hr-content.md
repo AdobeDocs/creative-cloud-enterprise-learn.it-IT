@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Creare contenuti HR multicanale per eventi
 
-Scopri come creare rapidamente contenuti HR multicanale coerenti con il marchio della tua organizzazione. La distribuzione rapida di contenuti multicanale permette di raggiungere più dipendenti con le comunicazioni, consentendo loro di essere sempre aggiornati sulle ultime novità. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
+Scopri come creare rapidamente contenuti HR multicanale coerenti con il marchio della tua organizzazione. La distribuzione rapida di contenuti multicanale permette di raggiungere più dipendenti con le comunicazioni, consentendo loro di essere sempre aggiornati sulle ultime novità. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/it/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434605?captions=ita&quality=12&learn=on&hidetitle=true)

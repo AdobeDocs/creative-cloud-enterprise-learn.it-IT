@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Crea poster del webinar con Firefly
 
-Scoprite come utilizzare la funzione di conversione da testo a immagine, basata su Adobi Firefly, in Adobe Express per creare un poster del webinar per un evento di realtà virtuale. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
+Scoprite come utilizzare la funzione di conversione da testo a immagine, basata su Adobi Firefly, in Adobe Express per creare un poster del webinar per un evento di realtà virtuale. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/it/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446871?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Creazione di contenuti volantini per una campagna di marketing con Firefly
 
-Scoprite come utilizzare la funzione di conversione da testo a immagine, basata sull&#39;Adobe Firefly, in Adobe Express per la creazione di contenuti localizzati da una campagna di marketing di un hotel globale. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/express/).
+Scoprite come utilizzare la funzione di conversione da testo a immagine, basata sull&#39;Adobe Firefly, in Adobe Express per la creazione di contenuti localizzati da una campagna di marketing di un hotel globale. Questo tutorial utilizza il nuovo [Adobe Express](https://www.adobe.com/it/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443592?captions=ita&quality=12&learn=on&hidetitle=true)
