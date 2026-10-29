@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -68,8 +68,13 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="Da breve a storyboard: esplorare le direzioni video prima della produzione" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>Da breve a storyboard: esplorare le indicazioni video prima della produzione</strong></a>
+    </div>
+    <em>Scopri come trasformare un suggerimento creativo in una bacheca condivisa con direzioni visive dinamiche</em>
     <br>
   </td>
   <td>
