@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
 
-Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semplificare i flussi di lavoro creativi in Creative Cloud. Queste esercitazioni sono raggruppate per ruolo: Designer grafico, Director creativo/artistico, Photoshop Artist/Retoucher ed Editor video.
+Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semplificare i flussi di lavoro creativi utilizzando l&#39;intelligenza artificiale in Creative Cloud. Queste esercitazioni sono raggruppate per ruolo: Designer grafico, Director creativo/artistico, Photoshop Artist/Retoucher ed Editor video.
 
 ## Designer grafico
 
@@ -31,17 +31,17 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
