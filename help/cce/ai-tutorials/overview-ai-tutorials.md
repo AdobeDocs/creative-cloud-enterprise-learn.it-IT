@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -141,9 +141,14 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <em>Scopri come utilizzare Generative Extend in Premiere</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Passa più rapidamente al taglio di prova" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Passate più rapidamente al taglio di prova</strong></a>
+    </div>
+    <em>Scoprite come creare un taglio di prova dalle interviste e far scorrere rapidamente il video in Premiere, senza scorrere ogni clip</em>
     <br>
   </td>
   <td>
