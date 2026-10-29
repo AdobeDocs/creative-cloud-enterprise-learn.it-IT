@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -52,3 +52,36 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
   </td>
 </tr>
 </table>
+
+## Director creativo/artistico
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="20 indicazioni da un breve, prima di pranzo" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>20 indicazioni da un breve, prima del pranzo</strong></a>
+    </div>
+    <em>Scopri come trasformare un suggerimento creativo in una bacheca condivisa con direzioni visive dinamiche</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
