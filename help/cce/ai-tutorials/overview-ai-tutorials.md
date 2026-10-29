@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
+source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '193'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -84,4 +84,37 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
   </td>
 </tr>
 </table>
+
+## Artista/Ritoccatore Photoshop
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="Ritoccate più velocemente e mantenete i pixel originali" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>Ritoccare più velocemente e mantenere i pixel originali</strong></a>
+    </div>
+    <em>Scopri come aggiungere ombre naturali a una foto di prodotto in Photoshop mantenendo intatti i pixel originali</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
