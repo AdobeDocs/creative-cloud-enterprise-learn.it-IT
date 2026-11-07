@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scoprite come creare un taglio di prova dalle interviste e fare un B-roll più velocemente in Premiere, senza scorrere ogni clip. Scopri come la modifica basata su testo consente di selezionare i dialoghi da una trascrizione e come Media Intelligence trova il B-roll descrivendo gli elementi sullo schermo, come &quot;le mani dipingono un murale. Si decide comunque cosa rimanere, dove tagliare e come si sente la storia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506011?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506027?captions=ita&quality=12&learn=on&hidetitle=true)

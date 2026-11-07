@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scoprite come cancellare aree specifiche delle immagini. In alternativa, potete utilizzare lo strumento di ripristino per ripristinare parti dell’immagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506186?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

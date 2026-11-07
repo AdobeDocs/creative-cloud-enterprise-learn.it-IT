@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri come scaglionare le animazioni per ottenere il comportamento perfetto per catturare l&#39;attenzione di qualcuno. Regola i tempi dei diversi elementi per facilitare la lettura dei messaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506256?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

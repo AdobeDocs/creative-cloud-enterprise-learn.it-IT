@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Scopri come creare annunci coinvolgenti per schermi digitali per l&#39;ufficio. Utilizzando la funzione testo in modello, basata sull&#39;Adobe Firefly, puoi generare un&#39;immagine personalizzata con spazio per la copia del testo. Per rendere l’annuncio più accattivante, vengono aggiunti Riempimento generativo e animazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506321?captions=ita&quality=12&learn=on&hidetitle=true)

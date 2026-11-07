@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri come salvare e condividere i modelli in un kit del marchio o in una libreria per il tuo team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506267?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

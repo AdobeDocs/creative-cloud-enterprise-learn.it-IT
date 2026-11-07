@@ -14,4 +14,4 @@ ht-degree: 0%
 
 In questo tutorial, la tecnologa creativa Mary Poplin mostra come trasformare un breve e alcuni riferimenti in fotogrammi storyboard, generare brevi test di movimento e confrontare due direzioni affiancate, in modo da poter scegliere quella che vale la pena produrre. Guarda il tutorial e provalo nelle bacheche dei Firefly nella descrizione del prossimo video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505948?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505982?captions=ita&quality=12&learn=on&hidetitle=true)

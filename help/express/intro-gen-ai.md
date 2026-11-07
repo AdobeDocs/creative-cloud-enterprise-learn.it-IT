@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri le nuove funzioni di intelligenza artificiale generale in Adobe Express. Utilizzando un prompt di testo, puoi creare facilmente progetti e modelli, aggiungere elementi alle immagini e applicare effetti speciali al testo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506219?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

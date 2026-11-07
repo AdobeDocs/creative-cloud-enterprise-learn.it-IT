@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scoprite come aggiungere immagini di intelligenza artificiale generativa, basate su Adobi Firefly, ai vostri progetti creativi. Personalizza il tuo contenuto generando immagini in base alle richieste di testo, con opzioni per stili e tipi di contenuto diversi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506253?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Aggiornate rapidamente un’immagine grafica statica sostituendo gli elementi con il riempimento generativo, cambiando il testo in base al carattere tipografico e al colore e rimuovendo lo sfondo sulle nuove immagini. Si tratta di un modo semplice e veloce per riutilizzare le risorse grafiche, ad esempio i piani di finanziamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427116?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506348?captions=ita&quality=12&learn=on&hidetitle=true)

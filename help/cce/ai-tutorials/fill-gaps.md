@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Il tuo B-roll è breve di alcuni secondi e la ripresa è finita. E adesso? Scoprite come utilizzare Generative Extend in Premiere per generare metraggio aggiuntivo dalla clip esistente, in modo da poter effettuare il taglio esattamente dove serve.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505973?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Pianifica i post social per Instagram, Facebook, Twitter, Pinterest e LinkedIn. Potete scegliere proprietà specifiche per ogni piattaforma. In Instagram, ad esempio, puoi scegliere se il contenuto sarà un post, una storia o un rullo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506303?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

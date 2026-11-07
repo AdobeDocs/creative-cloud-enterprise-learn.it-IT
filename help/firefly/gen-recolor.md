@@ -38,4 +38,4 @@ Scopri come visualizzare istantaneamente in anteprima diverse variazioni di colo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427610?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506096?captions=ita&quality=12&learn=on&hidetitle=true)

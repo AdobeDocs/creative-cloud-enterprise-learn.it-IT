@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Scopri tutti i diversi modi per aggiungere testo a progetti creativi, tra cui la modifica, lo spostamento e l&#39;eliminazione dei livelli di testo, la modifica dei font, la regolazione delle dimensioni e del layout del testo, l&#39;allineamento del testo, la modifica del colore di riempimento e del contorno, l&#39;aggiunta di ombre esterne e l&#39;utilizzo di forme e testo ritagliato. I font consigliati sono forniti per l&#39;ispirazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506366?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

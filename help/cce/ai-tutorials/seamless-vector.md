@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scopri come creare un modello di marchio uniforme in Illustrator senza dover controllare manualmente ogni bordo ripetuto. Scopri come Generare Pattern crea un punto di partenza, come inserire l&#39;icona del tuo logo nel riquadro e come ridimensionare la ripetizione per packaging, totalizzazioni e sfondi di eventi. Vedrai anche come Generative Recolor crea tre colorway da un design completamente modificabile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505943?captions=ita&quality=12&learn=on&hidetitle=true)

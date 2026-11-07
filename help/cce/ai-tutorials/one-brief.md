@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scoprite come trasformare un suggerimento creativo in una bacheca condivisa di forti direzioni visive, con strumenti generativi che fanno il sollevamento pesante e fate la chiamata. La tecnologa creativa Mary Poplin mostra come utilizzare le bacheche di Firefly per inserire schizzi e riferimenti, generare una serie di opzioni, modificare le idee e restringere le due o tre direzioni che vale la pena difendere.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505954?captions=ita&quality=12&learn=on&hidetitle=true)
