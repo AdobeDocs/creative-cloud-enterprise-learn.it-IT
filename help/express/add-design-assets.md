@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Scopri come aggiungere elementi di progettazione visiva ai tuoi progetti per renderli più attraenti e coinvolgenti. Esistono quattro tipi di elementi: risorse di progettazione, sfondi, forme e icone. Ogni tipo di elemento ha centinaia di componenti diversi tra cui scegliere. Ogni elemento è progettato professionalmente e pronto per essere aggiunto ai progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506159?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

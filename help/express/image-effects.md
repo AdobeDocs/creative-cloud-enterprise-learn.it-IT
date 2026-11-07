@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri tutti i diversi modi per aggiungere un’immagine e i relativi effetti ai tuoi progetti creativi. Sostituite le immagini modello con elementi grafici Adobe Stock più adatti. Usate il pannello Livelli per riordinare i livelli, cercare nuove immagini e modificare il ritaglio. La natura non distruttiva del ritaglio consente di modificare la forma del ritaglio in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506231?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

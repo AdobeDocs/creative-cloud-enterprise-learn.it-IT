@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Non è necessario ricostruire manualmente i modelli per ogni risultato finale. Crea pattern vettoriali uniformi in pochi minuti, non in ore. In questo tutorial, scoprite come utilizzare la funzione Testo in pattern in Illustrator per esplorare le opzioni, aggiungere la grafica del vostro marchio alla ripetizione e ridimensionare il pattern per diverse applicazioni senza modificare il layout. Quindi, crea tre colorway da un design completamente modificabile, pronto per l&#39;imballaggio, i tessuti, gli schermi e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505934?captions=ita&quality=12&learn=on&hidetitle=true)

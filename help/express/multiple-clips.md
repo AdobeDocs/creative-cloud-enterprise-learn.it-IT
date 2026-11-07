@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri come aggiungere nuove clip video alla timeline, regolarne la lunghezza, aggiungere transizioni e dividere le clip per creare nuove scene.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506276?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

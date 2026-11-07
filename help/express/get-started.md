@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Esplora la pagina Home in modo da poter navigare facilmente nell’app. Scopri le azioni rapide, i modelli, i progetti stagionali, i marchi, le librerie, lo scheduler, i tutorial e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506357?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri i vari modi per avviare un progetto video, compreso come utilizzare i modelli di video per social media.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506123?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 

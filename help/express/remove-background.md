@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scoprite come rimuovere lo sfondo dalle immagini con un clic con un&#39;azione rapida. Dopo aver rimosso lo sfondo, l’immagine può essere scaricata e utilizzata per più scopi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506217?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Video aggiuntivi di questa serie
 
