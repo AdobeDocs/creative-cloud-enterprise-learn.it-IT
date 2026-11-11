@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 013ef02968a0b1319d001476d8594099798f55cd
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -49,8 +49,13 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="Spostare la grafica vettoriale in un layout InDesign e crearla un pacchetto per la consegna" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>Spostare la grafica vettoriale in un layout InDesign e crearne un pacchetto per la consegna</strong></a>
+    </div>
+    <em>Scopri come controllare un layout di stampa chiedendo all'Assistente AI in InDesign</em>
     <br>
   </td>
 </tr>
