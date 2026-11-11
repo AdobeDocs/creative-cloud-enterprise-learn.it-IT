@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Quell&#39;intervista sul tetto ventosa è difficile da sentire. Non è necessario tagliarla. Scopri come recuperare l’audio del colloquio registrato nel vento con gli strumenti avanzati dall’intelligenza artificiale nel pannello Audio essenziale di Premiere. Fai scorrere in avanti la voce e riduci il disturbo di sfondo, migliora la traccia vocale, quindi completa il montaggio con la clip che hai.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508148?captions=ita&quality=12&learn=on&hidetitle=true)
