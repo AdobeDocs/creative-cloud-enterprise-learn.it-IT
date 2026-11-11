@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '353'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -39,8 +39,13 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="Da schizzo a vettore pulito e modificabile" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>Da schizzo a vettore pulito e modificabile</strong></a>
+    </div>
+    <em>Scopri come trasformare uno schizzo approssimativo in grafica vettoriale modificabile in Illustrator</em>
     <br>
   </td>
   <td>
