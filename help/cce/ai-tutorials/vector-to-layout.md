@@ -14,4 +14,4 @@ ht-degree: 0%
 
 I file pronti per la stampa sono molto utili per tenere traccia di link, pagine al vivo, font e testo non inserito. Scoprite come controllare in un layout di stampa la presenza di pagina al vivo, testo non inserito e font o collegamenti mancanti e ottenere correzioni, facendo clic sull&#39;Assistente AI in InDesign. Quindi verificare in Verifica preliminare e preparare tutto per la consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508161?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508185?captions=ita&quality=12&learn=on&hidetitle=true)

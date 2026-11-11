@@ -16,4 +16,4 @@ Il tuo team adora la foto, ma ha la forma sbagliata. Scoprite come espandere la 
 
 In questo tutorial scoprite come utilizzare le opzioni Espandi generativo e Riempimento generativo per estendere una scena e visualizzare una persona bloccata, quindi come una maschera di livello ripristina i pixel originali dove servono.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508142?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508167?captions=ita&quality=12&learn=on&hidetitle=true)
