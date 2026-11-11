@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scoprite come far sembrare le foto accese in modo diverso che appartengano alla stessa modifica, utilizzando il Metodo colore in Premiere. Scoprite come bilanciare una ripresa, copiare la gradazione in clip simili e regolare un colore specifico, come il blu di una piscina, in modo che il montaggio risulti uniforme da taglio a taglio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508128?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508157?captions=ita&quality=12&learn=on&hidetitle=true)
