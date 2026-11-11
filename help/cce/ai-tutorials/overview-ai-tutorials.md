@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
+source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '412'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -164,12 +164,18 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <em>Informazioni su come far sembrare le foto accese in modo diverso che appartengano alla stessa modifica</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Novità in Adobe Premiere: separazione tra finestra di dialogo, ambiente e disturbo" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Novità in Adobe Premiere: separazione tra finestra di dialogo, ambiente e rumore</strong></a>
+    </div>
+    <em>Scopri come salvare la finestra di dialogo separando l'audio</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 
