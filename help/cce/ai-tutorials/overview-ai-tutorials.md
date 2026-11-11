@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
+source-git-commit: 013ef02968a0b1319d001476d8594099798f55cd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '443'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -118,8 +118,13 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="Pulisci e adatta un&apos;immagine con strumenti generativi" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>Pulisci e adatta un'immagine con strumenti generativi</strong></a>
+    </div>
+    <em>Scoprite come utilizzare le opzioni Espandi e Riempimento generativo per migliorare le vostre idee</em>
     <br>
   </td>
   <td>
