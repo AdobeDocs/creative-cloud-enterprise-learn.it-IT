@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '383'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -149,14 +149,19 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
       <img alt="Passa più rapidamente al taglio di prova" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>Passate più rapidamente al taglio di prova</strong></a>
+   <a href="rough-cut.md"><strong>Passate più rapidamente al taglio di prova</strong></a>
     </div>
     <em>Scoprite come creare un taglio di prova dalle interviste e far scorrere rapidamente il video in Premiere, senza scorrere ogni clip</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="Corrispondenza del colore tra le immagini: nessuna ruota dei colori richiesta" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>Corrispondenza del colore tra le immagini: nessuna ruota dei colori richiesta</strong></a>
+    </div>
+    <em>Informazioni su come far sembrare le foto accese in modo diverso che appartengano alla stessa modifica</em>
     <br>
   </td>
   <td>
