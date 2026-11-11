@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # Esercitazioni per l&#39;intelligenza artificiale di Creative Cloud for enterprise
@@ -39,13 +39,23 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="Da schizzo a vettore pulito e modificabile" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>Da schizzo a vettore pulito e modificabile</strong></a>
+    </div>
+    <em>Scopri come trasformare uno schizzo approssimativo in grafica vettoriale modificabile in Illustrator</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="Spostare la grafica vettoriale in un layout InDesign e crearla un pacchetto per la consegna" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>Spostare la grafica vettoriale in un layout InDesign e crearne un pacchetto per la consegna</strong></a>
+    </div>
+    <em>Scopri come controllare un layout di stampa chiedendo all'Assistente AI in InDesign</em>
     <br>
   </td>
 </tr>
@@ -113,8 +123,13 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="Pulisci e adatta un&apos;immagine con strumenti generativi" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>Pulisci e adatta un'immagine con strumenti generativi</strong></a>
+    </div>
+    <em>Scoprite come utilizzare le opzioni Espandi e Riempimento generativo per migliorare le vostre idee</em>
     <br>
   </td>
   <td>
@@ -144,22 +159,33 @@ Esplora i tutorial che possono aiutarti a scoprire idee, creare contenuti e semp
       <img alt="Passa più rapidamente al taglio di prova" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>Passate più rapidamente al taglio di prova</strong></a>
+   <a href="rough-cut.md"><strong>Passate più rapidamente al taglio di prova</strong></a>
     </div>
     <em>Scoprite come creare un taglio di prova dalle interviste e far scorrere rapidamente il video in Premiere, senza scorrere ogni clip</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="Corrispondenza del colore tra le immagini: nessuna ruota dei colori richiesta" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>Corrispondenza del colore tra le immagini: nessuna ruota dei colori richiesta</strong></a>
+    </div>
+    <em>Informazioni su come far sembrare le foto accese in modo diverso che appartengano alla stessa modifica</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Novità in Adobe Premiere: separazione tra finestra di dialogo, ambiente e disturbo" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Novità in Adobe Premiere: separazione tra finestra di dialogo, ambiente e rumore</strong></a>
+    </div>
+    <em>Scopri come salvare la finestra di dialogo separando l'audio</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 

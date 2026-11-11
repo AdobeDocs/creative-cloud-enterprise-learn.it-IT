@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -24,12 +24,17 @@ ht-degree: 3%
     + [Panoramica](cce/ai-tutorials/overview-ai-tutorials.md)
     + [Trasforma la grafica vettoriale piatta in qualsiasi angolazione, senza ridisegnarla](cce/ai-tutorials/turn-flat-vector-art.md)
     + [Modelli vettoriali perfetti in pochi minuti, non in ore](cce/ai-tutorials/seamless-vector.md)
+    + [Da schizzo a vettore pulito e modificabile](cce/ai-tutorials/sketch-to-clean.md)
     + [20 indicazioni da un breve, prima di pranzo](cce/ai-tutorials/one-brief.md)
     + [Da breve a storyboard: esplorare le direzioni video prima della produzione](cce/ai-tutorials/brief-to-storyboard.md)
     + [Ritoccate più velocemente e mantenete i pixel originali](cce/ai-tutorials/retouch-faster.md)
     + [Creare predefiniti per uniformare il colore in una ripresa](cce/ai-tutorials/build-presets.md)
+    + [Pulisci e adatta un&#39;immagine con strumenti generativi](cce/ai-tutorials/adapt.md)
+    + [Spostare la grafica vettoriale in un layout InDesign e crearla un pacchetto per la consegna](cce/ai-tutorials/vector-to-layout.md)
     + [Riempire gli spazi vuoti nel taglio: B-roll, audio e clip che terminano troppo presto](cce/ai-tutorials/fill-gaps.md)
     + [Passa più rapidamente al taglio di prova](cce/ai-tutorials/rough-cut.md)
+    + [Corrispondenza del colore tra le immagini: nessuna ruota dei colori richiesta](cce/ai-tutorials/match-color.md)
+    + [Novità in Adobe Premiere: separazione tra finestra di dialogo, ambiente e disturbo](cce/ai-tutorials/pull-noise.md)
   + Esercitazioni {#ccetutorials}
     + [Acrobat per Creatori di contenuti](cce/acrobat-content-creators.md)
     + [Migliorare i flussi di lavoro CC con CC Libraries](cce/cc-workflows-cc-libraries.md)
